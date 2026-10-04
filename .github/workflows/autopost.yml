@@ -1,0 +1,66 @@
+name: autopost
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour at :07 (UTC); posts go out at the first run after publish_at
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (log only, post nothing)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Post what's due
+        env:
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
+          NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
+        run: python -m autopost.runner
+
+      - name: Save rotated tokens
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          FILE: ${{ runner.temp }}/new_secrets.env
+        run: |
+          [ -s "$FILE" ] || exit 0
+          while IFS='=' read -r name value; do
+            echo "::add-mask::$value"
+            gh secret set "$name" --body "$value" --repo "$GITHUB_REPOSITORY"
+            echo "updated $name"
+          done < "$FILE"
+          rm -f "$FILE"
+
+      - name: Commit posting log
+        if: always()
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "autopost-bot@users.noreply.github.com"
+          git add state/posted.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "log: posted $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

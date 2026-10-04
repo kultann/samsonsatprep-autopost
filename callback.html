@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Login complete · Samson SAT Prep</title><style>
+body{margin:0;background:#FAF7F0;color:#111;font:17px/1.6 -apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:48px 20px}
+h1{font-size:30px;line-height:1.2;margin:0 0 8px}h2{font-size:20px;margin:32px 0 8px}
+.tag{display:inline-block;background:#111;color:#FFD93D;font-weight:800;padding:4px 12px;border-radius:8px;font-size:13px;letter-spacing:.04em}
+code{background:#fff;border:2px solid #111;border-radius:8px;padding:10px 14px;display:block;word-break:break-all;font-size:15px}
+a{color:#111}
+</style></head><body><main><span class="tag">TIKTOK LOGIN</span>
+<h1>Copy this code</h1><p>Paste it into the terminal where <b>tools/tiktok_auth.py</b> is waiting.</p>
+<code id="c">No code found in the URL.</code>
+<p id="e" style="color:#c0392b"></p>
+<script>
+const q=new URLSearchParams(location.search);
+if(q.get('code'))document.getElementById('c').textContent=q.get('code');
+if(q.get('error'))document.getElementById('e').textContent='Error: '+q.get('error')+' '+(q.get('error_description')||'');
+</script></main></body></html>
