@@ -1,0 +1,36 @@
+name: check-connections
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Check Instagram, TikTok and image hosting (posts nothing)
+        env:
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+          NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
+        run: python tools/check_connections.py
+      - name: Save rotated TikTok token
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          FILE: ${{ runner.temp }}/new_secrets.env
+        run: |
+          [ -s "$FILE" ] || exit 0
+          while IFS='=' read -r name value; do
+            echo "::add-mask::$value"
+            gh secret set "$name" --body "$value" --repo "$GITHUB_REPOSITORY"
+            echo "updated $name"
+          done < "$FILE"
