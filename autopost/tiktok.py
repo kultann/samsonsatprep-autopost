@@ -85,4 +85,12 @@ def publish_photos(token, image_urls, title, description):
             "photo_images": image_urls[:35],
         },
     }
-    return _call("post/publish/content/init/", token, body).get("publish_id")
+    try:
+        return _call("post/publish/content/init/", token, body).get("publish_id")
+    except TikTokError as e:
+        # Unaudited apps list PUBLIC as an option but reject it; retry privately.
+        if "unaudited" in str(e) and privacy != "SELF_ONLY":
+            print("TikTok: app not audited yet, retrying as SELF_ONLY (private)")
+            body["post_info"]["privacy_level"] = "SELF_ONLY"
+            return _call("post/publish/content/init/", token, body).get("publish_id")
+        raise

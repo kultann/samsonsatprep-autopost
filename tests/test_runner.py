@@ -105,6 +105,20 @@ class RunnerTest(unittest.TestCase):
         self.assertEqual(self.runner.run(now=due), 0)
         self.assertEqual(len(self.fake.calls), n)
 
+    def test_tiktok_unaudited_falls_back_to_private(self):
+        import autopost.tiktok as tt
+        calls = []
+        def fake_call(path, token, body):
+            calls.append(body.get("post_info", {}).get("privacy_level"))
+            if "creator_info" in path:
+                return {"privacy_level_options": ["PUBLIC_TO_EVERYONE", "SELF_ONLY"]}
+            if body["post_info"]["privacy_level"] != "SELF_ONLY":
+                raise tt.TikTokError("init failed: unaudited_client_can_only_post_to_private_accounts")
+            return {"publish_id": "P"}
+        with mock.patch.object(tt, "_call", fake_call):
+            self.assertEqual(tt.publish_photos("t", ["u"], "x", "y"), "P")
+        self.assertEqual(calls[1:], ["PUBLIC_TO_EVERYONE", "SELF_ONLY"])
+
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)
 
