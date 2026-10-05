@@ -112,6 +112,11 @@ def validate_short(p, already_posted=False):
             errs.append(f"{video}: file not found")
     elif path.stat().st_size > MAX_VIDEO_MB * 1024 * 1024:
         errs.append(f"{video}: over {MAX_VIDEO_MB} MB")
+    vy = p.get("video_youtube")
+    if vy and not vy.lower().endswith(".mp4"):
+        errs.append(f"{vy}: needs to be an MP4")
+    elif vy and not p.get("_media") and not already_posted and not (p["_dir"] / vy).exists():
+        errs.append(f"{vy}: file not found")
     cover = p.get("cover")
     if cover and not cover.lower().endswith((".jpg", ".jpeg")):
         errs.append(f"{cover}: cover must be JPEG")
@@ -139,13 +144,14 @@ def public_url(p, name):
 
 
 @contextlib.contextmanager
-def local_video(p):
+def local_video(p, name=None):
     """Path to the short's MP4: the repo copy, or a temp download from the media repo."""
-    path = p["_dir"] / p["video"]
+    name = name or p["video"]
+    path = p["_dir"] / name
     if path.exists() or config.DRY_RUN:
         yield str(path)
         return
-    url = public_url(p, p["video"])
+    url = public_url(p, name)
     r = requests.get(url, timeout=300)
     if r.status_code != 200:
         raise RuntimeError(f"couldn't download {url} ({r.status_code})")
@@ -256,7 +262,8 @@ def post_one(p, platform, tok):
                                      p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p))
     if platform == "youtube" and short:
         title, desc, keywords = yt_fields(p)
-        with local_video(p) as path:
+        # trending-audio shorts send the clean mix to TikTok drafts; YouTube gets the full mix
+        with local_video(p, p.get("video_youtube")) as path:
             return youtube.upload_short(tok.youtube(), path, title, desc, keywords,
                                         synthetic=p.get("youtube", {}).get("synthetic_media", False))
     raise ValueError(f"unknown platform {platform}")

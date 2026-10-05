@@ -164,6 +164,17 @@ class ShortsTest(unittest.TestCase):
         p = dict(SHORT, _dir=self.dir, platforms=["instagram", "snapchat"])
         self.assertTrue(any("unknown platform" in e for e in self.runner.validate(p)))
 
+    def test_tiktok_draft_for_trending_audio(self):
+        """Manual trending-audio shorts: TikTok gets a draft (clean mix), YouTube the full mix."""
+        fake = Fake(); self.patch(fake)
+        (self.dir / "video_final.mp4").write_bytes(b"\x00" * 2000)
+        post = dict(SHORT, platforms=["tiktok", "youtube"], tiktok_mode="draft", video_youtube="video_final.mp4")
+        (self.dir / "post.json").write_text(json.dumps(post))
+        self.assertEqual(self.runner.run(now=self.due), 0)
+        self.assertTrue(any("inbox/video/init" in c[1] for c in fake.calls if c[0] == "POST"))
+        yt = [c for c in fake.calls if "upload/youtube" in c[1]][0]
+        self.assertEqual(yt[3]["X-Upload-Content-Length"], "2000")
+
     def test_chunk_plan(self):
         import autopost.tiktok as tt
         MB = 1024 * 1024
