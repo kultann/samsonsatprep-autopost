@@ -45,15 +45,35 @@ class FakeAPIs:
         return FakeResp({"status_code": "FINISHED"})
 
 
+POST = {
+    "id": "2026-10-12_q01", "publish_at": "2026-10-12T16:00:00-05:00", "type": "carousel",
+    "slides": [f"slide{i}.jpg" for i in range(1, 5)],
+    "slides_tiktok": [f"tslide{i}.jpg" for i in range(1, 5)],
+    "platforms": ["instagram", "tiktok"], "caption": "Test caption", "tiktok_title": "Test",
+    "hashtags_instagram": ["#SAT", "#SATmath", "#SATprep", "#digitalSAT", "#studytips"],
+    "hashtags_tiktok": ["#SAT"],
+}
+
+
+def make_fixture(root):
+    d = Path(root) / "posts" / POST["id"]
+    d.mkdir(parents=True)
+    (d / "post.json").write_text(json.dumps(POST))
+    for f in POST["slides"] + POST["slides_tiktok"]:
+        (d / f).write_bytes(b"\xff\xd8\xff\xd9")  # tiny JPEG marker, content isn't read
+
+
 class RunnerTest(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.mkdtemp()
-        self.repo = Path(__file__).resolve().parents[1]
+        make_fixture(self.tmp)
+        self.cwd = os.getcwd()
+        os.chdir(self.tmp)  # public URLs use the post folder's path relative to the repo root
         env = {
             "PUBLIC_BASE_URL": "https://example.github.io/samsonsatprep-autopost",
             "IG_USER_ID": "123", "IG_ACCESS_TOKEN": "IGTOKEN",
             "TIKTOK_CLIENT_KEY": "k", "TIKTOK_CLIENT_SECRET": "s", "TIKTOK_REFRESH_TOKEN": "TT_REFRESH_OLD",
-            "POSTS_DIR": str(self.repo / "posts"),
+            "POSTS_DIR": "posts",
             "STATE_FILE": os.path.join(self.tmp, "posted.json"),
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"),
             "DRY_RUN": "0",
@@ -71,6 +91,7 @@ class RunnerTest(unittest.TestCase):
 
     def tearDown(self):
         self.p1.stop(); self.p2.stop(); self.env.stop()
+        os.chdir(self.cwd)
 
     def test_not_due_before_publish_time(self):
         early = datetime(2026, 10, 12, 20, 0, tzinfo=timezone.utc)  # 3pm CT, post is 4pm CT
@@ -98,6 +119,7 @@ class RunnerTest(unittest.TestCase):
         self.assertEqual(init["post_info"]["privacy_level"], "SELF_ONLY")
         self.assertTrue(init["post_info"]["auto_add_music"])
         self.assertEqual(len(init["source_info"]["photo_images"]), 4)
+        self.assertTrue(all("/posts/2026-10-12_q01/tslide" in u for u in init["source_info"]["photo_images"]))
         self.assertIn("TIKTOK_REFRESH_TOKEN=TT_REFRESH_NEW", Path(os.environ["NEW_SECRETS_FILE"]).read_text())
 
         # second run: nothing new

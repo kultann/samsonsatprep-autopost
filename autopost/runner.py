@@ -42,7 +42,7 @@ def validate(p):
     except ValueError:
         errs.append("publish_at must be ISO 8601 with offset, e.g. 2026-10-06T16:00:00-05:00")
     if p["type"] in AUTO_TYPES:
-        for s in p["slides"]:
+        for s in p["slides"] + p.get("slides_tiktok", []):
             if not s.lower().endswith((".jpg", ".jpeg")):
                 errs.append(f"{s}: Instagram needs JPEG")
             if not (p["_dir"] / s).exists():
@@ -54,9 +54,11 @@ def validate(p):
     return errs
 
 
-def public_urls(p):
+def public_urls(p, key="slides"):
+    """Instagram uses 4:5 `slides`; TikTok uses 9:16 `slides_tiktok` when present."""
     rel = p["_dir"].as_posix()
-    return [f"{config.PUBLIC_BASE_URL}/{rel}/{s}" for s in p["slides"]]
+    files = p.get(key) or p["slides"]
+    return [f"{config.PUBLIC_BASE_URL}/{rel}/{s}" for s in files]
 
 
 def ig_caption(p):
@@ -112,18 +114,17 @@ def run(now=None):
     tt_token = None
     failures = 0
     for p, pending in due:
-        urls = public_urls(p)
         for platform in pending:
             try:
                 if platform == "instagram":
-                    media_id = instagram.publish(urls, ig_caption(p))
+                    media_id = instagram.publish(public_urls(p), ig_caption(p))
                 elif platform == "tiktok":
                     if tt_token is None and not config.DRY_RUN:
                         tt_token, new_refresh = tiktok.refresh_access_token()
                         if new_refresh != config.TIKTOK_REFRESH_TOKEN:
                             write_new_secret("TIKTOK_REFRESH_TOKEN", new_refresh)
                     media_id = tiktok.publish_photos(
-                        tt_token, urls, p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p)
+                        tt_token, public_urls(p, "slides_tiktok"), p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p)
                     )
                 else:
                     print(f"{p['id']}: unknown platform {platform}")
