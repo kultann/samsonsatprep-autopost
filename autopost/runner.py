@@ -259,7 +259,8 @@ def post_one(p, platform, tok):
                                             cover_ms=p.get("cover_time_ms"), ai_label=p.get("ai_label", True),
                                             mode=p.get("tiktok_mode", "direct"))
         return tiktok.publish_photos(tok.tiktok(), public_urls(p, "slides_tiktok"),
-                                     p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p))
+                                     p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p),
+                                     mode=p.get("tiktok_mode", config.TIKTOK_PHOTO_MODE))
     if platform == "youtube" and short:
         title, desc, keywords = yt_fields(p)
         # trending-audio shorts send the clean mix to TikTok drafts; YouTube gets the full mix

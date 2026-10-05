@@ -114,10 +114,11 @@ class RunnerTest(unittest.TestCase):
         self.assertIn("#SATmath", carousel["caption"])
         self.assertTrue(ig_posts[0][2]["image_url"].endswith("/posts/2026-10-12_q01/slide1.jpg"))
 
-        # TikTok: private until audited, music auto-added, rotated refresh token handed back
+        # TikTok: photos go to the inbox as drafts (sound + privacy picked in-app), rotated refresh token handed back
         init = [c for c in self.fake.calls if "content/init" in c[1]][0][2]
-        self.assertEqual(init["post_info"]["privacy_level"], "SELF_ONLY")
-        self.assertTrue(init["post_info"]["auto_add_music"])
+        self.assertEqual(init["post_mode"], "MEDIA_UPLOAD")
+        self.assertNotIn("privacy_level", init["post_info"])
+        self.assertEqual(init["post_info"]["description"], "Test caption\n\n#SAT")
         self.assertEqual(len(init["source_info"]["photo_images"]), 4)
         self.assertTrue(all("/posts/2026-10-12_q01/tslide" in u for u in init["source_info"]["photo_images"]))
         self.assertIn("TIKTOK_REFRESH_TOKEN=TT_REFRESH_NEW", Path(os.environ["NEW_SECRETS_FILE"]).read_text())
@@ -140,6 +141,25 @@ class RunnerTest(unittest.TestCase):
         with mock.patch.object(tt, "_call", fake_call):
             self.assertEqual(tt.publish_photos("t", ["u"], "x", "y"), "P")
         self.assertEqual(calls[1:], ["PUBLIC_TO_EVERYONE", "SELF_ONLY"])
+
+    def test_tiktok_photo_draft_uses_media_upload(self):
+        import autopost.tiktok as tt
+        bodies = []
+        def fake_call(path, token, body):
+            bodies.append((path, body))
+            return {"publish_id": "D"}
+        with mock.patch.object(tt, "_call", fake_call):
+            self.assertEqual(tt.publish_photos("t", ["u1", "u2"], "title", "desc", mode="draft"), "D")
+        self.assertEqual(len(bodies), 1)  # no creator_info query for drafts
+        path, body = bodies[0]
+        self.assertEqual(path, "post/publish/content/init/")
+        self.assertEqual(body["post_mode"], "MEDIA_UPLOAD")
+        self.assertEqual(body["post_info"], {"title": "title", "description": "desc"})
+        self.assertEqual(body["source_info"]["photo_images"], ["u1", "u2"])
+
+    def test_runner_sends_photos_as_drafts_by_default(self):
+        import autopost.config as cfg
+        self.assertEqual(cfg.TIKTOK_PHOTO_MODE, "draft")
 
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)

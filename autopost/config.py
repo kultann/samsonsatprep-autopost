@@ -36,6 +36,10 @@ MEDIA_BASE_URL = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
 # Actions was down, overdue shorts drip out one per hourly run instead of all at once. 0 = no limit.
 MAX_SHORTS_PER_RUN = int(os.environ.get("MAX_SHORTS_PER_RUN", "") or 1)
 
+# TikTok photo carousels: "draft" (default) sends each one to the TikTok inbox so a sound can be
+# added before posting; "direct" posts straight to the profile. A post's "tiktok_mode" overrides it.
+TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "draft"
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")

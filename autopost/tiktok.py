@@ -9,6 +9,10 @@ Notes
 - Videos: mode "direct" posts straight to the profile (video.publish);
   mode "draft" drops it in the TikTok inbox to finish in-app (video.upload),
   e.g. to add a trending sound yourself.
+- Photos: same two modes. "draft" = post_mode MEDIA_UPLOAD: the carousel and its caption land in
+  the TikTok app inbox; you add a saved sound, pick privacy and post (Samson, 2026-10-05).
+  TikTok allows only a few pending (unposted) inbox uploads per 24h (reportedly 5); extra
+  uploads fail and the runner retries them on later runs.
 - Access tokens last ~24h, so every run refreshes using the refresh token.
   TikTok can rotate the refresh token; the runner saves the new one.
 """
@@ -63,11 +67,21 @@ def _pick_privacy(options):
     return "SELF_ONLY" if "SELF_ONLY" in options else options[0]
 
 
-def publish_photos(token, image_urls, title, description):
-    """Direct-post a photo carousel. Returns the publish_id."""
+def publish_photos(token, image_urls, title, description, mode="direct"):
+    """Post a photo carousel (direct to profile, or to the inbox as a draft). Returns the publish_id."""
     if config.DRY_RUN:
-        print(f"[dry-run] TikTok would publish {len(image_urls)} photo(s)")
+        print(f"[dry-run] TikTok would {'draft' if mode == 'draft' else 'publish'} {len(image_urls)} photo(s)")
         return "dry-run"
+
+    source_info = {"source": "PULL_FROM_URL", "photo_cover_index": 0, "photo_images": image_urls[:35]}
+    if mode == "draft":
+        body = {
+            "media_type": "PHOTO",
+            "post_mode": "MEDIA_UPLOAD",
+            "post_info": {"title": title[:90], "description": description[:4000]},
+            "source_info": source_info,
+        }
+        return _call("post/publish/content/init/", token, body).get("publish_id")
 
     info = _call("post/publish/creator_info/query/", token, {})
     privacy = _pick_privacy(info.get("privacy_level_options", ["SELF_ONLY"]))
