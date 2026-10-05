@@ -175,6 +175,23 @@ class ShortsTest(unittest.TestCase):
         yt = [c for c in fake.calls if "upload/youtube" in c[1]][0]
         self.assertEqual(yt[3]["X-Upload-Content-Length"], "2000")
 
+    def test_overdue_shorts_drip_one_per_run(self):
+        """A late batch (or a GitHub outage) posts the oldest short first, one per run."""
+        fake = Fake(); self.patch(fake)
+        older = dict(SHORT, id="2026-10-13_0800_older", publish_at="2026-10-13T08:00:00-05:00")
+        d = Path(self.tmp) / "posts" / older["id"]
+        d.mkdir(parents=True)
+        (d / "post.json").write_text(json.dumps(older))
+        (d / "video.mp4").write_bytes(VIDEO_BYTES)
+        (d / "cover.jpg").write_bytes(b"\xff\xd8\xff\xd9")
+        self.assertEqual(self.runner.run(now=self.due), 0)
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+        self.assertEqual(set(state), {older["id"]})
+        self.assertEqual(len(state[older["id"]]), 3)
+        self.runner.run(now=self.due + timedelta(hours=1))
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+        self.assertEqual(set(state), {older["id"], SHORT["id"]})
+
     def test_chunk_plan(self):
         import autopost.tiktok as tt
         MB = 1024 * 1024

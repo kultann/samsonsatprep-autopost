@@ -159,3 +159,4 @@ Each week: Claude Code renders the next week of shorts into `samsonsatprep-media
   `"tiktok_mode": "draft"` sends it to your TikTok inbox instead, so you can add a trending sound and post it yourself.
 - The 1000-short plan uses the media repo (§6b) instead of `posts/`; shorts placed directly in `posts/` still work for one-offs.
 - Short videos are deleted from the repo 48 hours after they're live everywhere (`PRUNE_VIDEOS_AFTER_HOURS`, a repo variable; `0` keeps them). That keeps GitHub Pages under its 1 GB limit; the posting log keeps the record. Keep your own copy of each MP4 outside the repo.
+- At most 1 short posts per hourly run, oldest first (`MAX_SHORTS_PER_RUN`, a repo variable; `0` = no limit). If a batch is rendered late or GitHub Actions was down, the overdue shorts go out one an hour instead of all at once. Feed posts aren't capped.

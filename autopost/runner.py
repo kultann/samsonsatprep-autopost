@@ -308,13 +308,20 @@ def run(now=None):
     failures = 0
     if not due:
         print("Nothing due.")
+    due.sort(key=lambda x: datetime.fromisoformat(x[0]["publish_at"]))  # oldest first
+    cap, shorts_posted = config.MAX_SHORTS_PER_RUN, 0
     tok = Tokens()
     for p, pending in due:
+        if p["type"] == "short" and cap and shorts_posted >= cap:
+            print(f"LATER {p['id']}: max {cap} short(s) per run, posts on a later run")
+            continue
+        posted_any = False
         for platform in pending:
             try:
                 media_id = post_one(p, platform, tok)
                 if media_id is None:
                     continue
+                posted_any = True
                 state.setdefault(p["id"], {})[platform] = {
                     "id": media_id,
                     "at": max(now, datetime.now(timezone.utc)).isoformat(timespec="seconds"),
@@ -323,6 +330,8 @@ def run(now=None):
             except Exception as e:  # keep going with the other posts
                 failures += 1
                 print(f"FAILED {p['id']} -> {platform}: {e}")
+        if p["type"] == "short" and posted_any:
+            shorts_posted += 1
         if not config.DRY_RUN:
             save_state(state)
     prune_videos(posts, state, now)

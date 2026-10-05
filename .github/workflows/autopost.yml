@@ -43,6 +43,7 @@ jobs:
           YT_PRIVACY: ${{ vars.YT_PRIVACY }}
           PRUNE_VIDEOS_AFTER_HOURS: ${{ vars.PRUNE_VIDEOS_AFTER_HOURS }}
           MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+          MAX_SHORTS_PER_RUN: ${{ vars.MAX_SHORTS_PER_RUN }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
           NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
         run: python -m autopost.runner

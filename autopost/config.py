@@ -32,6 +32,10 @@ PRUNE_VIDEOS_AFTER_HOURS = float(os.environ.get("PRUNE_VIDEOS_AFTER_HOURS", "") 
 # scheduled short's post.json) and downloads a video only when it's time to post it.
 MEDIA_BASE_URL = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
 
+# Post at most this many shorts per run (oldest first). If a batch is rendered late or GitHub
+# Actions was down, overdue shorts drip out one per hourly run instead of all at once. 0 = no limit.
+MAX_SHORTS_PER_RUN = int(os.environ.get("MAX_SHORTS_PER_RUN", "") or 1)
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")
