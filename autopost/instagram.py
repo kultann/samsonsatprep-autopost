@@ -1,4 +1,4 @@
-"""Publish single images and carousels to Instagram.
+"""Publish single images, carousels and Reels to Instagram.
 
 Flow (Instagram API with Instagram Login):
   1. Create a media container for each image (carousel items get is_carousel_item=true)
@@ -6,7 +6,9 @@ Flow (Instagram API with Instagram Login):
   3. Wait until the container status is FINISHED
   4. Publish it with /media_publish
 
-Images must be JPEGs at a public HTTPS URL.
+Images must be JPEGs at a public HTTPS URL. Reels need the MP4 at a public HTTPS
+URL too (Instagram Login apps can't use resumable upload), so shorts are served
+from GitHub Pages like the slides.
 """
 import time
 import requests
@@ -74,6 +76,26 @@ def publish(image_urls, caption):
 
     _wait_ready(container)
     return _post(f"{uid}/media_publish", creation_id=container)["id"]
+
+
+def publish_reel(video_url, caption, cover_url=None, thumb_offset_ms=None, share_to_feed=True):
+    """Publish a Reel from a public MP4 URL. Returns the new media id."""
+    if config.DRY_RUN:
+        print(f"[dry-run] IG would publish reel {video_url}")
+        return "dry-run"
+    params = {
+        "media_type": "REELS",
+        "video_url": video_url,
+        "caption": caption,
+        "share_to_feed": "true" if share_to_feed else "false",
+    }
+    if cover_url:
+        params["cover_url"] = cover_url
+    elif thumb_offset_ms is not None:
+        params["thumb_offset"] = str(int(thumb_offset_ms))
+    container = _post(f"{config.IG_USER_ID}/media", **params)["id"]
+    _wait_ready(container, tries=60, delay=10)  # video processing can take a few minutes
+    return _post(f"{config.IG_USER_ID}/media_publish", creation_id=container)["id"]
 
 
 def refresh_token():

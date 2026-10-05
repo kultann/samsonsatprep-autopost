@@ -17,6 +17,16 @@ TIKTOK_CLIENT_SECRET = os.environ.get("TIKTOK_CLIENT_SECRET", "")
 TIKTOK_REFRESH_TOKEN = os.environ.get("TIKTOK_REFRESH_TOKEN", "")
 TIKTOK_API = "https://open.tiktokapis.com/v2"
 
+# YouTube (Data API v3). Refresh token from tools/youtube_auth.py
+YT_CLIENT_ID = os.environ.get("YT_CLIENT_ID", "")
+YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "")
+YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "")
+YT_PRIVACY = os.environ.get("YT_PRIVACY", "") or "public"
+
+# Shorts: delete a short's video file this many hours after every platform has it,
+# so GitHub Pages stays under its 1 GB limit. 0 = keep forever.
+PRUNE_VIDEOS_AFTER_HOURS = float(os.environ.get("PRUNE_VIDEOS_AFTER_HOURS", "") or 48)
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")
