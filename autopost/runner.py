@@ -1,24 +1,30 @@
 """Post everything that's due.
 
-Each post lives in posts/<id>/ with a post.json and its slide images.
+Each post lives in posts/<id>/ with a post.json and its media.
+- carousel / image: JPEG slides -> Instagram + TikTok (photo mode)
+- short: one vertical MP4 -> Instagram Reels, TikTok video, YouTube Shorts
 A post is due when publish_at <= now and it isn't recorded in state/posted.json
 for that platform yet. Run this on a schedule (GitHub Actions does it hourly).
 
 Usage:
-  python -m autopost.runner            # post what's due
+  python -m autopost.runner            # post what's due (+ prune old short videos)
   python -m autopost.runner --check    # validate every post.json, post nothing
 """
 import argparse
 import json
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import config, instagram, tiktok
+import requests
+
+from . import config, instagram, tiktok, youtube
 
 IG_MAX_HASHTAGS = 5
-AUTO_TYPES = {"carousel", "image"}  # reels/stories are posted by hand (trending audio)
+AUTO_TYPES = {"carousel", "image", "short"}  # reels/stories stay manual (trending audio)
+SHORT_PLATFORMS = {"instagram", "tiktok", "youtube"}
+MAX_VIDEO_MB = 250
 
 
 def load_posts():
@@ -30,9 +36,18 @@ def load_posts():
     return posts
 
 
-def validate(p):
+def fully_posted(p, state):
+    done = state.get(p.get("id"), {})
+    return bool(p.get("platforms")) and all(pl in done for pl in p["platforms"])
+
+
+def validate(p, state=None):
+    state = state or {}
     errs = []
-    for key in ("id", "publish_at", "type", "slides", "platforms", "caption"):
+    need = ["id", "publish_at", "type", "platforms", "caption"]
+    if p.get("type") != "short":
+        need.append("slides")
+    for key in need:
         if key not in p:
             errs.append(f"missing '{key}'")
     if errs:
@@ -41,7 +56,7 @@ def validate(p):
         datetime.fromisoformat(p["publish_at"])
     except ValueError:
         errs.append("publish_at must be ISO 8601 with offset, e.g. 2026-10-06T16:00:00-05:00")
-    if p["type"] in AUTO_TYPES:
+    if p["type"] in ("carousel", "image"):
         for s in p["slides"] + p.get("slides_tiktok", []):
             if not s.lower().endswith((".jpg", ".jpeg")):
                 errs.append(f"{s}: Instagram needs JPEG")
@@ -49,16 +64,56 @@ def validate(p):
                 errs.append(f"{s}: file not found")
         if p["type"] == "carousel" and not 2 <= len(p["slides"]) <= 20:
             errs.append("carousel needs 2-20 slides")
+        if "youtube" in p["platforms"]:
+            errs.append("youtube only takes shorts")
+    if p["type"] == "short":
+        errs += validate_short(p, fully_posted(p, state))
     if len(p.get("hashtags_instagram", [])) > IG_MAX_HASHTAGS:
         errs.append(f"Instagram allows max {IG_MAX_HASHTAGS} hashtags")
     return errs
 
 
+def validate_short(p, already_posted=False):
+    errs = []
+    video = p.get("video")
+    if not video:
+        return ["missing 'video'"]
+    if not video.lower().endswith(".mp4"):
+        errs.append(f"{video}: needs to be an MP4")
+    path = p["_dir"] / video
+    if not path.exists():
+        if not already_posted:  # posted shorts get their video pruned; that's fine
+            errs.append(f"{video}: file not found")
+    elif path.stat().st_size > MAX_VIDEO_MB * 1024 * 1024:
+        errs.append(f"{video}: over {MAX_VIDEO_MB} MB")
+    cover = p.get("cover")
+    if cover and not cover.lower().endswith((".jpg", ".jpeg")):
+        errs.append(f"{cover}: cover must be JPEG")
+    if cover and not (p["_dir"] / cover).exists():
+        errs.append(f"{cover}: file not found")
+    bad = set(p["platforms"]) - SHORT_PLATFORMS
+    if bad:
+        errs.append(f"unknown platform(s) {sorted(bad)}")
+    if "youtube" in p["platforms"]:
+        yt = p.get("youtube") or {}
+        title = yt.get("title", "")
+        if not title:
+            errs.append("youtube.title missing")
+        elif len(title) > 100 or "<" in title or ">" in title:
+            errs.append("youtube.title must be <=100 chars with no < or >")
+    if p.get("tiktok_mode", "direct") not in ("direct", "draft"):
+        errs.append("tiktok_mode must be 'direct' or 'draft'")
+    return errs
+
+
+def public_url(p, name):
+    return f"{config.PUBLIC_BASE_URL}/{p['_dir'].as_posix()}/{name}"
+
+
 def public_urls(p, key="slides"):
     """Instagram uses 4:5 `slides`; TikTok uses 9:16 `slides_tiktok` when present."""
-    rel = p["_dir"].as_posix()
     files = p.get(key) or p["slides"]
-    return [f"{config.PUBLIC_BASE_URL}/{rel}/{s}" for s in files]
+    return [public_url(p, s) for s in files]
 
 
 def ig_caption(p):
@@ -68,7 +123,26 @@ def ig_caption(p):
 
 def tt_description(p):
     tags = " ".join(p.get("hashtags_tiktok", []))
-    return f"{p['caption']}\n\n{tags}".strip()
+    body = p.get("tiktok_caption") or p["caption"]
+    return f"{body}\n\n{tags}".strip()
+
+
+def yt_fields(p):
+    yt = p.get("youtube") or {}
+    tags = yt.get("hashtags", [])
+    desc = f"{yt.get('description', '')}\n\n{' '.join(tags)}".strip()
+    keywords = yt.get("tags") or [t.lstrip("#") for t in tags]
+    return yt["title"], desc, keywords
+
+
+def url_live(url):
+    """Pages can lag a few minutes behind a push; Instagram fetches the video by URL."""
+    if config.DRY_RUN:
+        return True
+    try:
+        return requests.head(url, allow_redirects=True, timeout=30).status_code == 200
+    except requests.RequestException:
+        return False
 
 
 def load_state():
@@ -90,13 +164,80 @@ def write_new_secret(name, value):
             fh.write(f"{name}={value}\n")
 
 
+class Tokens:
+    """Fetch each platform's access token once per run."""
+
+    def __init__(self):
+        self.tt = None
+        self.yt = None
+
+    def tiktok(self):
+        if self.tt is None and not config.DRY_RUN:
+            self.tt, new_refresh = tiktok.refresh_access_token()
+            if new_refresh != config.TIKTOK_REFRESH_TOKEN:
+                write_new_secret("TIKTOK_REFRESH_TOKEN", new_refresh)
+        return self.tt
+
+    def youtube(self):
+        if self.yt is None and not config.DRY_RUN:
+            self.yt = youtube.access_token()
+        return self.yt
+
+
+def post_one(p, platform, tok):
+    """Publish p to one platform. Returns the media id, or None to retry next run."""
+    short = p["type"] == "short"
+    if platform == "instagram":
+        if short:
+            url = public_url(p, p["video"])
+            if not url_live(url):
+                print(f"WAIT {p['id']} -> instagram: video not on GitHub Pages yet ({url})")
+                return None
+            cover = public_url(p, p["cover"]) if p.get("cover") else None
+            return instagram.publish_reel(url, ig_caption(p), cover_url=cover,
+                                          thumb_offset_ms=p.get("cover_time_ms"),
+                                          share_to_feed=p.get("share_to_feed", True))
+        return instagram.publish(public_urls(p), ig_caption(p))
+    if platform == "tiktok":
+        if short:
+            return tiktok.publish_video(tok.tiktok(), str(p["_dir"] / p["video"]), tt_description(p),
+                                        cover_ms=p.get("cover_time_ms"), ai_label=p.get("ai_label", True),
+                                        mode=p.get("tiktok_mode", "direct"))
+        return tiktok.publish_photos(tok.tiktok(), public_urls(p, "slides_tiktok"),
+                                     p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p))
+    if platform == "youtube" and short:
+        title, desc, keywords = yt_fields(p)
+        return youtube.upload_short(tok.youtube(), str(p["_dir"] / p["video"]), title, desc, keywords,
+                                    synthetic=p.get("youtube", {}).get("synthetic_media", False))
+    raise ValueError(f"unknown platform {platform}")
+
+
+def prune_videos(posts, state, now):
+    """Delete a short's MP4 once every platform has had it for PRUNE_VIDEOS_AFTER_HOURS."""
+    if config.PRUNE_VIDEOS_AFTER_HOURS <= 0 or config.DRY_RUN:
+        return []
+    removed = []
+    for p in posts:
+        if p.get("type") != "short" or not p.get("video") or not fully_posted(p, state):
+            continue
+        path = p["_dir"] / p["video"]
+        if not path.exists():
+            continue
+        last = max(datetime.fromisoformat(v["at"]) for v in state[p["id"]].values())
+        if now - last >= timedelta(hours=config.PRUNE_VIDEOS_AFTER_HOURS):
+            path.unlink()
+            removed.append(str(path))
+            print(f"PRUNED {path} (posted everywhere)")
+    return removed
+
+
 def run(now=None):
     now = now or datetime.now(timezone.utc)
     state = load_state()
     posts = load_posts()
     due = []
     for p in posts:
-        errs = validate(p)
+        errs = validate(p, state)
         if errs:
             print(f"SKIP {p.get('id', p['_dir'])}: " + "; ".join(errs))
             continue
@@ -107,31 +248,19 @@ def run(now=None):
             if pending:
                 due.append((p, pending))
 
+    failures = 0
     if not due:
         print("Nothing due.")
-        return 0
-
-    tt_token = None
-    failures = 0
+    tok = Tokens()
     for p, pending in due:
         for platform in pending:
             try:
-                if platform == "instagram":
-                    media_id = instagram.publish(public_urls(p), ig_caption(p))
-                elif platform == "tiktok":
-                    if tt_token is None and not config.DRY_RUN:
-                        tt_token, new_refresh = tiktok.refresh_access_token()
-                        if new_refresh != config.TIKTOK_REFRESH_TOKEN:
-                            write_new_secret("TIKTOK_REFRESH_TOKEN", new_refresh)
-                    media_id = tiktok.publish_photos(
-                        tt_token, public_urls(p, "slides_tiktok"), p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p)
-                    )
-                else:
-                    print(f"{p['id']}: unknown platform {platform}")
+                media_id = post_one(p, platform, tok)
+                if media_id is None:
                     continue
                 state.setdefault(p["id"], {})[platform] = {
                     "id": media_id,
-                    "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                    "at": max(now, datetime.now(timezone.utc)).isoformat(timespec="seconds"),
                 }
                 print(f"POSTED {p['id']} -> {platform} ({media_id})")
             except Exception as e:  # keep going with the other posts
@@ -139,13 +268,15 @@ def run(now=None):
                 print(f"FAILED {p['id']} -> {platform}: {e}")
         if not config.DRY_RUN:
             save_state(state)
+    prune_videos(posts, state, now)
     return 1 if failures else 0
 
 
 def check():
     bad = 0
+    state = load_state()
     for p in load_posts():
-        errs = validate(p)
+        errs = validate(p, state)
         status = "OK " if not errs else "BAD"
         bad += bool(errs)
         print(f"{status} {p.get('id', p['_dir'])} {p.get('publish_at', '')} {p.get('type', '')}"

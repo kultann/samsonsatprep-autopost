@@ -37,6 +37,11 @@ jobs:
           TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY }}
+          PRUNE_VIDEOS_AFTER_HOURS: ${{ vars.PRUNE_VIDEOS_AFTER_HOURS }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
           NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
         run: python -m autopost.runner
@@ -61,6 +66,7 @@ jobs:
           git config user.name "autopost-bot"
           git config user.email "autopost-bot@users.noreply.github.com"
           git add state/posted.json 2>/dev/null || exit 0
+          git add -A posts   # short videos pruned after they're posted everywhere
           git diff --cached --quiet && exit 0
           git commit -m "log: posted $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

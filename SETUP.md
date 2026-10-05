@@ -1,6 +1,6 @@
 # Setup: auto-posting for @samsonsatprep
 
-What this does: every hour, a free GitHub Actions job checks `posts/` and publishes any carousel or image whose `publish_at` time has passed to Instagram and TikTok. Reels and stories are skipped so you can post them by hand with trending audio.
+What this does: every hour, a free GitHub Actions job checks `posts/` and publishes anything whose `publish_at` time has passed: carousels and images to Instagram and TikTok, and short videos (`"type": "short"`) to Instagram Reels, TikTok and YouTube Shorts. Posts marked `reel` or `story` are skipped so you can post them by hand with trending audio.
 
 About 45–60 minutes, one time. Do the steps in order.
 
@@ -80,7 +80,31 @@ The app can stay in **development mode**. It only posts to your own account, whi
 
 **Public posting:** until TikTok reviews and audits the app, every auto-post is **private** (only you can see it). When you're ready, submit the app for review from the developer portal, then apply for the Content Posting API audit. They ask for a short screen recording of how the app works. After approval, the bot switches to public automatically, with no code changes.
 
-## 5. Test it (5 min)
+## 5. Shorts on Instagram + TikTok (nothing to set up)
+
+Shorts use the same Instagram and TikTok logins as your carousels. Instagram pulls the MP4 from GitHub Pages; TikTok gets the file uploaded directly. TikTok shorts carry the "AI-generated" label by default (`"ai_label": true`) because the narration is TTS; set it to `false` if you ever use your own voice.
+
+## 6. Shorts on YouTube (15 min, optional)
+
+> Google Cloud may require you to be 18. If it blocks you, a parent can create the project and the OAuth client; you still log in as the channel in step 6.
+
+1. Go to **console.cloud.google.com** → create a project (e.g. `samsonsatprep-publisher`).
+2. **APIs & Services → Library** → enable **YouTube Data API v3**.
+3. **OAuth consent screen** → User type **External** → app name, support email, your contact email → add scopes
+   `youtube.upload` and `youtube.readonly` → add your Google account as a test user → save.
+4. On the consent screen page click **Publish app** (status **In production**). Don't skip this: in *Testing* mode Google expires the login every 7 days. You don't need Google's verification for a personal tool; you'll just see an "unverified app" warning when you log in.
+5. **Credentials → Create credentials → OAuth client ID → Desktop app**. Copy the client ID and secret → repo secrets `YT_CLIENT_ID` and `YT_CLIENT_SECRET`.
+6. On your Mac:
+   ```bash
+   export YT_CLIENT_ID=...  YT_CLIENT_SECRET=...
+   python3 tools/youtube_auth.py
+   ```
+   Log in with the Google account that owns the channel, pick the @samsonsatprep channel, approve (Advanced → Go to app). Save the printed value as the repo secret `YT_REFRESH_TOKEN`.
+7. Run **check-connections**. It should show `YouTube channel` with your channel name.
+
+**Public uploads:** Google locks videos uploaded by *unverified* API projects to **private**. Until your project passes the YouTube API audit, auto-posted Shorts land as private videos (only you see them). To lift it, fill in Google's *YouTube API Services – Audit and Quota Extension Form* for the project. Until it passes, leave `youtube` out of each short's `platforms` and upload Shorts in YouTube Studio instead (Studio has its own free scheduler).
+
+## 7. Test it (5 min)
 
 1. Repo → **Actions** → enable workflows if asked.
 2. **autopost → Run workflow** with *Dry run* checked. The log should list what it would post.
@@ -98,3 +122,24 @@ The app can stay in **development mode**. It only posts to your own account, whi
 - Posts go out at the first hourly run after their time (within ~1 hour; GitHub sometimes runs a few minutes late).
 - Instagram renews its token every Monday automatically (`refresh-ig-token` workflow).
 - Reels/stories: keep them in `posts/` with `"type": "reel"` as a to-do list. The bot ignores them, and you post them by hand with a trending sound.
+- **Shorts** (auto-posted video): a folder with `video.mp4` (1080×1920, under 3 min), optional `cover.jpg`, and a `post.json` like this. `tools/make_short.py` writes it for you.
+  ```json
+  {
+    "id": "2026-10-13_desmos-systems",
+    "publish_at": "2026-10-13T17:00:00-05:00",
+    "type": "short",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "cover_time_ms": 500,
+    "platforms": ["instagram", "tiktok", "youtube"],
+    "caption": "Instagram caption (hashtags get added from the list)",
+    "tiktok_caption": "optional, defaults to caption",
+    "hashtags_instagram": ["#SAT", "#SATmath", "#Desmos", "#MathHacks", "#DigitalSAT"],
+    "hashtags_tiktok": ["#studytok", "#satprep", "#desmos"],
+    "youtube": {"title": "Max 100 characters", "description": "...", "hashtags": ["#SAT", "#Desmos", "#DigitalSAT"]},
+    "tiktok_mode": "direct",
+    "ai_label": true
+  }
+  ```
+  `"tiktok_mode": "draft"` sends it to your TikTok inbox instead, so you can add a trending sound and post it yourself.
+- Short videos are deleted from the repo 48 hours after they're live everywhere (`PRUNE_VIDEOS_AFTER_HOURS`, a repo variable; `0` keeps them). That keeps GitHub Pages under its 1 GB limit; the posting log keeps the record. Keep your own copy of each MP4 outside the repo.

@@ -81,5 +81,36 @@ else:
             report("TikTok posting permission", True,
                    f"@{d.get('creator_username')} privacy options: {d.get('privacy_level_options')}")
 
+# 4. YouTube (optional until you set it up)
+cid, csec, yrt = (os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN"))
+if not (cid and csec and yrt):
+    print("SKIP YouTube -> YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN not set (Shorts won't post to YouTube)")
+else:
+    t = requests.post("https://oauth2.googleapis.com/token",
+                      data={"client_id": cid, "client_secret": csec, "refresh_token": yrt,
+                            "grant_type": "refresh_token"}, timeout=30).json()
+    if "access_token" not in t:
+        report("YouTube token", False, t.get("error_description") or t.get("error") or str(t))
+    else:
+        report("YouTube token", True, f"scopes: {t.get('scope')}")
+        ch = requests.get("https://www.googleapis.com/youtube/v3/channels",
+                          params={"part": "snippet", "mine": "true"},
+                          headers={"Authorization": f"Bearer {t['access_token']}"}, timeout=30).json()
+        items = ch.get("items") or []
+        report("YouTube channel", bool(items),
+               items[0]["snippet"]["title"] if items else (ch.get("error", {}).get("message") or "no channel on this account"))
+
+# 5. Short videos are reachable on GitHub Pages (Instagram fetches Reels by URL)
+shorts = [f for f in sorted(Path("posts").glob("*/post.json")) if json.loads(f.read_text()).get("type") == "short"]
+pending_video = next((f for f in shorts if (f.parent / json.loads(f.read_text()).get("video", "")).exists()), None)
+if base and pending_video:
+    v = json.loads(pending_video.read_text())["video"]
+    url = f"{base}/{pending_video.parent.as_posix()}/{v}"
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=30)
+        report("Video hosting", r.status_code == 200, f"{r.status_code} {r.headers.get('content-type')} {url}")
+    except Exception as e:
+        report("Video hosting", False, str(e))
+
 print("\nALL GOOD" if ok else "\nSomething needs fixing (see FAIL lines)")
 sys.exit(0 if ok else 1)
