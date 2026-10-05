@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-13_1300_rw04",
+  "publish_at": "2026-10-13T13:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Support the hypothesis, not just the topic.\n\nFind the exact cause the hypothesis names, then pick the result that only makes sense if that cause is real.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT Command of Evidence: which finding supports the hypothesis?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-05_1100_desmos01",
+  "publish_at": "2026-10-05T11:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Stop solving systems of equations by hand.\n\nDesmos is built into the whole SAT Math section. Type both equations, tap where the lines cross, done.\n\nSave this for test day.",
+  "tiktok_title": "Solve SAT systems of equations in 10 seconds with Desmos",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

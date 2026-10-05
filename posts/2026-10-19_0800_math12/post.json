@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-19_0800_math12",
+  "publish_at": "2026-10-19T08:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "This is the most flipped rule on the whole math section.\n\nInside the parentheses, x − 3 moves the graph RIGHT.\n\nSave this for test day.",
+  "tiktok_title": "SAT Math function transformations: shift right or left",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satmath"
+  ],
+  "audio_vibe": "lofi"
+}

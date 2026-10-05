@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-31_1100_desmos34",
+  "publish_at": "2026-10-31T11:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Equation with an unknown constant and a point it passes through? Use a slider.\n\nDesmos makes a slider for a automatically. Drag until the curve hits the point.\n\nComment your answer before you swipe.",
+  "tiktok_title": "Desmos slider trick: find a constant from a point on the graph",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

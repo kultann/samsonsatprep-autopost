@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-31_1300_rw24",
+  "publish_at": "2026-10-31T13:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Same word, two meanings. The sentence picks one.\n\n\"Qualified\" can mean skilled, or it can mean limited. Ask what the word is describing.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT Words in Context: \"qualified\" doesn't mean skilled here",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

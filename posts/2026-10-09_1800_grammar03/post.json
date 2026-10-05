@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-09_1800_grammar03",
+  "publish_at": "2026-10-09T18:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Transition questions: name the relationship BEFORE you look at the choices.\n\nMore practice: SAT Question Bank ID 578ca79a (Hard).",
+  "tiktok_title": "SAT transitions: the trick that makes them easy",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi",
+  "qb_id": "578ca79a"
+}

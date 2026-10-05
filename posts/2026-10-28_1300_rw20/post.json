@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-28_1300_rw20",
+  "publish_at": "2026-10-28T13:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "To weaken a cause claim, show the effect happened without the cause.\n\nThat comparison group is the most powerful answer on the SAT almost every time.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT weaken the conclusion question: streetlights",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

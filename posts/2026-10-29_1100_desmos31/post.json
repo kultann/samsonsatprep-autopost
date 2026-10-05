@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-29_1100_desmos31",
+  "publish_at": "2026-10-29T11:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "4% growth, when does it pass $2,000? Graph it.\n\nType y = 1500(1.04)^x and y = 2000. The crossing tells you the year, then round UP.\n\nSave this for test day.",
+  "tiktok_title": "Desmos trick: compound interest word problems on the SAT",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

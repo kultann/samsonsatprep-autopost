@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-11_1300_rw02",
+  "publish_at": "2026-10-11T13:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Two clues. One answer has to use both.\n\nOn inference questions, the right choice is the one that fits every fact in the passage, not just the first one you read.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT inference question: use every clue in the passage",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

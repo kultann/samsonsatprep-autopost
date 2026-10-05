@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-29_2000_desmos32",
+  "publish_at": "2026-10-29T20:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Table that curves up and down? It's a quadratic. Make Desmos find it.\n\nType y₁ ~ ax₁² + bx₁ + c, then tap where the curve hits the x-axis.\n\nComment your answer before you swipe.",
+  "tiktok_title": "Desmos trick: quadratic regression from a table on the SAT",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

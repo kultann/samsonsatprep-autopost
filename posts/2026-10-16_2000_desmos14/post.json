@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-16_2000_desmos14",
+  "publish_at": "2026-10-16T20:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "How many solutions? Count the dots, not the algebra.\n\nCircle plus parabola looks like it should cross 4 times. The graph shows the truth in one second.\n\nComment your answer before you swipe.",
+  "tiktok_title": "Desmos trick: count solutions of a circle and parabola system",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

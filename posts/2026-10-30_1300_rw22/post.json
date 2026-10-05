@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-30_1300_rw22",
+  "publish_at": "2026-10-30T13:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Every word in the claim matters. Here it's \"lasting.\"\n\nThe best data answer proves the whole claim. A choice that proves most of it is still wrong.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT data question: which choice supports the claim?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}
