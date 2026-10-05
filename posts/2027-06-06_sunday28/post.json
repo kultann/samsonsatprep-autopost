@@ -1,0 +1,33 @@
+{
+  "id": "2027-06-06_sunday28",
+  "publish_at": "2027-06-06T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "When are you taking the SAT?\n\nDrop your test month so posts can line up with what you need right now.\n\nComment below.",
+  "tiktok_title": "When is your SAT test date?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

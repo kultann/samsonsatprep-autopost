@@ -1,0 +1,40 @@
+{
+  "id": "2027-05-31_lesson34",
+  "publish_at": "2027-05-31T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "π radians = 180°. Everything else follows.\n\nDegrees → radians: × π/180. Radians → degrees: × 180/π.\n\nSave this for test day.",
+  "tiktok_title": "SAT Math: convert degrees to radians fast",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satmath"
+  ],
+  "audio_vibe": "lofi"
+}

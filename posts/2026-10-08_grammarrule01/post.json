@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-08_grammarrule01",
+  "publish_at": "2026-10-08T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "\"However\" can't join two sentences by itself.\n\nWords like however and therefore are transitions, not glue. When they sit between two full sentences, the semicolon does the joining.\n\nSave this for test day.",
+  "tiktok_title": "SAT grammar: semicolon before however (digital SAT punctuation)",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

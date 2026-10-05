@@ -1,0 +1,42 @@
+{
+  "id": "2027-01-20_reading14",
+  "publish_at": "2027-01-20T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg",
+    "slide6.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg",
+    "tslide6.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Weaken questions are support questions in reverse.\n\nFind the link the claim depends on (X causes Y) and look for the finding that breaks that exact link.\n\nSend this to someone who mixes them up.",
+  "tiktok_title": "SAT command of evidence: how to weaken a claim",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

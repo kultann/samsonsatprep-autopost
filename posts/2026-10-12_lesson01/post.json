@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-12_lesson01",
+  "publish_at": "2026-10-12T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Stop substituting. Start canceling.\n\nElimination turns a 2-variable system into a 1-variable equation. And if they ask for x + y, adding the equations can finish it in one line.\n\nSave this for test day.",
+  "tiktok_title": "SAT Math: solve systems of equations fast with elimination",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satmath"
+  ],
+  "audio_vibe": "lofi"
+}

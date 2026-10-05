@@ -1,0 +1,40 @@
+{
+  "id": "2027-05-19_reading29",
+  "publish_at": "2027-05-19T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Highlighting everything is the same as highlighting nothing.\n\nUse Bluebook's annotation tool on 2 or 3 things per passage: the claim, the pivot word, and whatever the question points to.\n\nSave this for test day.",
+  "tiktok_title": "How to use the Bluebook highlight/annotate tool on SAT Reading",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

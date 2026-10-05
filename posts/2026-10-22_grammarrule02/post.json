@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-22_grammarrule02",
+  "publish_at": "2026-10-22T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "A colon after \"such as\" is one of the easiest points to lose.\n\nThe words before a colon have to make a complete sentence. \"Such as,\" \"including,\" and a bare verb all leave the sentence hanging.\n\nSave this for test day.",
+  "tiktok_title": "SAT grammar: no colon after such as or including",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2027-01-22_tip07",
+  "publish_at": "2027-01-22T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "One question shouldn't cost you three.\n\nGuess, flag it, move on, and come back with fresh eyes.\n\nSave this for test day.",
+  "tiktok_title": "SAT pacing tip: guess, flag, and move on",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

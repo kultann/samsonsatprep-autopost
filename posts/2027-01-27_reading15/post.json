@@ -1,0 +1,40 @@
+{
+  "id": "2027-01-27_reading15",
+  "publish_at": "2027-01-27T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Tone and attitude words show up all over SAT Reading.\n\nThe big one: ambivalent does NOT mean indifferent. Ambivalent = mixed feelings. Indifferent = doesn't care.\n\nSave this for vocab review.",
+  "tiktok_title": "SAT tone words: ambivalent vs indifferent and more",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

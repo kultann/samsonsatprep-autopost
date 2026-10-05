@@ -1,0 +1,34 @@
+{
+  "id": "2027-03-26_tip15",
+  "publish_at": "2027-03-26T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Rhetorical synthesis questions are a goal-matching game.\n\nEvery note is true. The goal in the question decides the answer.\n\nSave this for test day.",
+  "tiktok_title": "SAT rhetorical synthesis: read the goal first",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

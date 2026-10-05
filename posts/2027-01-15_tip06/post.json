@@ -1,0 +1,33 @@
+{
+  "id": "2027-01-15_tip06",
+  "publish_at": "2027-01-15T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Tables don't trick you. Skimming does.\n\nRead the title, headers, and units before you touch a single number.\n\nSave this for test day.",
+  "tiktok_title": "How to read SAT tables without falling for traps",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2026-12-06_sunday02",
+  "publish_at": "2026-12-06T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Same parabola, three different equations. Each one gives you something for free.\n\nStandard form gives the y-intercept, vertex form gives the vertex, factored form gives the x-intercepts. Pick the form that matches the question.\n\nSave this for test day.",
+  "tiktok_title": "SAT quadratic forms: standard vs vertex vs factored",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satmath"
+  ],
+  "audio_vibe": "lofi"
+}

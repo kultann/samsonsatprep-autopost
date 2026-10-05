@@ -1,0 +1,34 @@
+{
+  "id": "2027-05-21_tip22",
+  "publish_at": "2027-05-21T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "\"Percent of\" and \"percent greater than\" are not the same.\n\n30 is 125% of 24, but only 25% greater than 24.\n\nSave this for test day.\n\nTaking the Jun 5 SAT? Regular registration closes today (late: May 25).",
+  "tiktok_title": "SAT Math percent trap: percent of vs percent greater",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satmath"
+  ],
+  "audio_vibe": "lofi"
+}
