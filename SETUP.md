@@ -86,23 +86,26 @@ Shorts use the same Instagram and TikTok logins as your carousels. Instagram pul
 
 ## 6. Shorts on YouTube (15 min, optional)
 
-> Google Cloud may require you to be 18. If it blocks you, a parent can create the project and the OAuth client; you still log in as the channel in step 6.
+> Google Cloud may require you to be 18. If it blocks you, a parent can create the project and the OAuth client; you still log in as the channel in step 8. Make the @samsonsatprep YouTube channel first.
 
-1. Go to **console.cloud.google.com** → create a project (e.g. `samsonsatprep-publisher`).
-2. **APIs & Services → Library** → enable **YouTube Data API v3**.
-3. **OAuth consent screen** → User type **External** → app name, support email, your contact email → add scopes
-   `youtube.upload` and `youtube.readonly` → add your Google account as a test user → save.
-4. On the consent screen page click **Publish app** (status **In production**). Don't skip this: in *Testing* mode Google expires the login every 7 days. You don't need Google's verification for a personal tool; you'll just see an "unverified app" warning when you log in.
-5. **Credentials → Create credentials → OAuth client ID → Desktop app**. Copy the client ID and secret → repo secrets `YT_CLIENT_ID` and `YT_CLIENT_SECRET`.
-6. On your Mac:
+1. **console.cloud.google.com** → sign in with the Google account that owns the channel → create a project (e.g. `samsonsatprep-publisher`).
+2. **APIs & Services → Library** → **YouTube Data API v3** → Enable.
+3. **Google Auth Platform** (search it in the top bar) → **Get started**: app name, support email, Audience **External**, contact email → Create.
+4. **Data Access → Add or remove scopes** → add `.../auth/youtube.upload` and `.../auth/youtube.readonly` → Save.
+5. **Audience → Publish app** (status **In production**). Don't skip this: in *Testing* mode Google expires the login after 7 days. You don't need Google's verification for a personal tool; you'll just see an "unverified app" warning when you log in.
+6. **Clients → Create client → Desktop app**. Copy the client ID and secret → repo secrets `YT_CLIENT_ID` and `YT_CLIENT_SECRET`.
+7. On your Mac:
    ```bash
+   cd ~/Desktop/SAT/samsonsatprep-autopost
+   pip3 install requests
    export YT_CLIENT_ID=...  YT_CLIENT_SECRET=...
    python3 tools/youtube_auth.py
    ```
-   Log in with the Google account that owns the channel, pick the @samsonsatprep channel, approve (Advanced → Go to app). Save the printed value as the repo secret `YT_REFRESH_TOKEN`.
-7. Run **check-connections**. It should show `YouTube channel` with your channel name.
+8. In the browser: pick your account, choose the **@samsonsatprep channel**, then **Advanced → Go to (app name) → Allow**. Save the printed value as the repo secret `YT_REFRESH_TOKEN`.
+9. Run **check-connections**. It should show `YouTube channel` with your channel name.
+10. Apply for the audit: **YouTube API Services – Audit and Quota Extension Form** (https://support.google.com/youtube/contact/yt_api_form). Describe it as a single-channel tool that uploads your own Shorts to your own channel.
 
-**Public uploads:** Google locks videos uploaded by *unverified* API projects to **private**. Until your project passes the YouTube API audit, auto-posted Shorts land as private videos (only you see them). To lift it, fill in Google's *YouTube API Services – Audit and Quota Extension Form* for the project. Until it passes, leave `youtube` out of each short's `platforms` and upload Shorts in YouTube Studio instead (Studio has its own free scheduler).
+**Public uploads:** Google locks videos uploaded by *unverified* API projects to **private**. Until the audit passes, auto-posted Shorts land as private videos. Until then, leave `youtube` out of each short's `platforms` and upload Shorts in YouTube Studio instead (Studio has its own free scheduler).
 
 ## 7. Test it (5 min)
 
