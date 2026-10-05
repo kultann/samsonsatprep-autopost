@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-05_welcome",
+  "publish_at": "2026-10-05T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "New here? This account posts one SAT tip every single day.\n\nPractice questions, Desmos tricks, grammar rules and test-day strategy for the Digital SAT.\n\nFollow so you don't miss tomorrow's.",
+  "tiktok_title": "Free SAT help every single day",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-21_wic",
+  "publish_at": "2026-10-21T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Words in Context: predict your own word from the clue, then match.\n\nComment your answer before you swipe.\n\nMore practice: SAT Question Bank ID 994be036 (Hard).",
+  "tiktok_title": "SAT words in context practice",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi",
+  "qb_id": "994be036"
+}

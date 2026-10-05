@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-20_retake",
+  "publish_at": "2026-11-20T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Nov 7 scores are out. Should you retake?\n\nDec 5 SAT registration closes tonight (11:59 p.m. ET). Late registration runs through Nov 24.\n\nFollow for daily SAT tips.",
+  "tiktok_title": "SAT scores are out: should you retake?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

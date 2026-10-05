@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-25_poll",
+  "publish_at": "2026-10-25T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Desmos or by hand? Comment which one and why.",
+  "tiktok_title": "Desmos or by hand on the SAT?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATmath",
+    "#Desmos",
+    "#MathHacks",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#desmos"
+  ],
+  "audio_vibe": "lofi"
+}

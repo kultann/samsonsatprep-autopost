@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-01_ama",
+  "publish_at": "2026-11-01T16:00:00-06:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Nov 7 SAT this Saturday. Drop your questions in the comments.",
+  "tiktok_title": "Ask me anything before the SAT",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

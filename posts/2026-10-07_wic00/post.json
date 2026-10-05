@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-07_wic00",
+  "publish_at": "2026-10-07T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "SAT Words in Context: find the clue, predict your own word, then match.\n\nComment your answer before you swipe.",
+  "tiktok_title": "SAT words in context: can you get this one?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#SATreading",
+    "#SATgrammar",
+    "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat",
+    "#satgrammar"
+  ],
+  "audio_vibe": "lofi"
+}

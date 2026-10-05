@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-18_qa",
+  "publish_at": "2026-10-18T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "Comment the SAT question type that wrecks you. The top answers become future posts.",
+  "tiktok_title": "What SAT question type wrecks you?",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}

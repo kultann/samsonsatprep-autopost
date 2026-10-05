@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-16_noguess",
+  "publish_at": "2026-10-16T16:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "There's no penalty for wrong answers on the SAT.\n\nNever leave a question blank. Knock out 1–2 choices, then guess.\n\nFollow for daily SAT tips.",
+  "tiktok_title": "Never leave an SAT question blank",
+  "hashtags_instagram": [
+    "#SAT",
+    "#SATprep",
+    "#DigitalSAT",
+    "#SATtips",
+    "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+    "#studytok",
+    "#satprep",
+    "#sattips",
+    "#digitalsat"
+  ],
+  "audio_vibe": "lofi"
+}
