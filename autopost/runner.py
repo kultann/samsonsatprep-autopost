@@ -11,9 +11,11 @@ Usage:
   python -m autopost.runner --check    # validate every post.json, post nothing
 """
 import argparse
+import contextlib
 import json
 import os
 import sys
+import tempfile
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -33,7 +35,29 @@ def load_posts():
         p = json.loads(f.read_text())
         p["_dir"] = f.parent
         posts.append(p)
+    posts += load_media_posts()
     return posts
+
+
+def load_media_posts():
+    """Shorts scheduled in the media repo, read from its Pages site (shorts/index.json)."""
+    if not config.MEDIA_BASE_URL:
+        return []
+    url = f"{config.MEDIA_BASE_URL}/shorts/index.json"
+    try:
+        r = requests.get(url, timeout=60)
+        entries = r.json() if r.status_code == 200 else None
+    except (requests.RequestException, ValueError):
+        entries = None
+    if not isinstance(entries, list):
+        print(f"WARN couldn't read {url}; skipping media-repo shorts this run")
+        return []
+    out = []
+    for p in entries:
+        p["_dir"] = Path("media") / "shorts" / p.get("folder", p["id"])
+        p["_media"] = True
+        out.append(p)
+    return out
 
 
 def fully_posted(p, state):
@@ -81,7 +105,9 @@ def validate_short(p, already_posted=False):
     if not video.lower().endswith(".mp4"):
         errs.append(f"{video}: needs to be an MP4")
     path = p["_dir"] / video
-    if not path.exists():
+    if p.get("_media"):
+        pass  # lives on the media repo's Pages site; fetched when it's time to post
+    elif not path.exists():
         if not already_posted:  # posted shorts get their video pruned; that's fine
             errs.append(f"{video}: file not found")
     elif path.stat().st_size > MAX_VIDEO_MB * 1024 * 1024:
@@ -89,7 +115,7 @@ def validate_short(p, already_posted=False):
     cover = p.get("cover")
     if cover and not cover.lower().endswith((".jpg", ".jpeg")):
         errs.append(f"{cover}: cover must be JPEG")
-    if cover and not (p["_dir"] / cover).exists():
+    if cover and not p.get("_media") and not (p["_dir"] / cover).exists():
         errs.append(f"{cover}: file not found")
     bad = set(p["platforms"]) - SHORT_PLATFORMS
     if bad:
@@ -107,7 +133,29 @@ def validate_short(p, already_posted=False):
 
 
 def public_url(p, name):
+    if p.get("_media"):
+        return f"{config.MEDIA_BASE_URL}/shorts/{p.get('folder', p['id'])}/{name}"
     return f"{config.PUBLIC_BASE_URL}/{p['_dir'].as_posix()}/{name}"
+
+
+@contextlib.contextmanager
+def local_video(p):
+    """Path to the short's MP4: the repo copy, or a temp download from the media repo."""
+    path = p["_dir"] / p["video"]
+    if path.exists() or config.DRY_RUN:
+        yield str(path)
+        return
+    url = public_url(p, p["video"])
+    r = requests.get(url, timeout=300)
+    if r.status_code != 200:
+        raise RuntimeError(f"couldn't download {url} ({r.status_code})")
+    with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as fh:
+        fh.write(r.content)
+        tmp = fh.name
+    try:
+        yield tmp
+    finally:
+        os.unlink(tmp)
 
 
 def public_urls(p, key="slides"):
@@ -200,15 +248,17 @@ def post_one(p, platform, tok):
         return instagram.publish(public_urls(p), ig_caption(p))
     if platform == "tiktok":
         if short:
-            return tiktok.publish_video(tok.tiktok(), str(p["_dir"] / p["video"]), tt_description(p),
-                                        cover_ms=p.get("cover_time_ms"), ai_label=p.get("ai_label", True),
-                                        mode=p.get("tiktok_mode", "direct"))
+            with local_video(p) as path:
+                return tiktok.publish_video(tok.tiktok(), path, tt_description(p),
+                                            cover_ms=p.get("cover_time_ms"), ai_label=p.get("ai_label", True),
+                                            mode=p.get("tiktok_mode", "direct"))
         return tiktok.publish_photos(tok.tiktok(), public_urls(p, "slides_tiktok"),
                                      p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p))
     if platform == "youtube" and short:
         title, desc, keywords = yt_fields(p)
-        return youtube.upload_short(tok.youtube(), str(p["_dir"] / p["video"]), title, desc, keywords,
-                                    synthetic=p.get("youtube", {}).get("synthetic_media", False))
+        with local_video(p) as path:
+            return youtube.upload_short(tok.youtube(), path, title, desc, keywords,
+                                        synthetic=p.get("youtube", {}).get("synthetic_media", False))
     raise ValueError(f"unknown platform {platform}")
 
 
@@ -218,8 +268,8 @@ def prune_videos(posts, state, now):
         return []
     removed = []
     for p in posts:
-        if p.get("type") != "short" or not p.get("video") or not fully_posted(p, state):
-            continue
+        if p.get("type") != "short" or not p.get("video") or p.get("_media") or not fully_posted(p, state):
+            continue  # media-repo shorts are pruned by that repo's own workflow
         path = p["_dir"] / p["video"]
         if not path.exists():
             continue

@@ -112,5 +112,23 @@ if base and pending_video:
     except Exception as e:
         report("Video hosting", False, str(e))
 
+# 6. Media repo (shorts): index readable, next video reachable
+mbase = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
+if not mbase:
+    print("SKIP Media repo -> MEDIA_BASE_URL variable not set (shorts from the media repo won't post)")
+else:
+    try:
+        r = requests.get(f"{mbase}/shorts/index.json", timeout=30)
+        entries = r.json() if r.status_code == 200 else None
+        report("Media repo index", isinstance(entries, list),
+               f"{len(entries)} shorts scheduled" if isinstance(entries, list) else f"{r.status_code} {mbase}/shorts/index.json")
+        if entries:
+            e = sorted(entries, key=lambda x: x["publish_at"])[-1]
+            url = f"{mbase}/shorts/{e.get('folder', e['id'])}/{e['video']}"
+            h = requests.head(url, allow_redirects=True, timeout=30)
+            report("Media repo video hosting", h.status_code == 200, f"{h.status_code} {url}")
+    except Exception as ex:
+        report("Media repo index", False, str(ex))
+
 print("\nALL GOOD" if ok else "\nSomething needs fixing (see FAIL lines)")
 sys.exit(0 if ok else 1)

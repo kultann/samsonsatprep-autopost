@@ -8,4 +8,6 @@ Scheduled auto-posting for @samsonsatprep: carousels and images to Instagram and
 - `tools/`: `make_post.py` (PNG slides → post folder), `make_short.py` (MP4 → short post folder), `tiktok_auth.py` / `youtube_auth.py` (one-time logins), `ig_whoami.py`
 - `index.html`, `privacy.html`, `terms.html`, `callback.html`: pages the Meta/TikTok apps need
 
+Scheduled shorts (the 1000-short plan) live in the separate media repo `samsonsatprep-media`; the runner reads its `shorts/index.json` (variable `MEDIA_BASE_URL`).
+
 Setup: see **SETUP.md**. Tests: `python3 -m unittest discover tests`.

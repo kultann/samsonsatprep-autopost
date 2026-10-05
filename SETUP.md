@@ -107,6 +107,18 @@ Shorts use the same Instagram and TikTok logins as your carousels. Instagram pul
 
 **Public uploads:** Google locks videos uploaded by *unverified* API projects to **private**. Until the audit passes, auto-posted Shorts land as private videos. Until then, leave `youtube` out of each short's `platforms` and upload Shorts in YouTube Studio instead (Studio has its own free scheduler).
 
+## 6b. Shorts media repo (10 min, needed for the 1000 shorts)
+
+1000 shorts are ~6–10 GB of video, and a GitHub Pages site maxes out at 1 GB (this repo's `posts/` is already ~550 MB). So the shorts live in a second public repo whose only job is serving videos. Its own daily workflow deletes each video 48 h after it's live everywhere.
+
+1. GitHub Desktop → **File → Add Local Repository** → choose `~/Desktop/SAT/samsonsatprep-media` → it offers to **create a repository** there → Create → **Publish repository**, name `samsonsatprep-media`, **uncheck "Keep this code private"** (free Pages needs public).
+2. On github.com, that repo → **Settings → Pages** → *Deploy from a branch* → `main` / `(root)` → Save.
+3. In **this** repo (samsonsatprep-autopost) → **Settings → Secrets and variables → Actions → Variables** → New variable
+   `MEDIA_BASE_URL` = `https://kultann.github.io/samsonsatprep-media`
+4. Run **check-connections**: you should see `Media repo index` OK.
+
+Each week: Claude Code renders the next week of shorts into `samsonsatprep-media/shorts/<post_id>/` (video.mp4, cover.jpg, post.json) and runs `python3 tools/build_index.py`; you commit + push that repo in GitHub Desktop. That's it. When the media repo passes ~3 GB of history, delete it on GitHub and re-create it with the same name.
+
 ## 7. Test it (5 min)
 
 1. Repo → **Actions** → enable workflows if asked.
@@ -145,4 +157,5 @@ Shorts use the same Instagram and TikTok logins as your carousels. Instagram pul
   }
   ```
   `"tiktok_mode": "draft"` sends it to your TikTok inbox instead, so you can add a trending sound and post it yourself.
+- The 1000-short plan uses the media repo (§6b) instead of `posts/`; shorts placed directly in `posts/` still work for one-offs.
 - Short videos are deleted from the repo 48 hours after they're live everywhere (`PRUNE_VIDEOS_AFTER_HOURS`, a repo variable; `0` keeps them). That keeps GitHub Pages under its 1 GB limit; the posting log keeps the record. Keep your own copy of each MP4 outside the repo.

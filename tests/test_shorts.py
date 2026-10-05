@@ -182,5 +182,59 @@ class ShortsTest(unittest.TestCase):
         self.assertEqual(seen, ["post/publish/inbox/video/init/"])
 
 
+class MediaRepoTest(unittest.TestCase):
+    """Shorts that live in the separate media repo: read from shorts/index.json, video downloaded at post time."""
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        (Path(self.tmp) / "posts").mkdir()
+        self.cwd = os.getcwd(); os.chdir(self.tmp)
+        env = {
+            "PUBLIC_BASE_URL": "https://example.github.io/samsonsatprep-autopost",
+            "MEDIA_BASE_URL": "https://example.github.io/samsonsatprep-media",
+            "IG_USER_ID": "123", "IG_ACCESS_TOKEN": "IGTOKEN",
+            "TIKTOK_CLIENT_KEY": "k", "TIKTOK_CLIENT_SECRET": "s", "TIKTOK_REFRESH_TOKEN": "TT_REFRESH_OLD",
+            "POSTS_DIR": "posts", "STATE_FILE": os.path.join(self.tmp, "posted.json"),
+            "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"), "DRY_RUN": "0",
+        }
+        self.env = mock.patch.dict(os.environ, env); self.env.start()
+        import autopost.config, autopost.instagram, autopost.tiktok, autopost.youtube, autopost.runner
+        for m in (autopost.config, autopost.instagram, autopost.tiktok, autopost.youtube, autopost.runner):
+            importlib.reload(m)
+        self.runner = autopost.runner
+        entry = dict(SHORT, id="2026-10-12_0800_M1-036", folder="2026-10-12_0800_M1-036",
+                     publish_at="2026-10-12T08:00:00-05:00", platforms=["instagram", "tiktok"])
+        entry.pop("youtube")
+        self.fake = Fake()
+        real_get = self.fake.get
+        downloads = []
+        def get(url, params=None, timeout=None):
+            if url.endswith("/shorts/index.json"):
+                return Resp(json.loads(json.dumps([entry])))  # fresh copy, like a real HTTP response
+            if url.endswith("/video.mp4"):
+                downloads.append(url)
+                r = Resp({}); r.content = VIDEO_BYTES; return r
+            return real_get(url, params=params, timeout=timeout)
+        self.fake.get = get
+        self.downloads = downloads
+        for name in ("post", "get", "put", "head"):
+            mock.patch(f"requests.{name}", getattr(self.fake, name)).start()
+
+    def tearDown(self):
+        mock.patch.stopall(); self.env.stop(); os.chdir(self.cwd)
+
+    def test_media_short_posts_and_downloads_video(self):
+        self.assertEqual(self.runner.check(), 0)
+        due = datetime(2026, 10, 12, 13, 7, tzinfo=timezone.utc)
+        self.assertEqual(self.runner.run(now=due), 0)
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_0800_M1-036"]
+        self.assertEqual(sorted(state), ["instagram", "tiktok"])
+        ig = [c[2] for c in self.fake.calls if c[0] == "POST" and c[1].endswith("/123/media")][0]
+        self.assertEqual(ig["video_url"], "https://example.github.io/samsonsatprep-media/shorts/2026-10-12_0800_M1-036/video.mp4")
+        self.assertEqual(len(self.downloads), 1)  # TikTok upload pulled the file from the media repo
+        tput = [c for c in self.fake.calls if c[0] == "PUT" and "tiktok" in c[1]][0]
+        self.assertEqual(tput[3]["Content-Range"], "bytes 0-999/1000")
+
+
 if __name__ == "__main__":
     unittest.main()

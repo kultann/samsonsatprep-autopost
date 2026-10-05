@@ -27,6 +27,11 @@ YT_PRIVACY = os.environ.get("YT_PRIVACY", "") or "public"
 # so GitHub Pages stays under its 1 GB limit. 0 = keep forever.
 PRUNE_VIDEOS_AFTER_HOURS = float(os.environ.get("PRUNE_VIDEOS_AFTER_HOURS", "") or 48)
 
+# Short videos live in a separate public "media" repo with its own GitHub Pages site, so this
+# repo's Pages site stays under 1 GB. The runner reads MEDIA_BASE_URL/shorts/index.json (every
+# scheduled short's post.json) and downloads a video only when it's time to post it.
+MEDIA_BASE_URL = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")
