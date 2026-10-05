@@ -9,8 +9,9 @@ Notes
 - Videos: mode "direct" posts straight to the profile (video.publish);
   mode "draft" drops it in the TikTok inbox to finish in-app (video.upload),
   e.g. to add a trending sound yourself.
-- Photos: same two modes. "draft" = post_mode MEDIA_UPLOAD: the carousel and its caption land in
-  the TikTok app inbox; you add a saved sound, pick privacy and post (Samson, 2026-10-05).
+- Photos: same two modes (default "direct", see config.TIKTOK_PHOTO_MODE). "draft" = post_mode
+  MEDIA_UPLOAD: the carousel and its caption land in the TikTok app inbox; you add a saved sound,
+  pick privacy and post. Needs the TikTok phone app on its latest version (app_version_check_failed).
   TikTok allows only a few pending (unposted) inbox uploads per 24h (reportedly 5); extra
   uploads fail and the runner retries them on later runs.
 - Access tokens last ~24h, so every run refreshes using the refresh token.

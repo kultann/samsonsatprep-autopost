@@ -114,10 +114,11 @@ class RunnerTest(unittest.TestCase):
         self.assertIn("#SATmath", carousel["caption"])
         self.assertTrue(ig_posts[0][2]["image_url"].endswith("/posts/2026-10-12_q01/slide1.jpg"))
 
-        # TikTok: photos go to the inbox as drafts (sound + privacy picked in-app), rotated refresh token handed back
+        # TikTok: direct post, private until audited, music auto-added, rotated refresh token handed back
         init = [c for c in self.fake.calls if "content/init" in c[1]][0][2]
-        self.assertEqual(init["post_mode"], "MEDIA_UPLOAD")
-        self.assertNotIn("privacy_level", init["post_info"])
+        self.assertEqual(init["post_mode"], "DIRECT_POST")
+        self.assertEqual(init["post_info"]["privacy_level"], "SELF_ONLY")
+        self.assertTrue(init["post_info"]["auto_add_music"])
         self.assertEqual(init["post_info"]["description"], "Test caption\n\n#SAT")
         self.assertEqual(len(init["source_info"]["photo_images"]), 4)
         self.assertTrue(all("/posts/2026-10-12_q01/tslide" in u for u in init["source_info"]["photo_images"]))
@@ -157,9 +158,9 @@ class RunnerTest(unittest.TestCase):
         self.assertEqual(body["post_info"], {"title": "title", "description": "desc"})
         self.assertEqual(body["source_info"]["photo_images"], ["u1", "u2"])
 
-    def test_runner_sends_photos_as_drafts_by_default(self):
+    def test_runner_posts_photos_directly_by_default(self):
         import autopost.config as cfg
-        self.assertEqual(cfg.TIKTOK_PHOTO_MODE, "draft")
+        self.assertEqual(cfg.TIKTOK_PHOTO_MODE, "direct")
 
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)
