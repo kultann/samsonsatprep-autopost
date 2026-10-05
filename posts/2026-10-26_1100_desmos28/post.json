@@ -20,7 +20,7 @@
     "instagram",
     "tiktok"
   ],
-  "caption": "Piecewise functions trick people into counting fake solutions.\n\nIn Desmos, type y = {x < 2: x² − 6, 7 − 2x}. It only draws each piece where it applies.\n\nSave this for test day.",
+  "caption": "🧠 Piecewise function? Desmos has curly braces.\n\nPiecewise functions trick people into counting fake solutions.\n\n✅ The question\n✅ The answer + why it works\n✅ The Desmos steps, start to finish\n\nComment your answer before you swipe 👇\n\nFollow @samsonsatprep for daily SAT practice 📈",
   "tiktok_title": "Desmos trick: graph piecewise functions on the SAT",
   "hashtags_instagram": [
     "#SAT",
@@ -36,5 +36,6 @@
     "#digitalsat",
     "#desmos"
   ],
-  "audio_vibe": "lofi"
+  "audio_vibe": "lofi",
+  "tiktok_caption": "🧠 Piecewise function? Desmos has curly braces.\n\nPiecewise functions trick people into counting fake solutions.\n\n✅ The question\n✅ The answer + why it works\n✅ The Desmos steps, start to finish\n\nComment your answer before you swipe 👇\n\nFollow @samsonsatprep for daily SAT practice 📈"
 }
