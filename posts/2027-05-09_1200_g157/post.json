@@ -1,0 +1,32 @@
+{
+  "id": "2027-05-09_1200_g157",
+  "publish_at": "2027-05-09T12:00:00-05:00",
+  "type": "carousel",
+  "slides": [
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg",
+    "slide6.jpg"
+  ],
+  "slides_tiktok": [
+    "tslide1.jpg",
+    "tslide2.jpg",
+    "tslide3.jpg",
+    "tslide4.jpg",
+    "tslide5.jpg",
+    "tslide6.jpg"
+  ],
+  "platforms": [
+    "instagram",
+    "tiktok"
+  ],
+  "caption": "f(x + 1) is NOT f(x) + 1\n\nPlug the whole expression in for x.\n\nSave this for test day 📌\n\n#SAT #SATprep #SATmath #DigitalSAT #SATpractice",
+  "tiktok_title": "f(x + 1) is NOT f(x) + 1",
+  "hashtags_instagram": [],
+  "hashtags_tiktok": [],
+  "audio_vibe": "lofi",
+  "source": "Generic #157",
+  "tiktok_caption": "f(x + 1) is NOT f(x) + 1\n\nPlug the whole expression in for x.\n\nSave this for test day 📌\n\n#studytok #satprep #sattips #digitalsat #satmath"
+}

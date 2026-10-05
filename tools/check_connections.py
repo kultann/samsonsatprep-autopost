@@ -20,7 +20,9 @@ def report(name, passed, detail=""):
 
 # 1. Image hosting (GitHub Pages)
 base = os.environ.get("PUBLIC_BASE_URL", "").rstrip("/")
-first = next(iter(sorted(Path("posts").glob("*/post.json"))), None)
+sys.path.insert(0, str(Path(__file__).parent))
+from build_site import in_window  # the Pages site only holds posts near their publish time
+first = next((pj for pj in sorted(Path("posts").glob("*/post.json")) if in_window(pj)), None)
 if not base:
     report("PUBLIC_BASE_URL variable", False, "not set")
 elif first:
