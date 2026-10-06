@@ -55,7 +55,9 @@ NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/
 # TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile (no
 # auto-added sound, see TIKTOK_AUTO_MUSIC); "draft" sends each one to the TikTok inbox (needs the TikTok phone app on its latest
 # version) so a sound can be added before posting. A post's "tiktok_mode" overrides it.
-TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "draft"  # Samson 2026-10-05: drafts, Gemini picks a saved sound
+# Samson 2026-10-06: "direct", silent. Drafts only reach the TikTok PHONE app (he is only logged in on
+# the computer, so they failed with app_version_check_failed); switch back if he installs the app.
+TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "direct"
 # Let TikTok pick a random sound for direct photo posts? Off (Samson, 2026-10-05: the picks can be anything).
 TIKTOK_AUTO_MUSIC = (os.environ.get("TIKTOK_AUTO_MUSIC", "") or "0") == "1"
 
