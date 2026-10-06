@@ -24,6 +24,7 @@ class FakeAPIs:
     def __init__(self):
         self.calls = []
         self.pushes = []
+        self.ig_error = None
         self.n = 0
 
     def post(self, url, data=None, json=None, headers=None, timeout=None, params=None):
@@ -32,6 +33,8 @@ class FakeAPIs:
             self.pushes.append((url, data, headers))
             return FakeResp({})
         if "graph.instagram.com" in url:
+            if self.ig_error:
+                return FakeResp({"error": {"message": self.ig_error, "type": "OAuthException", "code": 200}}, 400)
             if url.endswith("/media_publish"):
                 return FakeResp({"id": "IGMEDIA1"})
             self.n += 1
@@ -82,6 +85,7 @@ class RunnerTest(unittest.TestCase):
             "POSTS_DIR": "posts",
             "STATE_FILE": os.path.join(self.tmp, "posted.json"),
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"),
+            "COOLDOWN_FILE": os.path.join(self.tmp, "cooldown.json"),
             "DRY_RUN": "0",
         }
         self.env = mock.patch.dict(os.environ, env)
@@ -191,6 +195,50 @@ class RunnerTest(unittest.TestCase):
         self.assertTrue(url.endswith("/test-topic"))
         self.assertEqual(headers["Click"], "https://www.instagram.com/p/ABC123/")
         self.assertIn("Test caption", body.decode("utf-8"))
+
+    def test_instagram_block_pauses_instead_of_hammering(self):
+        from datetime import timedelta
+        due = datetime(2026, 10, 12, 21, 7, tzinfo=timezone.utc)
+        self.fake.ig_error = "API access blocked."
+        self.assertEqual(self.runner.run(now=due), 1)  # first failure of the streak is red
+        cool = json.loads(Path(os.environ["COOLDOWN_FILE"]).read_text())
+        self.assertEqual(cool["instagram"]["reason"], "API access blocked")
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+        self.assertIn("tiktok", state["2026-10-12_q01"])  # other platforms keep going
+
+        n = len(self.fake.calls)  # 1 h later: paused, no Instagram calls, green run
+        self.assertEqual(self.runner.run(now=due + timedelta(hours=1)), 0)
+        self.assertFalse([c for c in self.fake.calls[n:] if "instagram" in c[1]])
+
+        n = len(self.fake.calls)  # 7 h later: tries once, still blocked -> paused again, still green
+        self.assertEqual(self.runner.run(now=due + timedelta(hours=7)), 0)
+        self.assertTrue([c for c in self.fake.calls[n:] if "instagram" in c[1]])
+        cool = json.loads(Path(os.environ["COOLDOWN_FILE"]).read_text())
+        self.assertEqual(cool["instagram"]["since"], due.isoformat(timespec="seconds"))
+
+        self.fake.ig_error = None  # unblocked: posts and clears the pause
+        self.assertEqual(self.runner.run(now=due + timedelta(hours=14)), 0)
+        self.assertIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q01"])
+        self.assertNotIn("instagram", json.loads(Path(os.environ["COOLDOWN_FILE"]).read_text()))
+
+    def test_instagram_feed_posts_are_spaced_out(self):
+        from datetime import timedelta
+        second = dict(POST, id="2026-10-12_q02", publish_at="2026-10-12T16:05:00-05:00")
+        d = Path("posts") / second["id"]
+        d.mkdir(parents=True)
+        (d / "post.json").write_text(json.dumps(second))
+        for f in second["slides"] + second["slides_tiktok"]:
+            (d / f).write_bytes(b"\xff\xd8\xff\xd9")
+        due = datetime(2026, 10, 12, 21, 30, tzinfo=timezone.utc)
+        self.assertEqual(self.runner.run(now=due), 0)
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+        self.assertIn("instagram", state["2026-10-12_q01"])
+        self.assertNotIn("instagram", state["2026-10-12_q02"])  # waits for the gap
+        self.assertIn("tiktok", state["2026-10-12_q02"])  # TikTok isn't spaced
+        self.runner.run(now=due + timedelta(minutes=15))
+        self.assertNotIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
+        self.runner.run(now=due + timedelta(minutes=45))
+        self.assertIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
 
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)

@@ -40,6 +40,16 @@ MAX_SHORTS_PER_RUN = int(os.environ.get("MAX_SHORTS_PER_RUN", "") or 1)
 # in the app (post -> Edit -> Add music). The API can't attach Instagram library music.
 # Set the secret NTFY_TOPIC to a long random name and subscribe to it in the ntfy app. Empty = off.
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
+
+# Back off instead of hammering a platform that is blocking us (Samson, 2026-10-06: Instagram returned
+# "API access blocked" and every 15-min run retried every post, 44 red runs in a day).
+# A matching error pauses that platform; only the first failure of a streak turns the run red.
+COOLDOWN_FILE = os.environ.get("COOLDOWN_FILE", "state/cooldown.json")
+IG_BLOCK_COOLDOWN_HOURS = float(os.environ.get("IG_BLOCK_COOLDOWN_HOURS", "") or 6)
+TIKTOK_APP_COOLDOWN_HOURS = float(os.environ.get("TIKTOK_APP_COOLDOWN_HOURS", "") or 3)
+# Space out Instagram feed posts: at most one per run and at least this many minutes apart, so a
+# backlog drips out instead of posting in a burst (bursts on a new account look automated).
+IG_FEED_MIN_GAP_MINUTES = float(os.environ.get("IG_FEED_MIN_GAP_MINUTES", "") or 45)
 NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/")
 
 # TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile (no

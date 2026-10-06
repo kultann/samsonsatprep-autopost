@@ -210,6 +210,35 @@ def save_state(state):
     path.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 
+def cooldown_rules():
+    """(platform, text in the error, hours to pause)."""
+    return [
+        ("instagram", "API access blocked", config.IG_BLOCK_COOLDOWN_HOURS),
+        ("tiktok", "app_version_check_failed", config.TIKTOK_APP_COOLDOWN_HOURS),
+    ]
+
+
+def load_cooldowns():
+    path = Path(config.COOLDOWN_FILE)
+    try:
+        return json.loads(path.read_text()) if path.exists() else {}
+    except ValueError:
+        return {}
+
+
+def save_cooldowns(cool):
+    path = Path(config.COOLDOWN_FILE)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(cool, indent=2, sort_keys=True) + "\n")
+
+
+def last_ig_feed_post(posts, state):
+    feed = {p["id"] for p in posts if p.get("type") != "short"}
+    times = [datetime.fromisoformat(v["instagram"]["at"]) for k, v in state.items()
+             if k in feed and isinstance(v, dict) and "instagram" in v]
+    return max(times) if times else None
+
+
 def write_new_secret(name, value):
     """Hand rotated tokens to the workflow, which saves them as repo secrets."""
     out = os.environ.get("NEW_SECRETS_FILE")
@@ -336,31 +365,61 @@ def run(now=None):
     due.sort(key=lambda x: datetime.fromisoformat(x[0]["publish_at"]))  # oldest first
     cap, shorts_posted = config.MAX_SHORTS_PER_RUN, 0
     tok = Tokens()
+    cool = load_cooldowns()
+    cool_before = json.dumps(cool, sort_keys=True)
+    last_feed = last_ig_feed_post(posts, state)
+    feed_gap = timedelta(minutes=config.IG_FEED_MIN_GAP_MINUTES)
     for p, pending in due:
         if p["type"] == "short" and cap and shorts_posted >= cap:
             print(f"LATER {p['id']}: max {cap} short(s) per run, posts on a later run")
             continue
         posted_any = False
         for platform in pending:
+            rec = cool.get(platform)
+            if rec and datetime.fromisoformat(rec["until"]) > now:
+                print(f"WAIT {p['id']} -> {platform}: paused until {rec['until']} ({rec['reason']})")
+                continue
+            ig_feed = platform == "instagram" and p["type"] != "short"
+            if ig_feed and last_feed and now - last_feed < feed_gap:
+                print(f"LATER {p['id']} -> instagram: feed posts are spaced "
+                      f"{config.IG_FEED_MIN_GAP_MINUTES:g} min apart")
+                continue
             try:
                 media_id = post_one(p, platform, tok)
                 if media_id is None:
                     continue
                 posted_any = True
+                posted_at = max(now, datetime.now(timezone.utc))
                 state.setdefault(p["id"], {})[platform] = {
                     "id": media_id,
-                    "at": max(now, datetime.now(timezone.utc)).isoformat(timespec="seconds"),
+                    "at": posted_at.isoformat(timespec="seconds"),
                 }
+                cool.pop(platform, None)  # it works again
                 print(f"POSTED {p['id']} -> {platform} ({media_id})")
-                if platform == "instagram" and p["type"] != "short":
+                if ig_feed:
+                    last_feed = now  # one feed post per run; the gap is measured from here
                     notify_music(p, media_id)
             except Exception as e:  # keep going with the other posts
-                failures += 1
                 print(f"FAILED {p['id']} -> {platform}: {e}")
+                reason = next((needle for plat, needle, _ in cooldown_rules()
+                               if plat == platform and needle in str(e)), None)
+                if not reason:
+                    failures += 1
+                    continue
+                hours = next(h for plat, needle, h in cooldown_rules() if plat == platform and needle == reason)
+                repeat = bool(rec) and rec.get("reason") == reason
+                until = (now + timedelta(hours=hours)).isoformat(timespec="seconds")
+                cool[platform] = {"until": until, "reason": reason,
+                                  "since": rec["since"] if repeat else now.isoformat(timespec="seconds")}
+                print(f"PAUSE {platform} until {until}: {reason}" + (" (still blocked)" if repeat else ""))
+                if not repeat:
+                    failures += 1  # only the first failure of a streak turns the run red
         if p["type"] == "short" and posted_any:
             shorts_posted += 1
         if not config.DRY_RUN:
             save_state(state)
+    if not config.DRY_RUN and json.dumps(cool, sort_keys=True) != cool_before:
+        save_cooldowns(cool)
     prune_videos(posts, state, now)
     return 1 if failures else 0
 
