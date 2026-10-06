@@ -97,7 +97,7 @@ def publish_photos(token, image_urls, title, description, mode="direct"):
             "description": description[:4000],
             "privacy_level": privacy,
             "disable_comment": False,
-            "auto_add_music": True,
+            "auto_add_music": config.TIKTOK_AUTO_MUSIC,
         },
         "source_info": {
             "source": "PULL_FROM_URL",

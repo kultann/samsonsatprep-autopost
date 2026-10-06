@@ -23,10 +23,14 @@ class FakeResp:
 class FakeAPIs:
     def __init__(self):
         self.calls = []
+        self.pushes = []
         self.n = 0
 
     def post(self, url, data=None, json=None, headers=None, timeout=None, params=None):
         self.calls.append(("POST", url, data or json))
+        if "ntfy" in url:
+            self.pushes.append((url, data, headers))
+            return FakeResp({})
         if "graph.instagram.com" in url:
             if url.endswith("/media_publish"):
                 return FakeResp({"id": "IGMEDIA1"})
@@ -42,6 +46,8 @@ class FakeAPIs:
 
     def get(self, url, params=None, timeout=None):
         self.calls.append(("GET", url, params))
+        if params and params.get("fields") == "permalink":
+            return FakeResp({"permalink": "https://www.instagram.com/p/ABC123/"})
         return FakeResp({"status_code": "FINISHED"})
 
 
@@ -114,11 +120,11 @@ class RunnerTest(unittest.TestCase):
         self.assertIn("#SATmath", carousel["caption"])
         self.assertTrue(ig_posts[0][2]["image_url"].endswith("/posts/2026-10-12_q01/slide1.jpg"))
 
-        # TikTok: direct post, private until audited, music auto-added, rotated refresh token handed back
+        # TikTok: photos go to the inbox as drafts (sound + privacy picked in-app), rotated refresh token handed back
         init = [c for c in self.fake.calls if "content/init" in c[1]][0][2]
-        self.assertEqual(init["post_mode"], "DIRECT_POST")
-        self.assertEqual(init["post_info"]["privacy_level"], "SELF_ONLY")
-        self.assertTrue(init["post_info"]["auto_add_music"])
+        self.assertEqual(init["post_mode"], "MEDIA_UPLOAD")
+        self.assertNotIn("privacy_level", init["post_info"])
+        self.assertNotIn("auto_add_music", init["post_info"])
         self.assertEqual(init["post_info"]["description"], "Test caption\n\n#SAT")
         self.assertEqual(len(init["source_info"]["photo_images"]), 4)
         self.assertTrue(all("/posts/2026-10-12_q01/tslide" in u for u in init["source_info"]["photo_images"]))
@@ -158,9 +164,33 @@ class RunnerTest(unittest.TestCase):
         self.assertEqual(body["post_info"], {"title": "title", "description": "desc"})
         self.assertEqual(body["source_info"]["photo_images"], ["u1", "u2"])
 
-    def test_runner_posts_photos_directly_by_default(self):
+    def test_runner_sends_photos_as_drafts_by_default(self):
         import autopost.config as cfg
-        self.assertEqual(cfg.TIKTOK_PHOTO_MODE, "direct")
+        self.assertEqual(cfg.TIKTOK_PHOTO_MODE, "draft")
+        self.assertFalse(cfg.TIKTOK_AUTO_MUSIC)
+
+    def test_full_draft_inbox_waits_instead_of_failing(self):
+        import autopost.tiktok as tt
+        due = datetime(2026, 10, 12, 21, 7, tzinfo=timezone.utc)
+        err = tt.TikTokError("post/publish/content/init/ failed: {'error': {'code': 'spam_risk_too_many_pending_share'}}")
+        with mock.patch.object(tt, "publish_photos", side_effect=err):
+            self.assertEqual(self.runner.run(now=due), 0)  # not a failed run
+        state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+        self.assertIn("instagram", state["2026-10-12_q01"])
+        self.assertNotIn("tiktok", state["2026-10-12_q01"])  # retried on a later run
+
+    def test_music_reminder_push_after_instagram_post(self):
+        due = datetime(2026, 10, 12, 21, 7, tzinfo=timezone.utc)
+        self.assertEqual(self.runner.run(now=due), 0)
+        self.assertEqual(self.fake.pushes, [])  # off when NTFY_TOPIC is empty
+        Path(os.environ["STATE_FILE"]).unlink()
+        with mock.patch.object(self.runner.config, "NTFY_TOPIC", "test-topic"):
+            self.assertEqual(self.runner.run(now=due), 0)
+        self.assertEqual(len(self.fake.pushes), 1)  # one per Instagram feed post, not per platform
+        url, body, headers = self.fake.pushes[0]
+        self.assertTrue(url.endswith("/test-topic"))
+        self.assertEqual(headers["Click"], "https://www.instagram.com/p/ABC123/")
+        self.assertIn("Test caption", body.decode("utf-8"))
 
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)

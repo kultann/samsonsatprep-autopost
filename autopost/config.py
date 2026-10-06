@@ -36,10 +36,18 @@ MEDIA_BASE_URL = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
 # Actions was down, overdue shorts drip out one per hourly run instead of all at once. 0 = no limit.
 MAX_SHORTS_PER_RUN = int(os.environ.get("MAX_SHORTS_PER_RUN", "") or 1)
 
-# TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile with
-# auto_add_music; "draft" sends each one to the TikTok inbox (needs the TikTok phone app on its latest
+# Phone push (ntfy.sh) each time a feed post goes live on Instagram, so Samson can add music
+# in the app (post -> Edit -> Add music). The API can't attach Instagram library music.
+# Set the secret NTFY_TOPIC to a long random name and subscribe to it in the ntfy app. Empty = off.
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
+NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/")
+
+# TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile (no
+# auto-added sound, see TIKTOK_AUTO_MUSIC); "draft" sends each one to the TikTok inbox (needs the TikTok phone app on its latest
 # version) so a sound can be added before posting. A post's "tiktok_mode" overrides it.
-TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "direct"
+TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "draft"  # Samson 2026-10-05: drafts, Gemini picks a saved sound
+# Let TikTok pick a random sound for direct photo posts? Off (Samson, 2026-10-05: the picks can be anything).
+TIKTOK_AUTO_MUSIC = (os.environ.get("TIKTOK_AUTO_MUSIC", "") or "0") == "1"
 
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"

@@ -38,6 +38,14 @@ def _get(path, **params):
     return data
 
 
+def permalink(media_id):
+    """Public link to a published post (None if Instagram doesn't return one)."""
+    try:
+        return _get(media_id, fields="permalink").get("permalink")
+    except InstagramError:
+        return None
+
+
 def _wait_ready(container_id, tries=20, delay=3):
     for _ in range(tries):
         status = _get(container_id, fields="status_code").get("status_code")

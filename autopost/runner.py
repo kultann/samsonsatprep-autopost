@@ -258,9 +258,15 @@ def post_one(p, platform, tok):
                 return tiktok.publish_video(tok.tiktok(), path, tt_description(p),
                                             cover_ms=p.get("cover_time_ms"), ai_label=p.get("ai_label", True),
                                             mode=p.get("tiktok_mode", "direct"))
-        return tiktok.publish_photos(tok.tiktok(), public_urls(p, "slides_tiktok"),
-                                     p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p),
-                                     mode=p.get("tiktok_mode", config.TIKTOK_PHOTO_MODE))
+        try:
+            return tiktok.publish_photos(tok.tiktok(), public_urls(p, "slides_tiktok"),
+                                         p.get("tiktok_title", p["caption"].split("\n")[0]), tt_description(p),
+                                         mode=p.get("tiktok_mode", config.TIKTOK_PHOTO_MODE))
+        except tiktok.TikTokError as e:
+            if "too_many_pending_share" in str(e):  # inbox full of unposted drafts: wait, don't fail
+                print(f"WAIT {p['id']} -> tiktok: TikTok inbox has the max unposted drafts; retrying next run")
+                return None
+            raise
     if platform == "youtube" and short:
         title, desc, keywords = yt_fields(p)
         # trending-audio shorts send the clean mix to TikTok drafts; YouTube gets the full mix
@@ -268,6 +274,24 @@ def post_one(p, platform, tok):
             return youtube.upload_short(tok.youtube(), path, title, desc, keywords,
                                         synthetic=p.get("youtube", {}).get("synthetic_media", False))
     raise ValueError(f"unknown platform {platform}")
+
+
+def notify_music(p, media_id):
+    """Push a phone notification (ntfy) when a feed post goes live on Instagram, so music can
+    be added in the app (post -> Edit -> Add music). Never breaks posting."""
+    if not config.NTFY_TOPIC or config.DRY_RUN:
+        return
+    try:
+        link = instagram.permalink(media_id)
+        hook = (p.get("caption") or "").split("\n")[0][:150]
+        headers = {"Title": "Add music to the new Instagram post", "Tags": "musical_note"}
+        if link:
+            headers["Click"] = link
+        body = f"{hook}\n\nTap to open it, then ... > Edit > Add music."
+        requests.post(f"{config.NTFY_SERVER}/{config.NTFY_TOPIC}", data=body.encode("utf-8"),
+                      headers=headers, timeout=15)
+    except Exception as e:  # a missed reminder must never fail a run
+        print(f"WARN music reminder for {p['id']} failed: {e}")
 
 
 def prune_videos(posts, state, now):
@@ -328,6 +352,8 @@ def run(now=None):
                     "at": max(now, datetime.now(timezone.utc)).isoformat(timespec="seconds"),
                 }
                 print(f"POSTED {p['id']} -> {platform} ({media_id})")
+                if platform == "instagram" and p["type"] != "short":
+                    notify_music(p, media_id)
             except Exception as e:  # keep going with the other posts
                 failures += 1
                 print(f"FAILED {p['id']} -> {platform}: {e}")
