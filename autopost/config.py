@@ -50,7 +50,8 @@ TIKTOK_APP_COOLDOWN_HOURS = float(os.environ.get("TIKTOK_APP_COOLDOWN_HOURS", ""
 # Space out Instagram posts (feed AND Reels, 2026-10-06 after two flags): at most one per run and at
 # least this many minutes apart, so a
 # backlog drips out instead of posting in a burst (bursts on a new account look automated).
-IG_FEED_MIN_GAP_MINUTES = float(os.environ.get("IG_FEED_MIN_GAP_MINUTES", "") or 45)
+# 40 min with runs every 15 min (cron-job.org) = one Instagram post about every 45 min.
+IG_FEED_MIN_GAP_MINUTES = float(os.environ.get("IG_FEED_MIN_GAP_MINUTES", "") or 40)
 NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/")
 
 # TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile (no
