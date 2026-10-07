@@ -232,10 +232,10 @@ def save_cooldowns(cool):
     path.write_text(json.dumps(cool, indent=2, sort_keys=True) + "\n")
 
 
-def last_ig_feed_post(posts, state):
-    feed = {p["id"] for p in posts if p.get("type") != "short"}
-    times = [datetime.fromisoformat(v["instagram"]["at"]) for k, v in state.items()
-             if k in feed and isinstance(v, dict) and "instagram" in v]
+def last_ig_post(state):
+    """Time of the most recent Instagram publish (feed post or Reel)."""
+    times = [datetime.fromisoformat(v["instagram"]["at"]) for v in state.values()
+             if isinstance(v, dict) and isinstance(v.get("instagram"), dict) and "at" in v["instagram"]]
     return max(times) if times else None
 
 
@@ -367,7 +367,7 @@ def run(now=None):
     tok = Tokens()
     cool = load_cooldowns()
     cool_before = json.dumps(cool, sort_keys=True)
-    last_feed = last_ig_feed_post(posts, state)
+    last_ig = last_ig_post(state)
     feed_gap = timedelta(minutes=config.IG_FEED_MIN_GAP_MINUTES)
     for p, pending in due:
         if p["type"] == "short" and cap and shorts_posted >= cap:
@@ -380,8 +380,8 @@ def run(now=None):
                 print(f"WAIT {p['id']} -> {platform}: paused until {rec['until']} ({rec['reason']})")
                 continue
             ig_feed = platform == "instagram" and p["type"] != "short"
-            if ig_feed and last_feed and now - last_feed < feed_gap:
-                print(f"LATER {p['id']} -> instagram: feed posts are spaced "
+            if platform == "instagram" and last_ig and now - last_ig < feed_gap:
+                print(f"LATER {p['id']} -> instagram: Instagram posts (feed + Reels) are spaced "
                       f"{config.IG_FEED_MIN_GAP_MINUTES:g} min apart")
                 continue
             try:
@@ -396,8 +396,9 @@ def run(now=None):
                 }
                 cool.pop(platform, None)  # it works again
                 print(f"POSTED {p['id']} -> {platform} ({media_id})")
+                if platform == "instagram":
+                    last_ig = now  # one Instagram post per run; the gap is measured from here
                 if ig_feed:
-                    last_feed = now  # one feed post per run; the gap is measured from here
                     notify_music(p, media_id)
             except Exception as e:  # keep going with the other posts
                 print(f"FAILED {p['id']} -> {platform}: {e}")

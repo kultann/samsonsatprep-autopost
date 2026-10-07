@@ -47,7 +47,8 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 COOLDOWN_FILE = os.environ.get("COOLDOWN_FILE", "state/cooldown.json")
 IG_BLOCK_COOLDOWN_HOURS = float(os.environ.get("IG_BLOCK_COOLDOWN_HOURS", "") or 6)
 TIKTOK_APP_COOLDOWN_HOURS = float(os.environ.get("TIKTOK_APP_COOLDOWN_HOURS", "") or 3)
-# Space out Instagram feed posts: at most one per run and at least this many minutes apart, so a
+# Space out Instagram posts (feed AND Reels, 2026-10-06 after two flags): at most one per run and at
+# least this many minutes apart, so a
 # backlog drips out instead of posting in a burst (bursts on a new account look automated).
 IG_FEED_MIN_GAP_MINUTES = float(os.environ.get("IG_FEED_MIN_GAP_MINUTES", "") or 45)
 NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/")
