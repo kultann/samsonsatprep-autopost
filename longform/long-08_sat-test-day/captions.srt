@@ -1,0 +1,838 @@
+1
+00:00:00,320 --> 00:00:04,770
+Most test day problems have
+nothing to do with math or grammar.
+
+2
+00:00:04,920 --> 00:00:06,490
+A missing ID.
+
+3
+00:00:06,680 --> 00:00:08,140
+A dead laptop.
+
+4
+00:00:08,160 --> 00:00:10,299
+A phone that buzzes in a bag.
+
+5
+00:00:10,319 --> 00:00:14,180
+This video walks through the
+whole SAT test day in order,
+
+6
+00:00:14,200 --> 00:00:16,340
+from packing your bag
+to getting your scores,
+
+7
+00:00:16,360 --> 00:00:18,410
+so nothing catches you off guard.
+
+8
+00:00:18,849 --> 00:00:24,339
+The rules and times in this video come
+from College Board's own test day pages.
+
+9
+00:00:24,369 --> 00:00:27,549
+The pacing and reset tips are advice,
+
+10
+00:00:27,569 --> 00:00:28,779
+not rules.
+
+11
+00:00:28,809 --> 00:00:33,228
+Details can change, so give those
+pages a quick look before your test,
+
+12
+00:00:33,248 --> 00:00:34,248
+too.
+
+13
+00:00:34,473 --> 00:00:36,013
+Start with the must-bring list.
+
+14
+00:00:36,033 --> 00:00:41,203
+Your testing device, fully charged, with
+Bluebook installed and exam setup done.
+
+15
+00:00:41,353 --> 00:00:45,733
+Exam setup happens in Bluebook
+one to five days before the test,
+
+16
+00:00:45,753 --> 00:00:48,403
+and it's what gives you
+your admission ticket.
+
+17
+00:00:48,844 --> 00:00:51,543
+Next, your up-to-date admission ticket.
+
+18
+00:00:51,563 --> 00:00:54,784
+College Board says a
+printed ticket is preferred.
+
+19
+00:00:54,804 --> 00:00:59,544
+Then an acceptable photo ID,
+pencils or pens for scratch work,
+
+20
+00:00:59,564 --> 00:01:02,383
+and your College Board
+username and password,
+
+21
+00:01:02,403 --> 00:01:04,854
+because you'll sign in at the test center.
+
+22
+00:01:05,333 --> 00:01:08,433
+Your ID is where students get turned away.
+
+23
+00:01:08,453 --> 00:01:12,433
+It has to be a physical ID,
+not a photo on your phone,
+
+24
+00:01:12,453 --> 00:01:14,463
+and it can't be expired.
+
+25
+00:01:14,533 --> 00:01:19,273
+A driver's license, a passport, or an
+ID from the school you attend now can
+
+26
+00:01:19,293 --> 00:01:20,113
+work.
+
+27
+00:01:20,133 --> 00:01:22,223
+Temporary IDs don't.
+
+28
+00:01:22,648 --> 00:01:26,228
+The name on it has to match
+your admission ticket exactly.
+
+29
+00:01:26,248 --> 00:01:30,867
+College Board's own example: you can't
+use a nickname on one and your full name
+
+30
+00:01:30,887 --> 00:01:31,828
+on the other.
+
+31
+00:01:31,848 --> 00:01:36,588
+And if you forget your ID, staff don't
+have to hold your seat while you go get
+
+32
+00:01:36,608 --> 00:01:37,485
+it.
+
+33
+00:01:37,505 --> 00:01:39,195
+About calculators.
+
+34
+00:01:39,985 --> 00:01:44,205
+College Board's bring list
+includes an acceptable calculator,
+
+35
+00:01:44,225 --> 00:01:48,005
+but Bluebook has a Desmos
+calculator built in,
+
+36
+00:01:48,025 --> 00:01:52,835
+and College Board's calculator policy
+says calculators aren't required.
+
+37
+00:01:52,855 --> 00:01:55,475
+If you bring your own, it
+has to be an approved model,
+
+38
+00:01:55,495 --> 00:01:59,675
+and calculators with a computer
+algebra system aren't allowed.
+
+39
+00:01:59,695 --> 00:02:02,344
+Bring one you already know, not a new one.
+
+40
+00:02:02,855 --> 00:02:06,915
+Nice to have: a charging
+cable or portable charger,
+
+41
+00:02:06,935 --> 00:02:11,945
+a watch with no audible alarm,
+a drink or snack for the break,
+
+42
+00:02:12,014 --> 00:02:15,104
+a bag, and a backup
+device if you have one.
+
+43
+00:02:15,215 --> 00:02:18,555
+College Board recommends the
+charger but can't promise an outlet,
+
+44
+00:02:18,575 --> 00:02:21,385
+so charge fully the night before anyway.
+
+45
+00:02:21,798 --> 00:02:25,097
+Now what stays home,
+or at least stays off.
+
+46
+00:02:25,117 --> 00:02:27,698
+Phones, smartwatches, fitness trackers,
+
+47
+00:02:27,718 --> 00:02:32,687
+wireless earbuds, separate timers, and
+any notes or books are all prohibited.
+
+48
+00:02:33,088 --> 00:02:37,388
+If you bring your phone, staff will either
+collect it or have you put it in your
+
+49
+00:02:37,408 --> 00:02:41,027
+bag away from your desk,
+and that includes breaks.
+
+50
+00:02:41,047 --> 00:02:44,668
+And if a prohibited device makes noise,
+
+51
+00:02:44,688 --> 00:02:47,348
+or you're seen with it, even on a break,
+
+52
+00:02:47,368 --> 00:02:50,588
+you can be dismissed and
+your scores can be canceled.
+
+53
+00:02:50,608 --> 00:02:52,858
+That's a lot to risk for a phone.
+
+54
+00:02:53,289 --> 00:02:54,859
+Test morning.
+
+55
+00:02:54,889 --> 00:02:58,149
+Close and reopen Bluebook
+before you leave.
+
+56
+00:02:58,169 --> 00:03:02,549
+College Board says that's how you check
+for last-minute messages and updated
+
+57
+00:03:02,569 --> 00:03:04,259
+test center information.
+
+58
+00:03:04,789 --> 00:03:08,249
+Test centers open at 7:45 in the morning,
+
+59
+00:03:08,269 --> 00:03:12,689
+and doors close at eight, unless
+your admission ticket says otherwise.
+
+60
+00:03:12,709 --> 00:03:15,328
+If you're borrowing a
+device from College Board,
+
+61
+00:03:15,348 --> 00:03:17,609
+arrive at 7:15.
+
+62
+00:03:17,629 --> 00:03:21,879
+Testing usually starts between
+eight fifteen and eight thirty.
+
+63
+00:03:22,324 --> 00:03:26,534
+In the testing room, the proctor
+checks your ID and checks you in.
+
+64
+00:03:26,604 --> 00:03:28,254
+Your seat is assigned.
+
+65
+00:03:28,524 --> 00:03:31,094
+You'll connect to the center's Wi-Fi,
+
+66
+00:03:31,204 --> 00:03:35,064
+open Bluebook, sign in, and
+follow the check-in steps,
+
+67
+00:03:35,084 --> 00:03:37,334
+which include clearing your desk.
+
+68
+00:03:37,874 --> 00:03:41,653
+The proctor reads a short script,
+collects any devices that aren't allowed,
+
+69
+00:03:41,673 --> 00:03:43,444
+and gives you a start code.
+
+70
+00:03:43,674 --> 00:03:45,973
+Scratch paper comes
+from the testing staff,
+
+71
+00:03:45,993 --> 00:03:47,804
+and they collect it at the end.
+
+72
+00:03:48,033 --> 00:03:50,724
+Enter the start code, and the test begins.
+
+73
+00:03:51,162 --> 00:03:53,381
+Before the first
+question, know your tools.
+
+74
+00:03:53,401 --> 00:03:57,262
+You can try all of them ahead of
+time in Bluebook's test preview,
+
+75
+00:03:57,282 --> 00:04:02,172
+which is untimed, so none of
+this should be new on test day.
+
+76
+00:04:02,670 --> 00:04:05,369
+At the top, there's a timer
+for each part of the test.
+
+77
+00:04:05,389 --> 00:04:09,610
+You can hide it, and Bluebook
+alerts you when five minutes remain.
+
+78
+00:04:09,630 --> 00:04:14,399
+If the clock makes you anxious, hide
+it and check it at set points instead.
+
+79
+00:04:14,859 --> 00:04:19,159
+Mark for review puts a bookmark on
+any question you want to come back to.
+
+80
+00:04:19,179 --> 00:04:22,998
+The option eliminator lets you cross
+out choices you think are wrong,
+
+81
+00:04:23,018 --> 00:04:24,398
+and you can undo it.
+
+82
+00:04:24,418 --> 00:04:28,949
+Highlights and notes let you highlight
+text or leave yourself a note.
+
+83
+00:04:29,459 --> 00:04:32,039
+On math, you get the Desmos calculator,
+
+84
+00:04:32,059 --> 00:04:34,319
+which you can drag anywhere on the screen,
+
+85
+00:04:34,339 --> 00:04:37,319
+and a reference sheet of common formulas.
+
+86
+00:04:37,339 --> 00:04:43,438
+There's also a line reader, zoom, and a
+question menu that shows which questions
+
+87
+00:04:43,458 --> 00:04:46,669
+you skipped or marked, so you
+can jump straight to them.
+
+88
+00:04:47,154 --> 00:04:49,614
+The first section is Reading and Writing.
+
+89
+00:04:49,634 --> 00:04:52,534
+It's two modules of
+thirty-two minutes each,
+
+90
+00:04:52,554 --> 00:04:55,204
+with twenty-seven questions per module.
+
+91
+00:04:55,393 --> 00:04:58,244
+That's about seventy-one
+seconds a question.
+
+92
+00:04:58,667 --> 00:05:01,926
+A simple checkpoint: when half
+the module's time is gone,
+
+93
+00:05:01,946 --> 00:05:04,327
+you want to be around question fourteen.
+
+94
+00:05:04,347 --> 00:05:08,966
+If you're well behind that, stop
+rereading every passage twice.
+
+95
+00:05:08,986 --> 00:05:11,236
+Mark the hard ones and keep moving.
+
+96
+00:05:11,683 --> 00:05:16,463
+Inside a module, you can move back and
+forth and return to anything you marked.
+
+97
+00:05:16,483 --> 00:05:20,092
+But once you move on from a
+module, you can't go back to it.
+
+98
+00:05:20,242 --> 00:05:25,662
+So before time runs out, open the question
+menu and make sure every question has
+
+99
+00:05:25,682 --> 00:05:26,682
+an answer.
+
+100
+00:05:27,098 --> 00:05:28,308
+Why no blanks?
+
+101
+00:05:28,658 --> 00:05:31,438
+College Board says there's
+no penalty for guessing,
+
+102
+00:05:31,458 --> 00:05:34,838
+and that it's better to guess
+than leave a question blank.
+
+103
+00:05:34,858 --> 00:05:37,758
+Eliminate what you can,
+pick from what's left,
+
+104
+00:05:37,778 --> 00:05:38,827
+and move on.
+
+105
+00:05:39,312 --> 00:05:41,812
+Then module two starts.
+
+106
+00:05:41,832 --> 00:05:45,212
+There's no scheduled
+break between modules.
+
+107
+00:05:45,232 --> 00:05:51,282
+Each module is timed separately, so
+module two gets its own full clock.
+
+108
+00:05:51,731 --> 00:05:56,911
+Module two is harder or easier
+depending on how you did in module one.
+
+109
+00:05:56,931 --> 00:05:58,791
+Don't try to figure out which one you got.
+
+110
+00:05:58,811 --> 00:06:02,350
+If it feels hard, that can
+mean module one went well.
+
+111
+00:06:02,370 --> 00:06:06,060
+Either way, the only thing that
+helps now is the next question.
+
+112
+00:06:06,537 --> 00:06:10,787
+If module one felt rough,
+reset before you start.
+
+113
+00:06:10,857 --> 00:06:12,557
+Take one slow breath.
+
+114
+00:06:12,577 --> 00:06:14,556
+Put your pencil down for a second.
+
+115
+00:06:14,576 --> 00:06:18,397
+Then read the first question of module
+two like it's the first question of the
+
+116
+00:06:18,417 --> 00:06:19,237
+day.
+
+117
+00:06:19,257 --> 00:06:21,836
+Your section score counts both modules,
+
+118
+00:06:21,856 --> 00:06:24,907
+so one rough module doesn't decide it.
+
+119
+00:06:25,421 --> 00:06:28,320
+After Reading and Writing
+comes the one scheduled break:
+
+120
+00:06:28,340 --> 00:06:29,510
+ten minutes.
+
+121
+00:06:29,541 --> 00:06:31,041
+Leave your device open.
+
+122
+00:06:31,061 --> 00:06:32,361
+Don't close it.
+
+123
+00:06:32,381 --> 00:06:34,990
+And keep your ID with you the whole time.
+
+124
+00:06:35,460 --> 00:06:36,280
+Use the break.
+
+125
+00:06:36,300 --> 00:06:40,240
+Eat your snack, drink some
+water, stand up and stretch.
+
+126
+00:06:40,260 --> 00:06:42,920
+Your phone stays off-limits, even now,
+
+127
+00:06:42,940 --> 00:06:46,360
+and if you brought a calculator,
+it stays on your desk.
+
+128
+00:06:46,380 --> 00:06:51,079
+And don't spend the break replaying
+Reading and Writing questions.
+
+129
+00:06:51,099 --> 00:06:52,800
+That section is done.
+
+130
+00:06:52,820 --> 00:06:54,870
+Math is the only thing left.
+
+131
+00:06:55,327 --> 00:06:58,747
+You can take an extra, unscheduled
+break if you really need one.
+
+132
+00:06:58,767 --> 00:07:02,217
+But you'll lose testing time,
+so save it for a real emergency.
+
+133
+00:07:02,657 --> 00:07:04,876
+The second section is Math.
+
+134
+00:07:04,896 --> 00:07:07,237
+Two modules of thirty-five minutes each,
+
+135
+00:07:07,257 --> 00:07:09,907
+with twenty-two questions per module.
+
+136
+00:07:09,937 --> 00:07:12,867
+That's about ninety-five
+seconds a question.
+
+137
+00:07:12,976 --> 00:07:18,187
+Most are multiple choice, and some
+ask you to type in your own answer.
+
+138
+00:07:18,632 --> 00:07:23,362
+At an even pace, you'd reach question
+eleven when half the time is gone.
+
+139
+00:07:23,672 --> 00:07:26,492
+Math questions go from easiest to hardest,
+
+140
+00:07:26,512 --> 00:07:28,372
+so try to be a little ahead of that.
+
+141
+00:07:28,392 --> 00:07:32,802
+If a question has eaten about two
+minutes and you still don't have a plan,
+
+142
+00:07:32,951 --> 00:07:36,002
+mark it, guess, and come
+back if there's time.
+
+143
+00:07:36,450 --> 00:07:40,470
+Use Desmos where it's faster:
+finding where two graphs cross,
+
+144
+00:07:40,490 --> 00:07:45,069
+finding x intercepts, and checking
+an answer you got by hand.
+
+145
+00:07:45,089 --> 00:07:47,870
+And on questions where
+you type the answer,
+
+146
+00:07:47,890 --> 00:07:51,420
+reread what the question
+asks for before you enter it.
+
+147
+00:07:51,890 --> 00:07:54,870
+If you finish a module early,
+there's no prize for that.
+
+148
+00:07:54,890 --> 00:07:57,230
+You can't submit the test early anyway.
+
+149
+00:07:57,250 --> 00:08:00,109
+So spend the extra time
+on your marked questions,
+
+150
+00:08:00,129 --> 00:08:04,390
+then recheck anything where you might
+have dropped a sign or misread the
+
+151
+00:08:04,410 --> 00:08:05,410
+question.
+
+152
+00:08:05,786 --> 00:08:10,166
+When the test ends, your answers
+are submitted automatically.
+
+153
+00:08:10,186 --> 00:08:15,446
+Don't close your device or turn off the
+screen until you see the Congratulations
+
+154
+00:08:15,466 --> 00:08:16,466
+screen.
+
+155
+00:08:16,735 --> 00:08:19,465
+If the submission fails, don't panic.
+
+156
+00:08:19,534 --> 00:08:21,755
+Your answers are saved to your device,
+
+157
+00:08:21,775 --> 00:08:25,425
+and you have until the end
+of the next day to resubmit.
+
+158
+00:08:25,455 --> 00:08:27,995
+Then the proctor collects
+your scratch paper,
+
+159
+00:08:28,015 --> 00:08:31,194
+returns your things, and
+dismisses you quietly,
+
+160
+00:08:31,214 --> 00:08:33,465
+since others may still be testing.
+
+161
+00:08:33,931 --> 00:08:35,111
+Now scores.
+
+162
+00:08:35,131 --> 00:08:40,391
+College Board says most weekend scores
+come out two to four weeks after test
+
+163
+00:08:40,411 --> 00:08:45,671
+day, and it lists the exact release
+date for each test on its score release
+
+164
+00:08:45,691 --> 00:08:46,751
+dates page.
+
+165
+00:08:46,771 --> 00:08:50,061
+You'll see them by signing in
+to your College Board account.
+
+166
+00:08:50,501 --> 00:08:54,921
+Your total score is on a scale from
+four hundred to sixteen hundred.
+
+167
+00:08:54,941 --> 00:08:58,440
+It's made of a Reading and
+Writing score and a Math score,
+
+168
+00:08:58,460 --> 00:09:01,111
+each from two hundred to eight hundred.
+
+169
+00:09:01,542 --> 00:09:02,592
+One more thing.
+
+170
+00:09:02,942 --> 00:09:09,362
+When you register for a weekend SAT,
+you can send your scores to up to four
+
+171
+00:09:09,382 --> 00:09:12,512
+organizations, like colleges, for free.
+
+172
+00:09:12,541 --> 00:09:18,282
+And you have until nine days after the
+test to use or change those free sends.
+
+173
+00:09:18,302 --> 00:09:21,312
+So decide before that window closes.
+
+174
+00:09:21,771 --> 00:09:24,981
+So, the short version.
+
+175
+00:09:25,251 --> 00:09:27,981
+Exam setup done and ticket printed.
+
+176
+00:09:28,011 --> 00:09:29,790
+A physical ID that matches.
+
+177
+00:09:29,810 --> 00:09:31,271
+Device charged.
+
+178
+00:09:31,291 --> 00:09:32,910
+Phone put away.
+
+179
+00:09:32,930 --> 00:09:35,020
+Arrive by 7:45.
+
+180
+00:09:35,451 --> 00:09:39,271
+Then use your tools, mark and
+move, never leave a blank,
+
+181
+00:09:39,291 --> 00:09:41,501
+and reset between modules.
+
+182
+00:09:41,930 --> 00:09:46,430
+Next in this series: all
+nineteen SAT math skills,
+
+183
+00:09:46,450 --> 00:09:48,380
+explained one by one.
+
+184
+00:09:48,570 --> 00:09:50,469
+If this helped, subscribe.
+
+185
+00:09:50,489 --> 00:09:52,020
+Good luck on test day.

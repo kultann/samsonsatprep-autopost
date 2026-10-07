@@ -1,0 +1,30 @@
+{
+  "id": "long-20_circles",
+  "type": "longform",
+  "order": 20,
+  "publish_at": "2026-11-19T16:00:00-06:00",
+  "video": "20_circles.mp4",
+  "video_bytes": 146914185,
+  "title": "SAT Circles: Equations, Arcs, and Radians",
+  "description": "Circle questions on the SAT follow a handful of patterns. This lesson covers the one fact you need for each, then works through 7 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• The circle equation: center, radius, and the sign flip\n• Completing the square when the equation is expanded\n• Arc length and sector area as a fraction of the circle\n• Converting between degrees and radians (and when s = rθ works)\n• Central vs. inscribed angles, and why a tangent is perpendicular to the radius\n• A test-day checklist for any circle question\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Geometry and Trigonometry → Circles).\n\nCHAPTERS\n0:00 Intro\n0:40 The circle equation\n1:24 Arcs, sectors, and radians\n2:35 Inscribed angles and tangents\n3:11 How the SAT tests circles\n3:45 Question 1: Center and radius\n4:33 Question 2: Arc length\n5:23 Question 3: Degrees to radians\n6:11 Question 4: Inscribed angles\n7:11 Question 5: Completing the square\n8:41 Question 6: Tangent lines\n10:17 Question 7: Sector area in radians\n11:43 Test-day checklist\n12:20 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT circles",
+    "SAT circle equation",
+    "completing the square circle",
+    "arc length SAT",
+    "sector area",
+    "radians SAT",
+    "inscribed angle",
+    "digital SAT math",
+    "SAT geometry",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/20_circles",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

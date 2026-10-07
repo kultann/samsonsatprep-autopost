@@ -1,0 +1,925 @@
+1
+00:00:00,320 --> 00:00:06,530
+Exponential functions show up
+all over the SAT math section.
+
+2
+00:00:06,640 --> 00:00:10,740
+A population that grows
+by a percent each year.
+
+3
+00:00:10,760 --> 00:00:12,900
+A car that loses value.
+
+4
+00:00:12,920 --> 00:00:15,129
+A substance with a half-life.
+
+5
+00:00:15,160 --> 00:00:19,460
+They all use the same form, and
+once you can read that form,
+
+6
+00:00:19,480 --> 00:00:22,410
+most of these questions get much faster.
+
+7
+00:00:22,818 --> 00:00:27,548
+The most common mistake is mixing
+up the rate and the factor.
+
+8
+00:00:27,978 --> 00:00:31,998
+If something keeps sixty
+percent of its value each year,
+
+9
+00:00:32,018 --> 00:00:35,318
+it's decreasing by forty
+percent, not sixty.
+
+10
+00:00:35,338 --> 00:00:38,638
+We'll fix that, then work
+through six practice questions,
+
+11
+00:00:38,658 --> 00:00:42,548
+from quick reads to two hard
+ones on equivalent forms.
+
+12
+00:00:43,068 --> 00:00:48,758
+Here's the form: y equals
+a times b to the t.
+
+13
+00:00:49,348 --> 00:00:52,768
+a is the starting value,
+the amount when t is zero.
+
+14
+00:00:52,788 --> 00:00:58,038
+b is the growth factor, the number you
+multiply by every time t goes up by one.
+
+15
+00:00:58,481 --> 00:01:01,700
+If b is greater than
+one, the quantity grows.
+
+16
+00:01:01,720 --> 00:01:03,541
+If b is between zero and one, it decays.
+
+17
+00:01:03,561 --> 00:01:04,561
+That's the first thing to check
+on any exponential question.
+
+18
+00:01:04,779 --> 00:01:06,400
+Now the key translation.
+
+19
+00:01:06,419 --> 00:01:10,160
+For growth, b equals one plus the rate.
+
+20
+00:01:10,180 --> 00:01:14,120
+A six percent increase
+means b is one point oh six.
+
+21
+00:01:14,139 --> 00:01:17,720
+For decay, b equals one minus the rate.
+
+22
+00:01:17,740 --> 00:01:21,910
+A six percent decrease means
+b is zero point nine four.
+
+23
+00:01:22,430 --> 00:01:25,850
+And going backwards:
+if b is one point two,
+
+24
+00:01:25,870 --> 00:01:29,370
+the quantity increases by
+twenty percent each period.
+
+25
+00:01:29,390 --> 00:01:34,200
+If b is zero point seven five, it
+decreases by twenty-five percent.
+
+26
+00:01:34,509 --> 00:01:37,370
+Subtract from one to find the decrease.
+
+27
+00:01:37,390 --> 00:01:39,440
+Don't read the decimal as the rate.
+
+28
+00:01:39,887 --> 00:01:44,697
+The SAT also asks you to
+tell exponential from linear.
+
+29
+00:01:44,807 --> 00:01:47,946
+Linear means you add the
+same amount each step:
+
+30
+00:01:47,966 --> 00:01:49,776
+a constant difference.
+
+31
+00:01:49,847 --> 00:01:53,587
+Exponential means you multiply
+by the same number each step:
+
+32
+00:01:53,607 --> 00:01:55,216
+a constant ratio.
+
+33
+00:01:55,657 --> 00:01:58,786
+In word problems, listen for the units.
+
+34
+00:01:59,217 --> 00:02:02,827
+Increases by fifty dollars
+each year is linear.
+
+35
+00:02:03,057 --> 00:02:07,077
+Increases by five percent
+each year is exponential,
+
+36
+00:02:07,097 --> 00:02:10,427
+because five percent of a bigger
+amount is a bigger amount.
+
+37
+00:02:10,926 --> 00:02:14,265
+Some quantities don't
+change once per year.
+
+38
+00:02:14,285 --> 00:02:19,746
+A half-life of six days means the amount
+is multiplied by one half every six
+
+39
+00:02:19,766 --> 00:02:20,426
+days.
+
+40
+00:02:20,446 --> 00:02:24,815
+You write that as a times
+one half, to the t over six.
+
+41
+00:02:25,326 --> 00:02:31,186
+The exponent t over six counts how
+many six day periods have passed.
+
+42
+00:02:31,206 --> 00:02:33,785
+After eighteen days, that's three periods,
+
+43
+00:02:33,805 --> 00:02:36,815
+so you multiply by one half three times.
+
+44
+00:02:36,926 --> 00:02:38,746
+Doubling works the same way.
+
+45
+00:02:38,766 --> 00:02:41,986
+Doubling every five hours is a times two,
+
+46
+00:02:42,006 --> 00:02:43,896
+to the t over five.
+
+47
+00:02:44,426 --> 00:02:46,725
+One more idea, for the hardest questions.
+
+48
+00:02:46,745 --> 00:02:49,886
+The same growth can be written
+in different time units,
+
+49
+00:02:49,906 --> 00:02:53,286
+and the exponent tells you
+which unit you're counting.
+
+50
+00:02:53,306 --> 00:02:55,636
+We'll see that in questions four and five.
+
+51
+00:02:56,168 --> 00:02:58,387
+Expect four kinds of questions.
+
+52
+00:02:58,407 --> 00:03:01,618
+Interpret: what does a
+number in the model mean?
+
+53
+00:03:01,848 --> 00:03:04,778
+Build: which function
+matches the description?
+
+54
+00:03:04,888 --> 00:03:07,988
+Compare: is it linear or exponential?
+
+55
+00:03:08,008 --> 00:03:12,898
+And rewrite: which equivalent form
+shows a different rate or time unit?
+
+56
+00:03:13,168 --> 00:03:16,178
+The rewrite questions
+are usually the hardest.
+
+57
+00:03:16,666 --> 00:03:17,916
+Question one.
+
+58
+00:03:17,946 --> 00:03:23,646
+The function V of t equals twenty-four
+hundred times zero point eight five to
+
+59
+00:03:23,666 --> 00:03:30,205
+the t gives the value, in dollars, of a
+laptop t years after it was purchased.
+
+60
+00:03:30,225 --> 00:03:34,756
+Which statement best describes how
+the value of the laptop changes?
+
+61
+00:03:35,201 --> 00:03:36,611
+Pause and try it.
+
+62
+00:03:42,433 --> 00:03:45,093
+The factor is zero point eight five.
+
+63
+00:03:45,113 --> 00:03:48,133
+That's less than one, so the value decays.
+
+64
+00:03:48,153 --> 00:03:51,812
+One minus zero point eight
+five is zero point one five.
+
+65
+00:03:51,832 --> 00:03:54,892
+The value drops by
+fifteen percent each year.
+
+66
+00:03:54,912 --> 00:03:56,723
+The answer is B.
+
+67
+00:03:57,218 --> 00:03:59,678
+A reads the factor as the rate.
+
+68
+00:03:59,698 --> 00:04:04,478
+C and D are dollar amounts, and
+a constant dollar drop is linear.
+
+69
+00:04:04,498 --> 00:04:08,878
+Three hundred sixty dollars is
+fifteen percent of the starting value,
+
+70
+00:04:08,898 --> 00:04:11,238
+but that's only the first year's drop.
+
+71
+00:04:11,258 --> 00:04:14,908
+After that, it's fifteen
+percent of a smaller number.
+
+72
+00:04:14,958 --> 00:04:17,577
+And twenty-four hundred
+is the purchase price,
+
+73
+00:04:17,597 --> 00:04:19,848
+the value when t is zero.
+
+74
+00:04:20,279 --> 00:04:21,569
+Question two.
+
+75
+00:04:21,879 --> 00:04:24,219
+The table shows values of x and y.
+
+76
+00:04:24,239 --> 00:04:25,219
+When x is zero, y is six.
+
+77
+00:04:25,239 --> 00:04:27,779
+When x is one, y is nine.
+
+78
+00:04:27,799 --> 00:04:29,818
+When x is two, y is thirteen point five.
+
+79
+00:04:29,838 --> 00:04:37,179
+And when x is three, y
+is twenty point two five.
+
+80
+00:04:37,199 --> 00:04:43,849
+Which equation could represent
+the relationship between x and y?
+
+81
+00:04:44,339 --> 00:04:45,749
+Pause and try it.
+
+82
+00:04:52,571 --> 00:04:53,991
+Check differences first.
+
+83
+00:04:54,011 --> 00:04:56,711
+Six to nine is plus three.
+
+84
+00:04:56,731 --> 00:05:00,590
+Nine to thirteen point five
+is plus four point five.
+
+85
+00:05:00,610 --> 00:05:03,060
+Not constant, so it isn't linear.
+
+86
+00:05:03,691 --> 00:05:05,231
+Now check ratios.
+
+87
+00:05:05,251 --> 00:05:07,831
+Nine over six is one point five.
+
+88
+00:05:07,851 --> 00:05:10,981
+Thirteen point five over
+nine is one point five.
+
+89
+00:05:11,001 --> 00:05:16,131
+Constant ratio, so it's exponential,
+with b equal to one point five.
+
+90
+00:05:16,671 --> 00:05:19,890
+The starting value is y when x is zero,
+
+91
+00:05:19,910 --> 00:05:21,091
+which is six.
+
+92
+00:05:21,111 --> 00:05:24,931
+So y equals six times
+one point five to the x.
+
+93
+00:05:24,951 --> 00:05:26,810
+The answer is A.
+
+94
+00:05:26,830 --> 00:05:29,810
+B fits only the first two rows.
+
+95
+00:05:29,830 --> 00:05:31,771
+C swaps a and b.
+
+96
+00:05:31,791 --> 00:05:35,611
+And D uses zero point five
+for a fifty percent increase,
+
+97
+00:05:35,631 --> 00:05:37,561
+which would make y shrink.
+
+98
+00:05:38,060 --> 00:05:42,080
+Desmos shortcut: put the table
+in Desmos and type y one,
+
+99
+00:05:42,100 --> 00:05:45,030
+tilde, a times b to the x one.
+
+100
+00:05:45,100 --> 00:05:50,720
+Desmos runs an exponential regression
+and reports a equals six and b equals one
+
+101
+00:05:50,740 --> 00:05:51,789
+point five.
+
+102
+00:05:52,283 --> 00:05:53,733
+Question three.
+
+103
+00:05:53,803 --> 00:05:58,733
+A sample of a radioactive substance
+has a mass of eighty grams.
+
+104
+00:05:59,003 --> 00:06:02,333
+The substance has a half-life of six days.
+
+105
+00:06:02,602 --> 00:06:05,703
+Which function gives the mass M of t,
+
+106
+00:06:05,723 --> 00:06:09,493
+in grams, of the substance
+remaining after t days?
+
+107
+00:06:09,963 --> 00:06:11,373
+Pause and try it.
+
+108
+00:06:18,195 --> 00:06:21,525
+The sample starts at
+eighty, so a is eighty.
+
+109
+00:06:21,554 --> 00:06:24,575
+Half-life means multiply by one half.
+
+110
+00:06:24,595 --> 00:06:27,174
+And that happens once every six days,
+
+111
+00:06:27,194 --> 00:06:30,215
+so the exponent is t over six.
+
+112
+00:06:30,235 --> 00:06:32,165
+The answer is D.
+
+113
+00:06:32,592 --> 00:06:36,972
+Quick check: after six
+days, t over six is one,
+
+114
+00:06:36,992 --> 00:06:38,572
+so the mass is forty.
+
+115
+00:06:38,592 --> 00:06:40,162
+Half of eighty.
+
+116
+00:06:40,272 --> 00:06:44,202
+A would halve the mass
+six times every day.
+
+117
+00:06:44,272 --> 00:06:47,282
+B starts at forty instead of eighty.
+
+118
+00:06:47,312 --> 00:06:50,652
+And C turns the six into
+a six percent decrease,
+
+119
+00:06:50,672 --> 00:06:53,002
+which isn't what half-life means.
+
+120
+00:06:53,542 --> 00:06:54,642
+Question four.
+
+121
+00:06:54,662 --> 00:07:00,562
+The function f of t equals fifteen
+hundred times one point oh eight to the t
+
+122
+00:07:00,582 --> 00:07:05,072
+models a quantity t years
+after it was first measured.
+
+123
+00:07:05,302 --> 00:07:09,512
+By what percent does the quantity
+increase every two years?
+
+124
+00:07:09,940 --> 00:07:11,350
+Pause and try it.
+
+125
+00:07:18,172 --> 00:07:22,261
+Each year multiplies the
+quantity by one point oh eight.
+
+126
+00:07:22,492 --> 00:07:26,592
+Two years means multiplying
+twice: one point oh eight squared,
+
+127
+00:07:26,612 --> 00:07:29,592
+which is one point one six six four.
+
+128
+00:07:29,612 --> 00:07:33,551
+That's an increase of sixteen
+point six four percent.
+
+129
+00:07:33,571 --> 00:07:35,262
+The answer is C.
+
+130
+00:07:35,696 --> 00:07:38,356
+The trap is B, sixteen percent.
+
+131
+00:07:38,376 --> 00:07:42,626
+Eight plus eight seems right,
+but percent growth compounds.
+
+132
+00:07:42,696 --> 00:07:46,306
+The second year's eight percent
+applies to a bigger amount.
+
+133
+00:07:46,335 --> 00:07:48,636
+D reads the factor as the percent.
+
+134
+00:07:48,656 --> 00:07:53,516
+In fact, you could rewrite this function
+as fifteen hundred times one point one
+
+135
+00:07:53,536 --> 00:07:56,206
+six six four, to the t over two.
+
+136
+00:07:56,226 --> 00:07:59,836
+Same function, counted
+in two-year periods.
+
+137
+00:08:00,346 --> 00:08:01,606
+Question five.
+
+138
+00:08:01,626 --> 00:08:07,886
+The balance B of t, in dollars, of a
+savings account is modeled by B of t equals
+
+139
+00:08:07,906 --> 00:08:11,805
+two thousand times one
+point oh six to the t,
+
+140
+00:08:11,825 --> 00:08:15,436
+where t is the number of years
+since the account was opened.
+
+141
+00:08:15,745 --> 00:08:20,676
+Which function models the balance m
+months after the account was opened?
+
+142
+00:08:21,196 --> 00:08:22,606
+Pause and try it.
+
+143
+00:08:30,428 --> 00:08:32,528
+Translate months into years.
+
+144
+00:08:32,548 --> 00:08:36,728
+Twelve months is one year, so m
+months is m over twelve years.
+
+145
+00:08:36,748 --> 00:08:41,928
+Replace t with m over twelve: two
+thousand times one point oh six,
+
+146
+00:08:41,948 --> 00:08:43,807
+to the m over twelve.
+
+147
+00:08:43,827 --> 00:08:45,757
+The answer is A.
+
+148
+00:08:46,200 --> 00:08:48,380
+Check it by plugging in twelve months.
+
+149
+00:08:48,400 --> 00:08:54,179
+In A, twelve over twelve is one, so the
+balance is two thousand times one point
+
+150
+00:08:54,199 --> 00:08:55,100
+oh six.
+
+151
+00:08:55,120 --> 00:08:57,620
+That's one year of growth, which is right.
+
+152
+00:08:57,640 --> 00:09:02,610
+In B, twelve months would make the
+exponent one hundred forty-four.
+
+153
+00:09:02,640 --> 00:09:06,370
+That's a hundred
+forty-four years of growth.
+
+154
+00:09:06,810 --> 00:09:08,310
+C is the tempting one.
+
+155
+00:09:08,330 --> 00:09:12,150
+Six percent a year sounds
+like half a percent a month.
+
+156
+00:09:12,170 --> 00:09:18,230
+But one point oh oh five to the twelfth
+is about one point oh six one seven,
+
+157
+00:09:18,250 --> 00:09:22,070
+not one point oh six, because
+monthly growth compounds.
+
+158
+00:09:22,090 --> 00:09:24,470
+So C isn't equivalent.
+
+159
+00:09:24,490 --> 00:09:28,220
+And D ignores the switch
+to months completely.
+
+160
+00:09:28,641 --> 00:09:30,621
+Last one, and the hardest.
+
+161
+00:09:30,641 --> 00:09:35,981
+The mass, in grams, of a substance is
+modeled by M of t equals one hundred
+
+162
+00:09:36,001 --> 00:09:40,700
+twenty times zero point two
+five, to the t over eight,
+
+163
+00:09:40,720 --> 00:09:44,891
+where t is the number of hours
+since the start of an experiment.
+
+164
+00:09:45,241 --> 00:09:47,501
+What is the half-life of the substance,
+
+165
+00:09:47,521 --> 00:09:48,771
+in hours?
+
+166
+00:09:49,182 --> 00:09:50,402
+Pause and try it.
+
+167
+00:09:50,422 --> 00:09:52,151
+Take a little longer on this one.
+
+168
+00:10:00,955 --> 00:10:05,655
+Zero point two five is one fourth,
+and it applies every eight hours.
+
+169
+00:10:05,675 --> 00:10:09,094
+So every eight hours, the
+mass is cut to a quarter,
+
+170
+00:10:09,114 --> 00:10:10,094
+not a half.
+
+171
+00:10:10,114 --> 00:10:11,775
+That makes eight the trap.
+
+172
+00:10:11,795 --> 00:10:14,934
+Cutting to a quarter is
+the same as halving twice.
+
+173
+00:10:14,954 --> 00:10:19,285
+So one halving takes
+half as long: four hours.
+
+174
+00:10:19,805 --> 00:10:21,015
+Here's the algebra.
+
+175
+00:10:21,285 --> 00:10:24,545
+Rewrite zero point two five as one half,
+
+176
+00:10:24,565 --> 00:10:25,575
+squared.
+
+177
+00:10:25,925 --> 00:10:29,184
+Then one half squared,
+to the t over eight,
+
+178
+00:10:29,204 --> 00:10:34,745
+is one half to the two t over eight,
+which is one half to the t over four.
+
+179
+00:10:34,765 --> 00:10:37,375
+The half-life is four hours.
+
+180
+00:10:37,685 --> 00:10:38,815
+Enter four.
+
+181
+00:10:39,272 --> 00:10:44,812
+Desmos check: graph one hundred
+twenty times zero point two five,
+
+182
+00:10:44,832 --> 00:10:48,731
+to the x over eight, and
+the line y equals sixty,
+
+183
+00:10:48,751 --> 00:10:50,761
+which is half the starting mass.
+
+184
+00:10:50,911 --> 00:10:53,161
+They cross at x equals four.
+
+185
+00:10:53,571 --> 00:10:57,140
+Here's the method for any
+growth or decay question.
+
+186
+00:10:57,251 --> 00:11:00,391
+Step one: find a and b.
+
+187
+00:11:00,411 --> 00:11:01,911
+a is the start.
+
+188
+00:11:01,931 --> 00:11:03,591
+b is the multiplier.
+
+189
+00:11:03,611 --> 00:11:05,991
+Step two: translate b.
+
+190
+00:11:06,011 --> 00:11:09,591
+If it's greater than one, subtract
+one to get the growth rate.
+
+191
+00:11:09,611 --> 00:11:13,781
+If it's less than one, subtract
+it from one to get the decay rate.
+
+192
+00:11:14,245 --> 00:11:16,705
+Step three: read the exponent.
+
+193
+00:11:16,725 --> 00:11:22,654
+t over k means one multiplication
+every k units of time.
+
+194
+00:11:22,685 --> 00:11:25,544
+Step four: when the time unit changes,
+
+195
+00:11:25,564 --> 00:11:29,544
+substitute, then plug in
+an easy value to check.
+
+196
+00:11:29,564 --> 00:11:32,415
+And remember, percent changes compound.
+
+197
+00:11:32,445 --> 00:11:37,455
+Never add them, and never split
+them evenly across shorter periods.
+
+198
+00:11:37,918 --> 00:11:41,858
+That's exponential growth and
+decay: the starting value,
+
+199
+00:11:41,878 --> 00:11:45,937
+the factor, the rate, and the
+exponent that sets the time unit.
+
+200
+00:11:45,957 --> 00:11:49,897
+For more practice, the College Board's
+free Question Bank has plenty of these
+
+201
+00:11:49,917 --> 00:11:51,528
+under Advanced Math.
+
+202
+00:11:52,022 --> 00:11:56,482
+Every question in this video
+was written for this video,
+
+203
+00:11:56,502 --> 00:11:59,352
+in the style of the real test.
+
+204
+00:11:59,382 --> 00:12:01,682
+Next up: SAT statistics.
+
+205
+00:12:01,702 --> 00:12:05,112
+Mean, median, spread, and margin of error.
+
+206
+00:12:05,222 --> 00:12:07,632
+If this helped, subscribe so you catch it.

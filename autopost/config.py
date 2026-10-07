@@ -67,3 +67,25 @@ TIKTOK_AUTO_MUSIC = (os.environ.get("TIKTOK_AUTO_MUSIC", "") or "0") == "1"
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")
 STATE_FILE = os.environ.get("STATE_FILE", "state/posted.json")
+
+# Long-form videos (longform/<id>/post.json), YouTube only. See autopost/longform.py and SETUP.md section 8.
+# OFF until the YouTube API audit passes: uploads from an unverified project are locked private for good,
+# so the bot must not burn the real videos early. "0" = off, "test" = one private [TEST] upload of the
+# first video to check the whole pipeline (delete it in Studio afterwards), "1" = on.
+YT_LONGFORM = (os.environ.get("YT_LONGFORM", "") or "0").strip().lower()
+LONGFORM_DIR = os.environ.get("LONGFORM_DIR", "longform")
+# Upload this many hours before publish_at as a scheduled video (private + publishAt): YouTube finishes HD
+# processing, and there's time to add the Test & Compare B thumbnail in Studio before it goes live.
+LONGFORM_UPLOAD_LEAD_HOURS = float(os.environ.get("LONGFORM_UPLOAD_LEAD_HOURS", "") or 24)
+# Never publish two long videos closer than this. If the schedule is stale (say the audit passed weeks
+# after the planned dates), overdue videos go out one at a time this far apart instead of all at once.
+LONGFORM_MIN_GAP_HOURS = float(os.environ.get("LONGFORM_MIN_GAP_HOURS", "") or 40)
+LONGFORM_MAX_PER_RUN = int(os.environ.get("LONGFORM_MAX_PER_RUN", "") or 1)
+# Where the MP4s live: GitHub caps repo files at 100 MB, so they're assets of a release tagged "longform"
+# in this repo (2 GB per file, no total limit). Override with the repo variable LONGFORM_VIDEO_BASE.
+LONGFORM_VIDEO_BASE = (os.environ.get("LONGFORM_VIDEO_BASE", "") or
+                       "https://github.com/{}/releases/download/longform".format(
+                           os.environ.get("GITHUB_REPOSITORY", "") or "kultann/samsonsatprep-autopost")).rstrip("/")
+# Also upload each video's .srt captions. Needs the youtube.force-ssl scope, which the current login
+# (tools/youtube_auth.py) doesn't have, so it's off; without it YouTube makes automatic captions.
+YT_CAPTIONS = (os.environ.get("YT_CAPTIONS", "") or "0") == "1"

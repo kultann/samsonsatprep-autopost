@@ -1,0 +1,30 @@
+{
+  "id": "long-12_quadratics",
+  "type": "longform",
+  "order": 12,
+  "publish_at": "2026-10-29T16:00:00-05:00",
+  "video": "12_quadratics.mp4",
+  "video_bytes": 170429442,
+  "title": "SAT Quadratics: Vertex, Roots, and the Discriminant",
+  "description": "Quadratics are a core part of Advanced Math on the digital SAT. This lesson shows the three forms of a quadratic and what each one reveals, then works through every common question type with six SAT-style practice questions.\n\nYou'll learn:\n• Standard, factored, and vertex form, and which one to use\n• Factoring and the quadratic formula (plus a Desmos check)\n• The discriminant: two, one, or no real solutions\n• Maximum and minimum word problems\n• The sum and product of the solutions\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Advanced Math).\n\nCHAPTERS\n0:00 Intro\n0:50 The three forms\n2:23 How the SAT tests quadratics\n2:50 Example 1: Factoring\n3:53 Example 2: Which form?\n5:11 The quadratic formula\n6:55 The discriminant\n8:29 Max and min word problems\n10:00 Sum and product of solutions\n12:02 Test-day method\n12:53 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT quadratics",
+    "quadratic equations SAT",
+    "SAT math",
+    "digital SAT math",
+    "vertex form",
+    "discriminant",
+    "quadratic formula",
+    "sum and product of roots",
+    "Desmos SAT",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/12_quadratics",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

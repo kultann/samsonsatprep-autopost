@@ -1,0 +1,35 @@
+{
+  "id": "long-04_last-week-before-sat",
+  "type": "longform",
+  "order": 4,
+  "publish_at": "2026-11-01T16:00:00-06:00",
+  "video": "04_last-week-before-sat.mp4",
+  "video_bytes": 119771966,
+  "title": "The Last Week Before the SAT: A Day-by-Day Plan",
+  "description": "One week until the SAT? Here's exactly what to do each day, from a full practice test seven days out to the morning of the test.\n\nYou'll learn:\n• How to take a practice test in Bluebook that actually tells you something\n• The 4 labels for every missed question (and what each one tells you to do)\n• How to use the free SAT Suite Question Bank for targeted drills\n• A quick Desmos warm-up\n• Exam setup, your admission ticket, ID rules, and what to pack\n• What NOT to do in the last week\n• The night before and test morning\n\nPractice questions in this video are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank and the full-length practice tests in Bluebook. Test-day rules come from College Board's test day pages; check them again before your test, since details can change.\n\nCHAPTERS\n0:00 Intro\n0:34 Day 7: A full practice test\n1:22 Day 6: Review every miss\n3:12 Days 5 and 4: Targeted drills\n4:31 Day 3: Desmos warm-up\n5:57 Day 2: Light review\n6:42 What not to do\n7:15 Day 1: The night before\n8:24 Test morning\n9:10 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATprep",
+  "tags": [
+    "week before the SAT",
+    "SAT study plan",
+    "last week before SAT",
+    "SAT test day",
+    "digital SAT",
+    "Bluebook practice test",
+    "SAT tips",
+    "SAT prep",
+    "night before the SAT",
+    "SAT admission ticket"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/04_last-week-before-sat",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt",
+  "window": {
+    "test_date": "2026-11-07",
+    "lead_days": 6,
+    "required": false
+  }
+}

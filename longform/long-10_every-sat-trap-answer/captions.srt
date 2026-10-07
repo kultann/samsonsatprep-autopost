@@ -1,0 +1,1176 @@
+1
+00:00:00,320 --> 00:00:03,179
+Wrong answers on the SAT aren't random.
+
+2
+00:00:03,199 --> 00:00:08,410
+They're written to be tempting, and the
+same patterns show up again and again.
+
+3
+00:00:08,439 --> 00:00:13,129
+Once you can name the pattern, you
+can spot the trap before you pick it.
+
+4
+00:00:13,554 --> 00:00:17,654
+This video covers fourteen of
+them: seven in Reading and Writing,
+
+5
+00:00:17,674 --> 00:00:23,494
+and seven in Math, each with a
+short original SAT-style example.
+
+6
+00:00:23,514 --> 00:00:25,803
+Try each one before I explain it.
+
+7
+00:00:25,914 --> 00:00:29,363
+If you fall for a trap, now you
+know which one to watch for.
+
+8
+00:00:29,812 --> 00:00:32,352
+Part one: Reading and Writing.
+
+9
+00:00:32,372 --> 00:00:35,222
+Trap one: true but irrelevant.
+
+10
+00:00:35,292 --> 00:00:36,782
+The choice is accurate.
+
+11
+00:00:36,812 --> 00:00:39,022
+It just doesn't answer the
+question that was asked.
+
+12
+00:00:39,962 --> 00:00:41,412
+Here's a notes question.
+
+13
+00:00:41,482 --> 00:00:44,942
+The notes cover the Mariana
+Trench, its deepest point,
+
+14
+00:00:44,962 --> 00:00:48,142
+called the Challenger Deep,
+the height of Mount Everest,
+
+15
+00:00:48,162 --> 00:00:50,771
+and the first people to reach the bottom.
+
+16
+00:00:50,882 --> 00:00:55,421
+The goal: compare the depth of the
+Challenger Deep with the height of Mount
+
+17
+00:00:55,441 --> 00:00:56,441
+Everest.
+
+18
+00:00:56,760 --> 00:00:58,130
+Pause and try it.
+
+19
+00:01:04,895 --> 00:01:07,674
+A, B, and C are all true.
+
+20
+00:01:07,694 --> 00:01:13,274
+But only D compares the two numbers:
+about ten thousand nine hundred meters
+
+21
+00:01:13,294 --> 00:01:18,425
+down, against about eight thousand
+eight hundred fifty meters up.
+
+22
+00:01:18,615 --> 00:01:20,745
+The answer is D.
+
+23
+00:01:21,208 --> 00:01:25,538
+How to beat it: restate the goal
+before you read the choices.
+
+24
+00:01:25,608 --> 00:01:29,497
+Then ask: is it true,
+and does it do that job?
+
+25
+00:01:29,908 --> 00:01:32,408
+Trap two: too extreme.
+
+26
+00:01:32,428 --> 00:01:35,688
+The choice pushes the
+passage further than it goes.
+
+27
+00:01:35,708 --> 00:01:37,608
+A link becomes proof.
+
+28
+00:01:37,628 --> 00:01:39,518
+Often becomes always.
+
+29
+00:01:40,058 --> 00:01:41,058
+Try this.
+
+30
+00:01:41,938 --> 00:01:47,358
+A teacher surveyed students at one high
+school and found that students who read
+
+31
+00:01:47,378 --> 00:01:52,318
+for pleasure at least once a week tended
+to have higher English grades than
+
+32
+00:01:52,338 --> 00:01:55,268
+students who rarely read for pleasure.
+
+33
+00:01:55,769 --> 00:02:00,509
+The survey, however, did not show
+whether the reading habit came before the
+
+34
+00:02:00,529 --> 00:02:03,029
+higher grades or the other way around.
+
+35
+00:02:03,049 --> 00:02:06,179
+The survey's results therefore blank
+
+36
+00:02:06,622 --> 00:02:07,992
+Pause and try it.
+
+37
+00:02:13,757 --> 00:02:17,337
+A says the results prove that
+reading causes better grades.
+
+38
+00:02:17,357 --> 00:02:20,737
+But the survey can't even
+show which came first.
+
+39
+00:02:20,757 --> 00:02:22,976
+Prove is far too strong.
+
+40
+00:02:22,996 --> 00:02:27,296
+C, a link but not proof of cause,
+matches the passage exactly.
+
+41
+00:02:27,316 --> 00:02:28,527
+The answer is C.
+
+42
+00:02:28,966 --> 00:02:32,745
+How to beat it: circle
+strong words like proves,
+
+43
+00:02:32,765 --> 00:02:35,376
+always, never, and only.
+
+44
+00:02:35,486 --> 00:02:38,455
+Then check whether the
+passage is that strong.
+
+45
+00:02:38,903 --> 00:02:41,392
+Trap three: half right.
+
+46
+00:02:41,463 --> 00:02:46,193
+The choice starts out perfect, then adds
+something the passage doesn't support.
+
+47
+00:02:46,608 --> 00:02:48,298
+Here's a main idea question.
+
+48
+00:02:48,567 --> 00:02:53,108
+The name Silk Road suggests a single
+road running from China to the
+
+49
+00:02:53,128 --> 00:02:58,257
+Mediterranean Sea, traveled from end
+to end by merchants carrying silk.
+
+50
+00:02:58,488 --> 00:03:01,378
+Historians today describe
+something different:
+
+51
+00:03:01,528 --> 00:03:05,938
+a vast, shifting network
+of land and sea routes.
+
+52
+00:03:06,508 --> 00:03:10,928
+Along this network, most goods
+traveled only short distances,
+
+53
+00:03:10,948 --> 00:03:15,288
+passing from one merchant to the next
+many times before reaching their final
+
+54
+00:03:15,308 --> 00:03:16,678
+destinations.
+
+55
+00:03:17,111 --> 00:03:18,481
+Pause and try it.
+
+56
+00:03:25,246 --> 00:03:31,306
+A and C start the same way: historians
+now describe the Silk Road as a network
+
+57
+00:03:31,326 --> 00:03:32,466
+of routes.
+
+58
+00:03:32,486 --> 00:03:36,986
+Then C adds that silk was the
+most valuable good traded.
+
+59
+00:03:37,006 --> 00:03:38,815
+The passage never says that.
+
+60
+00:03:38,846 --> 00:03:41,946
+A finishes with what the passage does say.
+
+61
+00:03:41,966 --> 00:03:43,736
+The answer is A.
+
+62
+00:03:44,149 --> 00:03:48,209
+B describes the old view, the
+one the passage moves away from.
+
+63
+00:03:48,229 --> 00:03:53,239
+How to beat half right: read every
+choice all the way to the period.
+
+64
+00:03:53,654 --> 00:03:55,754
+Trap four: the opposite.
+
+65
+00:03:55,774 --> 00:03:57,914
+The choice flips the passage's meaning,
+
+66
+00:03:57,934 --> 00:04:02,264
+often by matching what someone
+in the passage expected.
+
+67
+00:04:02,787 --> 00:04:03,787
+Try it.
+
+68
+00:04:04,147 --> 00:04:08,687
+Engineers expected the new bridge coating
+to crack after a winter of freezing
+
+69
+00:04:08,707 --> 00:04:09,917
+temperatures.
+
+70
+00:04:10,027 --> 00:04:16,837
+Instead, the coating proved remarkably
+blank after months of ice and snow,
+
+71
+00:04:16,857 --> 00:04:19,747
+inspectors found no damage at all.
+
+72
+00:04:20,219 --> 00:04:21,589
+Pause and try it.
+
+73
+00:04:27,354 --> 00:04:30,133
+Fragile matches the
+engineers' expectation.
+
+74
+00:04:30,153 --> 00:04:31,414
+That's the trap.
+
+75
+00:04:31,434 --> 00:04:34,294
+But instead tells you the
+expectation was wrong,
+
+76
+00:04:34,314 --> 00:04:37,333
+and no damage at all tells
+you the coating held up.
+
+77
+00:04:37,353 --> 00:04:39,763
+The answer is B, durable.
+
+78
+00:04:40,230 --> 00:04:44,930
+How to beat it: watch for
+turn words like instead,
+
+79
+00:04:44,950 --> 00:04:47,530
+however, although, and despite.
+
+80
+00:04:47,550 --> 00:04:51,400
+When the passage turns, your
+answer has to turn with it.
+
+81
+00:04:51,915 --> 00:04:54,165
+Trap five: out of scope.
+
+82
+00:04:54,555 --> 00:04:57,935
+The choice brings in something
+the passage never covers.
+
+83
+00:04:57,955 --> 00:05:00,885
+Sometimes it's even true in real life.
+
+84
+00:05:01,415 --> 00:05:02,705
+Here's the passage.
+
+85
+00:05:03,374 --> 00:05:06,635
+Many songbirds, such as
+warblers and thrushes,
+
+86
+00:05:06,655 --> 00:05:08,195
+migrate at night.
+
+87
+00:05:08,215 --> 00:05:12,705
+Flying after dark offers these
+birds several advantages.
+
+88
+00:05:12,775 --> 00:05:16,954
+The night air is usually cooler
+and denser than daytime air,
+
+89
+00:05:16,974 --> 00:05:18,985
+which can make flying easier.
+
+90
+00:05:19,410 --> 00:05:24,430
+And birds that travel at night can spend
+the daylight hours resting and feeding
+
+91
+00:05:24,450 --> 00:05:27,140
+to replace the energy their flights use.
+
+92
+00:05:27,649 --> 00:05:31,780
+According to the text, what is one
+advantage of migrating at night?
+
+93
+00:05:32,279 --> 00:05:33,649
+Pause and try it.
+
+94
+00:05:39,415 --> 00:05:43,075
+B says birds use the
+stars to find their way.
+
+95
+00:05:43,095 --> 00:05:46,105
+Night-migrating songbirds really do.
+
+96
+00:05:46,255 --> 00:05:49,195
+But this passage never mentions stars.
+
+97
+00:05:49,215 --> 00:05:53,025
+The answer is A, because
+the text says it directly.
+
+98
+00:05:53,476 --> 00:05:58,406
+How to beat it: for every choice,
+point to the sentence that supports it.
+
+99
+00:05:58,676 --> 00:06:02,486
+No sentence, no answer, no
+matter how true it sounds.
+
+100
+00:06:03,023 --> 00:06:05,953
+Trap six: sounds right.
+
+101
+00:06:06,183 --> 00:06:10,323
+On grammar questions, the wrong
+answer often reads smoothly out loud,
+
+102
+00:06:10,343 --> 00:06:12,352
+so your ear says yes.
+
+103
+00:06:12,422 --> 00:06:16,153
+But the test is about rules, not sound.
+
+104
+00:06:16,673 --> 00:06:17,613
+Try this.
+
+105
+00:06:17,633 --> 00:06:23,393
+The town's first public library opened
+in a single room above a blank now
+
+106
+00:06:23,413 --> 00:06:26,502
+occupies an entire city block.
+
+107
+00:06:26,928 --> 00:06:28,298
+Pause and try it.
+
+108
+00:06:34,063 --> 00:06:38,313
+Choice A, bakery comma it, sounds fine.
+
+109
+00:06:38,343 --> 00:06:40,443
+But both sides are complete sentences,
+
+110
+00:06:40,463 --> 00:06:42,643
+and a comma alone can't join them.
+
+111
+00:06:42,663 --> 00:06:44,243
+That's a comma splice.
+
+112
+00:06:44,263 --> 00:06:46,403
+A semicolon can join them.
+
+113
+00:06:46,423 --> 00:06:47,872
+The answer is B.
+
+114
+00:06:48,348 --> 00:06:50,687
+How to beat it: don't ask
+whether it sounds right.
+
+115
+00:06:50,707 --> 00:06:52,207
+Name the rule it follows.
+
+116
+00:06:52,227 --> 00:06:54,438
+If you can't, slow down.
+
+117
+00:06:54,881 --> 00:06:58,541
+Trap seven: two choices
+that do the same job.
+
+118
+00:06:58,561 --> 00:07:01,061
+If two choices truly mean the same thing,
+
+119
+00:07:01,081 --> 00:07:03,180
+they can't both be the one right answer.
+
+120
+00:07:03,200 --> 00:07:04,690
+So neither one is.
+
+121
+00:07:05,231 --> 00:07:06,961
+Here's a transition question.
+
+122
+00:07:07,190 --> 00:07:13,051
+Most plants open tiny pores called
+stomata during the day to take in carbon
+
+123
+00:07:13,071 --> 00:07:16,401
+dioxide, losing water in the process.
+
+124
+00:07:16,611 --> 00:07:22,281
+blank many cacti keep their stomata
+closed during the hot day and open them at
+
+125
+00:07:22,301 --> 00:07:25,830
+night, when cooler air reduces water loss.
+
+126
+00:07:26,285 --> 00:07:27,655
+Pause and try it.
+
+127
+00:07:33,420 --> 00:07:37,589
+Therefore and as a result
+both signal a consequence.
+
+128
+00:07:37,660 --> 00:07:39,760
+Same job, so both are out.
+
+129
+00:07:39,780 --> 00:07:42,879
+Cacti do the opposite of most plants:
+
+130
+00:07:42,899 --> 00:07:44,440
+night instead of day.
+
+131
+00:07:44,460 --> 00:07:46,989
+So the answer is D, by contrast.
+
+132
+00:07:47,482 --> 00:07:51,301
+How to beat it: spot the
+twins, cross out both,
+
+133
+00:07:51,321 --> 00:07:53,412
+and four choices become two.
+
+134
+00:07:53,867 --> 00:07:55,407
+Part two: Math.
+
+135
+00:07:55,427 --> 00:07:58,327
+Trap eight: answering the wrong quantity.
+
+136
+00:07:58,347 --> 00:08:01,677
+You solve correctly,
+but for the wrong thing.
+
+137
+00:08:02,163 --> 00:08:03,063
+Try it.
+
+138
+00:08:03,083 --> 00:08:08,823
+If two x plus y equals eleven,
+and x minus y equals one,
+
+139
+00:08:08,843 --> 00:08:11,853
+what is the value of x plus y?
+
+140
+00:08:12,288 --> 00:08:13,658
+Pause and try it.
+
+141
+00:08:19,423 --> 00:08:22,722
+Add the equations: three x equals twelve,
+
+142
+00:08:22,742 --> 00:08:25,763
+so x is four, and y is three.
+
+143
+00:08:25,783 --> 00:08:27,962
+Four is right there in the choices.
+
+144
+00:08:27,982 --> 00:08:31,083
+But they asked for x
+plus y, which is seven.
+
+145
+00:08:31,103 --> 00:08:32,793
+The answer is C.
+
+146
+00:08:33,214 --> 00:08:38,154
+How to beat it: underline what the
+question asks for before you solve,
+
+147
+00:08:38,174 --> 00:08:40,384
+and reread it before you click.
+
+148
+00:08:40,914 --> 00:08:43,563
+Trap nine: stopping halfway.
+
+149
+00:08:43,713 --> 00:08:47,974
+On multi-step questions, the wrong answers
+are often numbers from the middle of
+
+150
+00:08:47,994 --> 00:08:48,994
+the work.
+
+151
+00:08:49,264 --> 00:08:55,434
+The function f is defined by f
+of x equals three x minus five.
+
+152
+00:08:55,544 --> 00:09:02,673
+If f of a equals sixteen, what is the
+value of f of the quantity a plus two?
+
+153
+00:09:03,135 --> 00:09:04,505
+Pause and try it.
+
+154
+00:09:11,270 --> 00:09:15,410
+Three a minus five equals
+sixteen, so a is seven.
+
+155
+00:09:15,430 --> 00:09:20,079
+Then a plus two is nine,
+and f of nine is twenty-two.
+
+156
+00:09:20,110 --> 00:09:23,970
+Seven, nine, and sixteen
+all show up in the work.
+
+157
+00:09:23,990 --> 00:09:26,690
+Only twenty-two answers the question.
+
+158
+00:09:26,710 --> 00:09:28,400
+The answer is D.
+
+159
+00:09:28,867 --> 00:09:31,967
+How to beat it: every
+time you get a number,
+
+160
+00:09:31,987 --> 00:09:35,287
+ask yourself: is this the final answer,
+
+161
+00:09:35,307 --> 00:09:36,797
+or just a step?
+
+162
+00:09:37,230 --> 00:09:39,480
+Trap ten: sign errors.
+
+163
+00:09:39,790 --> 00:09:43,960
+A dropped negative turns an
+easy question into a miss,
+
+164
+00:09:43,990 --> 00:09:47,559
+and the wrong answer is
+often waiting in the choices.
+
+165
+00:09:47,974 --> 00:09:49,024
+Solve this one.
+
+166
+00:09:49,214 --> 00:09:53,954
+Five minus two times the
+quantity x minus three,
+
+167
+00:09:53,974 --> 00:09:55,704
+equals one.
+
+168
+00:09:56,157 --> 00:09:57,527
+Pause and try it.
+
+169
+00:10:03,292 --> 00:10:05,662
+Distribute the negative two to both terms.
+
+170
+00:10:05,772 --> 00:10:08,952
+Negative two times negative
+three is positive six.
+
+171
+00:10:08,972 --> 00:10:11,831
+So eleven minus two x equals one.
+
+172
+00:10:11,851 --> 00:10:14,872
+Two x equals ten, and x equals five.
+
+173
+00:10:14,892 --> 00:10:16,582
+The answer is D.
+
+174
+00:10:17,022 --> 00:10:19,522
+Writing minus six gives you negative one.
+
+175
+00:10:19,542 --> 00:10:23,002
+Losing a sign when you divide
+gives you negative five.
+
+176
+00:10:23,022 --> 00:10:25,712
+How to beat it: plug your answer back in.
+
+177
+00:10:25,742 --> 00:10:28,561
+Five minus two times two is one.
+
+178
+00:10:28,581 --> 00:10:29,591
+It checks.
+
+179
+00:10:30,172 --> 00:10:33,502
+Trap eleven: percent and unit traps.
+
+180
+00:10:33,612 --> 00:10:37,662
+Percent change is always
+measured from the original value.
+
+181
+00:10:38,176 --> 00:10:41,955
+A ticket's price went from
+forty dollars to fifty dollars.
+
+182
+00:10:41,975 --> 00:10:44,666
+By what percent did the price increase?
+
+183
+00:10:45,118 --> 00:10:46,488
+Pause and try it.
+
+184
+00:10:52,254 --> 00:10:55,513
+The change is ten dollars,
+and the original is forty.
+
+185
+00:10:55,533 --> 00:10:58,514
+Ten over forty is twenty-five percent.
+
+186
+00:10:58,534 --> 00:11:00,184
+The answer is C.
+
+187
+00:11:00,253 --> 00:11:03,424
+Twenty percent divides
+by the new price instead.
+
+188
+00:11:03,493 --> 00:11:08,234
+And one hundred twenty-five percent is
+the new price as a percent of the old
+
+189
+00:11:08,254 --> 00:11:09,254
+one.
+
+190
+00:11:09,313 --> 00:11:10,933
+Units trap you the same way.
+
+191
+00:11:10,953 --> 00:11:14,693
+Forty-five miles per hour for twenty
+minutes isn't nine hundred miles.
+
+192
+00:11:14,713 --> 00:11:16,373
+Twenty minutes is a third of an hour,
+
+193
+00:11:16,393 --> 00:11:17,973
+so it's fifteen miles.
+
+194
+00:11:17,993 --> 00:11:21,683
+How to beat it: write the
+units next to every number.
+
+195
+00:11:22,138 --> 00:11:24,517
+Trap twelve: extraneous solutions.
+
+196
+00:11:24,537 --> 00:11:29,598
+Squaring both sides or clearing a
+denominator can create solutions that don't
+
+197
+00:11:29,618 --> 00:11:31,748
+work in the original equation.
+
+198
+00:11:32,206 --> 00:11:36,946
+What is the solution set of the equation
+x squared over the quantity x minus
+
+199
+00:11:36,966 --> 00:11:41,775
+three, equals nine over
+the quantity x minus three?
+
+200
+00:11:42,219 --> 00:11:43,589
+Pause and try it.
+
+201
+00:11:50,355 --> 00:11:53,174
+Multiply both sides by x minus three,
+
+202
+00:11:53,194 --> 00:11:56,255
+and you get x squared equals nine.
+
+203
+00:11:56,275 --> 00:11:59,855
+So x is three or negative three.
+
+204
+00:11:59,875 --> 00:12:02,255
+But three makes the denominator zero,
+
+205
+00:12:02,275 --> 00:12:03,215
+so it doesn't count.
+
+206
+00:12:03,235 --> 00:12:05,935
+The only solution is negative three.
+
+207
+00:12:05,955 --> 00:12:07,565
+The answer is A.
+
+208
+00:12:08,042 --> 00:12:11,941
+C, both numbers with
+no check, is the trap.
+
+209
+00:12:11,961 --> 00:12:17,132
+How to beat it: when there's a variable
+in a denominator or under a square root,
+
+210
+00:12:17,242 --> 00:12:20,332
+plug every solution
+back into the original.
+
+211
+00:12:20,755 --> 00:12:22,974
+Trap thirteen: r versus r squared.
+
+212
+00:12:22,994 --> 00:12:28,734
+In a circle equation, the number on
+the right side is the radius squared,
+
+213
+00:12:28,754 --> 00:12:30,045
+not the radius.
+
+214
+00:12:30,487 --> 00:12:34,467
+The equation, x plus one,
+squared, plus y minus four,
+
+215
+00:12:34,487 --> 00:12:39,187
+squared, equals forty-nine,
+represents a circle in the x y plane.
+
+216
+00:12:39,207 --> 00:12:41,657
+What is the diameter of the circle?
+
+217
+00:12:42,116 --> 00:12:43,486
+Pause and try it.
+
+218
+00:12:49,251 --> 00:12:52,030
+Forty-nine is r squared,
+so the radius is seven,
+
+219
+00:12:52,050 --> 00:12:53,671
+and the diameter is fourteen.
+
+220
+00:12:53,691 --> 00:12:54,191
+The answer is B.
+
+221
+00:12:54,211 --> 00:12:59,710
+Forty-nine is the r squared trap.
+
+222
+00:12:59,730 --> 00:13:02,140
+Seven is just the radius.
+
+223
+00:13:02,593 --> 00:13:05,372
+And if they ask for the
+center, it's negative one,
+
+224
+00:13:05,392 --> 00:13:06,093
+four.
+
+225
+00:13:06,113 --> 00:13:08,013
+Not one, negative four.
+
+226
+00:13:08,033 --> 00:13:10,253
+How to beat it: say it every time.
+
+227
+00:13:10,273 --> 00:13:12,203
+Right side, r squared.
+
+228
+00:13:12,473 --> 00:13:14,603
+Signs in the parentheses, flipped.
+
+229
+00:13:15,124 --> 00:13:19,133
+Trap fourteen: reading
+the wrong row or column.
+
+230
+00:13:19,284 --> 00:13:22,184
+In a two-way table, the
+question names a group,
+
+231
+00:13:22,204 --> 00:13:24,814
+and the trap answer uses a different one.
+
+232
+00:13:25,209 --> 00:13:26,509
+Here's the table.
+
+233
+00:13:26,529 --> 00:13:31,699
+Of thirty juniors, eighteen chose
+robotics and twelve chose debate.
+
+234
+00:13:31,769 --> 00:13:36,538
+Of thirty seniors, six chose robotics
+and twenty-four chose debate.
+
+235
+00:13:36,649 --> 00:13:40,828
+If a student who chose
+robotics is selected at random,
+
+236
+00:13:40,848 --> 00:13:43,979
+what is the probability that
+the student is a junior?
+
+237
+00:13:44,465 --> 00:13:45,835
+Pause and try it.
+
+238
+00:13:52,600 --> 00:13:55,299
+The group is students who chose robotics.
+
+239
+00:13:55,319 --> 00:13:59,130
+There are twenty-four of them,
+and eighteen are juniors.
+
+240
+00:13:59,160 --> 00:14:01,659
+Eighteen over twenty-four
+is three fourths.
+
+241
+00:14:01,679 --> 00:14:03,810
+The answer is D.
+
+242
+00:14:04,324 --> 00:14:05,624
+Three fifths is the trap.
+
+243
+00:14:05,644 --> 00:14:08,464
+That's eighteen out of
+thirty, the juniors row,
+
+244
+00:14:08,484 --> 00:14:10,774
+which answers a different question.
+
+245
+00:14:10,844 --> 00:14:15,064
+How to beat it: the group named in the
+question gives you the bottom of the
+
+246
+00:14:15,084 --> 00:14:16,084
+fraction.
+
+247
+00:14:16,423 --> 00:14:17,793
+That's all fourteen.
+
+248
+00:14:17,943 --> 00:14:21,523
+On test day, in Reading and Writing,
+when you're down to two choices,
+
+249
+00:14:21,543 --> 00:14:23,923
+name the trap in the one
+you're about to cross out.
+
+250
+00:14:23,943 --> 00:14:27,513
+If you can't name it, reread
+the passage before you decide.
+
+251
+00:14:27,953 --> 00:14:30,732
+In Math, take ten
+seconds before you click.
+
+252
+00:14:30,752 --> 00:14:32,253
+Did I answer what they asked?
+
+253
+00:14:32,273 --> 00:14:35,083
+Is this a final answer or just a step?
+
+254
+00:14:35,153 --> 00:14:38,293
+Did I check signs, units, and solutions?
+
+255
+00:14:38,313 --> 00:14:40,043
+Did I read the right row?
+
+256
+00:14:40,448 --> 00:14:45,468
+And on practice tests, write the trap's
+name next to every question you miss.
+
+257
+00:14:45,488 --> 00:14:49,978
+After a few tests, you'll know which
+traps cost you the most points.
+
+258
+00:14:50,498 --> 00:14:52,757
+All fourteen traps on one screen.
+
+259
+00:14:52,777 --> 00:14:54,828
+Pause here if you want a screenshot.
+
+260
+00:14:55,254 --> 00:14:59,794
+Every example in this video
+was written for this video,
+
+261
+00:14:59,814 --> 00:15:02,674
+in the style of the real test.
+
+262
+00:15:02,694 --> 00:15:07,754
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+263
+00:15:07,774 --> 00:15:10,823
+section, skill, and difficulty.
+
+264
+00:15:11,278 --> 00:15:13,288
+If this helped, subscribe.
+
+265
+00:15:13,677 --> 00:15:17,338
+Next up: a full lesson
+on systems of equations,
+
+266
+00:15:17,358 --> 00:15:22,488
+including the questions about no
+solution and infinitely many solutions.

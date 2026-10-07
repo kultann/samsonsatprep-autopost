@@ -1,0 +1,30 @@
+{
+  "id": "long-01_every-sat-grammar-rule",
+  "type": "longform",
+  "order": 1,
+  "publish_at": "2026-10-11T16:00:00-05:00",
+  "video": "01_every-sat-grammar-rule.mp4",
+  "video_bytes": 230354976,
+  "title": "Every SAT Grammar Rule Explained",
+  "description": "Grammar is about a quarter of the SAT Reading and Writing section, and every grammar question comes from the same short list of rules. This video covers all 13, with an SAT-style practice question for most of them.\n\nYou'll learn:\n• How to spot a complete sentence (the key to every punctuation question)\n• Comma splices, semicolons, colons, dashes, and \"however\"\n• Matching pairs of commas and dashes around extra information\n• Subject-verb agreement, pronouns, verb tense, and dangling modifiers\n• Apostrophes: plurals vs. possessives, its vs. it's\n• A 3-step method for any SAT grammar question\n\nAll practice questions in this video are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (filter: Standard English Conventions).\n\nCHAPTERS\n0:00 Intro\n0:56 Rule 1: Complete sentences\n1:45 Rule 2: Comma splices\n3:02 Rule 3: Semicolons\n3:49 Rule 4: Colons and single dashes\n5:15 Rule 5: However and other transitions\n6:50 Rule 6: Extra information comes in pairs\n8:10 Rule 7: Don't split what belongs together\n9:03 Part 2: Form, Structure, and Sense\n9:19 Rule 8: Subject verb agreement\n10:35 Rule 9: Pronoun agreement\n11:19 Rule 10: Verb tense\n12:23 Rule 11: Every sentence needs a main verb\n13:10 Rule 12: Dangling modifiers\n14:20 Rule 13: Plurals and possessives\n15:36 How to attack any grammar question\n16:30 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATgrammar",
+  "tags": [
+    "SAT grammar",
+    "SAT grammar rules",
+    "digital SAT",
+    "SAT reading and writing",
+    "SAT writing",
+    "standard english conventions",
+    "comma splice",
+    "semicolon rules",
+    "SAT prep",
+    "SAT punctuation"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/01_every-sat-grammar-rule",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

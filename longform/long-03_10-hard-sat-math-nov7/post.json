@@ -1,0 +1,35 @@
+{
+  "id": "long-03_10-hard-sat-math-nov7",
+  "type": "longform",
+  "order": 3,
+  "publish_at": "2026-10-25T16:00:00-05:00",
+  "video": "03_10-hard-sat-math-nov7.mp4",
+  "video_bytes": 178521770,
+  "title": "10 Hard SAT Math Questions to Try Before November 7",
+  "description": "Taking the SAT on November 7? Try these 10 hard SAT-style math questions first. Pause before each answer, keep score, and use the breakdown at the end to see what to review.\n\nCovered:\n• Percent change traps and statistics\n• Perpendicular lines and systems with infinitely many solutions\n• The vertex of a parabola, radical equations (extraneous solutions), and tangent lines\n• Right-triangle trig and circle equations\n• Equivalent exponential forms (the hardest one)\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank.\n\nCHAPTERS\n0:00 Intro\n0:29 Question 1: Percent change\n1:22 Question 2: Perpendicular lines\n2:43 Question 3: Mean with a removed value\n3:40 Question 4: Vertex and minimum value\n4:51 Question 5: Radical equation\n6:11 Question 6: Right triangle trig\n7:13 Question 7: Circle equation\n8:22 Question 8: Infinitely many solutions\n9:29 Question 9: Line tangent to a parabola\n10:46 Question 10: Equivalent exponential forms\n12:21 What your misses mean\n13:26 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "hard SAT math",
+    "SAT math practice",
+    "digital SAT math",
+    "SAT November 2026",
+    "SAT math questions",
+    "SAT practice test",
+    "Desmos",
+    "SAT prep",
+    "hardest SAT math"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/03_10-hard-sat-math-nov7",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt",
+  "window": {
+    "test_date": "2026-11-07",
+    "lead_days": 13,
+    "required": true
+  },
+  "expires_at": "2026-11-06T23:59:00-06:00"
+}

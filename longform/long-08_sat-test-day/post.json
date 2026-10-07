@@ -1,0 +1,35 @@
+{
+  "id": "long-08_sat-test-day",
+  "type": "longform",
+  "order": 8,
+  "publish_at": "2026-11-29T16:00:00-06:00",
+  "video": "08_sat-test-day.mp4",
+  "video_bytes": 128595094,
+  "title": "SAT Test Day, Start to Finish: What to Bring and What to Expect",
+  "description": "Everything that happens on SAT test day, in order: what to bring, what to leave home, arrival and check-in, the tools in Bluebook, both sections, the break, what to do between modules, and when your scores come out.\n\nYou'll learn:\n• The must-bring list (and the ID rules that get students turned away)\n• What's prohibited, and what happens to your phone\n• Arrival times and how check-in works\n• Every Bluebook tool: timer, mark for review, option eliminator, highlights and notes, Desmos, reference sheet, question menu\n• Pacing checkpoints for both sections\n• How to reset after a hard module\n• Submitting, the Congratulations screen, scores, and free score sends\n\nTest-day facts come from College Board's own pages (SAT Suite and Bluebook). Rules can change, so check them again before your test. This video has no practice questions; any examples shown are original SAT-style questions written for this video, not official College Board questions.\n\nCHAPTERS\n0:00 Intro\n0:34 What to bring\n2:21 What not to bring\n2:52 Arrival and check-in\n3:50 Your tools in Bluebook\n4:46 Reading and Writing\n5:38 Between modules\n6:25 The break\n7:02 Math\n8:05 When time runs out\n8:33 After the test\n9:21 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATtestday",
+  "tags": [
+    "SAT test day",
+    "what to bring to the SAT",
+    "digital SAT",
+    "Bluebook",
+    "SAT check-in",
+    "SAT ID requirements",
+    "SAT tips",
+    "SAT scores release",
+    "SAT prep",
+    "SAT test day checklist"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/08_sat-test-day",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt",
+  "window": {
+    "test_date": "2026-12-05",
+    "lead_days": 6,
+    "required": false
+  }
+}

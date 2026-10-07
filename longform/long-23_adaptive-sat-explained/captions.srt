@@ -1,0 +1,781 @@
+1
+00:00:00,320 --> 00:00:04,139
+The digital SAT changes
+based on how you do.
+
+2
+00:00:04,159 --> 00:00:07,780
+That one fact has turned
+into a lot of rumors.
+
+3
+00:00:07,800 --> 00:00:09,660
+Every question adapts.
+
+4
+00:00:09,680 --> 00:00:13,180
+The easier second module
+has an official score cap.
+
+5
+00:00:13,200 --> 00:00:16,770
+Hard questions are worth
+some fixed number of points.
+
+6
+00:00:17,320 --> 00:00:20,570
+Those rumors cause real
+mistakes on test day.
+
+7
+00:00:20,679 --> 00:00:23,580
+Students rush module one to save time,
+
+8
+00:00:23,600 --> 00:00:27,939
+panic when module two feels
+hard, or leave questions blank.
+
+9
+00:00:27,959 --> 00:00:29,969
+All three can cost points.
+
+10
+00:00:30,419 --> 00:00:34,028
+In this video: how the
+test actually adapts,
+
+11
+00:00:34,099 --> 00:00:37,039
+using College Board's own explanations,
+
+12
+00:00:37,059 --> 00:00:42,629
+what that means for how you take it,
+and which of those rumors hold up.
+
+13
+00:00:43,027 --> 00:00:44,966
+Start with the shape of the test.
+
+14
+00:00:44,986 --> 00:00:46,917
+There are two sections.
+
+15
+00:00:46,987 --> 00:00:50,007
+Reading and Writing
+comes first, then Math,
+
+16
+00:00:50,027 --> 00:00:52,317
+with a ten-minute break in between.
+
+17
+00:00:52,586 --> 00:00:55,927
+Each section is split into
+two modules of equal length,
+
+18
+00:00:55,947 --> 00:00:58,756
+and each module is timed separately.
+
+19
+00:00:59,183 --> 00:01:01,843
+Reading and Writing modules
+are thirty-two minutes,
+
+20
+00:01:01,863 --> 00:01:04,123
+with twenty-seven questions each.
+
+21
+00:01:04,143 --> 00:01:06,443
+Math modules are thirty-five minutes,
+
+22
+00:01:06,463 --> 00:01:08,562
+with twenty-two questions each.
+
+23
+00:01:08,582 --> 00:01:12,923
+That's two hours and fourteen
+minutes of testing in total.
+
+24
+00:01:12,943 --> 00:01:17,483
+Most questions are multiple choice, and
+some math questions ask you to type in
+
+25
+00:01:17,503 --> 00:01:18,513
+your answer.
+
+26
+00:01:19,011 --> 00:01:23,981
+College Board calls this
+multistage adaptive testing.
+
+27
+00:01:24,051 --> 00:01:28,511
+The test adapts in stages,
+one module at a time.
+
+28
+00:01:28,531 --> 00:01:31,390
+It doesn't change after
+every single question.
+
+29
+00:01:31,410 --> 00:01:36,391
+You answer a set of questions, and the
+next set depends on how you did on that
+
+30
+00:01:36,411 --> 00:01:37,411
+set.
+
+31
+00:01:37,492 --> 00:01:41,632
+Module one has a broad
+mix of easy, medium,
+
+32
+00:01:41,652 --> 00:01:42,792
+and hard questions.
+
+33
+00:01:42,812 --> 00:01:45,302
+Everyone gets that same kind of mix.
+
+34
+00:01:45,332 --> 00:01:49,111
+Then, based on how you do on module one,
+
+35
+00:01:49,131 --> 00:01:53,182
+module two is either more
+difficult or less difficult.
+
+36
+00:01:53,692 --> 00:01:55,862
+Here's what that means for how it feels.
+
+37
+00:01:56,212 --> 00:01:59,312
+Module two is aimed at your level.
+
+38
+00:01:59,332 --> 00:02:03,542
+So whichever one you get, it's
+normal for it to feel challenging.
+
+39
+00:02:03,771 --> 00:02:07,032
+A tough module two is the design working.
+
+40
+00:02:07,052 --> 00:02:09,501
+It isn't a sign that you're failing.
+
+41
+00:02:09,945 --> 00:02:13,164
+In College Board's words, you're
+routed to a second module,
+
+42
+00:02:13,184 --> 00:02:16,365
+which has a different
+mix of difficulty levels.
+
+43
+00:02:16,385 --> 00:02:19,164
+And this happens inside each section.
+
+44
+00:02:19,184 --> 00:02:24,235
+Your math module two is based on
+how you did in math module one.
+
+45
+00:02:24,745 --> 00:02:26,315
+Why build it this way?
+
+46
+00:02:26,585 --> 00:02:31,445
+College Board says it makes the test
+shorter while keeping it as precise and
+
+47
+00:02:31,465 --> 00:02:37,124
+reliable as a longer test, because module
+two is matched to your level instead
+
+48
+00:02:37,144 --> 00:02:39,314
+of giving everyone the same questions.
+
+49
+00:02:39,753 --> 00:02:43,052
+Inside a module, you have freedom.
+
+50
+00:02:43,072 --> 00:02:46,413
+You can move back and forth,
+preview questions coming up,
+
+51
+00:02:46,433 --> 00:02:48,693
+and mark questions to come back to.
+
+52
+00:02:48,713 --> 00:02:52,123
+But once you leave a module,
+you can't return to it.
+
+53
+00:02:52,596 --> 00:02:54,726
+Now scoring.
+
+54
+00:02:54,756 --> 00:02:59,696
+Your section score is based on
+all the questions in both modules,
+
+55
+00:02:59,716 --> 00:03:01,566
+not just module two.
+
+56
+00:03:01,755 --> 00:03:06,165
+College Board uses a method
+called item response theory.
+
+57
+00:03:06,396 --> 00:03:10,176
+Your score depends on which
+questions you got right and wrong,
+
+58
+00:03:10,196 --> 00:03:13,766
+including how difficult they
+were, not just how many.
+
+59
+00:03:14,191 --> 00:03:18,010
+That's why College Board says two
+students with the same number of correct
+
+60
+00:03:18,030 --> 00:03:21,481
+answers can end up with
+different section scores.
+
+61
+00:03:21,934 --> 00:03:26,114
+The same College Board page says the
+method also considers whether your pattern
+
+62
+00:03:26,134 --> 00:03:28,744
+of answers looks like guessing.
+
+63
+00:03:28,854 --> 00:03:30,784
+Does that mean guessing hurts?
+
+64
+00:03:31,134 --> 00:03:31,954
+No.
+
+65
+00:03:31,974 --> 00:03:36,874
+That page also says that for most students
+trying their best on every question,
+
+66
+00:03:36,894 --> 00:03:39,924
+it's better to guess than
+leave a question blank.
+
+67
+00:03:39,944 --> 00:03:44,284
+So try every question for real,
+and when you're out of ideas,
+
+68
+00:03:44,304 --> 00:03:45,304
+guess.
+
+69
+00:03:45,651 --> 00:03:47,751
+Here's the part that should calm you down.
+
+70
+00:03:47,771 --> 00:03:52,431
+College Board says a range of section
+scores is possible no matter which second
+
+71
+00:03:52,451 --> 00:03:53,391
+module you see.
+
+72
+00:03:53,411 --> 00:03:56,511
+You aren't helped just
+for seeing a harder set,
+
+73
+00:03:56,531 --> 00:03:59,060
+or hurt just for seeing an easier one.
+
+74
+00:03:59,525 --> 00:04:00,425
+Two more facts.
+
+75
+00:04:00,445 --> 00:04:04,985
+Each module includes two pretest questions
+that don't count toward your score,
+
+76
+00:04:05,005 --> 00:04:07,105
+and you can't tell which ones they are.
+
+77
+00:04:07,125 --> 00:04:12,144
+And scores use the familiar scale:
+four hundred to sixteen hundred total,
+
+78
+00:04:12,164 --> 00:04:14,854
+two hundred to eight hundred per section.
+
+79
+00:04:15,291 --> 00:04:16,911
+And notice what's missing.
+
+80
+00:04:16,931 --> 00:04:22,071
+College Board doesn't publish a
+points-per-question chart or a scoring formula.
+
+81
+00:04:22,091 --> 00:04:27,471
+So if someone online says a hard
+question is worth exactly some number of
+
+82
+00:04:27,491 --> 00:04:30,501
+points, that's a guess,
+not an official number.
+
+83
+00:04:30,943 --> 00:04:32,673
+So what do you do with all this?
+
+84
+00:04:32,823 --> 00:04:34,923
+First, module one matters.
+
+85
+00:04:34,943 --> 00:04:39,352
+It counts toward your score, and it
+decides which module two you get.
+
+86
+00:04:39,463 --> 00:04:42,512
+Treat the questions you
+know how to do as must-gets.
+
+87
+00:04:43,097 --> 00:04:45,117
+That doesn't mean rushing.
+
+88
+00:04:45,137 --> 00:04:47,037
+It means the opposite.
+
+89
+00:04:47,057 --> 00:04:49,677
+A careless miss in module
+one can cost you twice:
+
+90
+00:04:49,697 --> 00:04:54,556
+once as a wrong answer, and again in
+which module two you're routed to.
+
+91
+00:04:54,576 --> 00:05:00,267
+So read carefully, and reread what each
+question asks for before you answer.
+
+92
+00:05:00,718 --> 00:05:03,057
+And remember, module one is a broad mix,
+
+93
+00:05:03,077 --> 00:05:05,738
+so it has hard questions in it too.
+
+94
+00:05:05,758 --> 00:05:09,138
+Missing a hard one doesn't
+mean module one went badly.
+
+95
+00:05:09,158 --> 00:05:11,447
+Don't let it shake you
+on the next question.
+
+96
+00:05:11,937 --> 00:05:16,237
+Second, don't let one hard
+question eat module one.
+
+97
+00:05:16,257 --> 00:05:19,876
+You can move around inside
+a module, so mark it,
+
+98
+00:05:19,896 --> 00:05:23,147
+make your best guess, and
+come back if there's time.
+
+99
+00:05:23,377 --> 00:05:28,027
+Five minutes on one question is five
+minutes taken from several others.
+
+100
+00:05:28,451 --> 00:05:32,701
+Third, if module two
+feels hard, don't panic.
+
+101
+00:05:32,971 --> 00:05:37,901
+A harder module two may simply
+mean module one went well.
+
+102
+00:05:37,971 --> 00:05:40,741
+If it feels easy, don't relax either.
+
+103
+00:05:40,850 --> 00:05:43,551
+Trying to figure out which
+module you got doesn't help.
+
+104
+00:05:43,571 --> 00:05:45,421
+Just answer the next question.
+
+105
+00:05:45,850 --> 00:05:47,550
+Picture two students.
+
+106
+00:05:47,570 --> 00:05:51,510
+One does well on module one,
+gets the harder module two,
+
+107
+00:05:51,530 --> 00:05:56,140
+and walks out thinking the test went
+badly because the end felt brutal.
+
+108
+00:05:56,290 --> 00:06:00,499
+The other gets the easier module
+two and walks out feeling great.
+
+109
+00:06:00,690 --> 00:06:04,860
+How module two felt doesn't
+tell either of them their score.
+
+110
+00:06:05,350 --> 00:06:07,440
+Same goes for a strange question.
+
+111
+00:06:07,470 --> 00:06:11,610
+Two questions in every module
+are unscored pretest questions,
+
+112
+00:06:11,630 --> 00:06:14,210
+and they look exactly like the rest.
+
+113
+00:06:14,230 --> 00:06:16,690
+If one feels weird, it
+might not even count.
+
+114
+00:06:16,710 --> 00:06:20,850
+You can't know, so give it your best shot
+and move on without letting it rattle
+
+115
+00:06:20,870 --> 00:06:21,865
+you.
+
+116
+00:06:21,885 --> 00:06:24,425
+Fourth, never leave a blank.
+
+117
+00:06:24,445 --> 00:06:27,465
+College Board says there's
+no penalty for guessing,
+
+118
+00:06:27,485 --> 00:06:30,504
+and that it's better to guess
+than leave a question blank,
+
+119
+00:06:30,524 --> 00:06:34,065
+especially if you can eliminate
+one or two choices first.
+
+120
+00:06:34,085 --> 00:06:39,255
+Before a module ends, open the question
+menu and fill every empty square.
+
+121
+00:06:39,750 --> 00:06:40,410
+Quick check.
+
+122
+00:06:40,430 --> 00:06:41,650
+Four statements.
+
+123
+00:06:41,670 --> 00:06:44,440
+Decide which are myths
+and which are facts.
+
+124
+00:06:44,550 --> 00:06:48,159
+One, the test adapts after every question.
+
+125
+00:06:48,270 --> 00:06:51,889
+Two, your section score
+counts both modules.
+
+126
+00:06:51,909 --> 00:06:55,129
+Three, if you get the easier module two,
+
+127
+00:06:55,149 --> 00:06:58,570
+there's an official maximum
+score you can't go above.
+
+128
+00:06:58,590 --> 00:07:01,360
+Four, there's no penalty for guessing.
+
+129
+00:07:01,836 --> 00:07:03,046
+Pause and decide.
+
+130
+00:07:09,936 --> 00:07:11,316
+Number one is a myth.
+
+131
+00:07:11,336 --> 00:07:15,956
+The SAT adapts by module,
+not question by question.
+
+132
+00:07:15,976 --> 00:07:19,356
+That's why you can preview
+upcoming questions in a module:
+
+133
+00:07:19,376 --> 00:07:21,356
+the set is already in place.
+
+134
+00:07:21,376 --> 00:07:24,906
+An easy-feeling question doesn't
+mean you missed the last one.
+
+135
+00:07:25,436 --> 00:07:27,766
+Number two is a fact.
+
+136
+00:07:28,235 --> 00:07:33,815
+Your section score is based on
+all the questions in both modules.
+
+137
+00:07:33,835 --> 00:07:36,765
+Module one isn't just a placement quiz.
+
+138
+00:07:37,290 --> 00:07:39,589
+Number three is a myth, as stated.
+
+139
+00:07:39,609 --> 00:07:44,870
+College Board doesn't publish a
+maximum score for either second module.
+
+140
+00:07:44,890 --> 00:07:49,030
+So any cap number you see
+online is someone's estimate,
+
+141
+00:07:49,050 --> 00:07:50,779
+not an official number.
+
+142
+00:07:51,251 --> 00:07:55,951
+What College Board does say is that a
+range of section scores is possible no
+
+143
+00:07:55,971 --> 00:07:58,301
+matter which second module you see.
+
+144
+00:07:58,331 --> 00:08:00,951
+It doesn't say where the
+top of that range is.
+
+145
+00:08:00,971 --> 00:08:05,550
+Either way, your job doesn't
+change: be careful in module one,
+
+146
+00:08:05,570 --> 00:08:07,621
+and keep going in module two.
+
+147
+00:08:08,037 --> 00:08:10,407
+Number four is a fact.
+
+148
+00:08:10,836 --> 00:08:14,807
+College Board says there's
+no penalty for guessing.
+
+149
+00:08:14,877 --> 00:08:17,007
+A blank can't be right.
+
+150
+00:08:17,036 --> 00:08:18,526
+A guess might be.
+
+151
+00:08:18,964 --> 00:08:23,664
+Put it together, and the adaptive
+SAT comes down to a simple plan.
+
+152
+00:08:23,684 --> 00:08:28,304
+Module one: careful, especially on
+the questions you know how to do.
+
+153
+00:08:28,324 --> 00:08:31,704
+Module two: calm, no matter how it feels.
+
+154
+00:08:31,724 --> 00:08:36,214
+And in every module: mark
+and move, and no blanks.
+
+155
+00:08:36,672 --> 00:08:37,612
+One more thing.
+
+156
+00:08:37,632 --> 00:08:43,932
+Each module has its own clock, so rushing
+module one doesn't buy you time later.
+
+157
+00:08:43,952 --> 00:08:47,452
+Use the time you have, because
+once you leave a module,
+
+158
+00:08:47,472 --> 00:08:49,001
+you can't come back.
+
+159
+00:08:49,522 --> 00:08:53,942
+The best way to get used to it is a
+full-length practice test in Bluebook.
+
+160
+00:08:53,962 --> 00:08:58,382
+College Board says those use the
+same multistage adaptive model,
+
+161
+00:08:58,402 --> 00:09:00,862
+and they're timed like the real test.
+
+162
+00:09:00,882 --> 00:09:05,622
+Afterward, your scores and answer
+explanations show up in My Practice,
+
+163
+00:09:05,642 --> 00:09:08,892
+so you can see where
+module one went wrong.
+
+164
+00:09:09,387 --> 00:09:10,247
+Recap.
+
+165
+00:09:10,267 --> 00:09:14,317
+The SAT adapts by module, not by question.
+
+166
+00:09:14,507 --> 00:09:18,887
+Module one is a broad mix,
+and it decides module two.
+
+167
+00:09:18,907 --> 00:09:20,207
+Both modules count.
+
+168
+00:09:20,227 --> 00:09:23,276
+There's no official
+points-per-question chart.
+
+169
+00:09:23,386 --> 00:09:25,717
+And there's no penalty for guessing.
+
+170
+00:09:26,213 --> 00:09:31,793
+Next in this series: SAT pacing, and how
+to finish both modules without rushing
+
+171
+00:09:31,813 --> 00:09:32,713
+the end.
+
+172
+00:09:32,733 --> 00:09:35,223
+If this cleared things up, subscribe.

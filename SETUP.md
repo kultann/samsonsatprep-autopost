@@ -129,6 +129,29 @@ Each week: Claude Code renders the next week of shorts into `samsonsatprep-media
 
 ---
 
+## 8. Long-form YouTube videos (20 min + uploading time)
+
+The bot uploads each long video from `longform/<id>/` (post.json + thumbnail + captions). The MP4s are too big for the repo (GitHub's 100 MB limit), so they live in a **release** named `longform` (2 GB per file, no total limit). Nothing uploads until you turn it on, because videos uploaded before the YouTube API audit passes are locked private for good.
+
+1. **Verify the channel** (once): YouTube Studio → Settings → Channel → Feature eligibility → verify with your phone. Needed for videos over 15 minutes and for custom thumbnails.
+2. **Upload the MP4s to the release**: on GitHub, open the repo → **Releases** → **Draft a new release** → **Choose a tag** → type `longform` → **Create new tag** → title `Long-form videos` → drag in every file from `~/Desktop/SAT/youtube/_upload_to_github_release/` → **Publish release** (not "Save draft": draft files can't be downloaded). Keep the file names exactly as they are.
+3. **Optional test now** (checks download, upload and thumbnail end to end): repo → Settings → Secrets and variables → Actions → **Variables** → New variable `YT_LONGFORM` = `test`. The next run uploads the first video once as a private `[TEST]` video (the Actions log says `TEST uploaded ...`). Look at it in Studio, delete it, then set `YT_LONGFORM` back to `0`.
+4. **When the audit passes**: re-date the videos from the next good day, push, then turn it on:
+   ```bash
+   cd ~/Desktop/SAT/samsonsatprep-autopost
+   python3 tools/schedule_longform.py --start 2026-11-01     # Sun/Tue/Thu at 4:00 PM Central
+   python3 -m autopost.runner --check
+   ```
+   Commit + push, then set the variable `YT_LONGFORM` = `1`.
+
+**How it posts:** each video uploads 24 hours before its `publish_at` as a scheduled video (`LONGFORM_UPLOAD_LEAD_HOURS`), so YouTube finishes HD processing and makes it public right on time. You get an ntfy push with a Studio link: add the B thumbnail there (Test & Compare) before it goes live. Two long videos never go live less than 40 hours apart (`LONGFORM_MIN_GAP_HOURS`), so a stale schedule drips out instead of dumping, and at most one uploads per run.
+
+- **Date-specific videos** (03 "before November 7", 07 "before December 5") have `expires_at`: if they can't go live in time, the bot holds them instead (log: `HOLD`). The scheduler puts them about 2 weeks before their test.
+- **Uploaded one by hand?** Add `"manual": true` to its `longform/<id>/post.json` so the bot skips it.
+- **New videos later:** render into `~/Desktop/SAT/youtube/<NN_slug>/`, run `python3 tools/make_longform.py --only NN`, attach `final/<NN_slug>.mp4` to the `longform` release (Releases → Edit), then `python3 tools/schedule_longform.py --start <date>`.
+- **Captions:** off by default (YouTube makes automatic ones). Uploading the `.srt` files needs the `youtube.force-ssl` scope: add it to `SCOPES` in `tools/youtube_auth.py` and to the Google Auth Platform data access list, log in again, update `YT_REFRESH_TOKEN`, then set the variable `YT_CAPTIONS` = `1`.
+- The results go in `state/posted.json` under each `long-...` id (`youtube`: video id, upload time, publish time).
+
 ## Day to day
 
 - New post = a folder in `posts/` with JPEG slides and a `post.json`. `tools/make_post.py` builds it from PNG slides.

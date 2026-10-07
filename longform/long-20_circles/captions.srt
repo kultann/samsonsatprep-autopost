@@ -1,0 +1,1018 @@
+1
+00:00:00,320 --> 00:00:04,730
+Circle questions on the SAT
+come in a handful of patterns.
+
+2
+00:00:05,040 --> 00:00:06,650
+A circle's equation.
+
+3
+00:00:06,960 --> 00:00:09,010
+An arc or a sector.
+
+4
+00:00:09,520 --> 00:00:10,699
+Radians.
+
+5
+00:00:10,719 --> 00:00:12,569
+Angles inside a circle.
+
+6
+00:00:12,760 --> 00:00:14,330
+And tangent lines.
+
+7
+00:00:14,399 --> 00:00:17,420
+Once you know one key
+fact for each pattern,
+
+8
+00:00:17,440 --> 00:00:21,050
+these become some of the most
+predictable points on the test.
+
+9
+00:00:21,570 --> 00:00:24,990
+The most common mistake
+isn't a hard formula.
+
+10
+00:00:25,010 --> 00:00:29,949
+It's a small slip at the end:
+giving r squared instead of r,
+
+11
+00:00:29,969 --> 00:00:32,390
+the radius when they
+asked for the diameter,
+
+12
+00:00:32,410 --> 00:00:34,940
+or flipping a sign on the center.
+
+13
+00:00:35,090 --> 00:00:39,110
+We'll fix all of that, then work through
+seven practice questions that get
+
+14
+00:00:39,130 --> 00:00:40,660
+harder as we go.
+
+15
+00:00:41,086 --> 00:00:42,986
+Start with the equation of a circle.
+
+16
+00:00:43,006 --> 00:00:47,146
+In standard form, it's x minus h, squared,
+
+17
+00:00:47,166 --> 00:00:50,666
+plus y minus k, squared, equals r squared.
+
+18
+00:00:50,686 --> 00:00:56,176
+The center is the point
+h, k, and r is the radius.
+
+19
+00:00:56,686 --> 00:00:57,906
+Two things to watch.
+
+20
+00:00:57,926 --> 00:00:59,866
+First, the signs flip.
+
+21
+00:00:59,886 --> 00:01:04,866
+If you see x minus three, the center's
+x coordinate is positive three.
+
+22
+00:01:04,886 --> 00:01:09,026
+If you see y plus five, the y
+coordinate is negative five,
+
+23
+00:01:09,046 --> 00:01:13,296
+because y plus five is the
+same as y minus negative five.
+
+24
+00:01:13,795 --> 00:01:17,534
+Second, the right side
+is r squared, not r.
+
+25
+00:01:17,554 --> 00:01:20,855
+Here it's thirty-six,
+so the radius is six.
+
+26
+00:01:20,875 --> 00:01:23,615
+If thirty-six shows up as
+a choice for the radius,
+
+27
+00:01:23,635 --> 00:01:24,635
+it's a trap.
+
+28
+00:01:25,145 --> 00:01:27,435
+Next, arcs and sectors.
+
+29
+00:01:27,745 --> 00:01:30,885
+An arc is a piece of the circle's edge.
+
+30
+00:01:30,905 --> 00:01:35,075
+A sector is a slice of the
+circle, like a slice of pizza.
+
+31
+00:01:35,185 --> 00:01:37,165
+You don't need new formulas for either.
+
+32
+00:01:37,185 --> 00:01:41,555
+You need one idea: what fraction
+of the circle do you have?
+
+33
+00:01:42,045 --> 00:01:45,705
+That fraction is the central
+angle over three hundred sixty.
+
+34
+00:01:45,725 --> 00:01:48,985
+Multiply it by the
+circumference for arc length,
+
+35
+00:01:49,005 --> 00:01:50,945
+or by the area for sector area.
+
+36
+00:01:50,965 --> 00:01:54,465
+A ninety degree angle is
+one fourth of the circle,
+
+37
+00:01:54,485 --> 00:01:57,815
+so its arc is one fourth
+of the circumference.
+
+38
+00:01:58,338 --> 00:02:01,028
+Radians are just another unit for angles.
+
+39
+00:02:01,217 --> 00:02:06,198
+The reference sheet tells you a full
+circle is three hundred sixty degrees,
+
+40
+00:02:06,218 --> 00:02:08,158
+or two pi radians.
+
+41
+00:02:08,178 --> 00:02:11,788
+So one hundred eighty
+degrees equals pi radians.
+
+42
+00:02:12,058 --> 00:02:16,868
+To convert degrees to radians,
+multiply by pi over one eighty.
+
+43
+00:02:16,888 --> 00:02:20,178
+To go back, multiply
+by one eighty over pi.
+
+44
+00:02:20,709 --> 00:02:25,359
+In radians, the fraction of the
+circle is the angle over two pi.
+
+45
+00:02:25,470 --> 00:02:30,559
+And there's a shortcut: arc length
+equals the radius times the angle.
+
+46
+00:02:30,630 --> 00:02:35,118
+That shortcut only works in
+radians, never in degrees.
+
+47
+00:02:35,562 --> 00:02:36,972
+Now angles.
+
+48
+00:02:37,202 --> 00:02:40,612
+A central angle has its
+vertex at the center.
+
+49
+00:02:40,682 --> 00:02:45,332
+An inscribed angle has its
+vertex on the circle itself.
+
+50
+00:02:45,442 --> 00:02:48,451
+When the two angles
+open onto the same arc,
+
+51
+00:02:48,602 --> 00:02:52,012
+the inscribed angle is
+half the central angle.
+
+52
+00:02:52,501 --> 00:02:53,711
+Last fact.
+
+53
+00:02:53,981 --> 00:02:58,241
+A tangent line touches the
+circle at exactly one point,
+
+54
+00:02:58,261 --> 00:03:02,001
+and it's perpendicular to the
+radius drawn to that point.
+
+55
+00:03:02,021 --> 00:03:04,841
+That right angle is the whole trick.
+
+56
+00:03:04,861 --> 00:03:08,321
+It gives you a right triangle
+for the Pythagorean theorem,
+
+57
+00:03:08,341 --> 00:03:11,591
+or a negative reciprocal slope on a graph.
+
+58
+00:03:12,049 --> 00:03:14,629
+Here's how to recognize
+which fact you need.
+
+59
+00:03:14,649 --> 00:03:18,349
+If you see x squared and y
+squared in the same equation,
+
+60
+00:03:18,369 --> 00:03:21,778
+it's a circle, and they want
+the center or the radius.
+
+61
+00:03:21,809 --> 00:03:24,188
+If the equation is expanded and messy,
+
+62
+00:03:24,208 --> 00:03:26,219
+you'll complete the square.
+
+63
+00:03:26,647 --> 00:03:29,866
+If you see arc, sector,
+or part of a circle,
+
+64
+00:03:29,886 --> 00:03:31,667
+write the fraction first.
+
+65
+00:03:31,687 --> 00:03:34,987
+If you see radians, or
+pi next to an angle,
+
+66
+00:03:35,007 --> 00:03:37,577
+use one eighty degrees equals pi.
+
+67
+00:03:38,007 --> 00:03:40,747
+If an angle's vertex sits on the circle,
+
+68
+00:03:40,767 --> 00:03:42,136
+think half.
+
+69
+00:03:42,247 --> 00:03:45,577
+And if you see the word
+tangent, draw the right angle.
+
+70
+00:03:45,996 --> 00:03:47,086
+Question one.
+
+71
+00:03:47,356 --> 00:03:51,856
+In the x y plane, a circle
+has the equation x plus four,
+
+72
+00:03:51,876 --> 00:03:56,126
+squared, plus y minus one,
+squared, equals forty-nine.
+
+73
+00:03:56,395 --> 00:03:59,686
+What are the center and
+the radius of the circle?
+
+74
+00:04:00,157 --> 00:04:01,807
+Pause and try it.
+
+75
+00:04:07,593 --> 00:04:08,883
+Flip the signs.
+
+76
+00:04:09,033 --> 00:04:13,683
+x plus four means the center's
+x coordinate is negative four.
+
+77
+00:04:13,713 --> 00:04:17,333
+y minus one means the y
+coordinate is positive one.
+
+78
+00:04:17,353 --> 00:04:21,363
+And forty-nine is r squared,
+so the radius is seven.
+
+79
+00:04:21,513 --> 00:04:23,322
+The answer is A.
+
+80
+00:04:23,738 --> 00:04:26,227
+B gets the signs backwards.
+
+81
+00:04:26,338 --> 00:04:29,908
+C and D use forty-nine as the radius.
+
+82
+00:04:29,938 --> 00:04:33,227
+Those are the two slips this
+question is fishing for.
+
+83
+00:04:33,636 --> 00:04:34,736
+Question two.
+
+84
+00:04:34,756 --> 00:04:37,846
+A circle has a radius of nine centimeters.
+
+85
+00:04:38,076 --> 00:04:42,365
+An arc of the circle has a
+central angle of eighty degrees.
+
+86
+00:04:42,516 --> 00:04:45,726
+What is the length of
+the arc, in centimeters?
+
+87
+00:04:46,135 --> 00:04:47,785
+Pause and try it.
+
+88
+00:04:53,570 --> 00:04:55,509
+Write the fraction first.
+
+89
+00:04:55,529 --> 00:04:59,390
+Eighty over three sixty
+simplifies to two ninths.
+
+90
+00:04:59,410 --> 00:05:03,940
+The full circumference is two
+pi r, which is eighteen pi.
+
+91
+00:05:04,250 --> 00:05:06,949
+Two ninths of eighteen pi is four pi.
+
+92
+00:05:06,969 --> 00:05:08,540
+The answer is B.
+
+93
+00:05:09,025 --> 00:05:11,715
+Eighteen pi is the whole circumference.
+
+94
+00:05:11,744 --> 00:05:15,685
+Two pi comes from using
+pi r instead of two pi r.
+
+95
+00:05:15,705 --> 00:05:20,564
+And seven twenty is what you get if you
+multiply the radius by eighty degrees.
+
+96
+00:05:20,584 --> 00:05:23,834
+Remember, that shortcut
+only works in radians.
+
+97
+00:05:24,299 --> 00:05:25,399
+Question three.
+
+98
+00:05:25,419 --> 00:05:29,029
+An angle has a measure of
+two hundred ten degrees.
+
+99
+00:05:29,339 --> 00:05:32,959
+The measure of the angle
+in radians is k pi,
+
+100
+00:05:32,979 --> 00:05:34,758
+where k is a constant.
+
+101
+00:05:34,778 --> 00:05:36,708
+What is the value of k?
+
+102
+00:05:37,191 --> 00:05:38,841
+Pause and try it.
+
+103
+00:05:44,627 --> 00:05:46,957
+Multiply by pi over one eighty.
+
+104
+00:05:47,147 --> 00:05:51,647
+Two hundred ten times pi over one
+eighty is two ten over one eighty,
+
+105
+00:05:51,667 --> 00:05:52,367
+times pi.
+
+106
+00:05:52,387 --> 00:05:57,196
+Divide both numbers by thirty,
+and that's seven sixths pi.
+
+107
+00:05:57,307 --> 00:05:59,757
+So k is seven sixths.
+
+108
+00:05:59,987 --> 00:06:01,637
+Enter it as a fraction.
+
+109
+00:06:02,061 --> 00:06:05,840
+Sense check: two hundred ten
+degrees is a bit more than pi,
+
+110
+00:06:05,860 --> 00:06:08,081
+so k should be a bit more than one.
+
+111
+00:06:08,101 --> 00:06:11,151
+If you got six sevenths,
+you flipped the conversion.
+
+112
+00:06:11,604 --> 00:06:12,544
+Question four.
+
+113
+00:06:12,564 --> 00:06:17,054
+Points A, B, and C lie on
+a circle with center O.
+
+114
+00:06:17,484 --> 00:06:21,743
+Angle A O B measures
+one hundred ten degrees,
+
+115
+00:06:21,763 --> 00:06:25,454
+and point C is not on minor arc A B.
+
+116
+00:06:25,603 --> 00:06:28,734
+What is the measure of angle A C B?
+
+117
+00:06:29,220 --> 00:06:30,870
+Pause and try it.
+
+118
+00:06:37,656 --> 00:06:41,636
+Angle A O B has its vertex at the center,
+
+119
+00:06:41,656 --> 00:06:43,476
+so it's a central angle.
+
+120
+00:06:43,496 --> 00:06:47,556
+Angle A C B has its vertex on the circle,
+
+121
+00:06:47,576 --> 00:06:49,076
+so it's inscribed.
+
+122
+00:06:49,096 --> 00:06:52,916
+Both open onto the same arc, arc A B.
+
+123
+00:06:52,936 --> 00:06:57,996
+So the inscribed angle is half:
+half of one ten is fifty-five.
+
+124
+00:06:58,016 --> 00:06:59,946
+The answer is C.
+
+125
+00:07:00,391 --> 00:07:02,251
+One twenty-five is the sneaky trap.
+
+126
+00:07:02,271 --> 00:07:05,051
+That's the angle you'd get
+if C were on the minor arc:
+
+127
+00:07:05,071 --> 00:07:07,921
+half of three sixty minus one ten.
+
+128
+00:07:07,991 --> 00:07:11,361
+The question rules that out,
+so always check where C is.
+
+129
+00:07:11,794 --> 00:07:13,124
+Now the harder ones.
+
+130
+00:07:13,314 --> 00:07:14,653
+Question five.
+
+131
+00:07:14,673 --> 00:07:20,333
+The equation x squared plus y squared
+minus ten x plus four y equals twenty
+
+132
+00:07:20,353 --> 00:07:23,203
+represents a circle in the x y plane.
+
+133
+00:07:23,273 --> 00:07:25,324
+What is the diameter of the circle?
+
+134
+00:07:25,787 --> 00:07:27,437
+Pause and try it.
+
+135
+00:07:34,223 --> 00:07:37,352
+The equation is expanded,
+so complete the square.
+
+136
+00:07:37,582 --> 00:07:40,633
+Group the x terms and the y terms.
+
+137
+00:07:40,943 --> 00:07:43,483
+Half of negative ten is negative five,
+
+138
+00:07:43,503 --> 00:07:46,313
+and negative five squared is twenty-five.
+
+139
+00:07:46,503 --> 00:07:50,833
+Half of four is two,
+and two squared is four.
+
+140
+00:07:50,983 --> 00:07:54,153
+Add twenty-five and four to both sides.
+
+141
+00:07:54,673 --> 00:07:59,853
+That gives x minus five,
+squared, plus y plus two,
+
+142
+00:07:59,873 --> 00:08:01,733
+squared, equals forty-nine.
+
+143
+00:08:01,753 --> 00:08:03,683
+The radius is seven.
+
+144
+00:08:04,312 --> 00:08:06,533
+But the question asks for the diameter,
+
+145
+00:08:06,553 --> 00:08:08,562
+which is twice the radius.
+
+146
+00:08:08,672 --> 00:08:09,613
+Fourteen.
+
+147
+00:08:09,633 --> 00:08:11,283
+The answer is B.
+
+148
+00:08:11,728 --> 00:08:13,228
+Look at the wrong choices.
+
+149
+00:08:13,248 --> 00:08:14,947
+Seven is the radius.
+
+150
+00:08:14,967 --> 00:08:17,218
+Forty-nine is r squared.
+
+151
+00:08:17,368 --> 00:08:21,828
+Four root five is what you get if you
+skip completing the square and treat
+
+152
+00:08:21,848 --> 00:08:23,828
+twenty as r squared.
+
+153
+00:08:23,848 --> 00:08:27,098
+Every wrong answer is one missed step.
+
+154
+00:08:27,550 --> 00:08:31,639
+Desmos check: type the equation
+exactly as it's written.
+
+155
+00:08:31,710 --> 00:08:35,769
+Desmos graphs the circle, and
+you can read it off the grid.
+
+156
+00:08:35,789 --> 00:08:39,730
+It runs from x equals negative
+two to x equals twelve.
+
+157
+00:08:39,750 --> 00:08:41,560
+That's fourteen across.
+
+158
+00:08:42,043 --> 00:08:43,413
+Question six.
+
+159
+00:08:43,563 --> 00:08:47,383
+In the x y plane, a circle has center two,
+
+160
+00:08:47,403 --> 00:08:50,142
+negative one, and passes
+through the point five,
+
+161
+00:08:50,162 --> 00:08:51,063
+three.
+
+162
+00:08:51,083 --> 00:08:55,943
+Which equation represents the line
+tangent to the circle at the point five,
+
+163
+00:08:55,963 --> 00:08:56,963
+three?
+
+164
+00:08:57,148 --> 00:08:58,798
+Pause and try it.
+
+165
+00:09:06,583 --> 00:09:09,243
+Tangent means perpendicular to the radius.
+
+166
+00:09:09,263 --> 00:09:12,563
+So find the radius's slope first.
+
+167
+00:09:12,583 --> 00:09:16,122
+From two, negative one to five, three,
+
+168
+00:09:16,142 --> 00:09:20,042
+y goes up four and x goes up three.
+
+169
+00:09:20,062 --> 00:09:23,033
+The radius has a slope of four thirds.
+
+170
+00:09:23,383 --> 00:09:26,083
+The tangent's slope is
+the negative reciprocal:
+
+171
+00:09:26,103 --> 00:09:27,633
+negative three fourths.
+
+172
+00:09:28,115 --> 00:09:30,255
+Now use the point five, three.
+
+173
+00:09:30,275 --> 00:09:36,245
+y minus three equals negative
+three fourths times x minus five.
+
+174
+00:09:36,354 --> 00:09:39,494
+Multiply both sides by four and rearrange,
+
+175
+00:09:39,514 --> 00:09:43,924
+and you get three x plus
+four y equals twenty-seven.
+
+176
+00:09:44,195 --> 00:09:46,245
+The answer is D.
+
+177
+00:09:46,672 --> 00:09:48,611
+Each trap misses one piece.
+
+178
+00:09:48,631 --> 00:09:51,372
+A is the line through the radius itself.
+
+179
+00:09:51,392 --> 00:09:56,172
+B has the right slope, but it goes
+through the center instead of the point.
+
+180
+00:09:56,192 --> 00:10:00,842
+C uses negative four thirds, a
+negative sign without the reciprocal.
+
+181
+00:10:01,276 --> 00:10:05,336
+Desmos shortcut: graph
+the circle, x minus two,
+
+182
+00:10:05,356 --> 00:10:10,605
+squared, plus y plus one,
+squared, equals twenty-five,
+
+183
+00:10:10,755 --> 00:10:12,536
+then graph each choice.
+
+184
+00:10:12,556 --> 00:10:17,165
+Only one line touches the
+circle at exactly one point.
+
+185
+00:10:17,592 --> 00:10:20,002
+Last one, and the hardest.
+
+186
+00:10:20,431 --> 00:10:27,092
+A circle in the x y plane has the equation
+x squared plus y squared minus six x
+
+187
+00:10:27,112 --> 00:10:29,642
+plus four y equals twenty-three.
+
+188
+00:10:29,952 --> 00:10:35,292
+A sector of this circle has a central
+angle of two pi over three radians.
+
+189
+00:10:35,312 --> 00:10:37,402
+What is the area of the sector?
+
+190
+00:10:37,834 --> 00:10:38,774
+Pause and try it.
+
+191
+00:10:38,794 --> 00:10:40,443
+Take a little longer on this one.
+
+192
+00:10:49,253 --> 00:10:50,303
+Two steps.
+
+193
+00:10:51,013 --> 00:10:53,313
+First, find the radius.
+
+194
+00:10:53,333 --> 00:10:59,392
+Complete the square: add nine for
+the x terms and four for the y terms.
+
+195
+00:10:59,412 --> 00:11:02,953
+The right side becomes
+twenty-three plus nine plus four,
+
+196
+00:11:02,973 --> 00:11:04,582
+which is thirty-six.
+
+197
+00:11:04,773 --> 00:11:09,743
+So the radius is six, and the
+full area is thirty-six pi.
+
+198
+00:11:10,280 --> 00:11:12,530
+Second, the fraction.
+
+199
+00:11:12,679 --> 00:11:15,650
+In radians, the whole circle is two pi.
+
+200
+00:11:15,800 --> 00:11:18,339
+Two pi over three, divided by two pi,
+
+201
+00:11:18,359 --> 00:11:19,739
+is one third.
+
+202
+00:11:19,759 --> 00:11:22,659
+One third of thirty-six pi is twelve pi.
+
+203
+00:11:22,679 --> 00:11:24,290
+The answer is C.
+
+204
+00:11:24,752 --> 00:11:28,772
+Four pi is the arc length,
+radius times angle,
+
+205
+00:11:28,792 --> 00:11:30,122
+not the area.
+
+206
+00:11:30,192 --> 00:11:35,532
+Twenty-four pi treats the whole circle
+as pi radians instead of two pi.
+
+207
+00:11:35,552 --> 00:11:39,131
+And thirty-six pi is the entire circle.
+
+208
+00:11:39,151 --> 00:11:41,612
+So once again, reread what they ask for.
+
+209
+00:11:41,632 --> 00:11:43,362
+Arc or area?
+
+210
+00:11:43,803 --> 00:11:46,653
+Here's the checklist
+for any circle question.
+
+211
+00:11:46,963 --> 00:11:47,972
+Equation?
+
+212
+00:11:48,203 --> 00:11:51,343
+Get it into standard form, flip the signs,
+
+213
+00:11:51,363 --> 00:11:52,773
+and take the square root.
+
+214
+00:11:53,163 --> 00:11:54,823
+Arc or sector?
+
+215
+00:11:54,843 --> 00:11:56,653
+Write the fraction first.
+
+216
+00:11:56,882 --> 00:11:57,903
+Radians?
+
+217
+00:11:57,923 --> 00:12:00,293
+One eighty degrees equals pi.
+
+218
+00:12:00,683 --> 00:12:01,903
+Angle on the circle?
+
+219
+00:12:01,923 --> 00:12:03,423
+Half the central angle.
+
+220
+00:12:03,443 --> 00:12:04,243
+Tangent?
+
+221
+00:12:04,263 --> 00:12:06,193
+Right angle with the radius.
+
+222
+00:12:06,636 --> 00:12:11,206
+And before you click, reread
+the last line of the question.
+
+223
+00:12:11,356 --> 00:12:13,376
+Radius or diameter.
+
+224
+00:12:13,396 --> 00:12:15,246
+Arc or area.
+
+225
+00:12:15,316 --> 00:12:19,926
+That final check is where most
+circle points are won or lost.
+
+226
+00:12:20,383 --> 00:12:24,963
+For more practice, the College Board's
+free Question Bank lets you filter for
+
+227
+00:12:24,983 --> 00:12:28,113
+circles under Geometry and Trigonometry.
+
+228
+00:12:28,580 --> 00:12:32,160
+Every question in this video
+was written for this video,
+
+229
+00:12:32,180 --> 00:12:35,150
+in the style of the real test.
+
+230
+00:12:35,220 --> 00:12:38,430
+Next up: exponential growth and decay.
+
+231
+00:12:38,460 --> 00:12:40,870
+If this helped, subscribe so you catch it.

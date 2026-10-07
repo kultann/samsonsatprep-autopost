@@ -1,0 +1,937 @@
+1
+00:00:00,320 --> 00:00:05,100
+Percent questions look easy, and
+that's exactly why they cost points.
+
+2
+00:00:05,120 --> 00:00:10,220
+The SAT writes them so that the
+obvious move gives you a wrong answer,
+
+3
+00:00:10,240 --> 00:00:14,049
+and that wrong answer is sitting
+right there in the choices.
+
+4
+00:00:14,569 --> 00:00:19,499
+The big three mistakes: adding percent
+changes that should be multiplied,
+
+5
+00:00:19,849 --> 00:00:23,218
+dividing by the wrong
+number in a percent change,
+
+6
+00:00:23,329 --> 00:00:26,859
+and undoing a discount by
+adding the percent back on.
+
+7
+00:00:27,358 --> 00:00:32,768
+In this video, you'll learn one tool that
+handles almost every percent question:
+
+8
+00:00:32,838 --> 00:00:34,088
+the multiplier.
+
+9
+00:00:34,158 --> 00:00:38,218
+Then we'll use it on every
+question type the SAT likes,
+
+10
+00:00:38,238 --> 00:00:41,767
+with seven practice questions
+that get harder as we go.
+
+11
+00:00:42,210 --> 00:00:43,750
+Start with the basics.
+
+12
+00:00:43,770 --> 00:00:49,060
+Percent means per hundred, so twenty
+percent is twenty over one hundred,
+
+13
+00:00:49,170 --> 00:00:51,459
+or zero point two.
+
+14
+00:00:51,609 --> 00:00:55,230
+Twenty percent of fifty is
+zero point two times fifty,
+
+15
+00:00:55,250 --> 00:00:56,539
+which is ten.
+
+16
+00:00:57,090 --> 00:01:00,140
+In percent questions, the
+word of means multiply.
+
+17
+00:01:00,544 --> 00:01:02,194
+Now the key idea.
+
+18
+00:01:02,344 --> 00:01:06,034
+A percent increase or
+decrease is just a multiplier.
+
+19
+00:01:06,144 --> 00:01:10,364
+Increase by twenty percent, and you
+keep the whole thing plus twenty percent
+
+20
+00:01:10,384 --> 00:01:11,003
+more.
+
+21
+00:01:11,023 --> 00:01:16,074
+That's one plus zero point
+two, or times one point two.
+
+22
+00:01:16,540 --> 00:01:20,239
+Decrease by fifteen percent, and
+you keep eighty-five percent,
+
+23
+00:01:20,259 --> 00:01:23,480
+so multiply by zero point eight five.
+
+24
+00:01:23,500 --> 00:01:27,960
+An increase of six percent
+is times one point zero six.
+
+25
+00:01:27,980 --> 00:01:31,830
+A decrease of forty percent
+is times zero point six.
+
+26
+00:01:32,340 --> 00:01:36,119
+Once you think in
+multipliers, the rest follows.
+
+27
+00:01:36,139 --> 00:01:37,400
+Changes in a row?
+
+28
+00:01:37,420 --> 00:01:39,310
+Multiply the multipliers.
+
+29
+00:01:39,340 --> 00:01:40,959
+Need the original value?
+
+30
+00:01:40,979 --> 00:01:42,479
+Divide by the multiplier.
+
+31
+00:01:42,499 --> 00:01:45,270
+That's most of this
+video in two sentences.
+
+32
+00:01:45,690 --> 00:01:49,589
+Percentages are one of the skills in
+Problem-Solving and Data Analysis,
+
+33
+00:01:49,609 --> 00:01:53,380
+which is about fifteen
+percent of the math section.
+
+34
+00:01:53,450 --> 00:01:57,179
+The questions come in a
+handful of predictable types.
+
+35
+00:01:57,589 --> 00:02:00,558
+What percent one number is of another.
+
+36
+00:02:00,789 --> 00:02:04,039
+Percent change from an
+old value to a new one.
+
+37
+00:02:04,109 --> 00:02:05,838
+Two changes in a row.
+
+38
+00:02:05,949 --> 00:02:08,759
+Working backward to an original value.
+
+39
+00:02:08,869 --> 00:02:11,039
+A percent of a percent.
+
+40
+00:02:11,309 --> 00:02:13,449
+And percentage points versus percent.
+
+41
+00:02:13,469 --> 00:02:14,759
+We'll go in that order.
+
+42
+00:02:15,224 --> 00:02:16,444
+Question one.
+
+43
+00:02:16,464 --> 00:02:20,714
+In a class of thirty-two students,
+twelve play an instrument.
+
+44
+00:02:20,904 --> 00:02:24,754
+What percent of the students in
+the class play an instrument?
+
+45
+00:02:25,170 --> 00:02:26,460
+Pause and try it.
+
+46
+00:02:32,238 --> 00:02:34,858
+What percent questions
+are part over whole,
+
+47
+00:02:34,879 --> 00:02:36,368
+times one hundred.
+
+48
+00:02:36,439 --> 00:02:39,338
+The part is twelve, and
+the whole is thirty-two.
+
+49
+00:02:39,358 --> 00:02:44,898
+Twelve divided by thirty-two
+is zero point three seven five.
+
+50
+00:02:44,918 --> 00:02:48,608
+Times one hundred, that's
+thirty-seven point five percent.
+
+51
+00:02:49,025 --> 00:02:51,514
+Type thirty-seven point five.
+
+52
+00:02:52,344 --> 00:02:56,795
+The test directions say not to
+include symbols like a percent sign.
+
+53
+00:02:56,984 --> 00:02:59,594
+And always ask, part of what?
+
+54
+00:03:00,625 --> 00:03:03,795
+Here, the whole is the entire class.
+
+55
+00:03:04,275 --> 00:03:05,375
+Question two.
+
+56
+00:03:05,395 --> 00:03:09,335
+The price of a concert ticket increased
+from sixty-four dollars to eighty
+
+57
+00:03:09,355 --> 00:03:10,355
+dollars.
+
+58
+00:03:10,475 --> 00:03:12,844
+By what percent did the price increase?
+
+59
+00:03:13,302 --> 00:03:14,592
+Pause and try it.
+
+60
+00:03:20,371 --> 00:03:24,511
+Percent change is the change,
+divided by the original,
+
+61
+00:03:24,531 --> 00:03:26,101
+times one hundred.
+
+62
+00:03:26,251 --> 00:03:28,951
+The change is eighty minus sixty-four,
+
+63
+00:03:28,971 --> 00:03:30,391
+which is sixteen.
+
+64
+00:03:30,411 --> 00:03:32,341
+The original is sixty-four.
+
+65
+00:03:32,450 --> 00:03:35,271
+Sixteen over sixty-four is one fourth,
+
+66
+00:03:35,291 --> 00:03:37,151
+which is twenty-five percent.
+
+67
+00:03:37,171 --> 00:03:38,861
+The answer is C.
+
+68
+00:03:39,336 --> 00:03:41,675
+The trap is B, twenty percent.
+
+69
+00:03:41,695 --> 00:03:44,996
+That's sixteen divided
+by eighty, the new price.
+
+70
+00:03:45,016 --> 00:03:47,275
+Always divide by the starting value.
+
+71
+00:03:47,295 --> 00:03:50,236
+A is the change in dollars, not a percent.
+
+72
+00:03:50,256 --> 00:03:55,386
+And eighty percent is the old
+price as a percent of the new one.
+
+73
+00:03:56,376 --> 00:04:01,706
+Multiplier check: sixty-four times
+one point two five is eighty.
+
+74
+00:04:02,142 --> 00:04:03,242
+Question three.
+
+75
+00:04:03,262 --> 00:04:06,992
+A store increased the price
+of a jacket by forty percent.
+
+76
+00:04:07,062 --> 00:04:11,871
+During a sale, the store then decreased
+the new price by twenty-five percent.
+
+77
+00:04:12,141 --> 00:04:15,711
+The sale price is what
+percent of the original price?
+
+78
+00:04:16,160 --> 00:04:17,450
+Pause and try it.
+
+79
+00:04:23,229 --> 00:04:26,008
+Two changes in a row
+means two multipliers.
+
+80
+00:04:26,028 --> 00:04:29,879
+A forty percent increase
+is times one point four.
+
+81
+00:04:29,909 --> 00:04:34,448
+A twenty-five percent decrease
+is times zero point seven five.
+
+82
+00:04:34,468 --> 00:04:35,878
+Multiply them.
+
+83
+00:04:36,228 --> 00:04:40,359
+One point four times zero point
+seven five is one point zero five.
+
+84
+00:04:40,878 --> 00:04:44,137
+So the sale price is one point
+zero five times the original.
+
+85
+00:04:44,157 --> 00:04:45,938
+That's one hundred five percent of it.
+
+86
+00:04:45,958 --> 00:04:47,488
+The answer is B.
+
+87
+00:04:47,960 --> 00:04:48,780
+The trap is C.
+
+88
+00:04:48,800 --> 00:04:53,770
+Forty minus twenty-five is fifteen,
+but percent changes don't add.
+
+89
+00:04:53,960 --> 00:04:56,700
+The sale takes twenty-five
+percent of the higher,
+
+90
+00:04:56,720 --> 00:04:59,130
+marked-up price, not of the original.
+
+91
+00:04:59,199 --> 00:05:01,209
+D ignores the sale.
+
+92
+00:05:01,640 --> 00:05:05,850
+And A comes from subtracting the
+multipliers instead of multiplying them.
+
+93
+00:05:06,338 --> 00:05:07,558
+Question four.
+
+94
+00:05:07,578 --> 00:05:12,278
+After a fifteen percent discount, a
+pair of headphones costs one hundred two
+
+95
+00:05:12,298 --> 00:05:13,158
+dollars.
+
+96
+00:05:13,178 --> 00:05:16,227
+What was the price of the
+headphones before the discount?
+
+97
+00:05:16,639 --> 00:05:17,929
+Pause and try it.
+
+98
+00:05:23,708 --> 00:05:26,047
+Write it as a multiplier equation.
+
+99
+00:05:26,067 --> 00:05:30,568
+A fifteen percent discount is
+times zero point eight five.
+
+100
+00:05:30,588 --> 00:05:33,767
+So the original price,
+times zero point eight five,
+
+101
+00:05:33,787 --> 00:05:35,838
+equals one hundred two.
+
+102
+00:05:36,351 --> 00:05:38,721
+To undo a multiplier, divide by it.
+
+103
+00:05:38,791 --> 00:05:43,611
+One hundred two divided by zero point
+eight five is one hundred twenty.
+
+104
+00:05:43,631 --> 00:05:45,251
+The answer is D.
+
+105
+00:05:45,271 --> 00:05:46,251
+Check it.
+
+106
+00:05:46,271 --> 00:05:50,011
+Fifteen percent of one
+hundred twenty is eighteen,
+
+107
+00:05:50,031 --> 00:05:53,761
+and one hundred twenty minus
+eighteen is one hundred two.
+
+108
+00:05:54,215 --> 00:05:59,275
+C is the classic trap: adding fifteen
+percent back onto one hundred two.
+
+109
+00:05:59,295 --> 00:06:02,985
+That gives one hundred seventeen
+dollars and thirty cents.
+
+110
+00:06:03,175 --> 00:06:07,434
+But the discount was fifteen
+percent of the original price,
+
+111
+00:06:07,454 --> 00:06:09,514
+not of one hundred two.
+
+112
+00:06:09,534 --> 00:06:13,545
+B adds fifteen dollars
+instead of fifteen percent.
+
+113
+00:06:13,655 --> 00:06:16,705
+And A takes the discount a second time.
+
+114
+00:06:17,177 --> 00:06:18,477
+Question five.
+
+115
+00:06:18,497 --> 00:06:24,867
+The number a is thirty percent of b,
+and b is one hundred fifty percent of c.
+
+116
+00:06:24,937 --> 00:06:27,826
+The number a is what percent of c?
+
+117
+00:06:28,257 --> 00:06:29,547
+Pause and try it.
+
+118
+00:06:36,325 --> 00:06:37,825
+Translate each sentence.
+
+119
+00:06:37,845 --> 00:06:41,345
+Is means equals, and of means multiply.
+
+120
+00:06:41,365 --> 00:06:46,505
+a is thirty percent of b means
+a equals zero point three b.
+
+121
+00:06:46,525 --> 00:06:51,935
+b is one hundred fifty percent of
+c means b equals one point five c.
+
+122
+00:06:52,393 --> 00:06:53,653
+Substitute.
+
+123
+00:06:53,673 --> 00:06:57,413
+a equals zero point three
+times one point five c,
+
+124
+00:06:57,433 --> 00:06:59,853
+which is zero point four five c.
+
+125
+00:06:59,873 --> 00:07:03,293
+So a is forty-five percent of c.
+
+126
+00:07:03,313 --> 00:07:05,083
+The answer is forty-five.
+
+127
+00:07:05,666 --> 00:07:09,485
+If the letters feel abstract,
+pick c equals one hundred.
+
+128
+00:07:09,505 --> 00:07:14,045
+Then b is one hundred fifty,
+and a is thirty percent of that,
+
+129
+00:07:14,065 --> 00:07:14,965
+which is forty-five.
+
+130
+00:07:14,985 --> 00:07:19,766
+Forty-five out of one hundred
+is forty-five percent.
+
+131
+00:07:19,786 --> 00:07:25,246
+Starting with one hundred works on almost
+any percent question that gives you no
+
+132
+00:07:25,266 --> 00:07:26,476
+real numbers.
+
+133
+00:07:26,994 --> 00:07:30,204
+Next, a trap that shows
+up in data questions.
+
+134
+00:07:30,273 --> 00:07:34,654
+When a percentage changes, there
+are two ways to describe the change.
+
+135
+00:07:34,674 --> 00:07:37,533
+Percentage points are
+a simple subtraction.
+
+136
+00:07:37,553 --> 00:07:41,604
+Percent change compares that
+difference to the starting percentage.
+
+137
+00:07:42,047 --> 00:07:43,227
+Question six.
+
+138
+00:07:43,247 --> 00:07:48,067
+In a town, eight percent of residents
+biked to work in twenty eighteen,
+
+139
+00:07:48,087 --> 00:07:51,897
+and ten percent of residents biked
+to work in twenty twenty-four.
+
+140
+00:07:52,206 --> 00:07:56,147
+The twenty twenty-four percentage is
+what percent greater than the twenty
+
+141
+00:07:56,167 --> 00:07:57,616
+eighteen percentage?
+
+142
+00:07:58,066 --> 00:07:59,356
+Pause and try it.
+
+143
+00:08:06,134 --> 00:08:09,984
+Ten percent minus eight percent
+is two percentage points.
+
+144
+00:08:10,494 --> 00:08:12,874
+But the question asks
+what percent greater.
+
+145
+00:08:12,894 --> 00:08:15,154
+That's percent change: the difference,
+
+146
+00:08:15,174 --> 00:08:18,664
+two, divided by the starting value, eight.
+
+147
+00:08:18,854 --> 00:08:22,224
+Two over eight is one fourth,
+or twenty-five percent.
+
+148
+00:08:22,334 --> 00:08:23,864
+The answer is C.
+
+149
+00:08:24,337 --> 00:08:30,067
+A, two percent, is the percentage
+point difference written as a percent.
+
+150
+00:08:30,257 --> 00:08:31,627
+That's the trap.
+
+151
+00:08:31,777 --> 00:08:34,627
+B divides by the newer value.
+
+152
+00:08:34,656 --> 00:08:37,476
+And D, one hundred twenty-five percent,
+
+153
+00:08:37,496 --> 00:08:42,147
+is what percent ten is of eight,
+not how much greater it is.
+
+154
+00:08:42,580 --> 00:08:44,680
+Question seven, the hardest one.
+
+155
+00:08:44,700 --> 00:08:48,910
+A bookstore increased the price
+of a book by twenty percent.
+
+156
+00:08:49,020 --> 00:08:53,389
+A month later, it decreased the
+new price by twenty percent.
+
+157
+00:08:53,540 --> 00:08:58,440
+After both changes, the book cost
+thirty-three dollars and sixty cents.
+
+158
+00:08:58,460 --> 00:09:00,800
+What was the price of
+the book, in dollars,
+
+159
+00:09:00,820 --> 00:09:02,670
+before both changes?
+
+160
+00:09:03,087 --> 00:09:03,827
+Pause and try it.
+
+161
+00:09:03,847 --> 00:09:05,696
+Take a little longer on this one.
+
+162
+00:09:13,506 --> 00:09:15,596
+First, the trap.
+
+163
+00:09:15,706 --> 00:09:19,486
+Up twenty percent and then down
+twenty percent feels like it cancels,
+
+164
+00:09:19,506 --> 00:09:21,766
+so you'd answer thirty-three sixty.
+
+165
+00:09:21,786 --> 00:09:23,356
+It doesn't cancel.
+
+166
+00:09:23,386 --> 00:09:26,526
+The multipliers are one point
+two and zero point eight,
+
+167
+00:09:26,546 --> 00:09:30,316
+and one point two times zero point
+eight is zero point nine six.
+
+168
+00:09:30,838 --> 00:09:34,217
+So the original price,
+times zero point nine six,
+
+169
+00:09:34,237 --> 00:09:36,498
+equals thirty-three sixty.
+
+170
+00:09:36,518 --> 00:09:37,648
+Divide.
+
+171
+00:09:37,798 --> 00:09:42,057
+Thirty-three point six divided by
+zero point nine six is thirty-five.
+
+172
+00:09:42,077 --> 00:09:45,247
+The original price was
+thirty-five dollars.
+
+173
+00:09:45,775 --> 00:09:46,715
+Check it forward.
+
+174
+00:09:46,735 --> 00:09:49,505
+Thirty-five, up twenty
+percent, is forty-two.
+
+175
+00:09:49,574 --> 00:09:53,035
+Forty-two, down twenty
+percent, is thirty-three sixty.
+
+176
+00:09:53,055 --> 00:09:54,184
+It works.
+
+177
+00:09:54,633 --> 00:09:57,443
+Desmos shortcut, if you'd
+rather skip the algebra.
+
+178
+00:09:57,753 --> 00:10:03,243
+Graph y equals x times one point
+two times zero point eight.
+
+179
+00:10:03,433 --> 00:10:06,803
+Then graph y equals
+thirty-three point six.
+
+180
+00:10:06,993 --> 00:10:08,932
+Zoom out and click the intersection.
+
+181
+00:10:08,952 --> 00:10:12,163
+It's at thirty-five,
+thirty-three point six.
+
+182
+00:10:12,588 --> 00:10:16,077
+Here's the test-day method
+for every percent question.
+
+183
+00:10:16,387 --> 00:10:20,997
+Step one: turn every percent
+change into a multiplier.
+
+184
+00:10:21,147 --> 00:10:25,038
+Up some percent means one plus
+that percent as a decimal.
+
+185
+00:10:25,188 --> 00:10:27,278
+Down means one minus it.
+
+186
+00:10:27,685 --> 00:10:30,535
+Step two: decide the direction.
+
+187
+00:10:30,805 --> 00:10:32,905
+Going forward from the original?
+
+188
+00:10:32,925 --> 00:10:34,025
+Multiply.
+
+189
+00:10:34,045 --> 00:10:36,185
+Going backward to the original?
+
+190
+00:10:36,205 --> 00:10:37,265
+Divide.
+
+191
+00:10:37,285 --> 00:10:38,975
+More than one change?
+
+192
+00:10:39,004 --> 00:10:42,014
+Multiply all the
+multipliers together first.
+
+193
+00:10:42,507 --> 00:10:46,567
+Step three: for percent
+change and percent greater,
+
+194
+00:10:46,587 --> 00:10:48,677
+divide by the starting value.
+
+195
+00:10:48,867 --> 00:10:51,486
+And if a question gives
+you no real numbers,
+
+196
+00:10:51,506 --> 00:10:53,076
+start with one hundred.
+
+197
+00:10:53,557 --> 00:10:54,657
+Recap.
+
+198
+00:10:54,677 --> 00:10:56,737
+Of means multiply.
+
+199
+00:10:56,757 --> 00:11:00,057
+Percent change is the
+change over the original.
+
+200
+00:11:00,077 --> 00:11:03,446
+Changes in a row multiply, they don't add.
+
+201
+00:11:03,597 --> 00:11:06,696
+To find the original,
+divide by the multiplier.
+
+202
+00:11:06,716 --> 00:11:10,297
+A percent of a percent
+means multiply the decimals.
+
+203
+00:11:10,317 --> 00:11:13,367
+And percentage points
+aren't the same as percent.
+
+204
+00:11:13,837 --> 00:11:19,497
+Every question here was written for this
+video in the style of the real test.
+
+205
+00:11:19,517 --> 00:11:24,216
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+206
+00:11:24,236 --> 00:11:26,527
+skill, including percentages.
+
+207
+00:11:27,025 --> 00:11:28,925
+If this helped, subscribe.
+
+208
+00:11:28,945 --> 00:11:32,435
+The next video is SAT circles.

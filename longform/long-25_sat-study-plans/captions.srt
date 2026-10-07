@@ -1,0 +1,853 @@
+1
+00:00:00,320 --> 00:00:04,260
+The right SAT study plan
+depends on one thing:
+
+2
+00:00:04,280 --> 00:00:05,980
+how much time you have.
+
+3
+00:00:06,000 --> 00:00:09,930
+Two weeks, one month, and three
+months need different plans.
+
+4
+00:00:10,469 --> 00:00:12,808
+But the mistake is the same in all three.
+
+5
+00:00:12,828 --> 00:00:16,049
+Students take practice
+test after practice test,
+
+6
+00:00:16,069 --> 00:00:19,329
+check the score, and
+never fix what went wrong.
+
+7
+00:00:19,349 --> 00:00:23,399
+Or they study random topics
+in no particular order.
+
+8
+00:00:23,841 --> 00:00:27,341
+In this video, you'll get a
+concrete plan for each timeline,
+
+9
+00:00:27,361 --> 00:00:30,501
+built only on free, official resources.
+
+10
+00:00:30,521 --> 00:00:34,730
+And if you're short on time, you'll
+know exactly what to study first.
+
+11
+00:00:35,136 --> 00:00:37,636
+Every plan uses the same four tools.
+
+12
+00:00:37,656 --> 00:00:41,276
+First, the full-length practice
+tests in the Bluebook app.
+
+13
+00:00:41,296 --> 00:00:45,675
+They're free, and College Board says
+they use the same adaptive model as the
+
+14
+00:00:45,695 --> 00:00:46,785
+real test.
+
+15
+00:00:47,236 --> 00:00:52,056
+Right now, College Board lists eight
+full-length SAT practice tests,
+
+16
+00:00:52,076 --> 00:00:53,976
+numbered four through eleven.
+
+17
+00:00:53,996 --> 00:00:58,295
+The lineup can change, so check the
+Practice and Prepare section in Bluebook for
+
+18
+00:00:58,315 --> 00:00:59,416
+the current list.
+
+19
+00:00:59,436 --> 00:01:03,045
+Either way, eight isn't a lot,
+so plan when you use them.
+
+20
+00:01:03,478 --> 00:01:07,297
+After each test, your results
+show up in My Practice.
+
+21
+00:01:07,317 --> 00:01:10,258
+You can see every question, your answer,
+
+22
+00:01:10,278 --> 00:01:14,138
+the correct answer, and a
+breakdown of every answer choice,
+
+23
+00:01:14,158 --> 00:01:17,207
+plus how you did in each content domain.
+
+24
+00:01:17,705 --> 00:01:20,765
+Second, the SAT Suite Question Bank.
+
+25
+00:01:20,785 --> 00:01:23,645
+It has thousands of official questions,
+
+26
+00:01:23,665 --> 00:01:26,885
+and you can filter by section, domain,
+
+27
+00:01:26,905 --> 00:01:28,684
+skill, and difficulty.
+
+28
+00:01:28,704 --> 00:01:31,885
+You can export a set without answers,
+
+29
+00:01:31,905 --> 00:01:37,115
+do it like a quiz, then export it
+again with answers and explanations.
+
+30
+00:01:37,655 --> 00:01:41,915
+Third, Official SAT Prep on Khan Academy.
+
+31
+00:01:41,935 --> 00:01:45,395
+It's free, it's the prep
+course College Board links to,
+
+32
+00:01:45,415 --> 00:01:48,194
+and it covers every skill at three levels:
+
+33
+00:01:48,214 --> 00:01:51,265
+foundations, medium, and advanced.
+
+34
+00:01:51,750 --> 00:01:56,130
+It also has a walk-through course
+for each official practice test,
+
+35
+00:01:56,150 --> 00:01:59,920
+so you can see an explanation
+for every question you took.
+
+36
+00:02:00,422 --> 00:02:02,882
+And fourth, an error log.
+
+37
+00:02:02,902 --> 00:02:05,682
+That's a list of every question you miss,
+
+38
+00:02:05,702 --> 00:02:09,112
+why you missed it, and
+the rule that fixes it.
+
+39
+00:02:09,302 --> 00:02:12,592
+It's the tool that turns
+practice into points.
+
+40
+00:02:12,702 --> 00:02:16,032
+The next video shows
+exactly how to build one.
+
+41
+00:02:16,461 --> 00:02:20,240
+If you're short on time, don't
+study everything equally.
+
+42
+00:02:20,260 --> 00:02:23,561
+Study what shows up most,
+where you're weakest.
+
+43
+00:02:23,581 --> 00:02:28,600
+College Board itself recommends focusing
+on the domains that appear most often
+
+44
+00:02:28,620 --> 00:02:29,790
+on the test.
+
+45
+00:02:30,237 --> 00:02:32,007
+In math, it's clear.
+
+46
+00:02:32,077 --> 00:02:35,577
+Algebra is about thirty-five
+percent of the section,
+
+47
+00:02:35,597 --> 00:02:38,977
+and Advanced Math is
+another thirty-five percent.
+
+48
+00:02:38,997 --> 00:02:43,017
+Together, that's about seventy
+percent of the math questions.
+
+49
+00:02:43,037 --> 00:02:47,377
+Problem solving and data
+analysis, and geometry and trig,
+
+50
+00:02:47,397 --> 00:02:49,807
+are about fifteen percent each.
+
+51
+00:02:50,259 --> 00:02:53,149
+In Reading and Writing, the
+four domains are closer.
+
+52
+00:02:53,299 --> 00:02:56,669
+Craft and Structure is
+about twenty-eight percent.
+
+53
+00:02:56,899 --> 00:03:00,318
+Information and Ideas, and
+Standard English Conventions,
+
+54
+00:03:00,338 --> 00:03:02,949
+are about twenty-six percent each.
+
+55
+00:03:02,979 --> 00:03:06,148
+Expression of Ideas is
+about twenty percent.
+
+56
+00:03:06,577 --> 00:03:09,677
+So in Reading and Writing,
+add one more filter:
+
+57
+00:03:09,697 --> 00:03:11,707
+how fast can you fix it?
+
+58
+00:03:12,137 --> 00:03:15,956
+Grammar is a short list of rules
+you can learn in a few days.
+
+59
+00:03:15,976 --> 00:03:20,237
+Transitions come down to a
+handful of logical relationships.
+
+60
+00:03:20,257 --> 00:03:21,947
+Those are quick wins.
+
+61
+00:03:22,097 --> 00:03:26,147
+Inference and reading skills
+usually take longer to move.
+
+62
+00:03:26,574 --> 00:03:29,264
+Then use your practice score report.
+
+63
+00:03:29,493 --> 00:03:32,954
+For each domain, it shows
+a bar of up to seven boxes,
+
+64
+00:03:32,974 --> 00:03:37,463
+filled in based on the difficulty of
+the questions you showed you can handle.
+
+65
+00:03:37,573 --> 00:03:42,383
+A heavily tested domain with few
+boxes filled is your first priority.
+
+66
+00:03:42,878 --> 00:03:43,418
+Try it.
+
+67
+00:03:43,438 --> 00:03:44,618
+Here's a math report.
+
+68
+00:03:44,638 --> 00:03:46,338
+Algebra has three boxes.
+
+69
+00:03:46,358 --> 00:03:48,138
+Advanced Math has five.
+
+70
+00:03:48,158 --> 00:03:51,097
+Problem solving and data analysis has two.
+
+71
+00:03:51,117 --> 00:03:53,378
+Geometry and trig has four.
+
+72
+00:03:53,398 --> 00:03:55,568
+Which domain do you study first?
+
+73
+00:03:56,023 --> 00:03:57,393
+Pause and try it.
+
+74
+00:04:03,182 --> 00:04:04,182
+Algebra.
+
+75
+00:04:04,542 --> 00:04:07,962
+Problem solving and data
+analysis has fewer boxes,
+
+76
+00:04:07,982 --> 00:04:11,312
+but it's only about fifteen
+percent of the section.
+
+77
+00:04:11,622 --> 00:04:14,122
+Algebra is about thirty-five percent,
+
+78
+00:04:14,142 --> 00:04:17,552
+and three boxes leaves
+a lot of room to grow.
+
+79
+00:04:17,581 --> 00:04:20,272
+Start there, then move to problem solving.
+
+80
+00:04:20,782 --> 00:04:23,802
+Every plan is built from
+the same study session.
+
+81
+00:04:23,822 --> 00:04:27,152
+It takes about an hour,
+and it has three parts.
+
+82
+00:04:27,586 --> 00:04:29,636
+Part one, learn.
+
+83
+00:04:29,825 --> 00:04:31,325
+About fifteen minutes.
+
+84
+00:04:31,345 --> 00:04:36,205
+Watch a Khan Academy lesson or read
+through explanations for one skill.
+
+85
+00:04:36,225 --> 00:04:38,356
+Just one skill per session.
+
+86
+00:04:38,827 --> 00:04:40,917
+Part two, practice.
+
+87
+00:04:40,987 --> 00:04:42,046
+About thirty minutes.
+
+88
+00:04:42,066 --> 00:04:47,366
+Pull ten to fifteen Question Bank
+questions on that same skill,
+
+89
+00:04:47,386 --> 00:04:50,927
+at the difficulty that
+matches your score report.
+
+90
+00:04:50,947 --> 00:04:53,687
+Time yourself at about the real pace:
+
+91
+00:04:53,707 --> 00:04:56,687
+a little over a minute per
+Reading and Writing question,
+
+92
+00:04:56,707 --> 00:05:00,197
+a little over a minute and
+a half per math question.
+
+93
+00:05:00,642 --> 00:05:02,412
+Part three, log.
+
+94
+00:05:02,762 --> 00:05:04,062
+About fifteen minutes.
+
+95
+00:05:04,082 --> 00:05:08,781
+Check your answers, put every miss and
+every lucky guess in your error log,
+
+96
+00:05:08,801 --> 00:05:12,812
+and redo a few old entries
+without looking at the answer.
+
+97
+00:05:13,271 --> 00:05:15,291
+Only have thirty minutes a day?
+
+98
+00:05:15,311 --> 00:05:19,651
+Cut each part in half: about
+seven minutes learning,
+
+99
+00:05:19,671 --> 00:05:23,131
+fifteen practicing, and eight logging.
+
+100
+00:05:23,151 --> 00:05:24,570
+But don't skip the log.
+
+101
+00:05:24,590 --> 00:05:27,080
+That's the part that
+makes the practice count.
+
+102
+00:05:27,517 --> 00:05:30,887
+When a plan says skill
+day, this is what it means.
+
+103
+00:05:31,417 --> 00:05:32,277
+Two weeks.
+
+104
+00:05:32,297 --> 00:05:34,116
+The goal isn't to learn everything.
+
+105
+00:05:34,136 --> 00:05:37,627
+It's to fix your biggest leaks
+and get comfortable with the test.
+
+106
+00:05:38,167 --> 00:05:43,187
+Day one, take a full Bluebook
+practice test in one sitting,
+
+107
+00:05:43,207 --> 00:05:45,467
+timed, like the real thing.
+
+108
+00:05:45,487 --> 00:05:48,107
+Day two, review it in My Practice.
+
+109
+00:05:48,127 --> 00:05:53,537
+Log every miss, and pick your top
+three skills using weight and weakness.
+
+110
+00:05:53,980 --> 00:05:56,679
+Days three through seven are skill days,
+
+111
+00:05:56,699 --> 00:05:58,480
+about an hour each.
+
+112
+00:05:58,500 --> 00:06:01,030
+Rotate through your top three skills.
+
+113
+00:06:01,100 --> 00:06:06,789
+In math, that's almost always
+something in Algebra or Advanced Math.
+
+114
+00:06:06,860 --> 00:06:10,790
+In Reading and Writing, start
+with grammar if it's on your list.
+
+115
+00:06:11,246 --> 00:06:15,466
+College Board recommends spacing practice
+tests at least two weeks apart when
+
+116
+00:06:15,486 --> 00:06:16,826
+your schedule allows.
+
+117
+00:06:16,846 --> 00:06:19,146
+With two weeks total, it doesn't.
+
+118
+00:06:19,166 --> 00:06:22,385
+So take your second full
+test around day eight,
+
+119
+00:06:22,405 --> 00:06:25,895
+when there's still almost a
+week to fix what it shows.
+
+120
+00:06:26,126 --> 00:06:27,856
+Day nine, review it.
+
+121
+00:06:28,298 --> 00:06:33,318
+Days ten through twelve, skill days
+on whatever the second test exposed,
+
+122
+00:06:33,338 --> 00:06:37,158
+plus one timed pacing
+drill from the last video.
+
+123
+00:06:37,178 --> 00:06:41,748
+Day thirteen, redo your error log
+and make sure Bluebook is ready.
+
+124
+00:06:41,898 --> 00:06:45,588
+Day fourteen, light
+review only, then rest.
+
+125
+00:06:46,010 --> 00:06:47,010
+One month.
+
+126
+00:06:47,250 --> 00:06:49,950
+Now you have time for two full tests,
+
+127
+00:06:49,970 --> 00:06:53,510
+two weeks apart, the way
+College Board suggests,
+
+128
+00:06:53,530 --> 00:06:55,899
+and real skill-building in between.
+
+129
+00:06:56,354 --> 00:07:00,093
+Week one, take practice test
+one at the start of the week,
+
+130
+00:07:00,113 --> 00:07:02,724
+review it, and set up your error log.
+
+131
+00:07:02,754 --> 00:07:05,094
+Pick three or four priority skills.
+
+132
+00:07:05,114 --> 00:07:07,884
+Then do skill days, five days a week.
+
+133
+00:07:08,394 --> 00:07:11,173
+Week two, keep working the same skills,
+
+134
+00:07:11,193 --> 00:07:15,364
+and move up a difficulty level once
+you're getting most questions right.
+
+135
+00:07:15,674 --> 00:07:18,404
+Add one timed pacing drill.
+
+136
+00:07:18,867 --> 00:07:22,407
+Week three, take practice test
+two at the start of the week.
+
+137
+00:07:22,427 --> 00:07:26,806
+That's two weeks after the first,
+and about two weeks before test day,
+
+138
+00:07:26,826 --> 00:07:29,246
+which matches College Board's advice.
+
+139
+00:07:29,266 --> 00:07:33,237
+Review it, update your priorities,
+and go back to skill days.
+
+140
+00:07:33,686 --> 00:07:36,826
+Week four, mix skills
+together in timed sets,
+
+141
+00:07:36,846 --> 00:07:40,706
+because the real test doesn't tell
+you which skill is coming next.
+
+142
+00:07:40,726 --> 00:07:43,745
+Redo every question in your error log.
+
+143
+00:07:43,765 --> 00:07:45,896
+Keep the last two days light.
+
+144
+00:07:46,407 --> 00:07:49,867
+One habit for the whole
+month: one day each week,
+
+145
+00:07:49,887 --> 00:07:52,777
+usually the weekend,
+goes to your error log.
+
+146
+00:07:52,887 --> 00:07:57,777
+Redo old misses cold, and count
+which mistakes keep coming back.
+
+147
+00:07:58,307 --> 00:07:59,317
+Three months.
+
+148
+00:07:59,627 --> 00:08:02,367
+This plan gives you time to learn content,
+
+149
+00:08:02,387 --> 00:08:03,717
+not just patch it.
+
+150
+00:08:03,867 --> 00:08:06,917
+Split it into three
+phases of four weeks each.
+
+151
+00:08:07,349 --> 00:08:09,409
+Weeks one through four, build.
+
+152
+00:08:09,429 --> 00:08:12,449
+Take practice test one in week one.
+
+153
+00:08:12,469 --> 00:08:17,568
+For an extra skill check, Khan Academy's
+Course Challenge is a short test across
+
+154
+00:08:17,588 --> 00:08:18,849
+every skill.
+
+155
+00:08:18,869 --> 00:08:21,769
+Then learn content in priority order:
+
+156
+00:08:21,789 --> 00:08:24,649
+Algebra, Advanced Math, grammar rules,
+
+157
+00:08:24,669 --> 00:08:27,079
+then the Reading and
+Writing question types.
+
+158
+00:08:27,515 --> 00:08:30,455
+Start Question Bank
+practice at easy or medium,
+
+159
+00:08:30,475 --> 00:08:32,125
+depending on your boxes.
+
+160
+00:08:32,235 --> 00:08:35,325
+Five or six skill days a week is plenty.
+
+161
+00:08:35,793 --> 00:08:38,172
+Weeks five through eight, apply.
+
+162
+00:08:38,192 --> 00:08:41,363
+Take practice tests in
+weeks five and seven.
+
+163
+00:08:41,473 --> 00:08:45,213
+Move most of your Question
+Bank work to medium and hard.
+
+164
+00:08:45,233 --> 00:08:50,323
+Add pacing drills twice a week, and
+start a weekly error log review.
+
+165
+00:08:50,753 --> 00:08:55,853
+If your score stalls in this
+phase, don't just add more tests.
+
+166
+00:08:55,873 --> 00:08:57,373
+Look at your error log.
+
+167
+00:08:57,393 --> 00:09:01,013
+If most misses are content
+gaps, go back to lessons.
+
+168
+00:09:01,033 --> 00:09:03,653
+If they're misreads or careless errors,
+
+169
+00:09:03,673 --> 00:09:06,683
+the fix is a habit, not more content.
+
+170
+00:09:07,138 --> 00:09:09,598
+Weeks nine through twelve, perform.
+
+171
+00:09:09,618 --> 00:09:12,838
+Take practice tests in
+weeks nine and eleven.
+
+172
+00:09:12,858 --> 00:09:16,197
+Spend more time on hard
+questions in your top domains,
+
+173
+00:09:16,217 --> 00:09:18,878
+timed mixed sets, and your error log.
+
+174
+00:09:18,898 --> 00:09:20,867
+Keep the final week light.
+
+175
+00:09:21,388 --> 00:09:23,968
+That's five full tests in three months,
+
+176
+00:09:23,988 --> 00:09:26,248
+two weeks apart after the build phase.
+
+177
+00:09:26,268 --> 00:09:31,367
+It also leaves three tests unused, which
+matters if you end up taking the SAT a
+
+178
+00:09:31,387 --> 00:09:32,558
+second time.
+
+179
+00:09:33,005 --> 00:09:33,905
+Quick recap.
+
+180
+00:09:33,925 --> 00:09:37,105
+Two weeks: one test, fix
+your top three skills,
+
+181
+00:09:37,125 --> 00:09:39,505
+second test around day eight.
+
+182
+00:09:39,525 --> 00:09:42,345
+One month: two tests, two weeks apart,
+
+183
+00:09:42,365 --> 00:09:44,025
+skill days in between.
+
+184
+00:09:44,045 --> 00:09:49,545
+Three months: build, apply, perform, with
+tests every two weeks after the first
+
+185
+00:09:49,565 --> 00:09:50,565
+month.
+
+186
+00:09:50,855 --> 00:09:54,995
+In every plan, start with the most
+tested domains where you're weakest,
+
+187
+00:09:55,015 --> 00:09:56,865
+and log every miss.
+
+188
+00:09:57,332 --> 00:09:59,152
+If this helped, subscribe.
+
+189
+00:09:59,172 --> 00:10:02,632
+The next video shows how to review
+a practice test the right way,
+
+190
+00:10:02,652 --> 00:10:06,061
+including exactly what
+goes in your error log.

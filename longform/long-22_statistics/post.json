@@ -1,0 +1,30 @@
+{
+  "id": "long-22_statistics",
+  "type": "longform",
+  "order": 22,
+  "publish_at": "2026-11-26T16:00:00-06:00",
+  "video": "22_statistics.mp4",
+  "video_bytes": 162927710,
+  "title": "SAT Statistics: Mean, Median, Spread, and Margin of Error",
+  "description": "SAT statistics questions are less about calculating and more about knowing what the numbers mean. This lesson covers center, spread, margin of error, and study design, then works through 6 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• How an outlier affects the mean vs. the median\n• Range vs. standard deviation, and how to compare spread without calculating\n• The \"switch to totals\" trick for combined and changed means\n• What a margin of error does (and doesn't) tell you\n• Random sampling vs. random assignment, and what observational studies can't prove\n• A test-day framework for any statistics question\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. All data in this video is illustrative (made up for practice). For official practice, use the free SAT Suite Question Bank (Problem-Solving and Data Analysis).\n\nCHAPTERS\n0:00 Intro\n0:34 Mean, median, and outliers\n1:18 Spread: range and standard deviation\n1:45 Samples and margin of error\n2:36 Study design: sampling vs. assignment\n3:09 How the SAT tests statistics\n3:29 Question 1: Removing an outlier\n4:29 Question 2: Mean from totals\n5:34 Question 3: Comparing standard deviations\n6:48 Question 4: Margin of error\n7:51 Question 5: Observational studies\n8:59 Question 6: Experiments with volunteers\n10:31 Test-day framework\n11:05 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT statistics",
+    "SAT math statistics",
+    "margin of error SAT",
+    "standard deviation SAT",
+    "mean vs median",
+    "observational study vs experiment",
+    "digital SAT math",
+    "problem solving and data analysis",
+    "SAT data analysis",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/22_statistics",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

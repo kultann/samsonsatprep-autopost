@@ -1,0 +1,29 @@
+{
+  "id": "long-11_systems-of-equations",
+  "type": "longform",
+  "order": 11,
+  "publish_at": "2026-10-27T16:00:00-05:00",
+  "video": "11_systems-of-equations.mp4",
+  "video_bytes": 144325492,
+  "title": "SAT Systems of Equations: Everything You Need to Know",
+  "description": "Systems of two linear equations are one of the core Algebra skills on the digital SAT. This lesson covers every way they're tested, with six SAT-style practice questions that get harder as you go.\n\nYou'll learn:\n• Substitution vs elimination, and how to pick in seconds\n• The shortcut for \"what is x + y?\" questions\n• How to tell one solution, no solution, or infinitely many just by comparing coefficients\n• How to turn a word problem into a system\n• How to solve or check any system in Desmos (intersections and sliders)\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Algebra → Systems of two linear equations in two variables).\n\nCHAPTERS\n0:00 Intro\n0:48 What a solution means\n1:44 How the SAT tests systems\n2:12 Example 1: Substitution\n3:19 Example 2: Elimination\n4:18 Example 3: Solve for x + y\n5:26 Example 4: Word problem\n7:12 One, none, or infinitely many\n8:52 Harder example: Find k\n10:37 Test-day method\n11:20 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT systems of equations",
+    "systems of equations",
+    "SAT math",
+    "digital SAT math",
+    "substitution and elimination",
+    "no solution infinitely many solutions",
+    "SAT algebra",
+    "Desmos SAT",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/11_systems-of-equations",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

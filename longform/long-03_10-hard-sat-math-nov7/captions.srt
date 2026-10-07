@@ -1,0 +1,1046 @@
+1
+00:00:00,320 --> 00:00:03,420
+Ten hard SAT math questions.
+
+2
+00:00:03,440 --> 00:00:09,500
+All of them original, all of them built
+to feel like the tougher questions on
+
+3
+00:00:09,520 --> 00:00:10,900
+the real test.
+
+4
+00:00:10,920 --> 00:00:13,939
+If you're taking the SAT on November 7,
+
+5
+00:00:13,959 --> 00:00:16,650
+this is a good check on where you stand.
+
+6
+00:00:17,155 --> 00:00:19,295
+Here's how this works.
+
+7
+00:00:19,315 --> 00:00:21,815
+Pause before every
+answer, try it yourself,
+
+8
+00:00:21,835 --> 00:00:23,015
+and keep score.
+
+9
+00:00:23,035 --> 00:00:25,055
+They get harder as we go.
+
+10
+00:00:25,075 --> 00:00:29,245
+At the end, I'll show you what to
+study based on the ones you missed.
+
+11
+00:00:29,674 --> 00:00:30,614
+Question one.
+
+12
+00:00:30,634 --> 00:00:34,404
+The price of a jacket was
+increased by twenty-five percent.
+
+13
+00:00:34,594 --> 00:00:38,323
+Later, the new price was
+decreased by twenty percent.
+
+14
+00:00:38,434 --> 00:00:42,483
+The final price is what
+percent of the original price?
+
+15
+00:00:42,915 --> 00:00:44,325
+Pause and try it.
+
+16
+00:00:51,175 --> 00:00:54,275
+The trap is to just do
+twenty-five minus twenty,
+
+17
+00:00:54,295 --> 00:00:56,625
+and pick one hundred five percent.
+
+18
+00:00:56,815 --> 00:00:58,555
+But percent changes multiply.
+
+19
+00:00:58,575 --> 00:00:59,705
+They don't add.
+
+20
+00:01:00,225 --> 00:01:05,245
+A twenty-five percent increase means
+multiply by one point two five.
+
+21
+00:01:05,265 --> 00:01:09,554
+A twenty percent decrease means
+multiply by zero point eight.
+
+22
+00:01:09,784 --> 00:01:13,764
+One point two five times zero
+point eight is exactly one.
+
+23
+00:01:13,784 --> 00:01:16,325
+The price ends up right where it started.
+
+24
+00:01:16,345 --> 00:01:22,715
+The answer is B, one hundred percent.
+
+25
+00:01:23,134 --> 00:01:24,384
+Question two.
+
+26
+00:01:24,494 --> 00:01:28,514
+In the x y plane, line L
+passes through the point two,
+
+27
+00:01:28,534 --> 00:01:34,513
+five, and is perpendicular to the
+line four x minus six y equals nine.
+
+28
+00:01:34,533 --> 00:01:38,943
+What is the y coordinate of
+the y intercept of line L?
+
+29
+00:01:39,439 --> 00:01:40,849
+Pause and try it.
+
+30
+00:01:47,698 --> 00:01:50,909
+First, get the slope of the given line.
+
+31
+00:01:51,017 --> 00:01:55,599
+Solve four x minus six
+y equals nine for y,
+
+32
+00:01:55,618 --> 00:01:59,998
+and you get y equals two
+thirds x minus three halves.
+
+33
+00:02:00,017 --> 00:02:02,428
+So the slope is two thirds.
+
+34
+00:02:02,900 --> 00:02:06,199
+Perpendicular slopes are
+negative reciprocals.
+
+35
+00:02:06,219 --> 00:02:10,230
+Flip it and change the
+sign: negative three halves.
+
+36
+00:02:10,741 --> 00:02:12,881
+Now use the point two, five.
+
+37
+00:02:12,901 --> 00:02:18,321
+y minus five equals negative
+three halves times x minus two.
+
+38
+00:02:18,341 --> 00:02:23,880
+Distribute, and you get y equals
+negative three halves x plus three,
+
+39
+00:02:23,900 --> 00:02:25,081
+plus five.
+
+40
+00:02:25,101 --> 00:02:29,321
+So y equals negative
+three halves x plus eight.
+
+41
+00:02:29,341 --> 00:02:31,151
+The answer is eight.
+
+42
+00:02:31,586 --> 00:02:34,726
+Desmos shortcut: graph the given line,
+
+43
+00:02:34,746 --> 00:02:39,366
+then graph y equals negative
+three halves times x minus two,
+
+44
+00:02:39,386 --> 00:02:43,436
+plus five, and click where
+it crosses the y axis.
+
+45
+00:02:43,881 --> 00:02:45,301
+Question three.
+
+46
+00:02:45,321 --> 00:02:49,091
+A data set of nine numbers
+has a mean of twelve.
+
+47
+00:02:49,121 --> 00:02:54,020
+After one number is removed, the remaining
+eight numbers have a mean of eleven.
+
+48
+00:02:54,040 --> 00:02:55,690
+What number was removed?
+
+49
+00:02:56,171 --> 00:02:57,581
+Pause and try it.
+
+50
+00:03:04,431 --> 00:03:08,851
+Any time a mean question
+adds or removes a value,
+
+51
+00:03:08,871 --> 00:03:11,281
+switch from means to totals.
+
+52
+00:03:11,351 --> 00:03:14,000
+Mean times count gives you the total.
+
+53
+00:03:14,458 --> 00:03:18,308
+Nine numbers with a mean of twelve
+add up to one hundred eight.
+
+54
+00:03:18,377 --> 00:03:21,748
+Eight numbers with a mean of
+eleven add up to eighty-eight.
+
+55
+00:03:21,898 --> 00:03:24,118
+The difference is the
+number that was removed:
+
+56
+00:03:24,138 --> 00:03:26,628
+one hundred eight minus
+eighty-eight is twenty.
+
+57
+00:03:27,054 --> 00:03:28,034
+Quick sense check.
+
+58
+00:03:28,054 --> 00:03:30,833
+The mean went down after
+the number was removed,
+
+59
+00:03:30,853 --> 00:03:34,864
+so that number had to be bigger
+than the old mean of twelve.
+
+60
+00:03:34,934 --> 00:03:36,824
+Twenty passes the check.
+
+61
+00:03:36,894 --> 00:03:40,224
+If you got something below
+twelve, something went wrong.
+
+62
+00:03:40,754 --> 00:03:42,084
+Question four.
+
+63
+00:03:42,154 --> 00:03:47,574
+The graph of y equals two x
+squared plus b x plus fourteen,
+
+64
+00:03:47,594 --> 00:03:52,174
+where b is a constant, has
+its vertex at x equals three.
+
+65
+00:03:52,194 --> 00:03:54,724
+What is the minimum value of y?
+
+66
+00:03:55,168 --> 00:03:56,578
+Pause and try it.
+
+67
+00:04:03,428 --> 00:04:07,878
+The x coordinate of the vertex
+is negative b over two a.
+
+68
+00:04:08,148 --> 00:04:12,928
+Here a is two, so negative
+b over four equals three.
+
+69
+00:04:12,948 --> 00:04:15,718
+That makes b equal to negative twelve.
+
+70
+00:04:16,208 --> 00:04:19,628
+The minimum value is the
+y value at the vertex.
+
+71
+00:04:19,648 --> 00:04:23,428
+Plug in x equals three: two times nine,
+
+72
+00:04:23,448 --> 00:04:26,267
+minus thirty-six, plus fourteen.
+
+73
+00:04:26,287 --> 00:04:29,747
+That's eighteen minus
+thirty-six plus fourteen,
+
+74
+00:04:29,767 --> 00:04:31,468
+which is negative four.
+
+75
+00:04:31,488 --> 00:04:33,218
+The answer is A.
+
+76
+00:04:33,696 --> 00:04:36,345
+Look at how the wrong choices are built.
+
+77
+00:04:36,575 --> 00:04:40,026
+Three is the x coordinate of the vertex.
+
+78
+00:04:40,056 --> 00:04:42,345
+Negative twelve is b.
+
+79
+00:04:42,496 --> 00:04:44,835
+Fourteen is the y intercept.
+
+80
+00:04:44,855 --> 00:04:48,315
+Every one of them is a number
+you'd find along the way.
+
+81
+00:04:48,335 --> 00:04:51,466
+That's how hard SAT distractors work.
+
+82
+00:04:51,947 --> 00:04:53,127
+Question five.
+
+83
+00:04:53,147 --> 00:04:55,766
+What is the solution to the equation,
+
+84
+00:04:55,786 --> 00:04:59,247
+the square root of the
+quantity two x plus seven,
+
+85
+00:04:59,267 --> 00:05:01,356
+equals x plus two?
+
+86
+00:05:01,877 --> 00:05:03,287
+Pause and try it.
+
+87
+00:05:10,137 --> 00:05:11,627
+Square both sides.
+
+88
+00:05:11,897 --> 00:05:15,917
+Two x plus seven equals
+x plus two squared,
+
+89
+00:05:15,937 --> 00:05:19,317
+which is x squared plus four x plus four.
+
+90
+00:05:19,337 --> 00:05:25,397
+Move everything to one side: x squared
+plus two x minus three equals zero.
+
+91
+00:05:25,417 --> 00:05:29,877
+That factors into x plus
+three, times x minus one.
+
+92
+00:05:29,897 --> 00:05:33,027
+So x is negative three or one.
+
+93
+00:05:33,447 --> 00:05:36,387
+But squaring both sides
+can create fake solutions.
+
+94
+00:05:36,407 --> 00:05:39,547
+So check each one in
+the original equation.
+
+95
+00:05:39,567 --> 00:05:42,986
+For negative three, the left
+side is the square root of one,
+
+96
+00:05:43,006 --> 00:05:44,107
+which is one.
+
+97
+00:05:44,127 --> 00:05:46,307
+The right side is negative one.
+
+98
+00:05:46,327 --> 00:05:47,787
+Those don't match.
+
+99
+00:05:47,807 --> 00:05:49,737
+Negative three is fake.
+
+100
+00:05:50,187 --> 00:05:52,607
+For one, the left side is
+the square root of nine,
+
+101
+00:05:52,627 --> 00:05:55,407
+which is three, and the
+right side is three.
+
+102
+00:05:55,427 --> 00:05:56,367
+That works.
+
+103
+00:05:56,387 --> 00:05:58,847
+The answer is B, just one.
+
+104
+00:05:58,867 --> 00:06:02,996
+If you picked C, you did the
+algebra right but skipped the check.
+
+105
+00:06:03,520 --> 00:06:07,129
+Desmos shortcut: graph both sides.
+
+106
+00:06:07,319 --> 00:06:10,930
+The graphs only cross
+once, at x equals one.
+
+107
+00:06:11,390 --> 00:06:12,640
+Question six.
+
+108
+00:06:13,230 --> 00:06:17,770
+In right triangle A B C,
+angle C is a right angle,
+
+109
+00:06:17,790 --> 00:06:21,119
+and sine of A equals five thirteenths.
+
+110
+00:06:21,350 --> 00:06:24,520
+What is the value of tangent of B?
+
+111
+00:06:24,997 --> 00:06:26,407
+Pause and try it.
+
+112
+00:06:33,257 --> 00:06:34,037
+Draw it.
+
+113
+00:06:34,057 --> 00:06:36,476
+Sine is opposite over hypotenuse.
+
+114
+00:06:36,496 --> 00:06:42,716
+So from angle A, the opposite side is
+five and the hypotenuse is thirteen.
+
+115
+00:06:42,736 --> 00:06:45,997
+That's a five, twelve, thirteen triangle,
+
+116
+00:06:46,017 --> 00:06:48,427
+so the last side is twelve.
+
+117
+00:06:48,921 --> 00:06:50,851
+Now switch to angle B.
+
+118
+00:06:51,081 --> 00:06:53,651
+Tangent is opposite over adjacent.
+
+119
+00:06:54,281 --> 00:06:59,781
+From B, the opposite side is twelve
+and the adjacent side is five.
+
+120
+00:06:59,801 --> 00:07:03,170
+So tangent of B is twelve fifths.
+
+121
+00:07:03,240 --> 00:07:04,691
+The answer is C.
+
+122
+00:07:05,160 --> 00:07:07,140
+The trap is A, five twelfths.
+
+123
+00:07:07,160 --> 00:07:08,729
+That's tangent of A.
+
+124
+00:07:08,879 --> 00:07:13,290
+Always redraw from the angle the
+question actually asks about.
+
+125
+00:07:13,694 --> 00:07:14,754
+Question seven.
+
+126
+00:07:14,774 --> 00:07:19,994
+The equation x squared plus y squared
+minus six x plus ten y equals two
+
+127
+00:07:20,014 --> 00:07:22,904
+represents a circle in the x y plane.
+
+128
+00:07:23,093 --> 00:07:25,904
+What is the length of the circle's radius?
+
+129
+00:07:26,355 --> 00:07:27,765
+Pause and try it.
+
+130
+00:07:34,615 --> 00:07:37,595
+This equation is hiding
+the circle's standard form,
+
+131
+00:07:37,615 --> 00:07:39,665
+so we complete the square.
+
+132
+00:07:39,735 --> 00:07:42,745
+Group the x terms and the y terms.
+
+133
+00:07:42,934 --> 00:07:46,545
+For x squared minus six x, add nine.
+
+134
+00:07:46,735 --> 00:07:50,344
+For y squared plus ten y, add twenty-five.
+
+135
+00:07:50,455 --> 00:07:53,145
+Whatever you add to the
+left, add to the right.
+
+136
+00:07:53,543 --> 00:07:58,963
+That gives x minus three,
+squared, plus y plus five,
+
+137
+00:07:58,983 --> 00:08:00,883
+squared, equals thirty-six.
+
+138
+00:08:00,903 --> 00:08:05,192
+In standard form, the
+right side is r squared.
+
+139
+00:08:05,383 --> 00:08:09,473
+So r squared is thirty-six,
+and the radius is six.
+
+140
+00:08:09,663 --> 00:08:11,553
+The answer is C.
+
+141
+00:08:12,004 --> 00:08:15,894
+Thirty-six is the trap for anyone
+who forgets to take the square root.
+
+142
+00:08:16,164 --> 00:08:19,224
+And the center, if they ask, is three,
+
+143
+00:08:19,244 --> 00:08:20,774
+negative five.
+
+144
+00:08:21,243 --> 00:08:22,573
+Watch the signs.
+
+145
+00:08:23,040 --> 00:08:24,330
+Question eight.
+
+146
+00:08:24,480 --> 00:08:29,300
+In the system of equations, three
+x minus five y equals seven,
+
+147
+00:08:29,320 --> 00:08:34,490
+and a x plus ten y equals
+b, a and b are constants.
+
+148
+00:08:34,760 --> 00:08:38,060
+If the system has
+infinitely many solutions,
+
+149
+00:08:38,080 --> 00:08:40,970
+what is the value of a plus b?
+
+150
+00:08:41,407 --> 00:08:42,817
+Pause and try it.
+
+151
+00:08:49,667 --> 00:08:53,406
+Infinitely many solutions means the
+two equations are the same line.
+
+152
+00:08:53,426 --> 00:08:55,757
+One has to be a multiple of the other.
+
+153
+00:08:56,162 --> 00:08:58,332
+Look at the y terms.
+
+154
+00:08:58,682 --> 00:09:01,822
+Negative five y has to
+become positive ten y.
+
+155
+00:09:01,842 --> 00:09:05,102
+That means multiplying by negative two,
+
+156
+00:09:05,122 --> 00:09:06,221
+not two.
+
+157
+00:09:06,241 --> 00:09:09,862
+Multiply the whole first
+equation by negative two:
+
+158
+00:09:09,882 --> 00:09:14,772
+negative six x plus ten y
+equals negative fourteen.
+
+159
+00:09:15,230 --> 00:09:16,170
+Match it up.
+
+160
+00:09:16,190 --> 00:09:19,610
+a is negative six, and
+b is negative fourteen.
+
+161
+00:09:19,630 --> 00:09:22,650
+So a plus b is negative twenty.
+
+162
+00:09:22,670 --> 00:09:27,170
+If you multiplied by positive two,
+you'd get the wrong signs everywhere.
+
+163
+00:09:27,190 --> 00:09:29,639
+That's exactly what this
+question is testing.
+
+164
+00:09:30,071 --> 00:09:31,131
+Question nine.
+
+165
+00:09:31,151 --> 00:09:35,411
+The system y equals x squared
+minus six x plus eleven,
+
+166
+00:09:35,431 --> 00:09:39,690
+and y equals two x plus
+k, where k is a constant,
+
+167
+00:09:39,710 --> 00:09:42,491
+has exactly one real solution.
+
+168
+00:09:42,511 --> 00:09:44,441
+What is the value of k?
+
+169
+00:09:44,920 --> 00:09:46,330
+Pause and try it.
+
+170
+00:09:53,180 --> 00:09:59,600
+Set the two equations equal: x squared
+minus six x plus eleven equals two x plus
+
+171
+00:09:59,620 --> 00:10:00,560
+k.
+
+172
+00:10:00,580 --> 00:10:07,239
+Move everything to one side: x squared
+minus eight x plus eleven minus k equals
+
+173
+00:10:07,259 --> 00:10:08,259
+zero.
+
+174
+00:10:08,491 --> 00:10:11,741
+Exactly one solution
+means the discriminant,
+
+175
+00:10:11,971 --> 00:10:15,351
+b squared minus four a c, equals zero.
+
+176
+00:10:15,371 --> 00:10:21,790
+That's sixty-four minus four
+times eleven minus k equals zero.
+
+177
+00:10:21,810 --> 00:10:27,661
+So sixty-four minus forty-four
+plus four k equals zero.
+
+178
+00:10:27,731 --> 00:10:32,501
+Twenty plus four k equals zero,
+and k equals negative five.
+
+179
+00:10:33,028 --> 00:10:35,887
+Desmos shortcut: type both equations,
+
+180
+00:10:35,907 --> 00:10:41,047
+add a slider for k, and drag until
+the line just touches the parabola.
+
+181
+00:10:41,067 --> 00:10:44,087
+It happens at k equals negative five,
+
+182
+00:10:44,107 --> 00:10:46,558
+touching at the point four, three.
+
+183
+00:10:46,962 --> 00:10:47,742
+Last one.
+
+184
+00:10:47,762 --> 00:10:48,822
+The hardest.
+
+185
+00:10:48,842 --> 00:10:55,251
+The function Q of t equals three hundred
+times one point two one to the t,
+
+186
+00:10:55,281 --> 00:10:59,341
+models a quantity t years
+after it was first measured.
+
+187
+00:10:59,361 --> 00:11:02,982
+Which function is equivalent to Q of t,
+
+188
+00:11:03,002 --> 00:11:08,172
+and shows that the quantity increases
+by ten percent every half year?
+
+189
+00:11:08,634 --> 00:11:09,654
+Pause and try it.
+
+190
+00:11:09,674 --> 00:11:11,444
+Take a little longer on this one.
+
+191
+00:11:20,211 --> 00:11:23,910
+A ten percent increase means
+multiplying by one point one.
+
+192
+00:11:23,930 --> 00:11:28,911
+And every half year means the
+exponent should count half years.
+
+193
+00:11:28,931 --> 00:11:31,510
+In t years, there are two t half years.
+
+194
+00:11:31,530 --> 00:11:35,860
+So we're looking for one point
+one, raised to the two t.
+
+195
+00:11:36,350 --> 00:11:37,640
+But is it equivalent?
+
+196
+00:11:38,070 --> 00:11:41,010
+One point one squared
+is one point two one.
+
+197
+00:11:41,030 --> 00:11:46,720
+So one point one to the two t is the
+same as one point two one to the t.
+
+198
+00:11:46,749 --> 00:11:47,770
+They're equal.
+
+199
+00:11:47,790 --> 00:11:49,360
+The answer is A.
+
+200
+00:11:49,838 --> 00:11:51,168
+The trap is B.
+
+201
+00:11:51,278 --> 00:11:56,048
+It's tempting to think half of twenty-one
+percent is ten point five percent.
+
+202
+00:11:56,398 --> 00:11:58,538
+But growth compounds.
+
+203
+00:11:58,558 --> 00:12:02,018
+One point one zero five squared
+is about one point two two,
+
+204
+00:12:02,038 --> 00:12:03,658
+not one point two one.
+
+205
+00:12:03,678 --> 00:12:05,528
+So B isn't equivalent.
+
+206
+00:12:05,986 --> 00:12:08,325
+C and D aren't equivalent either.
+
+207
+00:12:08,345 --> 00:12:14,085
+You can confirm in Desmos: type the
+original and each choice using x instead of
+
+208
+00:12:14,105 --> 00:12:18,166
+t, zoom out, since the values
+start at three hundred,
+
+209
+00:12:18,186 --> 00:12:21,276
+and only A lands exactly on top.
+
+210
+00:12:21,662 --> 00:12:22,562
+That's ten.
+
+211
+00:12:22,582 --> 00:12:24,032
+Count up your score.
+
+212
+00:12:24,381 --> 00:12:28,072
+Now, more useful than the
+score is which ones you missed.
+
+213
+00:12:28,590 --> 00:12:32,759
+Questions two and eight are
+algebra: lines and systems.
+
+214
+00:12:32,790 --> 00:12:37,209
+Questions four, five, nine,
+and ten are advanced math:
+
+215
+00:12:37,229 --> 00:12:40,170
+quadratics, radicals, and exponentials.
+
+216
+00:12:40,190 --> 00:12:45,410
+Together, algebra and advanced math make
+up about seventy percent of the math
+
+217
+00:12:45,430 --> 00:12:49,080
+section, so misses there
+are the first thing to fix.
+
+218
+00:12:49,518 --> 00:12:53,337
+Questions one and three are
+problem solving and data analysis:
+
+219
+00:12:53,357 --> 00:12:55,408
+percents and statistics.
+
+220
+00:12:55,518 --> 00:12:59,087
+Questions six and seven
+are geometry and trig.
+
+221
+00:12:59,198 --> 00:13:01,778
+If those were your misses,
+review percent change,
+
+222
+00:13:01,798 --> 00:13:06,088
+means, right triangles, and
+completing the square for circles.
+
+223
+00:13:06,534 --> 00:13:09,384
+And notice the pattern across all ten.
+
+224
+00:13:09,494 --> 00:13:12,674
+The wrong answers were
+numbers from the right work:
+
+225
+00:13:12,694 --> 00:13:17,194
+the vertex instead of the
+minimum, r squared instead of r,
+
+226
+00:13:17,214 --> 00:13:20,263
+the fake solution you forgot to check.
+
+227
+00:13:20,853 --> 00:13:26,424
+On hard questions, finish by rereading
+exactly what the question asks for.
+
+228
+00:13:26,840 --> 00:13:31,100
+Every question in this video
+was written for this video,
+
+229
+00:13:31,120 --> 00:13:33,530
+in the style of the real test.
+
+230
+00:13:33,840 --> 00:13:38,620
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+231
+00:13:38,640 --> 00:13:40,610
+skill and difficulty.
+
+232
+00:13:41,072 --> 00:13:42,692
+If you're testing on November 7,
+
+233
+00:13:42,712 --> 00:13:43,532
+good luck.
+
+234
+00:13:43,552 --> 00:13:45,132
+If this helped, subscribe.
+
+235
+00:13:45,152 --> 00:13:48,562
+There's a new set like
+this before every SAT date.

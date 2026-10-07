@@ -1,0 +1,30 @@
+{
+  "id": "long-21_exponential-growth-decay",
+  "type": "longform",
+  "order": 21,
+  "publish_at": "2026-11-24T16:00:00-06:00",
+  "video": "21_exponential-growth-decay.mp4",
+  "video_bytes": 147361360,
+  "title": "SAT Exponential Growth and Decay, Explained",
+  "description": "Exponential functions show up across the SAT math section: percent growth, depreciation, half-life, doubling time, and equivalent forms. This lesson shows how to read y = a · bᵗ, then works through 6 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• What a and b mean in context (starting value and growth factor)\n• Growth/decay rate vs. growth/decay factor (why 0.85 means −15%)\n• Linear vs. exponential: constant difference vs. constant ratio\n• Half-life and doubling-time forms with t/k in the exponent\n• Equivalent forms for different time units (years vs. months)\n• A 4-step method for any growth or decay question\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank.\n\nCHAPTERS\n0:00 Intro\n0:42 The exponential form\n1:39 Linear or exponential?\n2:10 Half-life and doubling time\n2:55 How the SAT tests it\n3:16 Question 1: Interpret the factor\n4:19 Question 2: Linear or exponential?\n5:51 Question 3: Half-life\n6:53 Question 4: Percent over two years\n8:00 Question 5: Changing the time unit\n9:28 Question 6: The hidden half-life\n10:53 Test-day method\n11:37 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT exponential functions",
+    "exponential growth and decay",
+    "SAT math",
+    "digital SAT math",
+    "half-life SAT",
+    "percent increase SAT",
+    "linear vs exponential",
+    "SAT advanced math",
+    "Desmos",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/21_exponential-growth-decay",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

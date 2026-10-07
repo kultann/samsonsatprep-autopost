@@ -1,0 +1,870 @@
+1
+00:00:00,320 --> 00:00:04,139
+Taking a practice test
+doesn't raise your SAT score.
+
+2
+00:00:04,159 --> 00:00:05,660
+Reviewing it does.
+
+3
+00:00:05,680 --> 00:00:07,930
+The test shows you what's broken.
+
+4
+00:00:08,120 --> 00:00:10,490
+The review is where you fix it.
+
+5
+00:00:10,928 --> 00:00:13,548
+Here's the mistake almost everyone makes.
+
+6
+00:00:13,568 --> 00:00:16,708
+They check the score, scroll
+through the wrong answers,
+
+7
+00:00:16,728 --> 00:00:19,467
+read a few explanations, think, okay,
+
+8
+00:00:19,487 --> 00:00:21,868
+that makes sense, and take another test.
+
+9
+00:00:21,888 --> 00:00:24,898
+Then they miss the same
+kinds of questions again.
+
+10
+00:00:25,357 --> 00:00:28,576
+In this video, you'll get a
+step-by-step review method:
+
+11
+00:00:28,596 --> 00:00:32,527
+how to sort every miss into
+one of five categories,
+
+12
+00:00:32,637 --> 00:00:37,006
+what goes in your mistake log,
+how to find similar questions,
+
+13
+00:00:37,117 --> 00:00:40,926
+and a weekly loop that
+makes the fixes stick.
+
+14
+00:00:41,391 --> 00:00:45,371
+A full SAT is two hours and
+fourteen minutes of testing:
+
+15
+00:00:45,391 --> 00:00:49,450
+sixty-four minutes of Reading and
+Writing and seventy minutes of math.
+
+16
+00:00:49,470 --> 00:00:51,800
+That's ninety-eight questions.
+
+17
+00:00:52,256 --> 00:00:54,955
+Every question you miss is information.
+
+18
+00:00:54,975 --> 00:00:59,236
+It points to a rule you don't
+know, a habit that's costing you,
+
+19
+00:00:59,256 --> 00:01:01,516
+or a spot where you run out of time.
+
+20
+00:01:01,536 --> 00:01:04,825
+If you don't look closely, you
+throw that information away.
+
+21
+00:01:05,264 --> 00:01:07,324
+There's also a supply problem.
+
+22
+00:01:07,344 --> 00:01:12,204
+College Board currently lists eight
+full-length SAT practice tests.
+
+23
+00:01:12,224 --> 00:01:14,604
+If you burn through
+them without reviewing,
+
+24
+00:01:14,624 --> 00:01:18,073
+you run out of official tests
+before you run out of mistakes.
+
+25
+00:01:18,614 --> 00:01:22,194
+College Board's own study
+advice says the same thing.
+
+26
+00:01:22,214 --> 00:01:24,514
+Instead of just checking
+the right answers,
+
+27
+00:01:24,534 --> 00:01:27,153
+figure out why you missed each question,
+
+28
+00:01:27,173 --> 00:01:29,153
+take notes, and look for patterns.
+
+29
+00:01:29,173 --> 00:01:30,394
+That's the whole idea.
+
+30
+00:01:30,414 --> 00:01:31,904
+Let's make it concrete.
+
+31
+00:01:32,417 --> 00:01:35,156
+After you finish a
+practice test in Bluebook,
+
+32
+00:01:35,176 --> 00:01:37,547
+your results go to My Practice.
+
+33
+00:01:37,617 --> 00:01:40,746
+Log in with the same account
+you used in Bluebook.
+
+34
+00:01:41,193 --> 00:01:46,013
+Open Score Details, and you get a
+list of every question on the test,
+
+35
+00:01:46,033 --> 00:01:48,453
+with the correct answer,
+the answer you picked,
+
+36
+00:01:48,473 --> 00:01:52,203
+and a Review button that
+breaks down each answer choice.
+
+37
+00:01:52,640 --> 00:01:55,300
+You can also download a
+practice score report.
+
+38
+00:01:55,320 --> 00:01:57,900
+It shows how many questions you got right,
+
+39
+00:01:57,920 --> 00:02:01,259
+and your performance
+in each content domain,
+
+40
+00:02:01,279 --> 00:02:04,170
+as a bar of up to seven boxes.
+
+41
+00:02:04,596 --> 00:02:06,176
+And there are two shortcuts.
+
+42
+00:02:06,196 --> 00:02:10,736
+Get Tailored Practice builds a set of
+Question Bank questions based on your
+
+43
+00:02:10,756 --> 00:02:11,576
+results.
+
+44
+00:02:11,596 --> 00:02:14,376
+And for every official practice test,
+
+45
+00:02:14,396 --> 00:02:19,176
+Khan Academy has a walk-through course
+that explains each question and links to
+
+46
+00:02:19,196 --> 00:02:20,966
+lessons on the skills.
+
+47
+00:02:21,447 --> 00:02:23,017
+All of that is useful.
+
+48
+00:02:23,087 --> 00:02:27,547
+But if you only read explanations,
+you'll understand them in the moment and
+
+49
+00:02:27,567 --> 00:02:29,257
+still miss the next one.
+
+50
+00:02:29,606 --> 00:02:32,657
+So here's the order to do things in.
+
+51
+00:02:33,091 --> 00:02:36,381
+The first step happens
+during the test itself.
+
+52
+00:02:36,571 --> 00:02:40,391
+On your scratch paper, keep a list
+of every question you guessed on,
+
+53
+00:02:40,411 --> 00:02:42,111
+even the fifty-fifty ones.
+
+54
+00:02:42,131 --> 00:02:44,310
+Write the module and question number.
+
+55
+00:02:44,330 --> 00:02:45,580
+You'll need it later.
+
+56
+00:02:46,007 --> 00:02:49,417
+Then, before you read
+a single explanation,
+
+57
+00:02:49,487 --> 00:02:53,907
+open every question you missed
+and every one you guessed on,
+
+58
+00:02:53,927 --> 00:02:56,057
+and redo it cold.
+
+59
+00:02:56,086 --> 00:02:57,217
+No timer.
+
+60
+00:02:57,246 --> 00:02:58,347
+No hints.
+
+61
+00:02:58,367 --> 00:03:00,697
+Just you and the question.
+
+62
+00:03:01,115 --> 00:03:05,645
+This is the most important step, because
+it tells you what kind of miss it was.
+
+63
+00:03:05,675 --> 00:03:08,255
+If you get it right with no time pressure,
+
+64
+00:03:08,275 --> 00:03:11,684
+you knew the material, and
+something else went wrong.
+
+65
+00:03:11,754 --> 00:03:15,325
+If you still can't do it,
+you've found a real content gap.
+
+66
+00:03:15,784 --> 00:03:19,114
+Only after the redo, read the explanation,
+
+67
+00:03:19,143 --> 00:03:22,514
+including why each wrong answer is wrong.
+
+68
+00:03:22,944 --> 00:03:27,003
+Wrong answers on the SAT usually
+look tempting for a reason,
+
+69
+00:03:27,023 --> 00:03:31,474
+and knowing why you liked one matters
+as much as knowing the right one.
+
+70
+00:03:31,981 --> 00:03:35,280
+Now sort every miss into
+one of five categories.
+
+71
+00:03:35,300 --> 00:03:38,921
+If you used the four labels
+from the last-week video,
+
+72
+00:03:38,941 --> 00:03:41,321
+this is the same idea with more detail.
+
+73
+00:03:41,341 --> 00:03:45,081
+A trap miss, where you answered
+something the question didn't ask,
+
+74
+00:03:45,101 --> 00:03:47,360
+counts as a misread here.
+
+75
+00:03:47,380 --> 00:03:49,551
+And guessed right is new.
+
+76
+00:03:49,986 --> 00:03:52,166
+One, content gap.
+
+77
+00:03:52,186 --> 00:03:55,766
+You couldn't solve it even untimed,
+because you don't know the rule,
+
+78
+00:03:55,786 --> 00:03:57,676
+formula, or skill.
+
+79
+00:03:57,746 --> 00:04:03,315
+The fix is to learn it: a lesson,
+then practice on that skill.
+
+80
+00:04:03,784 --> 00:04:06,273
+Two, misread.
+
+81
+00:04:06,424 --> 00:04:09,204
+You solved a different question
+than the one they asked.
+
+82
+00:04:09,224 --> 00:04:12,673
+You found x when they asked for two x.
+
+83
+00:04:12,824 --> 00:04:14,994
+You missed the word not.
+
+84
+00:04:15,103 --> 00:04:19,593
+The fix is a habit: reread the
+question line before you pick.
+
+85
+00:04:20,123 --> 00:04:22,133
+Three, careless.
+
+86
+00:04:22,283 --> 00:04:24,223
+You read it right and knew how to do it,
+
+87
+00:04:24,243 --> 00:04:27,823
+but the execution slipped: a sign error,
+
+88
+00:04:27,843 --> 00:04:31,053
+an arithmetic mistake, a
+click on the wrong letter.
+
+89
+00:04:31,163 --> 00:04:34,102
+The fix is to write out
+the step that slipped,
+
+90
+00:04:34,122 --> 00:04:36,453
+and check with Desmos when that's quick.
+
+91
+00:04:36,973 --> 00:04:38,903
+Four, timing.
+
+92
+00:04:39,053 --> 00:04:41,713
+You rushed it or never really got to it,
+
+93
+00:04:41,733 --> 00:04:44,273
+and untimed, you get it right.
+
+94
+00:04:44,293 --> 00:04:48,512
+The fix is pacing: two
+passes, and mark and move,
+
+95
+00:04:48,532 --> 00:04:50,063
+from the pacing video.
+
+96
+00:04:50,506 --> 00:04:53,035
+And five, guessed right.
+
+97
+00:04:53,225 --> 00:04:55,276
+You got the point, but you don't own it.
+
+98
+00:04:55,346 --> 00:04:56,876
+Treat it like a miss.
+
+99
+00:04:56,986 --> 00:04:59,716
+Usually, it's a content gap in disguise.
+
+100
+00:05:00,156 --> 00:05:03,616
+The tricky pair is
+misread versus careless.
+
+101
+00:05:03,636 --> 00:05:07,376
+Ask yourself: did I
+answer the right question?
+
+102
+00:05:07,396 --> 00:05:09,606
+If not, it's a misread.
+
+103
+00:05:09,676 --> 00:05:13,926
+If yes, but I messed up
+the work, it's careless.
+
+104
+00:05:14,373 --> 00:05:15,383
+Try one.
+
+105
+00:05:15,693 --> 00:05:18,673
+A question asks for the value of two x.
+
+106
+00:05:18,693 --> 00:05:22,992
+A student solves correctly,
+gets x equals six,
+
+107
+00:05:23,012 --> 00:05:24,273
+and picks six.
+
+108
+00:05:24,293 --> 00:05:26,022
+Which category is that?
+
+109
+00:05:26,498 --> 00:05:27,828
+Pause and try it.
+
+110
+00:05:33,619 --> 00:05:34,629
+Misread.
+
+111
+00:05:34,699 --> 00:05:37,679
+The math was right, but they
+answered a different question.
+
+112
+00:05:37,699 --> 00:05:40,319
+So the fix isn't more algebra practice.
+
+113
+00:05:40,339 --> 00:05:44,508
+It's rereading what the question
+asks for before choosing.
+
+114
+00:05:44,539 --> 00:05:46,789
+The answer they needed was twelve.
+
+115
+00:05:47,256 --> 00:05:51,956
+Every miss goes in your mistake log,
+the same error log from the study plans
+
+116
+00:05:51,976 --> 00:05:53,026
+video.
+
+117
+00:05:53,536 --> 00:05:54,946
+A spreadsheet works.
+
+118
+00:05:55,215 --> 00:05:56,235
+So does a notebook.
+
+119
+00:05:56,255 --> 00:05:57,786
+Here are the columns.
+
+120
+00:05:58,230 --> 00:06:00,529
+Where it's from: the test, the module,
+
+121
+00:06:00,549 --> 00:06:02,239
+and the question number.
+
+122
+00:06:02,270 --> 00:06:06,570
+Then the section, domain, and
+skill, using College Board's names,
+
+123
+00:06:06,590 --> 00:06:09,000
+so you can find them in
+the Question Bank later.
+
+124
+00:06:09,455 --> 00:06:11,635
+Then your answer, the correct answer,
+
+125
+00:06:11,655 --> 00:06:15,115
+and the category: content gap, misread,
+
+126
+00:06:15,135 --> 00:06:17,985
+careless, timing, or guessed right.
+
+127
+00:06:18,401 --> 00:06:20,620
+Then the two columns that matter most.
+
+128
+00:06:20,640 --> 00:06:25,861
+Why: one sentence about the
+exact moment it went wrong.
+
+129
+00:06:25,881 --> 00:06:27,501
+Not, I didn't get it.
+
+130
+00:06:27,521 --> 00:06:30,741
+Something like: I picked
+a choice that was true,
+
+131
+00:06:30,761 --> 00:06:33,011
+but it didn't answer the question.
+
+132
+00:06:33,438 --> 00:06:36,337
+And the fix, written as
+a rule for next time.
+
+133
+00:06:36,357 --> 00:06:40,898
+For example: on circle equations,
+the right side is r squared,
+
+134
+00:06:40,918 --> 00:06:41,918
+not r.
+
+135
+00:06:42,118 --> 00:06:46,648
+Or: when two choices are both true,
+pick the one that answers the question.
+
+136
+00:06:47,107 --> 00:06:51,807
+Last, two redo columns, each with a
+date and whether you got it right.
+
+137
+00:06:51,827 --> 00:06:53,317
+We'll use those in a minute.
+
+138
+00:06:53,743 --> 00:06:56,283
+One missed question is one example.
+
+139
+00:06:56,303 --> 00:06:59,833
+To fix the skill, you need
+more questions like it.
+
+140
+00:06:59,863 --> 00:07:03,472
+That's what the free SAT
+Suite Question Bank is for.
+
+141
+00:07:03,904 --> 00:07:08,204
+Filter by section, domain, and
+skill to match the log entry.
+
+142
+00:07:08,224 --> 00:07:12,164
+For difficulty, College Board
+suggests using your score report.
+
+143
+00:07:12,184 --> 00:07:15,283
+If that domain has one
+to three boxes filled,
+
+144
+00:07:15,303 --> 00:07:16,644
+start with easy.
+
+145
+00:07:16,664 --> 00:07:18,924
+Four or five, medium.
+
+146
+00:07:18,944 --> 00:07:20,794
+Six or seven, hard.
+
+147
+00:07:21,246 --> 00:07:24,306
+Pick about ten, export
+them without answers,
+
+148
+00:07:24,326 --> 00:07:26,616
+and do them as a mini quiz.
+
+149
+00:07:26,646 --> 00:07:30,705
+Then export them again with
+answers and explanations to check.
+
+150
+00:07:30,725 --> 00:07:33,616
+Any new misses go straight into the log.
+
+151
+00:07:34,146 --> 00:07:36,766
+Or use Get Tailored
+Practice in My Practice,
+
+152
+00:07:36,786 --> 00:07:39,086
+which builds a set for you.
+
+153
+00:07:39,106 --> 00:07:43,676
+Either way, you're practicing the exact
+skill the test said you're missing.
+
+154
+00:07:44,115 --> 00:07:48,495
+Understanding an explanation once
+isn't the same as being able to do the
+
+155
+00:07:48,515 --> 00:07:49,295
+question.
+
+156
+00:07:49,315 --> 00:07:53,125
+So every log entry gets
+redone cold, later.
+
+157
+00:07:53,559 --> 00:07:57,059
+Redo it about three days later,
+without looking at your notes.
+
+158
+00:07:57,079 --> 00:07:58,619
+Then again about a week after that.
+
+159
+00:07:58,639 --> 00:08:01,569
+If you get it right both times, retire it.
+
+160
+00:08:01,598 --> 00:08:05,819
+If you miss it, it stays in the log,
+and you go back to the lesson for that
+
+161
+00:08:05,839 --> 00:08:06,839
+skill.
+
+162
+00:08:06,975 --> 00:08:11,355
+This is the step people skip, and
+it's the one that makes fixes stick.
+
+163
+00:08:11,375 --> 00:08:15,755
+A question you could explain right after
+reading the answer can fall apart a
+
+164
+00:08:15,775 --> 00:08:16,795
+week later.
+
+165
+00:08:16,815 --> 00:08:19,585
+The redo shows you which ones.
+
+166
+00:08:20,063 --> 00:08:23,632
+Now put it all together
+into a weekly loop.
+
+167
+00:08:24,161 --> 00:08:28,571
+On test day, or the day
+after, review the test.
+
+168
+00:08:28,921 --> 00:08:32,771
+Redo every miss and every guess cold,
+
+169
+00:08:33,041 --> 00:08:35,970
+read the explanations,
+and fill in the log.
+
+170
+00:08:36,511 --> 00:08:40,691
+On weekdays, spend ten to
+fifteen minutes on log redos,
+
+171
+00:08:40,711 --> 00:08:43,521
+plus a Question Bank
+set on your top skill.
+
+172
+00:08:43,986 --> 00:08:46,325
+At the end of the week,
+count your categories.
+
+173
+00:08:46,345 --> 00:08:49,596
+Whatever shows up most decides next week.
+
+174
+00:08:49,906 --> 00:08:51,286
+Mostly content gaps?
+
+175
+00:08:51,306 --> 00:08:53,525
+More lessons and skill practice.
+
+176
+00:08:53,545 --> 00:08:55,235
+Mostly misreads?
+
+177
+00:08:55,385 --> 00:08:57,246
+Slow down on the question line.
+
+178
+00:08:57,266 --> 00:08:58,315
+Careless?
+
+179
+00:08:58,385 --> 00:08:59,605
+Write more steps.
+
+180
+00:08:59,625 --> 00:09:00,406
+Timing?
+
+181
+00:09:00,426 --> 00:09:01,796
+Pacing drills.
+
+182
+00:09:02,248 --> 00:09:04,148
+And watch the counts over time.
+
+183
+00:09:04,168 --> 00:09:08,788
+If they shift from content gaps
+toward careless and timing,
+
+184
+00:09:08,808 --> 00:09:09,628
+that's a good sign.
+
+185
+00:09:09,648 --> 00:09:11,508
+It means you're learning the material,
+
+186
+00:09:11,528 --> 00:09:14,577
+and it's time to sharpen how you execute.
+
+187
+00:09:15,033 --> 00:09:15,933
+Quick recap.
+
+188
+00:09:15,953 --> 00:09:19,693
+Redo every miss cold before
+reading the explanation.
+
+189
+00:09:19,713 --> 00:09:22,453
+Sort it into one of five categories.
+
+190
+00:09:22,473 --> 00:09:24,853
+Log it with a why and a fix.
+
+191
+00:09:24,873 --> 00:09:27,453
+Find similar questions
+in the Question Bank.
+
+192
+00:09:27,473 --> 00:09:30,733
+Redo it a few days later,
+and again a week later.
+
+193
+00:09:30,753 --> 00:09:34,123
+Then let the counts decide
+what you study next.
+
+194
+00:09:34,569 --> 00:09:36,299
+If this helped, subscribe.
+
+195
+00:09:36,848 --> 00:09:39,469
+The next video puts everything to work:
+
+196
+00:09:39,489 --> 00:09:44,898
+a full SAT math module, walked
+through question by question.

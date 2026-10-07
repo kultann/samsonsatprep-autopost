@@ -45,6 +45,11 @@ jobs:
           MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
           MAX_SHORTS_PER_RUN: ${{ vars.MAX_SHORTS_PER_RUN }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          YT_LONGFORM: ${{ vars.YT_LONGFORM }}
+          YT_CAPTIONS: ${{ vars.YT_CAPTIONS }}
+          LONGFORM_UPLOAD_LEAD_HOURS: ${{ vars.LONGFORM_UPLOAD_LEAD_HOURS }}
+          LONGFORM_MIN_GAP_HOURS: ${{ vars.LONGFORM_MIN_GAP_HOURS }}
+          LONGFORM_VIDEO_BASE: ${{ vars.LONGFORM_VIDEO_BASE }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
           NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
         run: python -m autopost.runner

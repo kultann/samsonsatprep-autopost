@@ -1,0 +1,29 @@
+{
+  "id": "long-02_every-desmos-trick",
+  "type": "longform",
+  "order": 2,
+  "publish_at": "2026-10-13T16:00:00-05:00",
+  "video": "02_every-desmos-trick.mp4",
+  "video_bytes": 144764346,
+  "title": "Every Desmos Trick for the SAT, Explained",
+  "description": "Every SAT math question lets you use Desmos, the graphing calculator built into Bluebook. Here are 11 ways to use it on real SAT question types, each shown on an SAT-style example, plus when NOT to use it.\n\nYou'll learn how to use Desmos to:\n• Solve equations and systems by graphing\n• Count solutions and find x-intercepts and vertices\n• Use sliders for \"what is the value of k\" questions\n• Check inequalities, run regressions from tables, and test equivalent expressions\n• Evaluate functions and find the mean and median of a data set\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions.\n\nCHAPTERS\n0:00 Intro\n0:31 Trick 1: Solve any equation\n1:35 Trick 2: Systems of equations\n2:20 Trick 3: Count the solutions\n3:03 Trick 4: x-intercepts and zeros\n3:47 Trick 5: Vertex, max and min\n4:38 Trick 6: Sliders for unknown constants\n5:54 Trick 7: Inequalities\n6:39 Trick 8: Regression from a table\n7:42 Trick 9: Equivalent expressions\n8:18 Trick 10: Functions\n9:09 Trick 11: Statistics with lists\n9:54 When NOT to use Desmos\n10:37 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #Desmos",
+  "tags": [
+    "SAT Desmos",
+    "Desmos tricks",
+    "Desmos SAT",
+    "digital SAT math",
+    "SAT math tricks",
+    "SAT calculator",
+    "Bluebook Desmos",
+    "SAT prep",
+    "SAT math"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/02_every-desmos-trick",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

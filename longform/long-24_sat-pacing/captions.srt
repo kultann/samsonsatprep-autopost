@@ -1,0 +1,921 @@
+1
+00:00:00,320 --> 00:00:04,099
+A lot of students who run out
+of time on the SAT aren't slow.
+
+2
+00:00:04,119 --> 00:00:08,259
+They spend four minutes on one
+question early in the module,
+
+3
+00:00:08,279 --> 00:00:10,850
+and then they rush the last five.
+
+4
+00:00:11,344 --> 00:00:15,724
+In this video, you'll get the
+exact time budget for each section,
+
+5
+00:00:15,744 --> 00:00:20,844
+a two-pass method for every module,
+when to mark a question and move on,
+
+6
+00:00:20,864 --> 00:00:25,073
+how Desmos fits in, and what
+to do in the last two minutes.
+
+7
+00:00:25,507 --> 00:00:28,927
+At the end, there's a short pacing
+drill you can do with free official
+
+8
+00:00:28,947 --> 00:00:32,597
+questions, so you can practice
+all of this before test day.
+
+9
+00:00:33,041 --> 00:00:34,381
+Start with the numbers.
+
+10
+00:00:34,401 --> 00:00:38,901
+The Reading and Writing section is
+fifty-four questions in sixty-four minutes,
+
+11
+00:00:38,921 --> 00:00:40,501
+split into two modules.
+
+12
+00:00:40,521 --> 00:00:44,850
+So each module is twenty-seven
+questions in thirty-two minutes.
+
+13
+00:00:45,326 --> 00:00:49,746
+Thirty-two minutes divided by twenty-seven
+questions is about seventy-one
+
+14
+00:00:49,766 --> 00:00:51,426
+seconds per question.
+
+15
+00:00:51,446 --> 00:00:53,016
+A little over a minute.
+
+16
+00:00:53,446 --> 00:00:56,866
+Math is forty-four questions
+in seventy minutes.
+
+17
+00:00:56,886 --> 00:01:00,266
+Each module is twenty-two
+questions in thirty-five minutes.
+
+18
+00:01:00,286 --> 00:01:02,946
+That's about ninety-five
+seconds per question,
+
+19
+00:01:02,966 --> 00:01:05,056
+a little over a minute and a half.
+
+20
+00:01:05,596 --> 00:01:09,056
+But those are averages, not a
+speed limit for every question.
+
+21
+00:01:09,076 --> 00:01:11,256
+Some questions take twenty seconds.
+
+22
+00:01:11,276 --> 00:01:13,126
+Some take three minutes.
+
+23
+00:01:13,156 --> 00:01:16,446
+Your job is to keep the
+whole module on budget,
+
+24
+00:01:16,516 --> 00:01:18,485
+not every single question.
+
+25
+00:01:18,996 --> 00:01:23,096
+Next, it helps to know how College
+Board orders the questions,
+
+26
+00:01:23,116 --> 00:01:26,166
+because it changes how
+you pace each section.
+
+27
+00:01:26,634 --> 00:01:31,814
+In math, College Board says the questions
+in each module are arranged from
+
+28
+00:01:31,834 --> 00:01:36,203
+easiest to hardest, with all
+four math domains mixed in.
+
+29
+00:01:36,474 --> 00:01:39,054
+So the early questions should go faster,
+
+30
+00:01:39,074 --> 00:01:42,804
+and the time you save there pays
+for the hard ones at the end.
+
+31
+00:01:43,275 --> 00:01:45,295
+Reading and Writing works differently.
+
+32
+00:01:45,315 --> 00:01:49,695
+College Board says questions that test
+similar skills are grouped together and
+
+33
+00:01:49,715 --> 00:01:52,524
+arranged from easiest to hardest.
+
+34
+00:01:52,594 --> 00:01:54,654
+So the module comes in runs.
+
+35
+00:01:54,674 --> 00:01:58,375
+A run of one question type
+climbs from easier to harder,
+
+36
+00:01:58,395 --> 00:02:00,565
+and then a new type starts.
+
+37
+00:02:01,072 --> 00:02:05,522
+That means difficulty resets every
+time the question type changes.
+
+38
+00:02:06,432 --> 00:02:11,242
+A brutal vocabulary question doesn't
+mean the rest of the module gets harder.
+
+39
+00:02:11,672 --> 00:02:13,961
+The next group starts easier again.
+
+40
+00:02:14,376 --> 00:02:18,916
+So don't let one hard question steal the
+time you need for the easier questions
+
+41
+00:02:18,936 --> 00:02:20,826
+waiting in the next groups.
+
+42
+00:02:21,266 --> 00:02:22,316
+One more thing.
+
+43
+00:02:22,426 --> 00:02:26,076
+The second module adapts to
+how you did on the first.
+
+44
+00:02:26,226 --> 00:02:29,606
+If module two feels harder, don't panic,
+
+45
+00:02:29,626 --> 00:02:31,236
+and don't change your plan.
+
+46
+00:02:31,265 --> 00:02:33,476
+The pacing method stays the same.
+
+47
+00:02:33,954 --> 00:02:35,204
+Here's the method.
+
+48
+00:02:35,274 --> 00:02:38,043
+Every module gets two passes.
+
+49
+00:02:38,493 --> 00:02:41,073
+Pass one: go through
+every question in order.
+
+50
+00:02:41,093 --> 00:02:43,833
+If you know how to do
+it, do it, answer it,
+
+51
+00:02:43,853 --> 00:02:44,863
+and move on.
+
+52
+00:02:44,893 --> 00:02:47,872
+If it stalls you, pick
+your best answer anyway,
+
+53
+00:02:47,892 --> 00:02:50,463
+mark it for review, and keep going.
+
+54
+00:02:50,902 --> 00:02:56,792
+Bluebook has a mark for review tool,
+a bookmark icon on each question.
+
+55
+00:02:56,982 --> 00:03:01,682
+And the question menu shows which
+questions you skipped or marked,
+
+56
+00:03:01,702 --> 00:03:04,072
+and lets you jump straight to any of them.
+
+57
+00:03:04,506 --> 00:03:06,676
+Notice the rule in pass one.
+
+58
+00:03:06,865 --> 00:03:10,606
+Never leave a question blank,
+even one you're marking.
+
+59
+00:03:10,626 --> 00:03:12,406
+Pick something first.
+
+60
+00:03:12,426 --> 00:03:15,246
+That way, if time runs
+out before you get back,
+
+61
+00:03:15,266 --> 00:03:17,196
+you still have an answer down.
+
+62
+00:03:17,619 --> 00:03:22,429
+Pass two: open the question menu and
+go back to your marked questions.
+
+63
+00:03:22,539 --> 00:03:26,678
+Now you're spending your leftover
+minutes on questions you already started,
+
+64
+00:03:26,698 --> 00:03:29,229
+with a guess already locked in.
+
+65
+00:03:29,258 --> 00:03:32,589
+That beats rushing questions
+you never even read.
+
+66
+00:03:33,058 --> 00:03:36,317
+Aim to finish pass one with
+about five minutes left.
+
+67
+00:03:36,337 --> 00:03:39,238
+You can hide the timer
+if it stresses you out,
+
+68
+00:03:39,258 --> 00:03:42,958
+but when five minutes remain,
+Bluebook gives you an alert.
+
+69
+00:03:42,978 --> 00:03:46,228
+Treat that alert as your
+signal to start pass two.
+
+70
+00:03:46,682 --> 00:03:49,782
+So how do you know a question has stalled?
+
+71
+00:03:49,802 --> 00:03:52,852
+Use a time limit that's a
+bit longer than the average.
+
+72
+00:03:53,335 --> 00:03:57,475
+For Reading and Writing, if you've spent
+about ninety seconds and still can't
+
+73
+00:03:57,495 --> 00:04:01,554
+get it down to one answer,
+choose the best of what's left,
+
+74
+00:04:01,574 --> 00:04:03,545
+mark it, and move on.
+
+75
+00:04:03,979 --> 00:04:06,599
+For math, use about two minutes.
+
+76
+00:04:06,619 --> 00:04:11,309
+If you're two minutes in and you
+don't have a clear path to the answer,
+
+77
+00:04:11,579 --> 00:04:14,069
+guess, mark, and move.
+
+78
+00:04:14,579 --> 00:04:16,439
+Time isn't the only signal.
+
+79
+00:04:16,459 --> 00:04:21,239
+Mark and move when you've read a passage
+twice and still can't say what it's
+
+80
+00:04:21,259 --> 00:04:21,999
+about.
+
+81
+00:04:22,019 --> 00:04:25,359
+When you keep going back and
+forth between two choices.
+
+82
+00:04:25,379 --> 00:04:29,509
+Or when your algebra has turned into
+a mess and you'd have to start over.
+
+83
+00:04:30,029 --> 00:04:33,689
+This is what stops most
+people: it feels like quitting.
+
+84
+00:04:33,709 --> 00:04:34,799
+It isn't.
+
+85
+00:04:35,069 --> 00:04:36,729
+You're not giving up on the question.
+
+86
+00:04:36,749 --> 00:04:39,129
+You're moving it to the back of the line,
+
+87
+00:04:39,149 --> 00:04:43,159
+where it can't block the
+easier questions behind it.
+
+88
+00:04:43,677 --> 00:04:44,577
+Two exceptions.
+
+89
+00:04:44,597 --> 00:04:47,177
+In math, the last few
+questions are the hardest,
+
+90
+00:04:47,197 --> 00:04:50,297
+so you'll often spend more
+than two minutes on them.
+
+91
+00:04:50,317 --> 00:04:52,497
+That's fine if you banked time early.
+
+92
+00:04:52,517 --> 00:04:56,216
+And in Reading and Writing, don't mark
+a question just because it's long.
+
+93
+00:04:56,236 --> 00:04:58,006
+Long isn't the same as hard.
+
+94
+00:04:58,476 --> 00:05:04,416
+The built-in Desmos calculator is
+available for the whole math section.
+
+95
+00:05:04,436 --> 00:05:07,615
+Used well, it saves you time.
+
+96
+00:05:07,635 --> 00:05:10,006
+Used for everything, it wastes it.
+
+97
+00:05:10,436 --> 00:05:13,965
+Desmos is fast when the algebra is slow.
+
+98
+00:05:13,996 --> 00:05:18,406
+For a system of equations, graph
+both and click the intersection.
+
+99
+00:05:18,515 --> 00:05:21,406
+For how many solutions,
+count the crossings.
+
+100
+00:05:21,435 --> 00:05:25,486
+For a vertex or x
+intercepts, click the points.
+
+101
+00:05:25,949 --> 00:05:29,208
+Desmos is slow when the math is quick.
+
+102
+00:05:29,228 --> 00:05:32,529
+If you can do it in your head
+in about fifteen seconds,
+
+103
+00:05:32,549 --> 00:05:38,039
+like two x equals fourteen,
+typing it in just costs you time.
+
+104
+00:05:38,477 --> 00:05:40,937
+Desmos is also great in pass two.
+
+105
+00:05:40,957 --> 00:05:44,777
+If you solved a question
+by hand and it felt shaky,
+
+106
+00:05:44,797 --> 00:05:47,377
+graphing it is a fast way to check.
+
+107
+00:05:47,397 --> 00:05:51,806
+For the full set of shortcuts, see
+the Desmos video on this channel.
+
+108
+00:05:52,290 --> 00:05:53,910
+One setup tip.
+
+109
+00:05:53,930 --> 00:05:57,310
+You can drag the calculator
+anywhere on the screen.
+
+110
+00:05:57,330 --> 00:06:02,779
+Park it next to the question so you aren't
+opening and closing it over and over.
+
+111
+00:06:03,290 --> 00:06:07,100
+Checking the clock after every
+question wastes time too.
+
+112
+00:06:07,290 --> 00:06:10,500
+Instead, use one checkpoint per module.
+
+113
+00:06:10,963 --> 00:06:13,782
+In Reading and Writing,
+check at the halfway point.
+
+114
+00:06:13,802 --> 00:06:18,293
+With sixteen minutes left, you want
+to be around question fourteen.
+
+115
+00:06:18,733 --> 00:06:21,713
+In math, aim to be ahead
+of the halfway pace,
+
+116
+00:06:21,733 --> 00:06:24,033
+since the hard questions come at the end.
+
+117
+00:06:24,053 --> 00:06:27,943
+Try to be done with question eleven when
+there are about twenty minutes left.
+
+118
+00:06:28,381 --> 00:06:29,161
+Let's try one.
+
+119
+00:06:29,181 --> 00:06:30,680
+You're in a math module.
+
+120
+00:06:30,700 --> 00:06:34,961
+The clock says ten minutes left, and
+you're just starting question fifteen of
+
+121
+00:06:34,981 --> 00:06:35,981
+twenty-two.
+
+122
+00:06:36,380 --> 00:06:38,270
+Are you ahead or behind?
+
+123
+00:06:38,696 --> 00:06:40,346
+Pause and try it.
+
+124
+00:06:46,142 --> 00:06:46,602
+Behind.
+
+125
+00:06:46,622 --> 00:06:50,362
+You have eight questions left, and
+they're the hardest ones in the module,
+
+126
+00:06:50,382 --> 00:06:52,122
+with only ten minutes.
+
+127
+00:06:52,142 --> 00:06:54,482
+That's about seventy-five seconds each,
+
+128
+00:06:54,502 --> 00:06:57,672
+well under the ninety-five second average.
+
+129
+00:06:58,192 --> 00:06:59,292
+So tighten up.
+
+130
+00:06:59,312 --> 00:07:02,252
+Cut your mark and move
+limit to about a minute,
+
+131
+00:07:02,272 --> 00:07:03,492
+and keep moving.
+
+132
+00:07:03,512 --> 00:07:06,681
+Every question needs an
+answer before time runs out.
+
+133
+00:07:07,096 --> 00:07:08,716
+Now Reading and Writing.
+
+134
+00:07:08,736 --> 00:07:13,746
+Sixteen minutes left, and you're starting
+question eighteen of twenty-seven.
+
+135
+00:07:13,856 --> 00:07:15,626
+Ahead or behind?
+
+136
+00:07:16,087 --> 00:07:17,737
+Pause and try it.
+
+137
+00:07:23,533 --> 00:07:24,533
+Ahead.
+
+138
+00:07:24,773 --> 00:07:28,113
+You've done seventeen
+questions in sixteen minutes,
+
+139
+00:07:28,133 --> 00:07:32,393
+and only ten are left, with
+sixteen minutes to do them.
+
+140
+00:07:32,413 --> 00:07:33,713
+Don't speed up.
+
+141
+00:07:33,733 --> 00:07:36,262
+Use that time to read carefully.
+
+142
+00:07:36,671 --> 00:07:39,091
+Now the last two minutes of any module.
+
+143
+00:07:39,111 --> 00:07:42,361
+This is where a lot of
+students leave points behind.
+
+144
+00:07:42,798 --> 00:07:46,218
+First, there's no penalty
+for guessing on the SAT.
+
+145
+00:07:46,238 --> 00:07:50,817
+College Board says it directly: it's
+better to answer every question.
+
+146
+00:07:50,837 --> 00:07:53,138
+A blank is always wrong.
+
+147
+00:07:53,158 --> 00:07:54,728
+A guess might be right.
+
+148
+00:07:55,170 --> 00:07:59,550
+So with about two minutes left,
+stop working on any long problem.
+
+149
+00:07:59,570 --> 00:08:03,870
+Open the question menu and
+look for anything unanswered.
+
+150
+00:08:03,890 --> 00:08:06,260
+Give every blank an answer.
+
+151
+00:08:06,668 --> 00:08:10,527
+For multiple choice, if you
+can eliminate even one choice,
+
+152
+00:08:10,547 --> 00:08:12,048
+pick from what's left.
+
+153
+00:08:12,068 --> 00:08:14,358
+If you can't, just pick one.
+
+154
+00:08:14,468 --> 00:08:16,887
+For math questions where
+you type the answer,
+
+155
+00:08:16,907 --> 00:08:19,038
+enter your best estimate.
+
+156
+00:08:19,188 --> 00:08:21,477
+A blank box can't earn credit.
+
+157
+00:08:21,923 --> 00:08:25,383
+If you still have time after that, go
+back to the marked question you were
+
+158
+00:08:25,403 --> 00:08:26,023
+closest on.
+
+159
+00:08:26,043 --> 00:08:27,423
+Not the hardest one.
+
+160
+00:08:27,443 --> 00:08:29,503
+The one where you were
+down to two choices,
+
+161
+00:08:29,523 --> 00:08:31,533
+or almost done with the algebra.
+
+162
+00:08:31,965 --> 00:08:35,145
+And don't change answers
+just because you're nervous.
+
+163
+00:08:35,165 --> 00:08:38,535
+Change one only if you
+found a specific mistake.
+
+164
+00:08:39,003 --> 00:08:43,463
+Remember, you can move back and forth
+between questions in a module until time
+
+165
+00:08:43,483 --> 00:08:44,573
+expires.
+
+166
+00:08:44,723 --> 00:08:47,412
+But once you leave a module,
+you can't go back to it.
+
+167
+00:08:47,482 --> 00:08:50,222
+So treat the end of every
+module as your last chance,
+
+168
+00:08:50,242 --> 00:08:51,412
+because it is.
+
+169
+00:08:51,840 --> 00:08:54,139
+Here's a drill to practice all of this.
+
+170
+00:08:54,159 --> 00:08:59,050
+You need the free College Board
+Question Bank and a timer.
+
+171
+00:08:59,533 --> 00:09:03,513
+For Reading and Writing, pick thirteen
+questions across different skills,
+
+172
+00:09:03,533 --> 00:09:05,313
+at mixed difficulty.
+
+173
+00:09:05,333 --> 00:09:08,473
+Export them without answers
+so there are no spoilers.
+
+174
+00:09:08,493 --> 00:09:10,433
+Set a timer for sixteen minutes.
+
+175
+00:09:10,453 --> 00:09:12,463
+That's about half a module.
+
+176
+00:09:12,942 --> 00:09:16,402
+For math, pick eleven
+questions: a few easy,
+
+177
+00:09:16,422 --> 00:09:19,792
+some medium, and a few
+hard, in that order.
+
+178
+00:09:19,862 --> 00:09:22,842
+Set a timer for seventeen
+and a half minutes.
+
+179
+00:09:22,862 --> 00:09:25,351
+That's exactly half a module.
+
+180
+00:09:25,834 --> 00:09:27,614
+Use the two-pass method.
+
+181
+00:09:27,634 --> 00:09:31,894
+Guess on anything that stalls, put
+a star next to it on your paper,
+
+182
+00:09:31,914 --> 00:09:33,094
+and keep going.
+
+183
+00:09:33,114 --> 00:09:37,204
+When you finish pass one, write
+down how much time is left.
+
+184
+00:09:37,683 --> 00:09:41,903
+When the timer ends, export again
+with answers and explanations,
+
+185
+00:09:41,923 --> 00:09:42,933
+and check.
+
+186
+00:09:43,243 --> 00:09:45,173
+Write down three numbers.
+
+187
+00:09:45,203 --> 00:09:46,623
+Did you answer everything?
+
+188
+00:09:46,643 --> 00:09:49,813
+How much time was left after pass one?
+
+189
+00:09:49,842 --> 00:09:52,973
+And how many starred
+questions did you get right?
+
+190
+00:09:53,408 --> 00:09:58,028
+If you didn't finish, your mark
+and move limit is too loose.
+
+191
+00:09:58,048 --> 00:10:01,188
+If you finished with lots of
+time but missed easy questions,
+
+192
+00:10:01,208 --> 00:10:03,387
+slow down on pass one.
+
+193
+00:10:03,407 --> 00:10:08,098
+Do this two or three times a week,
+and pacing starts to feel normal.
+
+194
+00:10:08,544 --> 00:10:09,564
+Quick recap.
+
+195
+00:10:09,584 --> 00:10:12,964
+About seventy-one seconds per
+Reading and Writing question,
+
+196
+00:10:12,984 --> 00:10:15,604
+and about ninety-five per math question.
+
+197
+00:10:15,624 --> 00:10:16,804
+Two passes.
+
+198
+00:10:16,824 --> 00:10:20,324
+Mark and move at about ninety
+seconds or two minutes.
+
+199
+00:10:20,344 --> 00:10:22,923
+Desmos when the algebra is slow.
+
+200
+00:10:22,943 --> 00:10:26,274
+And with two minutes left,
+answer every question.
+
+201
+00:10:26,750 --> 00:10:28,680
+If this helped, subscribe.
+
+202
+00:10:29,149 --> 00:10:32,760
+The next video turns
+all of this into a plan:
+
+203
+00:10:32,910 --> 00:10:37,010
+SAT study plans for two weeks, one month,
+
+204
+00:10:37,030 --> 00:10:41,280
+and three months, using only
+free official resources.

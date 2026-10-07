@@ -1,0 +1,1020 @@
+1
+00:00:00,320 --> 00:00:03,340
+Words in context questions
+give you a short passage,
+
+2
+00:00:03,360 --> 00:00:04,940
+a blank, and four words.
+
+3
+00:00:04,960 --> 00:00:07,700
+Sometimes you won't know
+one or two of those words.
+
+4
+00:00:07,720 --> 00:00:08,539
+That's fine.
+
+5
+00:00:08,559 --> 00:00:12,129
+You can still get these right,
+if you do one thing first:
+
+6
+00:00:12,399 --> 00:00:13,399
+predict.
+
+7
+00:00:13,765 --> 00:00:16,225
+These questions belong
+to Craft and Structure,
+
+8
+00:00:16,245 --> 00:00:18,945
+the largest domain in Reading and Writing,
+
+9
+00:00:18,965 --> 00:00:21,775
+at about twenty-eight
+percent of the questions.
+
+10
+00:00:22,315 --> 00:00:24,085
+And here's the common mistake.
+
+11
+00:00:24,395 --> 00:00:29,135
+Students read the choices first, then
+pick the word that sounds the smartest,
+
+12
+00:00:29,155 --> 00:00:31,525
+or the only one they recognize.
+
+13
+00:00:31,755 --> 00:00:35,445
+But the passage already tells
+you what the word has to mean.
+
+14
+00:00:35,675 --> 00:00:38,005
+Your job is to find that.
+
+15
+00:00:38,410 --> 00:00:39,980
+Here's the core idea.
+
+16
+00:00:40,210 --> 00:00:44,260
+Every blank has a clue
+somewhere in the text.
+
+17
+00:00:44,290 --> 00:00:48,430
+Cover the choices, find the clue,
+and put your own word in the blank.
+
+18
+00:00:48,450 --> 00:00:50,190
+It doesn't have to be fancy.
+
+19
+00:00:50,210 --> 00:00:53,350
+Good, bad, short-lived, doubtful.
+
+20
+00:00:53,370 --> 00:00:54,780
+Plain words work.
+
+21
+00:00:55,267 --> 00:00:57,566
+Clues come in a few forms.
+
+22
+00:00:57,586 --> 00:01:01,647
+A restatement, often
+after a colon or a comma,
+
+23
+00:01:01,667 --> 00:01:03,516
+that says the same thing again.
+
+24
+00:01:03,947 --> 00:01:08,326
+A contrast word like but,
+although, or however,
+
+25
+00:01:08,346 --> 00:01:12,287
+which tells you the blank means
+the opposite of something nearby.
+
+26
+00:01:12,307 --> 00:01:16,407
+Or a cause, with words
+like since, because,
+
+27
+00:01:16,427 --> 00:01:17,557
+or so.
+
+28
+00:01:17,977 --> 00:01:19,037
+Quick example.
+
+29
+00:01:19,057 --> 00:01:22,237
+The critic's review was
+blank: she praised the acting,
+
+30
+00:01:22,257 --> 00:01:24,277
+the music, and the set design.
+
+31
+00:01:24,297 --> 00:01:27,477
+The colon tells you the second
+half explains the blank.
+
+32
+00:01:27,497 --> 00:01:29,436
+She praised everything.
+
+33
+00:01:29,456 --> 00:01:33,587
+So predict: glowing, or very positive.
+
+34
+00:01:34,093 --> 00:01:35,673
+These show up in two formats.
+
+35
+00:01:35,693 --> 00:01:39,623
+Most often, a blank, and the question:
+
+36
+00:01:39,693 --> 00:01:44,273
+which choice completes the text with
+the most logical and precise word or
+
+37
+00:01:44,293 --> 00:01:45,293
+phrase?
+
+38
+00:01:45,642 --> 00:01:48,822
+Other times, the passage uses a word,
+
+39
+00:01:48,842 --> 00:01:52,382
+and the question asks:
+as used in the text,
+
+40
+00:01:52,402 --> 00:01:55,982
+what does the word most nearly mean?
+
+41
+00:01:56,002 --> 00:01:57,211
+Same skill.
+
+42
+00:01:57,402 --> 00:02:00,451
+You still use the clue,
+not the dictionary.
+
+43
+00:02:00,926 --> 00:02:04,176
+Notice the words logical and precise.
+
+44
+00:02:04,366 --> 00:02:07,296
+Logical means it fits the clue.
+
+45
+00:02:07,326 --> 00:02:11,936
+Precise means it fits
+exactly, not just roughly.
+
+46
+00:02:12,046 --> 00:02:14,305
+Two choices can both be close.
+
+47
+00:02:14,325 --> 00:02:16,815
+Only one will be exact.
+
+48
+00:02:17,237 --> 00:02:18,237
+Let's try one.
+
+49
+00:02:18,917 --> 00:02:25,737
+For decades, octopuses were
+generally described as blank animals,
+
+50
+00:02:25,757 --> 00:02:29,487
+since they seemed to spend
+nearly all their time alone.
+
+51
+00:02:29,797 --> 00:02:34,017
+But at two sites in Jervis Bay,
+off the coast of Australia,
+
+52
+00:02:34,037 --> 00:02:39,177
+researchers have observed gloomy
+octopuses living within arm's reach of one
+
+53
+00:02:39,197 --> 00:02:41,887
+another and interacting regularly.
+
+54
+00:02:42,344 --> 00:02:43,634
+Pause and try it.
+
+55
+00:02:49,404 --> 00:02:53,784
+The clue is right after the blank: since
+they seemed to spend nearly all their
+
+56
+00:02:53,804 --> 00:02:55,454
+time alone.
+
+57
+00:02:55,804 --> 00:02:58,494
+And the but sentence confirms it.
+
+58
+00:02:58,684 --> 00:03:01,344
+The surprise is that
+they live close together.
+
+59
+00:03:01,364 --> 00:03:03,574
+Predict: loners.
+
+60
+00:03:03,723 --> 00:03:06,054
+Solitary means living alone.
+
+61
+00:03:06,284 --> 00:03:07,974
+The answer is B.
+
+62
+00:03:08,403 --> 00:03:10,543
+Intelligent is the trap.
+
+63
+00:03:10,563 --> 00:03:12,783
+Octopuses are famous for being smart,
+
+64
+00:03:12,803 --> 00:03:14,383
+so it feels right.
+
+65
+00:03:14,403 --> 00:03:17,782
+But nothing in this passage
+is about intelligence.
+
+66
+00:03:17,802 --> 00:03:21,143
+The right word fits the
+clue, not just the topic.
+
+67
+00:03:21,163 --> 00:03:24,333
+Nocturnal and venomous
+have no support either.
+
+68
+00:03:24,754 --> 00:03:26,684
+Next, a contrast clue.
+
+69
+00:03:27,234 --> 00:03:30,524
+Although Emily Dickinson's
+poems are often brief,
+
+70
+00:03:30,674 --> 00:03:33,504
+they are far from blank.
+
+71
+00:03:33,524 --> 00:03:38,304
+Their compressed language and unusual
+punctuation can require several readings
+
+72
+00:03:38,324 --> 00:03:40,334
+before their meaning becomes clear.
+
+73
+00:03:40,804 --> 00:03:42,094
+Pause and try it.
+
+74
+00:03:48,865 --> 00:03:50,115
+Two signals here.
+
+75
+00:03:50,824 --> 00:03:54,645
+Although means contrast:
+the poems are short,
+
+76
+00:03:54,665 --> 00:03:56,165
+but they're not easy.
+
+77
+00:03:56,185 --> 00:04:01,164
+And the colon clause explains it: they
+take several readings to understand.
+
+78
+00:04:01,184 --> 00:04:03,555
+So the poems are hard to understand.
+
+79
+00:04:04,033 --> 00:04:07,162
+Now the twist: far from.
+
+80
+00:04:07,633 --> 00:04:09,893
+The blank is what the poems are not.
+
+81
+00:04:09,913 --> 00:04:11,693
+They're not easy to understand.
+
+82
+00:04:11,713 --> 00:04:14,652
+So predict: easy to understand.
+
+83
+00:04:14,672 --> 00:04:16,412
+Accessible means exactly that.
+
+84
+00:04:16,432 --> 00:04:18,243
+The answer is A.
+
+85
+00:04:18,718 --> 00:04:20,618
+Obscure is the trap.
+
+86
+00:04:20,638 --> 00:04:23,978
+It means hard to understand,
+which matches the passage,
+
+87
+00:04:23,998 --> 00:04:26,648
+until you remember that far from flips it.
+
+88
+00:04:26,957 --> 00:04:32,138
+Lengthy isn't a contrast with brief,
+and celebrated has no support.
+
+89
+00:04:32,158 --> 00:04:36,098
+Always check for words like not, far from,
+
+90
+00:04:36,118 --> 00:04:37,248
+and hardly.
+
+91
+00:04:37,704 --> 00:04:39,844
+Next tool: charge.
+
+92
+00:04:39,864 --> 00:04:44,004
+Before you pick a word, decide
+if the blank is positive,
+
+93
+00:04:44,024 --> 00:04:45,843
+negative, or neutral.
+
+94
+00:04:45,863 --> 00:04:49,204
+Then cross out every choice
+with the wrong charge.
+
+95
+00:04:49,224 --> 00:04:53,113
+You can often do this even
+with words you only half know.
+
+96
+00:04:53,580 --> 00:04:54,580
+Try it.
+
+97
+00:04:55,539 --> 00:04:59,920
+When the artists now known as the
+Impressionists held their first independent
+
+98
+00:04:59,940 --> 00:05:03,190
+exhibition in Paris in
+eighteen seventy-four,
+
+99
+00:05:03,300 --> 00:05:09,430
+several critics blank the paintings,
+publicly mocking their loose brushwork as
+
+100
+00:05:09,450 --> 00:05:11,540
+unfinished and sketchlike.
+
+101
+00:05:12,070 --> 00:05:13,360
+Pause and try it.
+
+102
+00:05:19,131 --> 00:05:22,271
+The clue: publicly
+mocking their brushwork.
+
+103
+00:05:22,291 --> 00:05:23,391
+That's negative.
+
+104
+00:05:23,411 --> 00:05:25,471
+Predict: criticized.
+
+105
+00:05:25,491 --> 00:05:27,711
+Commended means praised.
+
+106
+00:05:27,731 --> 00:05:28,821
+Positive.
+
+107
+00:05:28,891 --> 00:05:29,711
+Out.
+
+108
+00:05:29,731 --> 00:05:33,510
+Emulated means imitated,
+usually out of admiration.
+
+109
+00:05:33,530 --> 00:05:34,700
+Also out.
+
+110
+00:05:35,112 --> 00:05:37,562
+That leaves disparaged and overlooked.
+
+111
+00:05:37,632 --> 00:05:39,172
+Both negative.
+
+112
+00:05:39,192 --> 00:05:40,562
+Now precision.
+
+113
+00:05:40,752 --> 00:05:42,882
+Overlooked means ignored.
+
+114
+00:05:43,032 --> 00:05:45,972
+But these critics didn't
+ignore the paintings.
+
+115
+00:05:45,992 --> 00:05:48,242
+They mocked them in public.
+
+116
+00:05:48,312 --> 00:05:51,162
+Disparaged means spoke badly of.
+
+117
+00:05:51,232 --> 00:05:51,892
+That's exact.
+
+118
+00:05:51,912 --> 00:05:53,922
+The answer is D.
+
+119
+00:05:54,398 --> 00:05:56,728
+Now a different kind of trap.
+
+120
+00:05:56,757 --> 00:06:00,258
+Some SAT words are ones you already know,
+
+121
+00:06:00,278 --> 00:06:02,727
+used in a meaning you don't expect.
+
+122
+00:06:03,182 --> 00:06:07,562
+Many economists gave the new trade
+agreement only qualified praise.
+
+123
+00:06:07,582 --> 00:06:12,161
+They agreed that it would lower prices
+on many imported goods but warned that it
+
+124
+00:06:12,181 --> 00:06:15,671
+could also lead to job
+losses in some industries.
+
+125
+00:06:15,982 --> 00:06:21,152
+As used in the text, what does the
+word qualified most nearly mean?
+
+126
+00:06:21,635 --> 00:06:22,925
+Pause and try it.
+
+127
+00:06:28,695 --> 00:06:32,434
+Most people know qualified
+as having the right skills,
+
+128
+00:06:32,454 --> 00:06:34,185
+like a qualified teacher.
+
+129
+00:06:34,255 --> 00:06:36,794
+That's what choices A and C offer.
+
+130
+00:06:36,814 --> 00:06:40,104
+But praise can't have
+skills or credentials.
+
+131
+00:06:40,625 --> 00:06:41,875
+Read the clue.
+
+132
+00:06:42,225 --> 00:06:45,645
+The economists liked
+one thing, lower prices,
+
+133
+00:06:45,665 --> 00:06:48,115
+but warned about another, job losses.
+
+134
+00:06:48,145 --> 00:06:50,004
+That's praise with conditions.
+
+135
+00:06:50,024 --> 00:06:51,764
+Praise that's held back.
+
+136
+00:06:51,784 --> 00:06:53,805
+Predict: partial.
+
+137
+00:06:53,825 --> 00:06:55,725
+Limited is the match.
+
+138
+00:06:55,745 --> 00:06:57,315
+The answer is B.
+
+139
+00:06:57,780 --> 00:07:00,150
+When the obvious meaning doesn't fit,
+
+140
+00:07:00,340 --> 00:07:01,760
+look for a second one.
+
+141
+00:07:01,780 --> 00:07:05,870
+A few common ones: a
+qualified claim is limited.
+
+142
+00:07:05,899 --> 00:07:08,640
+To check something can
+mean to hold it back.
+
+143
+00:07:08,660 --> 00:07:11,040
+A novel idea is a new one.
+
+144
+00:07:11,060 --> 00:07:14,670
+And to appreciate can
+mean to increase in value.
+
+145
+00:07:15,100 --> 00:07:20,440
+Harder questions often come down to two
+choices that mean almost the same thing.
+
+146
+00:07:20,460 --> 00:07:23,960
+One is a little too strong or too weak.
+
+147
+00:07:23,980 --> 00:07:25,800
+Tone matters too.
+
+148
+00:07:25,820 --> 00:07:29,760
+In an academic passage, a
+researcher examines data.
+
+149
+00:07:29,780 --> 00:07:33,350
+She doesn't eyeball it, even
+though both mean look at.
+
+150
+00:07:33,797 --> 00:07:35,047
+Try this one.
+
+151
+00:07:35,077 --> 00:07:41,277
+A newly discovered fossil blank the
+leading hypothesis about when an ancient
+
+152
+00:07:41,297 --> 00:07:43,837
+species first reached the region.
+
+153
+00:07:43,857 --> 00:07:46,796
+Because the fossil's
+age is still uncertain,
+
+154
+00:07:46,816 --> 00:07:49,277
+it does not prove the hypothesis wrong,
+
+155
+00:07:49,297 --> 00:07:54,397
+but early estimates suggest that the
+species may have arrived earlier than the
+
+156
+00:07:54,417 --> 00:07:56,267
+hypothesis proposes.
+
+157
+00:07:56,736 --> 00:07:58,026
+Pause and try it.
+
+158
+00:08:04,796 --> 00:08:07,655
+The fossil raises a
+problem for the hypothesis,
+
+159
+00:08:07,675 --> 00:08:09,296
+but it doesn't disprove it.
+
+160
+00:08:09,316 --> 00:08:11,656
+Predict: causes trouble for.
+
+161
+00:08:11,676 --> 00:08:13,816
+Confirms goes the wrong direction.
+
+162
+00:08:13,836 --> 00:08:15,966
+Simplifies makes no sense.
+
+163
+00:08:16,440 --> 00:08:19,259
+Refutes is the near-synonym trap.
+
+164
+00:08:19,279 --> 00:08:21,540
+Refute means prove wrong.
+
+165
+00:08:21,560 --> 00:08:26,460
+Right direction, but too strong, and the
+passage says outright that the fossil
+
+166
+00:08:26,480 --> 00:08:29,380
+does not prove the hypothesis wrong.
+
+167
+00:08:29,400 --> 00:08:31,260
+Complicates is exactly right.
+
+168
+00:08:31,280 --> 00:08:33,250
+The answer is A.
+
+169
+00:08:33,721 --> 00:08:36,901
+Now, what if the right answer
+is a word you don't know?
+
+170
+00:08:36,921 --> 00:08:42,511
+Tibetan Buddhist sand mandalas
+are deliberately blank.
+
+171
+00:08:42,861 --> 00:08:47,841
+Monks may spend days or even weeks
+placing millions of grains of colored sand
+
+172
+00:08:47,861 --> 00:08:52,001
+into an intricate design, but
+once the mandala is finished,
+
+173
+00:08:52,021 --> 00:08:56,400
+they sweep it away and pour the sand
+into a body of water to symbolize the
+
+174
+00:08:56,420 --> 00:08:58,631
+impermanence of all things.
+
+175
+00:08:59,137 --> 00:09:00,427
+Pause and try it.
+
+176
+00:09:07,197 --> 00:09:09,536
+The clue: they sweep it
+away once it's finished,
+
+177
+00:09:09,556 --> 00:09:11,777
+to show that nothing is permanent.
+
+178
+00:09:11,797 --> 00:09:13,807
+Predict: temporary.
+
+179
+00:09:14,290 --> 00:09:15,630
+Maybe you don't know ephemeral.
+
+180
+00:09:15,650 --> 00:09:16,229
+That's fine.
+
+181
+00:09:16,249 --> 00:09:18,029
+Work through the ones you do know.
+
+182
+00:09:18,049 --> 00:09:20,070
+Durable means long-lasting.
+
+183
+00:09:20,090 --> 00:09:21,340
+That's the opposite.
+
+184
+00:09:21,370 --> 00:09:24,150
+Ubiquitous means found everywhere.
+
+185
+00:09:24,170 --> 00:09:25,589
+Nothing about that here.
+
+186
+00:09:25,609 --> 00:09:30,460
+Secular means not religious,
+but this is a Buddhist ritual.
+
+187
+00:09:30,921 --> 00:09:35,741
+What's left is ephemeral, and it
+does mean lasting only a short time.
+
+188
+00:09:35,761 --> 00:09:37,411
+The answer is C.
+
+189
+00:09:37,761 --> 00:09:40,421
+When you've eliminated three
+words for real reasons,
+
+190
+00:09:40,441 --> 00:09:42,101
+trust the one you don't know.
+
+191
+00:09:42,121 --> 00:09:46,410
+Don't keep a familiar word that
+doesn't fit just because it's familiar.
+
+192
+00:09:46,828 --> 00:09:49,078
+Last one, and it's harder.
+
+193
+00:09:49,308 --> 00:09:54,168
+Members of the city council had worried
+that the weekend street festival would
+
+194
+00:09:54,188 --> 00:09:56,397
+disrupt downtown traffic.
+
+195
+00:09:56,428 --> 00:10:00,328
+After organizers agreed to
+pay for extra crossing guards,
+
+196
+00:10:00,348 --> 00:10:03,488
+however, the council voted
+to sanction the festival,
+
+197
+00:10:03,508 --> 00:10:07,607
+giving organizers permission to
+close three downtown streets.
+
+198
+00:10:07,627 --> 00:10:12,838
+As used in the text, what does the
+word sanction most nearly mean?
+
+199
+00:10:13,324 --> 00:10:14,614
+Pause and try it.
+
+200
+00:10:21,384 --> 00:10:26,874
+Sanction is tricky because it has two
+meanings that are almost opposites.
+
+201
+00:10:27,064 --> 00:10:31,804
+A sanction can be a penalty,
+like sanctions on a country.
+
+202
+00:10:31,824 --> 00:10:37,074
+But to sanction something can also
+mean to officially approve it.
+
+203
+00:10:37,507 --> 00:10:41,447
+The trap is penalize, because the
+first sentence sets up a worry.
+
+204
+00:10:41,467 --> 00:10:44,087
+But read what the council actually did:
+
+205
+00:10:44,107 --> 00:10:48,007
+it gave organizers permission
+to close three streets.
+
+206
+00:10:48,027 --> 00:10:49,126
+That's approval.
+
+207
+00:10:49,146 --> 00:10:51,677
+The answer is B, authorize.
+
+208
+00:10:52,112 --> 00:10:54,962
+So when a word has more than one meaning,
+
+209
+00:10:55,031 --> 00:10:57,882
+let the sentence choose the meaning.
+
+210
+00:10:57,952 --> 00:11:01,001
+Not whichever meaning you learned first.
+
+211
+00:11:01,413 --> 00:11:02,873
+Here's the full method.
+
+212
+00:11:02,893 --> 00:11:05,152
+One: cover the choices.
+
+213
+00:11:05,172 --> 00:11:08,193
+Two: find the clue,
+whether it's a restatement,
+
+214
+00:11:08,213 --> 00:11:10,302
+a contrast, or a cause.
+
+215
+00:11:10,492 --> 00:11:12,902
+Three: predict your own word.
+
+216
+00:11:13,349 --> 00:11:16,929
+Four: cross out choices
+with the wrong charge.
+
+217
+00:11:16,949 --> 00:11:20,769
+Five: from what's left,
+pick the most precise fit.
+
+218
+00:11:20,789 --> 00:11:24,319
+Not too strong, not too
+weak, and the right tone.
+
+219
+00:11:24,790 --> 00:11:29,650
+And when you're down to a word you know
+that almost fits and a word you don't
+
+220
+00:11:29,670 --> 00:11:33,970
+know, ask whether the familiar
+word truly fits the clue.
+
+221
+00:11:33,990 --> 00:11:37,249
+If you can name a real reason it fails,
+
+222
+00:11:37,269 --> 00:11:38,960
+go with the one you don't know.
+
+223
+00:11:39,424 --> 00:11:40,474
+Recap.
+
+224
+00:11:40,544 --> 00:11:42,524
+You don't need to know every word.
+
+225
+00:11:42,544 --> 00:11:47,234
+You need the clue, a prediction,
+and careful elimination.
+
+226
+00:11:47,503 --> 00:11:53,114
+Check charge, then precision, and watch
+for second meanings of common words.
+
+227
+00:11:53,531 --> 00:11:57,831
+For more practice, the College Board's
+free Question Bank lets you filter for
+
+228
+00:11:57,851 --> 00:12:01,421
+words in context under
+Craft and Structure.
+
+229
+00:12:01,879 --> 00:12:06,019
+All the questions in this video
+were written for this video,
+
+230
+00:12:06,039 --> 00:12:08,339
+in the style of the real test.
+
+231
+00:12:08,359 --> 00:12:10,608
+If this helped, subscribe.
+
+232
+00:12:11,079 --> 00:12:15,569
+Next up, we switch to
+math: SAT percentages.

@@ -1,0 +1,30 @@
+{
+  "id": "long-09_all-19-sat-math-skills",
+  "type": "longform",
+  "order": 9,
+  "publish_at": "2026-10-20T16:00:00-05:00",
+  "video": "09_all-19-sat-math-skills.mp4",
+  "video_bytes": 336031761,
+  "title": "All 19 SAT Math Skills Explained",
+  "description": "The SAT Math section is built from exactly 19 skills in four domains. This video goes through every one in the College Board's order, with an SAT-style practice question for each, a fast solution, and a Desmos shortcut where it actually helps.\n\nYou'll see:\n• Algebra: linear equations, linear functions, systems, and inequalities\n• Advanced Math: equivalent expressions, nonlinear equations and systems, nonlinear functions\n• Problem-Solving and Data Analysis: rates and units, percentages, statistics, scatterplots, probability, margin of error, and studies vs. experiments\n• Geometry and Trigonometry: area and volume, lines and triangles, right-triangle trig, and circles\n• How to turn your misses into a study plan\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank and filter by skill.\n\nCHAPTERS\n0:00 Intro\n0:35 1. Linear equations in one variable\n1:52 2. Linear equations in two variables\n2:55 3. Linear functions\n4:06 4. Systems of two linear equations in two variables\n5:16 5. Linear inequalities in one or two variables\n6:18 6. Equivalent expressions\n7:37 7. Nonlinear equations in one variable and systems of equations in two variables\n8:46 8. Nonlinear functions\n9:52 9. Ratios, rates, proportional relationships, and units\n10:53 10. Percentages\n11:40 11. One-variable data: distributions and measures of center and spread\n12:47 12. Two-variable data: models and scatterplots\n13:51 13. Probability and conditional probability\n15:06 14. Inference from sample statistics and margin of error\n16:09 15. Evaluating statistical claims: observational studies and experiments\n17:22 16. Area and volume\n18:29 17. Lines, angles, and triangles\n19:46 18. Right triangles and trigonometry\n20:50 19. Circles\n21:59 How to use this list\n22:24 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT math",
+    "SAT math review",
+    "digital SAT math",
+    "SAT math skills",
+    "what's on the SAT math",
+    "SAT math practice",
+    "SAT prep",
+    "Desmos SAT",
+    "SAT math full review",
+    "SAT Question Bank"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/09_all-19-sat-math-skills",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

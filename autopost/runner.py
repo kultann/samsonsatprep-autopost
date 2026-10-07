@@ -21,7 +21,7 @@ from pathlib import Path
 
 import requests
 
-from . import config, instagram, tiktok, youtube
+from . import config, instagram, longform, tiktok, youtube
 
 IG_MAX_HASHTAGS = 5
 AUTO_TYPES = {"carousel", "image", "short"}  # reels/stories stay manual (trending audio)
@@ -421,6 +421,8 @@ def run(now=None):
             save_state(state)
     if not config.DRY_RUN and json.dumps(cool, sort_keys=True) != cool_before:
         save_cooldowns(cool)
+    # long-form YouTube videos (longform/<id>/), off until the repo variable YT_LONGFORM=1
+    failures += longform.run(now, state, tok, lambda s: None if config.DRY_RUN else save_state(s))
     prune_videos(posts, state, now)
     return 1 if failures else 0
 
@@ -434,6 +436,7 @@ def check():
         bad += bool(errs)
         print(f"{status} {p.get('id', p['_dir'])} {p.get('publish_at', '')} {p.get('type', '')}"
               + ("" if not errs else "  -> " + "; ".join(errs)))
+    bad += longform.check()
     return 1 if bad else 0
 
 

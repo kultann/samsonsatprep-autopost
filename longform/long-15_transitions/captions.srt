@@ -1,0 +1,1038 @@
+1
+00:00:00,320 --> 00:00:02,450
+Transition questions look easy.
+
+2
+00:00:02,520 --> 00:00:05,860
+One blank, four short
+choices like however,
+
+3
+00:00:05,880 --> 00:00:09,060
+therefore, and for example.
+
+4
+00:00:09,080 --> 00:00:12,379
+But they're easy to miss,
+because if you plug each word in,
+
+5
+00:00:12,399 --> 00:00:15,010
+two or three of them can sound fine.
+
+6
+00:00:15,476 --> 00:00:19,886
+The fix is to decide what the blank
+needs before you look at the choices.
+
+7
+00:00:20,197 --> 00:00:24,456
+In this video: the seven
+relationships transitions show,
+
+8
+00:00:24,476 --> 00:00:27,606
+the words in each group, a simple method,
+
+9
+00:00:27,715 --> 00:00:32,367
+and seven SAT-style questions,
+including the traps.
+
+10
+00:00:32,815 --> 00:00:35,475
+A transition doesn't add information.
+
+11
+00:00:35,495 --> 00:00:39,145
+It tells you how two ideas connect.
+
+12
+00:00:39,295 --> 00:00:43,235
+So the real question is: what's the
+relationship between the sentence before the
+
+13
+00:00:43,255 --> 00:00:45,384
+blank and the sentence after it?
+
+14
+00:00:45,833 --> 00:00:47,883
+There are seven to know.
+
+15
+00:00:47,993 --> 00:00:49,893
+One: contrast.
+
+16
+00:00:49,913 --> 00:00:52,453
+The next idea goes against the last one.
+
+17
+00:00:52,473 --> 00:00:56,093
+However, but, yet, in
+contrast, by contrast,
+
+18
+00:00:56,113 --> 00:00:57,253
+on the other hand.
+
+19
+00:00:57,273 --> 00:00:59,363
+Concession is a close cousin.
+
+20
+00:00:59,392 --> 00:01:03,573
+Nevertheless, nonetheless, even so, still.
+
+21
+00:01:03,593 --> 00:01:05,963
+It means: despite that.
+
+22
+00:01:06,407 --> 00:01:08,777
+Two: cause and effect.
+
+23
+00:01:09,126 --> 00:01:10,747
+The next idea is a result.
+
+24
+00:01:10,767 --> 00:01:14,187
+Therefore, thus,
+consequently, as a result,
+
+25
+00:01:14,207 --> 00:01:15,577
+for this reason.
+
+26
+00:01:15,806 --> 00:01:17,577
+Three: addition.
+
+27
+00:01:18,007 --> 00:01:19,667
+More of the same kind of point.
+
+28
+00:01:19,687 --> 00:01:23,187
+Moreover, furthermore,
+additionally, in addition,
+
+29
+00:01:23,207 --> 00:01:24,337
+also.
+
+30
+00:01:24,487 --> 00:01:27,977
+Similarly and likewise
+add a parallel case.
+
+31
+00:01:28,500 --> 00:01:30,350
+Four: example.
+
+32
+00:01:30,700 --> 00:01:34,870
+The next sentence is a specific
+case of a general claim.
+
+33
+00:01:34,900 --> 00:01:37,909
+For example, for instance, to illustrate.
+
+34
+00:01:38,340 --> 00:01:41,200
+Five: sequence or time.
+
+35
+00:01:41,220 --> 00:01:45,440
+First, next, then, later, subsequently,
+
+36
+00:01:45,460 --> 00:01:47,390
+meanwhile, finally.
+
+37
+00:01:47,883 --> 00:01:50,423
+Six: emphasis or clarification.
+
+38
+00:01:50,443 --> 00:01:53,863
+In fact and indeed push
+the same idea further.
+
+39
+00:01:53,883 --> 00:01:57,303
+In other words and that is
+restate it more clearly.
+
+40
+00:01:57,323 --> 00:01:59,372
+Seven: conclusion.
+
+41
+00:01:59,442 --> 00:02:04,173
+In conclusion, in sum, in short, overall.
+
+42
+00:02:04,615 --> 00:02:06,514
+You don't need to memorize every word.
+
+43
+00:02:06,534 --> 00:02:09,595
+You need to know which
+group each one belongs to,
+
+44
+00:02:09,615 --> 00:02:13,865
+because the SAT is really
+asking which group fits.
+
+45
+00:02:14,350 --> 00:02:15,600
+Here's the format.
+
+46
+00:02:15,630 --> 00:02:20,530
+A short passage with a blank, often
+at the start of the last sentence.
+
+47
+00:02:20,550 --> 00:02:25,530
+The question says: which choice
+completes the text with the most logical
+
+48
+00:02:25,550 --> 00:02:26,560
+transition?
+
+49
+00:02:27,026 --> 00:02:31,486
+To answer it, read the sentence before
+the blank and the sentence after it.
+
+50
+00:02:31,506 --> 00:02:33,406
+Sometimes you need the whole passage,
+
+51
+00:02:33,426 --> 00:02:37,036
+because the last sentence can
+connect back to an earlier one.
+
+52
+00:02:37,505 --> 00:02:40,045
+And watch how fragile the logic is.
+
+53
+00:02:40,065 --> 00:02:41,795
+The trail was steep.
+
+54
+00:02:41,825 --> 00:02:45,084
+blank the hikers moved slowly.
+
+55
+00:02:45,104 --> 00:02:47,315
+That's cause and effect: therefore.
+
+56
+00:02:47,777 --> 00:02:49,707
+Now change one word.
+
+57
+00:02:50,297 --> 00:02:52,467
+The trail was steep.
+
+58
+00:02:52,737 --> 00:02:55,167
+blank the hikers moved quickly.
+
+59
+00:02:55,187 --> 00:02:57,447
+Now it's a surprise, so it's a contrast:
+
+60
+00:02:57,467 --> 00:02:58,327
+however.
+
+61
+00:02:58,347 --> 00:03:02,597
+Same sentences, one word different,
+and the transition flips.
+
+62
+00:03:03,105 --> 00:03:04,435
+So here's the method.
+
+63
+00:03:04,505 --> 00:03:06,884
+Step one: cover the choices.
+
+64
+00:03:06,904 --> 00:03:08,445
+Don't look at them yet.
+
+65
+00:03:08,465 --> 00:03:13,434
+Step two: read the sentence before
+the blank and the sentence after it.
+
+66
+00:03:13,843 --> 00:03:18,012
+Step three: name the
+relationship in a word or two.
+
+67
+00:03:18,083 --> 00:03:19,083
+Against?
+
+68
+00:03:19,163 --> 00:03:20,183
+Result?
+
+69
+00:03:20,203 --> 00:03:21,463
+More of the same?
+
+70
+00:03:21,483 --> 00:03:22,743
+An example?
+
+71
+00:03:22,763 --> 00:03:24,222
+Later in time?
+
+72
+00:03:24,242 --> 00:03:28,623
+Step four: uncover the choices,
+find the one from that group,
+
+73
+00:03:28,643 --> 00:03:32,013
+and read the sentence with it
+in place to make sure it works.
+
+74
+00:03:32,491 --> 00:03:33,491
+Let's try it.
+
+75
+00:03:33,931 --> 00:03:39,031
+Venus is sometimes called Earth's twin
+because the two planets are similar in
+
+76
+00:03:39,051 --> 00:03:40,860
+size and structure.
+
+77
+00:03:41,111 --> 00:03:45,351
+blank the surface of Venus
+is far hotter than Earth's:
+
+78
+00:03:45,371 --> 00:03:47,901
+it is hot enough to melt lead.
+
+79
+00:03:48,431 --> 00:03:49,921
+Pause and try it.
+
+80
+00:03:55,781 --> 00:03:59,270
+Before the blank: Venus is like Earth.
+
+81
+00:03:59,301 --> 00:04:01,481
+After it: Venus is very different.
+
+82
+00:04:01,501 --> 00:04:02,561
+That's a contrast.
+
+83
+00:04:02,581 --> 00:04:04,871
+Predict: however, or but.
+
+84
+00:04:05,420 --> 00:04:07,151
+The answer is A, however.
+
+85
+00:04:07,616 --> 00:04:11,236
+Similarly would mean
+Venus is like Earth again.
+
+86
+00:04:11,256 --> 00:04:15,905
+Therefore would mean being
+Earth's twin causes the heat.
+
+87
+00:04:16,216 --> 00:04:19,956
+And the heat isn't an example
+of the two planets being alike,
+
+88
+00:04:19,976 --> 00:04:22,906
+so for example doesn't work either.
+
+89
+00:04:23,326 --> 00:04:24,586
+Question two.
+
+90
+00:04:24,606 --> 00:04:31,026
+Unlike most substances, water is less
+dense in its solid form than in its liquid
+
+91
+00:04:31,046 --> 00:04:31,896
+form.
+
+92
+00:04:31,916 --> 00:04:37,906
+blank ice floats on the surface of lakes
+and ponds instead of sinking to the
+
+93
+00:04:37,926 --> 00:04:38,926
+bottom.
+
+94
+00:04:39,158 --> 00:04:40,648
+Pause and try it.
+
+95
+00:04:46,508 --> 00:04:50,637
+Before: solid water is less
+dense than liquid water.
+
+96
+00:04:50,708 --> 00:04:52,958
+After: ice floats.
+
+97
+00:04:53,068 --> 00:04:57,248
+Things that are less dense float, so
+the second sentence is the result of the
+
+98
+00:04:57,268 --> 00:04:58,168
+first.
+
+99
+00:04:58,188 --> 00:05:01,127
+Predict: therefore, or as a result.
+
+100
+00:05:01,147 --> 00:05:02,198
+That's D.
+
+101
+00:05:02,629 --> 00:05:04,449
+Nevertheless is the trap.
+
+102
+00:05:04,469 --> 00:05:08,129
+The phrase unlike most substances
+sounds like a contrast.
+
+103
+00:05:08,149 --> 00:05:11,688
+But that contrast is
+inside the first sentence.
+
+104
+00:05:11,708 --> 00:05:14,529
+Between the two sentences,
+it's cause and effect.
+
+105
+00:05:14,549 --> 00:05:18,729
+Nevertheless would mean ice
+floats despite being less dense,
+
+106
+00:05:18,749 --> 00:05:20,359
+which is backwards.
+
+107
+00:05:20,879 --> 00:05:22,179
+Question three.
+
+108
+00:05:22,199 --> 00:05:26,449
+Some animals turn objects from
+their surroundings into tools.
+
+109
+00:05:26,659 --> 00:05:30,798
+blank New Caledonian crows
+break twigs off bushes,
+
+110
+00:05:30,818 --> 00:05:36,589
+trim them into sticks, and use the sticks
+to pull insects out of holes in logs.
+
+111
+00:05:37,045 --> 00:05:38,535
+Pause and try it.
+
+112
+00:05:44,395 --> 00:05:46,815
+The first sentence is a general claim:
+
+113
+00:05:46,835 --> 00:05:49,165
+some animals make tools.
+
+114
+00:05:49,315 --> 00:05:53,044
+The second is one specific case: crows.
+
+115
+00:05:53,435 --> 00:05:56,655
+General, then specific, means example.
+
+116
+00:05:56,675 --> 00:05:59,005
+The answer is B, for instance.
+
+117
+00:05:59,545 --> 00:06:01,435
+In other words is the tempting one.
+
+118
+00:06:01,784 --> 00:06:05,045
+But in other words means the next
+sentence says the same thing again.
+
+119
+00:06:05,065 --> 00:06:06,685
+This one doesn't restate the claim.
+
+120
+00:06:06,705 --> 00:06:09,755
+It adds a new, narrower case.
+
+121
+00:06:10,203 --> 00:06:11,533
+Question four.
+
+122
+00:06:11,763 --> 00:06:16,663
+The Svalbard Global Seed Vault, built
+inside a mountain on a remote Arctic
+
+123
+00:06:16,683 --> 00:06:21,943
+island, stores backup copies of seeds
+from gene banks around the world.
+
+124
+00:06:21,963 --> 00:06:27,103
+The vault sits well above sea level, so
+it should stay dry even if sea levels
+
+125
+00:06:27,123 --> 00:06:28,123
+rise.
+
+126
+00:06:28,243 --> 00:06:33,263
+blank the permafrost and thick rock
+surrounding the vault would keep the seeds
+
+127
+00:06:33,283 --> 00:06:35,773
+frozen even if the power failed.
+
+128
+00:06:36,258 --> 00:06:37,748
+Pause and try it.
+
+129
+00:06:43,608 --> 00:06:47,617
+Before the blank: one way
+the vault protects the seeds.
+
+130
+00:06:47,648 --> 00:06:49,818
+After it: a second way.
+
+131
+00:06:49,928 --> 00:06:52,788
+Two separate points,
+pointing the same direction.
+
+132
+00:06:52,808 --> 00:06:53,948
+That's addition.
+
+133
+00:06:53,968 --> 00:06:56,778
+The answer is B, additionally.
+
+134
+00:06:57,242 --> 00:06:59,222
+For this reason is the trap.
+
+135
+00:06:59,242 --> 00:07:01,982
+Being above sea level
+doesn't cause the permafrost.
+
+136
+00:07:02,002 --> 00:07:05,461
+Two facts side by side
+aren't cause and effect.
+
+137
+00:07:05,481 --> 00:07:07,662
+And nonetheless would need a contrast,
+
+138
+00:07:07,682 --> 00:07:08,861
+which isn't there.
+
+139
+00:07:08,881 --> 00:07:12,701
+Instead would mean one
+protection replaces the other,
+
+140
+00:07:12,721 --> 00:07:14,652
+but the vault has both.
+
+141
+00:07:15,192 --> 00:07:16,772
+Question five.
+
+142
+00:07:16,792 --> 00:07:22,252
+In nineteen twenty-eight, Alexander
+Fleming noticed that a mold growing in one
+
+143
+00:07:22,272 --> 00:07:26,362
+of his laboratory dishes had
+killed the bacteria around it.
+
+144
+00:07:26,492 --> 00:07:32,032
+blank in nineteen forty, a team at
+the University of Oxford showed that a
+
+145
+00:07:32,052 --> 00:07:35,471
+purified form of the
+substance the mold produced,
+
+146
+00:07:35,491 --> 00:07:40,422
+penicillin, could protect mice
+from a deadly bacterial infection.
+
+147
+00:07:40,925 --> 00:07:42,415
+Pause and try it.
+
+148
+00:07:48,275 --> 00:07:49,925
+The dates are your clue.
+
+149
+00:07:49,995 --> 00:07:53,005
+Nineteen twenty-eight,
+then nineteen forty.
+
+150
+00:07:53,195 --> 00:07:56,814
+One event happened, and
+then, twelve years on,
+
+151
+00:07:56,834 --> 00:07:58,055
+another one did.
+
+152
+00:07:58,075 --> 00:07:59,325
+That's sequence.
+
+153
+00:07:59,475 --> 00:08:02,245
+The answer is A, later.
+
+154
+00:08:02,693 --> 00:08:06,993
+Instead would mean the Oxford
+work replaced Fleming's discovery.
+
+155
+00:08:07,013 --> 00:08:07,953
+It built on it.
+
+156
+00:08:07,973 --> 00:08:11,113
+The experiment isn't an
+example of his observation,
+
+157
+00:08:11,133 --> 00:08:13,033
+and it isn't a restatement either.
+
+158
+00:08:13,053 --> 00:08:14,422
+It's a new event.
+
+159
+00:08:14,927 --> 00:08:16,297
+Now the traps.
+
+160
+00:08:16,407 --> 00:08:20,067
+Trap one: two choices
+that do the same job.
+
+161
+00:08:20,087 --> 00:08:23,587
+If therefore and as a
+result are both choices,
+
+162
+00:08:23,607 --> 00:08:24,986
+they mean the same thing.
+
+163
+00:08:25,006 --> 00:08:27,427
+They can't both be the one right answer,
+
+164
+00:08:27,447 --> 00:08:29,816
+so usually neither is.
+
+165
+00:08:30,249 --> 00:08:34,229
+Trap two: the however
+versus therefore flip.
+
+166
+00:08:34,249 --> 00:08:35,429
+They're opposites.
+
+167
+00:08:35,449 --> 00:08:38,388
+Therefore says the next
+idea is what you'd expect.
+
+168
+00:08:38,408 --> 00:08:41,189
+However says it goes
+against what you'd expect.
+
+169
+00:08:41,209 --> 00:08:45,578
+If you're stuck between them, ask:
+is the second sentence a surprise?
+
+170
+00:08:46,099 --> 00:08:50,559
+Trap three: grabbing a contrast word
+because you noticed a contrast somewhere in
+
+171
+00:08:50,579 --> 00:08:51,479
+the passage.
+
+172
+00:08:51,499 --> 00:08:54,869
+Only the relationship
+across the blank counts.
+
+173
+00:08:55,370 --> 00:08:56,750
+Question six.
+
+174
+00:08:56,770 --> 00:09:01,870
+In nineteen thirty-five, cane toads were
+brought to Australia to control beetles
+
+175
+00:09:01,890 --> 00:09:04,340
+that were damaging sugarcane crops.
+
+176
+00:09:04,510 --> 00:09:08,820
+blank the toads had no
+noticeable effect on the beetles.
+
+177
+00:09:09,301 --> 00:09:10,791
+Pause and try it.
+
+178
+00:09:17,651 --> 00:09:20,390
+The toads were brought in
+to control the beetles.
+
+179
+00:09:20,410 --> 00:09:22,911
+Then they had no noticeable effect.
+
+180
+00:09:22,931 --> 00:09:24,381
+Is that what you'd expect?
+
+181
+00:09:24,451 --> 00:09:25,071
+No.
+
+182
+00:09:25,091 --> 00:09:26,551
+The plan failed.
+
+183
+00:09:26,571 --> 00:09:28,911
+That's a surprise, so it's a contrast:
+
+184
+00:09:28,931 --> 00:09:29,790
+however.
+
+185
+00:09:29,810 --> 00:09:31,661
+The answer is C.
+
+186
+00:09:32,128 --> 00:09:33,818
+Now look at A and B.
+
+187
+00:09:34,087 --> 00:09:36,748
+Therefore and as a result do the same job,
+
+188
+00:09:36,768 --> 00:09:39,068
+so they can't both be right.
+
+189
+00:09:39,088 --> 00:09:41,948
+And they'd both say the
+plan caused the failure,
+
+190
+00:09:41,968 --> 00:09:43,388
+which makes no sense.
+
+191
+00:09:43,408 --> 00:09:45,617
+For example doesn't fit either.
+
+192
+00:09:46,015 --> 00:09:47,105
+Here's the flip.
+
+193
+00:09:47,415 --> 00:09:52,265
+If the first sentence had said the
+toads couldn't reach the beetles,
+
+194
+00:09:52,375 --> 00:09:54,304
+then therefore would work.
+
+195
+00:09:54,334 --> 00:09:57,835
+The words around the blank
+decide the transition,
+
+196
+00:09:57,855 --> 00:09:59,185
+not the topic.
+
+197
+00:09:59,715 --> 00:10:01,415
+Last one, and it's harder.
+
+198
+00:10:01,435 --> 00:10:04,495
+The first telegraph cable laid
+across the Atlantic Ocean,
+
+199
+00:10:04,515 --> 00:10:09,845
+completed in eighteen fifty-eight, stopped
+working after only about three weeks.
+
+200
+00:10:10,045 --> 00:10:15,315
+blank the short-lived cable proved that
+an undersea cable could carry messages
+
+201
+00:10:15,335 --> 00:10:17,825
+between Europe and North America.
+
+202
+00:10:18,279 --> 00:10:19,019
+Pause and try it.
+
+203
+00:10:19,039 --> 00:10:20,689
+Take a little longer on this one.
+
+204
+00:10:28,460 --> 00:10:30,510
+The cable failed fast.
+
+205
+00:10:31,020 --> 00:10:33,040
+But it still proved the idea worked.
+
+206
+00:10:33,060 --> 00:10:37,189
+The relationship is: despite that.
+
+207
+00:10:37,340 --> 00:10:40,430
+So the answer is B, nevertheless.
+
+208
+00:10:40,923 --> 00:10:46,093
+Here's why in contrast is wrong, even
+though it's also a contrast word.
+
+209
+00:10:46,763 --> 00:10:49,062
+In contrast compares two different things,
+
+210
+00:10:49,082 --> 00:10:51,773
+like two planets or two telescopes.
+
+211
+00:10:51,803 --> 00:10:54,583
+This passage has only
+one thing, the cable.
+
+212
+00:10:54,603 --> 00:10:56,492
+There's nothing to compare it to.
+
+213
+00:10:56,933 --> 00:11:00,353
+Consequently would mean the
+failure caused the proof.
+
+214
+00:11:00,373 --> 00:11:02,953
+And nothing here is an example.
+
+215
+00:11:02,973 --> 00:11:07,863
+So the rule from earlier
+needs one adjustment.
+
+216
+00:11:08,053 --> 00:11:09,953
+True synonyms are both out.
+
+217
+00:11:09,973 --> 00:11:14,423
+But two words from the same family
+can still do different jobs.
+
+218
+00:11:14,869 --> 00:11:16,849
+Here's the method on one card.
+
+219
+00:11:16,869 --> 00:11:18,329
+Cover the choices.
+
+220
+00:11:18,349 --> 00:11:21,489
+Read the sentence before
+and after the blank.
+
+221
+00:11:21,509 --> 00:11:22,808
+Name the relationship.
+
+222
+00:11:22,828 --> 00:11:25,479
+Then match the group, and read it back in.
+
+223
+00:11:25,960 --> 00:11:30,140
+If you're stuck between two
+choices, ask the sharper question.
+
+224
+00:11:30,160 --> 00:11:33,860
+Is the second idea
+expected, or a surprise?
+
+225
+00:11:33,880 --> 00:11:38,460
+Are two things being compared, or
+is one idea true despite another?
+
+226
+00:11:38,480 --> 00:11:40,490
+That usually breaks the tie.
+
+227
+00:11:41,020 --> 00:11:41,920
+Recap.
+
+228
+00:11:41,940 --> 00:11:45,830
+Transitions test
+relationships, not vocabulary.
+
+229
+00:11:45,980 --> 00:11:48,999
+Predict the relationship
+first, then find it.
+
+230
+00:11:49,019 --> 00:11:53,399
+Watch for same-job pairs, the
+however versus therefore flip,
+
+231
+00:11:53,419 --> 00:11:55,950
+and contrast versus concession.
+
+232
+00:11:56,404 --> 00:12:00,504
+For more practice, the College Board's
+free Question Bank lets you filter for
+
+233
+00:12:00,524 --> 00:12:03,614
+transitions under Expression of Ideas.
+
+234
+00:12:04,083 --> 00:12:08,103
+All the questions in this video
+were written for this video,
+
+235
+00:12:08,123 --> 00:12:10,663
+in the style of the real test.
+
+236
+00:12:10,683 --> 00:12:12,783
+If this helped, subscribe.
+
+237
+00:12:12,803 --> 00:12:16,892
+Next up: command of evidence
+questions with tables and graphs.

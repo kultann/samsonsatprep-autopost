@@ -1,0 +1,30 @@
+{
+  "id": "long-05_formulas-not-on-reference-sheet",
+  "type": "longform",
+  "order": 5,
+  "publish_at": "2026-10-15T16:00:00-05:00",
+  "video": "05_formulas-not-on-reference-sheet.mp4",
+  "video_bytes": 232415673,
+  "title": "Every SAT Math Formula NOT on the Reference Sheet",
+  "description": "The SAT gives you a math reference sheet, but it leaves out most of the formulas you actually need. This video shows exactly what's on the sheet, then covers the 15 formulas you have to know yourself, each with a quick SAT-style example and a Desmos check where it helps.\n\nCovered:\n• Slope, the three forms of a line, parallel and perpendicular slopes\n• Distance and midpoint\n• The quadratic formula, the discriminant, the vertex, and the sum and product of the solutions\n• Circle equations (completing the square), arc length, and sector area\n• SOHCAHTOA and sin x = cos(90° − x)\n• Exponent rules and exponential growth and decay\n• Percent change and the mean (total = mean × count)\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank.\n\nCHAPTERS\n0:00 Intro\n0:27 What IS on the reference sheet\n1:07 1. Slope\n1:57 2. Three forms of a line\n2:58 3. Parallel and perpendicular slopes\n3:51 4. Distance and midpoint\n4:43 5. The quadratic formula\n5:47 6. The discriminant\n6:48 7. The vertex\n7:45 8. Sum and product of the solutions\n8:28 9. Circle equation\n9:33 10. Arc length and sector area\n10:25 11. SOHCAHTOA and sin x = cos(90° − x)\n12:11 12. Exponent rules\n13:08 13. Exponential growth and decay\n14:15 14. Percent change\n15:12 15. Mean and totals\n15:59 Trigger words: which formula?\n16:32 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT math formulas",
+    "SAT reference sheet",
+    "SAT formulas to memorize",
+    "digital SAT math",
+    "SAT math formula sheet",
+    "SAT math review",
+    "SAT prep",
+    "Desmos SAT",
+    "SAT quadratics",
+    "SAT math tips"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/05_formulas-not-on-reference-sheet",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

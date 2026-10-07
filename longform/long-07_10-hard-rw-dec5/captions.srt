@@ -1,0 +1,1182 @@
+1
+00:00:00,320 --> 00:00:04,219
+Ten hard SAT Reading
+and Writing questions.
+
+2
+00:00:04,239 --> 00:00:10,140
+All of them original, all of them built
+to feel like the tougher questions on
+
+3
+00:00:10,160 --> 00:00:11,420
+the real test.
+
+4
+00:00:11,440 --> 00:00:14,500
+If you're taking the SAT on December 5,
+
+5
+00:00:14,520 --> 00:00:17,050
+this is a good check on where you stand.
+
+6
+00:00:17,570 --> 00:00:19,150
+Same rules as always.
+
+7
+00:00:19,170 --> 00:00:21,429
+Pause before every
+answer, try it yourself,
+
+8
+00:00:21,449 --> 00:00:22,630
+and keep score.
+
+9
+00:00:22,650 --> 00:00:26,029
+They get harder as we go
+and cover all four domains.
+
+10
+00:00:26,049 --> 00:00:30,100
+At the end, I'll show you what your
+misses say about what to study.
+
+11
+00:00:30,531 --> 00:00:31,511
+Question one.
+
+12
+00:00:31,531 --> 00:00:34,591
+Because the fossil
+consists of a single tooth,
+
+13
+00:00:34,611 --> 00:00:39,761
+the paleontologists who described it have
+called their classification blank they
+
+14
+00:00:39,781 --> 00:00:44,641
+assigned the tooth to a new species of
+early crocodile relative but noted that
+
+15
+00:00:44,661 --> 00:00:48,791
+the assignment could change if
+more complete remains are found.
+
+16
+00:00:49,223 --> 00:00:50,633
+Pause and try it.
+
+17
+00:00:57,407 --> 00:01:02,377
+The colon after the blank tells
+you the second half explains it.
+
+18
+00:01:02,447 --> 00:01:05,107
+The tooth goes in a new species for now,
+
+19
+00:01:05,127 --> 00:01:06,267
+but that could change.
+
+20
+00:01:06,287 --> 00:01:09,267
+So predict something like temporary.
+
+21
+00:01:09,287 --> 00:01:10,466
+That's provisional.
+
+22
+00:01:10,486 --> 00:01:12,017
+The answer is A.
+
+23
+00:01:12,485 --> 00:01:16,014
+The trap is C, contentious,
+which means disputed.
+
+24
+00:01:16,244 --> 00:01:18,665
+But nobody in the text is arguing.
+
+25
+00:01:18,685 --> 00:01:22,185
+The scientists are just being
+careful about their own work.
+
+26
+00:01:22,205 --> 00:01:26,255
+Definitive is the opposite,
+and redundant doesn't fit.
+
+27
+00:01:26,778 --> 00:01:28,038
+Question two.
+
+28
+00:01:28,058 --> 00:01:34,757
+An exhibition brought together works by
+three twentieth-century Mexican artists:
+
+29
+00:01:34,777 --> 00:01:40,618
+Frida Kahlo, known for her
+vivid blank Diego Rivera,
+
+30
+00:01:40,638 --> 00:01:45,618
+whose murals depict scenes from
+Mexican history and working life;
+
+31
+00:01:45,638 --> 00:01:51,058
+and Rufino Tamayo, who blended
+European modernist styles with Mexico's
+
+32
+00:01:51,078 --> 00:01:53,088
+pre-Columbian traditions.
+
+33
+00:01:53,579 --> 00:01:54,989
+Pause and try it.
+
+34
+00:02:01,763 --> 00:02:03,173
+Look past the blank.
+
+35
+00:02:03,643 --> 00:02:06,813
+Before Rufino Tamayo, there's a semicolon.
+
+36
+00:02:06,963 --> 00:02:10,222
+When list items already
+have commas inside them,
+
+37
+00:02:10,242 --> 00:02:14,902
+semicolons separate the items,
+and the separators have to match.
+
+38
+00:02:14,922 --> 00:02:17,703
+So the blank needs a semicolon too.
+
+39
+00:02:17,723 --> 00:02:19,453
+The answer is B.
+
+40
+00:02:19,863 --> 00:02:21,802
+A comma is the trap.
+
+41
+00:02:21,822 --> 00:02:27,403
+It's normal in a list, but here it blurs
+where Kahlo's description ends and the
+
+42
+00:02:27,423 --> 00:02:29,393
+next artist begins.
+
+43
+00:02:29,663 --> 00:02:35,153
+A colon can't separate list items,
+and no punctuation runs them together.
+
+44
+00:02:35,552 --> 00:02:39,052
+Question three has a graph, and the
+numbers are made up for practice.
+
+45
+00:02:39,072 --> 00:02:42,732
+A team of plant biologists
+grew two species of grass,
+
+46
+00:02:42,752 --> 00:02:47,812
+species one and species two, with
+and without a nitrogen fertilizer,
+
+47
+00:02:47,832 --> 00:02:51,441
+and measured the plants' average
+height after eight weeks.
+
+48
+00:02:51,950 --> 00:02:56,130
+The team concluded that adding fertilizer
+had a greater effect on the growth of
+
+49
+00:02:56,150 --> 00:03:00,489
+species one than on the
+growth of species two.
+
+50
+00:03:00,509 --> 00:03:05,489
+Which choice most effectively uses data
+from the graph to support the team's
+
+51
+00:03:05,509 --> 00:03:06,560
+conclusion?
+
+52
+00:03:07,038 --> 00:03:08,448
+Pause and try it.
+
+53
+00:03:16,222 --> 00:03:20,402
+The claim is about effect, which
+means the change from no fertilizer to
+
+54
+00:03:20,422 --> 00:03:21,562
+fertilizer.
+
+55
+00:03:21,582 --> 00:03:25,082
+Species one goes from thirty
+to forty-two centimeters,
+
+56
+00:03:25,102 --> 00:03:26,551
+a gain of twelve.
+
+57
+00:03:26,861 --> 00:03:29,882
+Species two goes from forty-five to fifty,
+
+58
+00:03:29,902 --> 00:03:31,361
+a gain of five.
+
+59
+00:03:31,381 --> 00:03:33,002
+Twelve beats five.
+
+60
+00:03:33,022 --> 00:03:34,632
+The answer is D.
+
+61
+00:03:35,106 --> 00:03:36,926
+A and B are the traps.
+
+62
+00:03:36,946 --> 00:03:40,166
+They point at the tallest
+bars, but that's height,
+
+63
+00:03:40,186 --> 00:03:42,686
+not how much the fertilizer changed it.
+
+64
+00:03:42,706 --> 00:03:47,396
+And C is true for both species, so
+it can't show a bigger effect on one.
+
+65
+00:03:47,838 --> 00:03:49,128
+Question four.
+
+66
+00:03:49,318 --> 00:03:53,328
+Although many people picture
+deserts as nearly lifeless,
+
+67
+00:03:53,558 --> 00:03:58,538
+the Sonoran Desert, which spans parts
+of the southwestern United States and
+
+68
+00:03:58,558 --> 00:04:04,608
+northwestern Mexico, is the most
+biologically diverse desert in North America.
+
+69
+00:04:04,628 --> 00:04:08,768
+Blank it is home to more than two
+thousand native plant species,
+
+70
+00:04:08,788 --> 00:04:14,317
+including the saguaro cactus, which
+grows in the wild nowhere else on Earth.
+
+71
+00:04:14,836 --> 00:04:16,246
+Pause and try it.
+
+72
+00:04:23,020 --> 00:04:26,600
+The word although pulls
+you toward a contrast,
+
+73
+00:04:26,620 --> 00:04:30,320
+but that contrast is finished
+inside the first sentence.
+
+74
+00:04:30,340 --> 00:04:33,390
+Sentence one: it's the
+most diverse desert.
+
+75
+00:04:33,900 --> 00:04:38,230
+Sentence two: here's the evidence,
+two thousand plant species.
+
+76
+00:04:38,380 --> 00:04:40,750
+The second backs up the first.
+
+77
+00:04:41,207 --> 00:04:45,347
+A transition that backs up a
+claim with evidence is in fact.
+
+78
+00:04:45,367 --> 00:04:47,257
+The answer is C.
+
+79
+00:04:47,367 --> 00:04:51,027
+Still would mean the second
+sentence is true despite the first.
+
+80
+00:04:51,047 --> 00:04:56,137
+Similarly needs a similar case, and
+meanwhile means at the same time.
+
+81
+00:04:56,594 --> 00:04:58,004
+Question five.
+
+82
+00:04:58,234 --> 00:05:03,294
+Violins made by Antonio Stradivari
+about three hundred years ago are widely
+
+83
+00:05:03,314 --> 00:05:07,524
+believed to have a tone that
+no modern instrument can match.
+
+84
+00:05:07,584 --> 00:05:13,244
+In two studies, however, experienced
+violinists played old Italian violins,
+
+85
+00:05:13,264 --> 00:05:18,244
+including several by Stradivari, alongside
+high-quality new ones without being
+
+86
+00:05:18,264 --> 00:05:20,913
+able to see which instrument they held.
+
+87
+00:05:21,382 --> 00:05:24,842
+The players could not
+reliably tell old from new,
+
+88
+00:05:24,862 --> 00:05:28,112
+and most preferred a new violin.
+
+89
+00:05:28,262 --> 00:05:32,802
+Such results do not show that
+Stradivari's instruments are ordinary,
+
+90
+00:05:32,822 --> 00:05:38,282
+but they suggest that the violins'
+reputation may rest partly on their history
+
+91
+00:05:38,302 --> 00:05:40,752
+rather than on their sound alone.
+
+92
+00:05:40,772 --> 00:05:44,861
+Which choice best describes the
+overall structure of the text?
+
+93
+00:05:45,306 --> 00:05:46,716
+Pause and try it.
+
+94
+00:05:54,491 --> 00:05:55,191
+Map it.
+
+95
+00:05:55,211 --> 00:05:57,980
+Sentence one: a widely held belief.
+
+96
+00:05:58,171 --> 00:06:00,621
+Then research that challenges it.
+
+97
+00:06:00,811 --> 00:06:06,470
+Then a careful last sentence: the results
+don't show the violins are ordinary.
+
+98
+00:06:06,490 --> 00:06:09,701
+They only suggest something
+about the reputation.
+
+99
+00:06:10,228 --> 00:06:11,248
+So the answer is B.
+
+100
+00:06:11,268 --> 00:06:12,368
+C is the trap.
+
+101
+00:06:12,388 --> 00:06:17,808
+It matches the first two parts, but says
+the text calls the belief disproved,
+
+102
+00:06:17,828 --> 00:06:20,717
+and the last sentence says the opposite.
+
+103
+00:06:21,108 --> 00:06:23,968
+D says the research supports the belief,
+
+104
+00:06:23,988 --> 00:06:26,358
+and A isn't in the text.
+
+105
+00:06:26,796 --> 00:06:28,206
+Question six.
+
+106
+00:06:28,316 --> 00:06:33,456
+The Panama Canal, which opened in
+1914 and which was expanded with
+
+107
+00:06:33,476 --> 00:06:40,306
+new, larger locks in 2016, blank
+ships to travel between the Atlantic
+
+108
+00:06:40,326 --> 00:06:46,295
+and Pacific Oceans without sailing
+around the southern tip of South America.
+
+109
+00:06:46,750 --> 00:06:48,160
+Pause and try it.
+
+110
+00:06:54,934 --> 00:06:57,864
+Strip out the extra
+information between the commas.
+
+111
+00:06:57,974 --> 00:07:03,153
+Everything from which opened to
+2016 is one long description.
+
+112
+00:07:03,173 --> 00:07:06,034
+What's left: the Panama Canal, blank,
+
+113
+00:07:06,054 --> 00:07:08,714
+ships to travel between the oceans.
+
+114
+00:07:08,734 --> 00:07:11,264
+The sentence still needs its main verb.
+
+115
+00:07:11,782 --> 00:07:15,561
+Allowing and having allowed
+can't be a main verb.
+
+116
+00:07:15,581 --> 00:07:18,882
+That allows turns the rest
+into another description,
+
+117
+00:07:18,902 --> 00:07:22,642
+so the sentence still never
+says what the canal does.
+
+118
+00:07:22,662 --> 00:07:25,682
+Only allows gives it a real main verb.
+
+119
+00:07:25,702 --> 00:07:27,552
+The answer is D.
+
+120
+00:07:28,041 --> 00:07:29,331
+Question seven.
+
+121
+00:07:29,681 --> 00:07:34,621
+Hope is the thing with feathers
+is an 1891 poem by Emily
+
+122
+00:07:34,641 --> 00:07:35,581
+Dickinson.
+
+123
+00:07:35,601 --> 00:07:40,781
+In the poem, the speaker suggests that
+hope requires nothing from the person who
+
+124
+00:07:40,801 --> 00:07:41,801
+has it.
+
+125
+00:07:41,961 --> 00:07:46,411
+Which quotation from the poem most
+effectively illustrates the claim?
+
+126
+00:07:46,866 --> 00:07:47,876
+The choices.
+
+127
+00:07:48,226 --> 00:07:53,716
+A: Hope is the thing with
+feathers, that perches in the soul.
+
+128
+00:07:53,866 --> 00:07:57,366
+B: And sweetest in the gale is heard,
+
+129
+00:07:57,386 --> 00:07:59,766
+and sore must be the storm.
+
+130
+00:07:59,786 --> 00:08:01,886
+C: I've heard it in the chillest land,
+
+131
+00:08:01,906 --> 00:08:03,526
+and on the strangest sea.
+
+132
+00:08:03,546 --> 00:08:08,996
+D: Yet, never, in extremity,
+it asked a crumb of me.
+
+133
+00:08:09,453 --> 00:08:10,863
+Pause and try it.
+
+134
+00:08:18,637 --> 00:08:24,167
+Hold on to the exact claim: hope
+requires nothing from the person.
+
+135
+00:08:24,477 --> 00:08:28,096
+D says that even in
+extremity, the worst moments,
+
+136
+00:08:28,116 --> 00:08:31,377
+it never asked even a
+crumb of the speaker.
+
+137
+00:08:31,397 --> 00:08:33,577
+That's requiring nothing.
+
+138
+00:08:33,597 --> 00:08:35,487
+The answer is D.
+
+139
+00:08:35,957 --> 00:08:38,176
+B and C are the traps.
+
+140
+00:08:38,196 --> 00:08:42,977
+They're about hope in hard places,
+the storm and the coldest land.
+
+141
+00:08:42,997 --> 00:08:48,446
+That fits the mood, but neither says
+anything about what hope asks for.
+
+142
+00:08:48,877 --> 00:08:51,766
+A just introduces hope as a bird.
+
+143
+00:08:52,231 --> 00:08:53,481
+Question eight.
+
+144
+00:08:53,671 --> 00:08:55,240
+A student's notes.
+
+145
+00:08:55,431 --> 00:09:00,290
+Prussian blue is a synthetic pigment
+first made in Berlin around seventeen oh
+
+146
+00:09:00,310 --> 00:09:01,321
+six.
+
+147
+00:09:01,390 --> 00:09:05,921
+Large quantities of it began
+arriving in Japan in 1829.
+
+148
+00:09:06,081 --> 00:09:11,381
+Before then, Japanese woodblock printmakers
+had relied mainly on blues made from
+
+149
+00:09:11,401 --> 00:09:14,290
+plants, such as indigo and dayflower.
+
+150
+00:09:14,729 --> 00:09:19,509
+Prussian blue is more vivid and more
+resistant to fading than those plant-based
+
+151
+00:09:19,529 --> 00:09:20,509
+blues.
+
+152
+00:09:20,529 --> 00:09:25,868
+And Katsushika Hokusai used it in his
+woodblock print The Great Wave off
+
+153
+00:09:25,888 --> 00:09:28,629
+Kanagawa, from around 1831.
+
+154
+00:09:28,649 --> 00:09:33,109
+The student wants to explain an advantage
+of the pigment Hokusai used in The
+
+155
+00:09:33,129 --> 00:09:35,109
+Great Wave off Kanagawa.
+
+156
+00:09:35,129 --> 00:09:40,269
+Which choice most effectively uses
+relevant information from the notes to
+
+157
+00:09:40,289 --> 00:09:41,699
+accomplish this goal?
+
+158
+00:09:42,144 --> 00:09:43,554
+Pause and try it.
+
+159
+00:09:52,328 --> 00:09:56,107
+The goal has two parts: name
+the pigment Hokusai used,
+
+160
+00:09:56,127 --> 00:09:57,508
+and give an advantage.
+
+161
+00:09:57,528 --> 00:10:03,228
+Only one note states an advantage: more
+vivid and more resistant to fading.
+
+162
+00:10:03,248 --> 00:10:05,588
+C is the only choice that uses it.
+
+163
+00:10:05,608 --> 00:10:07,298
+The answer is C.
+
+164
+00:10:07,747 --> 00:10:09,607
+Every wrong choice is accurate.
+
+165
+00:10:09,627 --> 00:10:11,356
+A is about timing.
+
+166
+00:10:11,427 --> 00:10:14,567
+B is about where the
+pigment was first made.
+
+167
+00:10:14,587 --> 00:10:16,167
+D is the sneaky one.
+
+168
+00:10:16,187 --> 00:10:20,726
+It describes the older plant blues,
+but never says what Prussian blue does
+
+169
+00:10:20,746 --> 00:10:21,746
+better.
+
+170
+00:10:22,146 --> 00:10:24,357
+Background isn't an advantage.
+
+171
+00:10:24,827 --> 00:10:27,086
+Question nine has two texts.
+
+172
+00:10:27,106 --> 00:10:28,126
+Text one.
+
+173
+00:10:28,146 --> 00:10:33,647
+In 2018, a team of researchers
+used uranium-thorium dating on thin
+
+174
+00:10:33,667 --> 00:10:38,827
+mineral crusts that had formed over
+paintings in three Spanish caves.
+
+175
+00:10:38,847 --> 00:10:41,827
+Because a crust must be younger
+than the paint beneath it,
+
+176
+00:10:41,847 --> 00:10:46,497
+the crusts' ages give minimum
+ages for the paintings.
+
+177
+00:10:46,939 --> 00:10:51,479
+Some of the paintings turned out to be
+more than sixty-four thousand years old,
+
+178
+00:10:51,499 --> 00:10:55,428
+long before modern humans are
+thought to have arrived in Europe.
+
+179
+00:10:55,819 --> 00:10:59,229
+The team concluded that
+Neanderthals made the paintings.
+
+180
+00:10:59,735 --> 00:11:01,145
+Text two.
+
+181
+00:11:01,535 --> 00:11:04,715
+Some archaeologists remain unconvinced.
+
+182
+00:11:04,735 --> 00:11:09,515
+Water flowing over cave walls can
+wash uranium out of mineral crusts,
+
+183
+00:11:09,535 --> 00:11:15,395
+they note, and when that happens,
+uranium-thorium dating makes a crust appear
+
+184
+00:11:15,415 --> 00:11:17,705
+older than it really is.
+
+185
+00:11:17,775 --> 00:11:21,115
+Until the ages are
+confirmed by other methods,
+
+186
+00:11:21,135 --> 00:11:26,035
+these archaeologists argue, the claim
+that Neanderthals made the paintings
+
+187
+00:11:26,055 --> 00:11:28,465
+should be treated as unproven.
+
+188
+00:11:28,985 --> 00:11:34,885
+Based on the texts, how would the
+archaeologists in Text two most likely respond
+
+189
+00:11:34,905 --> 00:11:37,595
+to the team's conclusion in Text one?
+
+190
+00:11:38,122 --> 00:11:39,532
+Pause and try it.
+
+191
+00:11:48,306 --> 00:11:49,796
+One line each.
+
+192
+00:11:49,826 --> 00:11:53,916
+Text one: the dates show
+Neanderthals made the art.
+
+193
+00:11:54,026 --> 00:11:56,566
+Text two: the dates might be too old,
+
+194
+00:11:56,586 --> 00:11:58,035
+so that's unproven.
+
+195
+00:11:58,066 --> 00:12:03,476
+The answer is A: the conclusion may
+rely on age estimates that are too old.
+
+196
+00:12:04,238 --> 00:12:05,858
+B flips the direction.
+
+197
+00:12:05,878 --> 00:12:09,218
+If uranium washes out,
+the crust looks older,
+
+198
+00:12:09,238 --> 00:12:12,008
+so the paintings could
+be younger, not older.
+
+199
+00:12:12,317 --> 00:12:16,537
+C attacks a step Text two never questions.
+
+200
+00:12:16,557 --> 00:12:20,978
+Text two doubts these dates,
+not the idea of dating crusts.
+
+201
+00:12:20,998 --> 00:12:22,978
+And D is too extreme.
+
+202
+00:12:22,998 --> 00:12:25,128
+Unproven isn't impossible.
+
+203
+00:12:25,648 --> 00:12:26,698
+Last one.
+
+204
+00:12:26,848 --> 00:12:28,018
+The hardest.
+
+205
+00:12:28,407 --> 00:12:34,027
+Strontium from local rocks enters the
+food and water of the people living in an
+
+206
+00:12:34,047 --> 00:12:34,947
+area.
+
+207
+00:12:34,967 --> 00:12:41,027
+So the ratio of strontium isotopes in
+a person's body reflects the geology of
+
+208
+00:12:41,047 --> 00:12:44,418
+the place where that person's
+food and water came from.
+
+209
+00:12:44,876 --> 00:12:48,456
+Tooth enamel forms in childhood
+and does not change afterward,
+
+210
+00:12:48,476 --> 00:12:55,095
+while bone is constantly rebuilt, so the
+ratio in bone reflects roughly the last
+
+211
+00:12:55,115 --> 00:12:58,406
+seven to ten years of a person's life.
+
+212
+00:12:58,926 --> 00:13:05,266
+Archaeologists studying a person buried
+at an ancient site found that the ratio
+
+213
+00:13:05,286 --> 00:13:10,826
+in the person's tooth enamel did not
+match the geology of the area around the
+
+214
+00:13:10,846 --> 00:13:15,506
+site, but the ratio in
+the person's bone did.
+
+215
+00:13:15,526 --> 00:13:20,076
+These results suggest that
+the person most likely blank.
+
+216
+00:13:20,546 --> 00:13:21,406
+Pause and try it.
+
+217
+00:13:21,426 --> 00:13:23,115
+Take a little longer on this one.
+
+218
+00:13:31,903 --> 00:13:34,843
+Turn each clue into a time of life.
+
+219
+00:13:34,863 --> 00:13:38,643
+Teeth show childhood, and
+they don't match the site,
+
+220
+00:13:38,663 --> 00:13:41,042
+so childhood was spent somewhere else.
+
+221
+00:13:41,062 --> 00:13:44,603
+Bone shows roughly the
+last seven to ten years,
+
+222
+00:13:44,623 --> 00:13:46,202
+and it does match.
+
+223
+00:13:46,222 --> 00:13:50,323
+So the person lived near the
+site for years before death.
+
+224
+00:13:50,343 --> 00:13:51,343
+That's A.
+
+225
+00:13:51,748 --> 00:13:53,488
+B reverses the two clues.
+
+226
+00:13:53,508 --> 00:13:57,038
+C is the trap for careful readers.
+
+227
+00:13:57,108 --> 00:14:01,887
+A move only a few months before death
+wouldn't give the bone time to match the
+
+228
+00:14:01,907 --> 00:14:05,488
+site, since bone reflects
+years, not months.
+
+229
+00:14:05,508 --> 00:14:08,678
+And D is ruled out by the bone match.
+
+230
+00:14:09,133 --> 00:14:09,953
+That's ten.
+
+231
+00:14:09,973 --> 00:14:11,543
+Count up your score.
+
+232
+00:14:11,972 --> 00:14:14,233
+The score matters less
+than which ones you missed,
+
+233
+00:14:14,253 --> 00:14:16,103
+so let's sort them by domain.
+
+234
+00:14:16,599 --> 00:14:19,818
+On the real test, the four
+domains are about twenty-eight,
+
+235
+00:14:19,838 --> 00:14:23,929
+twenty-six, twenty-six, and
+twenty percent of the section.
+
+236
+00:14:24,359 --> 00:14:28,779
+This set used three, three,
+two, and two questions,
+
+237
+00:14:28,799 --> 00:14:30,209
+close to that mix.
+
+238
+00:14:30,702 --> 00:14:35,522
+Questions one, five, and nine
+were Craft and Structure:
+
+239
+00:14:35,542 --> 00:14:39,912
+word meaning, structure, and two texts.
+
+240
+00:14:40,302 --> 00:14:44,081
+If you missed those, practice
+predicting a word before you look,
+
+241
+00:14:44,101 --> 00:14:46,992
+and summing up each text in one line.
+
+242
+00:14:47,428 --> 00:14:51,758
+Questions three, seven, and
+ten were Information and Ideas:
+
+243
+00:14:52,028 --> 00:14:55,558
+data, a quotation, and an inference.
+
+244
+00:14:55,868 --> 00:14:59,878
+A miss here usually means the
+answer didn't match the exact claim,
+
+245
+00:14:59,907 --> 00:15:02,358
+or the chain of logic broke somewhere.
+
+246
+00:15:02,797 --> 00:15:06,536
+Questions two and six were
+Standard English Conventions:
+
+247
+00:15:06,556 --> 00:15:10,927
+semicolons in a complex list,
+and finding the main verb.
+
+248
+00:15:11,397 --> 00:15:15,096
+Questions four and eight
+were Expression of Ideas:
+
+249
+00:15:15,116 --> 00:15:17,887
+a transition and a notes question.
+
+250
+00:15:18,342 --> 00:15:19,552
+Notice the pattern.
+
+251
+00:15:20,342 --> 00:15:22,912
+Most wrong answers weren't false.
+
+252
+00:15:23,062 --> 00:15:26,602
+They were too narrow,
+accurate but off the goal,
+
+253
+00:15:26,622 --> 00:15:28,591
+or pointing the wrong way.
+
+254
+00:15:28,782 --> 00:15:33,721
+On hard questions, check that your answer
+does the exact job the question asks
+
+255
+00:15:33,741 --> 00:15:34,741
+for.
+
+256
+00:15:34,884 --> 00:15:38,583
+Every question in this video
+was written for this video,
+
+257
+00:15:38,603 --> 00:15:41,454
+in the style of the real test.
+
+258
+00:15:41,524 --> 00:15:46,503
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+259
+00:15:46,523 --> 00:15:48,814
+skill and difficulty.
+
+260
+00:15:49,332 --> 00:15:51,591
+If you're testing on
+December 5, good luck.
+
+261
+00:15:51,611 --> 00:15:53,672
+If this helped, subscribe.
+
+262
+00:15:53,692 --> 00:15:57,592
+Next up: SAT test day, start to finish,
+
+263
+00:15:57,612 --> 00:16:00,221
+so nothing about the day surprises you.

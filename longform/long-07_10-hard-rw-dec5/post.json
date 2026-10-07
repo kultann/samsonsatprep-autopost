@@ -1,0 +1,35 @@
+{
+  "id": "long-07_10-hard-rw-dec5",
+  "type": "longform",
+  "order": 7,
+  "publish_at": "2026-11-22T16:00:00-06:00",
+  "video": "07_10-hard-rw-dec5.mp4",
+  "video_bytes": 237581727,
+  "title": "10 Hard SAT Reading & Writing Questions to Try Before December 5",
+  "description": "Taking the SAT on December 5? Try these 10 hard SAT-style Reading and Writing questions first. Pause before each answer, keep score, and use the breakdown at the end to see which domain to review.\n\nCovered:\n• Words in context, overall structure, and a two-text (cross-text) question\n• A data question with a graph, evidence from a poem, and the hardest inference\n• Semicolons in a complex list and finding the main verb\n• A transition question and a notes (rhetorical synthesis) question\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. Graph data in Question 3 is illustrative (made up for practice). For official practice, use the free SAT Suite Question Bank.\n\nCHAPTERS\n0:00 Intro\n0:30 Question 1: Words in context\n1:26 Question 2: Semicolons in a list\n2:35 Question 3: Data that proves the claim\n3:47 Question 4: Transition\n4:56 Question 5: Overall structure\n6:26 Question 6: Finding the main verb\n7:27 Question 7: Evidence from a poem\n8:51 Question 8: Notes question\n10:24 Question 9: Two texts\n12:25 Question 10: The hardest inference\n14:08 What your misses mean\n15:34 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATreading",
+  "tags": [
+    "hard SAT reading and writing",
+    "SAT reading practice",
+    "digital SAT reading and writing",
+    "SAT December 2026",
+    "SAT reading questions",
+    "SAT practice questions",
+    "SAT inference questions",
+    "SAT prep",
+    "SAT cross-text"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/07_10-hard-rw-dec5",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt",
+  "window": {
+    "test_date": "2026-12-05",
+    "lead_days": 13,
+    "required": true
+  },
+  "expires_at": "2026-12-04T23:59:00-06:00"
+}

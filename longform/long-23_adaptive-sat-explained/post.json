@@ -1,0 +1,30 @@
+{
+  "id": "long-23_adaptive-sat-explained",
+  "type": "longform",
+  "order": 23,
+  "publish_at": "2026-12-01T16:00:00-06:00",
+  "video": "23_adaptive-sat-explained.mp4",
+  "video_bytes": 98867958,
+  "title": "How the Adaptive Digital SAT Actually Works",
+  "description": "The digital SAT adapts to how you do, and there are a lot of rumors about how. This video sticks to College Board's own explanations: how modules and routing work, how scoring works (and what College Board doesn't publish), what it means for your strategy, and a quick myth-or-fact check.\n\nYou'll learn:\n• Why the SAT adapts by module, not question by question\n• What module 1 and module 2 contain\n• Why both modules count, and why a harder module 2 isn't a reason to panic\n• Pretest questions, guessing, and moving around inside a module\n• A simple test-day plan: careful module 1, calm module 2, no blanks\n\nThis video has no practice questions; any examples shown are original SAT-style questions written for this video, not official College Board questions. Sources: College Board's \"How the SAT Is Structured\", \"How Are Scores Calculated?\", the Digital SAT test specifications, and College Board's \"What Is Digital SAT Adaptive Testing?\"\n\nCHAPTERS\n0:00 Intro\n0:42 The structure\n1:18 How routing works\n2:52 How scoring works\n4:30 What it means for strategy\n6:39 Myth or fact\n8:18 Your test-day plan\n9:09 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATtips",
+  "tags": [
+    "digital SAT adaptive",
+    "SAT module 2",
+    "how the SAT is scored",
+    "adaptive testing",
+    "SAT harder module",
+    "digital SAT explained",
+    "SAT myths",
+    "Bluebook",
+    "SAT prep",
+    "SAT strategy"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/23_adaptive-sat-explained",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

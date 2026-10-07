@@ -1,0 +1,1642 @@
+1
+00:00:00,320 --> 00:00:06,330
+The SAT math section is built from
+a list of exactly nineteen skills.
+
+2
+00:00:06,360 --> 00:00:08,339
+The College Board publishes the list,
+
+3
+00:00:08,359 --> 00:00:10,490
+split into four domains.
+
+4
+00:00:10,520 --> 00:00:13,619
+This video covers all nineteen, in order,
+
+5
+00:00:13,639 --> 00:00:17,290
+with one SAT-style question for each.
+
+6
+00:00:17,743 --> 00:00:20,883
+Pause on every question and
+keep track of the ones you miss.
+
+7
+00:00:20,903 --> 00:00:25,753
+Each miss points to one skill, and
+that list becomes your study plan.
+
+8
+00:00:26,293 --> 00:00:27,953
+One thing to notice first.
+
+9
+00:00:27,973 --> 00:00:31,793
+Algebra and advanced math
+have only eight of the skills,
+
+10
+00:00:31,813 --> 00:00:35,622
+but together they're about
+seventy percent of the questions.
+
+11
+00:00:36,143 --> 00:00:38,313
+Domain one: algebra.
+
+12
+00:00:38,743 --> 00:00:41,243
+About thirty-five percent of the section,
+
+13
+00:00:41,263 --> 00:00:45,313
+and all five skills are
+about linear relationships.
+
+14
+00:00:45,734 --> 00:00:48,633
+Skill one: linear
+equations in one variable.
+
+15
+00:00:48,653 --> 00:00:51,474
+You'll solve them, build
+them from word problems,
+
+16
+00:00:51,494 --> 00:00:53,953
+and decide whether they have one solution,
+
+17
+00:00:53,973 --> 00:00:56,504
+no solution, or infinitely many.
+
+18
+00:00:56,977 --> 00:01:00,796
+In the equation two times the
+quantity three x minus five,
+
+19
+00:01:00,816 --> 00:01:05,907
+plus k, equals six x plus
+four, k is a constant.
+
+20
+00:01:06,017 --> 00:01:09,317
+If the equation has
+infinitely many solutions,
+
+21
+00:01:09,337 --> 00:01:11,187
+what is the value of k?
+
+22
+00:01:11,686 --> 00:01:13,176
+Pause and try it.
+
+23
+00:01:18,947 --> 00:01:24,127
+Distribute: six x minus ten
+plus k equals six x plus four.
+
+24
+00:01:24,147 --> 00:01:26,287
+The x terms already match.
+
+25
+00:01:26,307 --> 00:01:30,527
+For infinitely many solutions,
+the constants have to match too.
+
+26
+00:01:30,547 --> 00:01:34,957
+Negative ten plus k equals
+four, so k is fourteen.
+
+27
+00:01:35,411 --> 00:01:39,351
+Desmos shortcut: graph
+each side as y equals,
+
+28
+00:01:39,371 --> 00:01:41,661
+and add a slider for k.
+
+29
+00:01:41,851 --> 00:01:45,710
+The slider only runs from
+negative ten to ten at first,
+
+30
+00:01:45,730 --> 00:01:48,220
+so change its upper limit to twenty.
+
+31
+00:01:48,331 --> 00:01:52,741
+Then drag until the two lines
+sit exactly on top of each other.
+
+32
+00:01:53,188 --> 00:01:57,007
+Skill two: linear
+equations in two variables.
+
+33
+00:01:57,027 --> 00:02:00,528
+These are usually word problems
+with two unknown amounts.
+
+34
+00:02:00,548 --> 00:02:04,048
+You'll write the equation,
+explain what a number in it means,
+
+35
+00:02:04,068 --> 00:02:06,558
+or find one amount when
+you know the other.
+
+36
+00:02:06,983 --> 00:02:12,203
+A bakery sells muffins for three dollars
+each and loaves of bread for five
+
+37
+00:02:12,223 --> 00:02:13,323
+dollars each.
+
+38
+00:02:13,343 --> 00:02:18,163
+On Saturday, it earned one hundred
+twenty dollars from muffins and bread,
+
+39
+00:02:18,183 --> 00:02:20,643
+and it sold twenty-five muffins.
+
+40
+00:02:20,663 --> 00:02:23,113
+How many loaves of bread did it sell?
+
+41
+00:02:23,582 --> 00:02:25,072
+Pause and try it.
+
+42
+00:02:29,843 --> 00:02:35,023
+The equation is three m plus
+five b equals one hundred twenty.
+
+43
+00:02:35,043 --> 00:02:41,293
+Plug in twenty-five muffins: seventy-five
+plus five b equals one hundred twenty.
+
+44
+00:02:41,322 --> 00:02:46,933
+So five b is forty-five,
+and b is nine loaves.
+
+45
+00:02:47,422 --> 00:02:49,602
+And if the question asks
+what the five means,
+
+46
+00:02:49,622 --> 00:02:51,391
+it's the price per loaf.
+
+47
+00:02:51,502 --> 00:02:55,711
+Coefficients in these equations
+are almost always rates.
+
+48
+00:02:56,196 --> 00:02:58,805
+Skill three: linear functions.
+
+49
+00:02:58,915 --> 00:03:02,016
+You get a table, a graph, or a story,
+
+50
+00:03:02,036 --> 00:03:07,126
+and you find or interpret
+f of x equals m x plus b.
+
+51
+00:03:07,355 --> 00:03:12,206
+The slope is the rate of change,
+and b is the starting value.
+
+52
+00:03:12,664 --> 00:03:15,923
+A plumber charges a fixed
+fee plus an hourly rate.
+
+53
+00:03:15,943 --> 00:03:20,723
+The total charge is one hundred seventy
+dollars for a two-hour job and three
+
+54
+00:03:20,743 --> 00:03:23,524
+hundred thirty-five dollars
+for a five-hour job.
+
+55
+00:03:23,544 --> 00:03:26,004
+Which function gives the total charge,
+
+56
+00:03:26,024 --> 00:03:29,314
+C of h, for an h-hour job?
+
+57
+00:03:30,364 --> 00:03:31,854
+Pause and try it.
+
+58
+00:03:37,625 --> 00:03:41,484
+The charge goes up one hundred
+sixty-five dollars over three more hours,
+
+59
+00:03:41,504 --> 00:03:45,075
+so the rate is fifty-five dollars an hour.
+
+60
+00:03:45,425 --> 00:03:50,084
+The fee is one seventy
+minus two times fifty-five,
+
+61
+00:03:50,104 --> 00:03:51,244
+which is sixty.
+
+62
+00:03:51,264 --> 00:03:53,034
+The answer is C.
+
+63
+00:03:53,508 --> 00:03:57,048
+Desmos shortcut: put the
+two points in a table,
+
+64
+00:03:57,068 --> 00:04:01,797
+then type y one, tilde, m x one plus b.
+
+65
+00:04:02,108 --> 00:04:06,518
+Desmos gives m equals
+fifty-five and b equals sixty.
+
+66
+00:04:07,011 --> 00:04:11,711
+Skill four: systems of two linear
+equations in two variables.
+
+67
+00:04:11,731 --> 00:04:14,990
+You'll solve them, set
+them up from word problems,
+
+68
+00:04:15,010 --> 00:04:18,031
+and sometimes decide if
+there's one solution,
+
+69
+00:04:18,051 --> 00:04:20,820
+no solution, or infinitely many.
+
+70
+00:04:21,278 --> 00:04:24,338
+A school sold one hundred
+fifty tickets to a play.
+
+71
+00:04:24,358 --> 00:04:29,178
+Student tickets cost six dollars,
+and adult tickets cost ten dollars.
+
+72
+00:04:29,198 --> 00:04:33,218
+Total ticket sales were one
+thousand one hundred forty dollars.
+
+73
+00:04:33,238 --> 00:04:35,687
+How many adult tickets were sold?
+
+74
+00:04:36,129 --> 00:04:37,619
+Pause and try it.
+
+75
+00:04:43,389 --> 00:04:49,889
+s plus a equals one fifty, and six
+s plus ten a equals eleven forty.
+
+76
+00:04:49,909 --> 00:04:53,848
+Substitute s equals one fifty minus a.
+
+77
+00:04:53,868 --> 00:04:58,688
+That gives nine hundred plus
+four a equals eleven forty.
+
+78
+00:04:58,708 --> 00:05:02,719
+So four a is two forty, and a is sixty.
+
+79
+00:05:03,156 --> 00:05:07,646
+Desmos shortcut: type both
+equations with x and y,
+
+80
+00:05:07,716 --> 00:05:10,016
+zoom out, and click the intersection:
+
+81
+00:05:10,036 --> 00:05:11,695
+ninety, sixty.
+
+82
+00:05:11,715 --> 00:05:13,526
+Then answer what was asked.
+
+83
+00:05:13,635 --> 00:05:16,126
+Adults are sixty, not ninety.
+
+84
+00:05:16,570 --> 00:05:21,150
+Skill five: linear inequalities
+in one or two variables.
+
+85
+00:05:21,170 --> 00:05:24,230
+At most means less than or equal to.
+
+86
+00:05:24,250 --> 00:05:27,139
+At least means greater than or equal to.
+
+87
+00:05:27,290 --> 00:05:31,740
+You'll also pick points that
+satisfy a system of inequalities.
+
+88
+00:05:32,221 --> 00:05:36,671
+A delivery van can carry at most
+one thousand two hundred pounds.
+
+89
+00:05:36,741 --> 00:05:39,041
+The driver weighs one
+hundred eighty pounds,
+
+90
+00:05:39,061 --> 00:05:41,751
+and each box weighs forty pounds.
+
+91
+00:05:42,141 --> 00:05:46,831
+What is the greatest number of boxes
+the van can carry along with the driver?
+
+92
+00:05:47,292 --> 00:05:48,782
+Pause and try it.
+
+93
+00:05:53,553 --> 00:05:56,772
+One eighty plus forty b
+is at most twelve hundred.
+
+94
+00:05:56,792 --> 00:05:59,773
+So forty b is at most one thousand twenty,
+
+95
+00:05:59,793 --> 00:06:03,453
+and b is at most twenty-five point five.
+
+96
+00:06:03,473 --> 00:06:06,692
+You can't carry half a box, so round down:
+
+97
+00:06:06,712 --> 00:06:07,723
+twenty-five.
+
+98
+00:06:07,872 --> 00:06:09,563
+The answer is A.
+
+99
+00:06:10,032 --> 00:06:12,331
+Twenty-six is the rounding trap.
+
+100
+00:06:12,351 --> 00:06:15,532
+It puts the van at twelve
+hundred twenty pounds.
+
+101
+00:06:15,552 --> 00:06:17,922
+And thirty forgets the driver.
+
+102
+00:06:18,422 --> 00:06:21,071
+Domain two: advanced math.
+
+103
+00:06:21,221 --> 00:06:24,202
+Also about thirty-five
+percent of the section,
+
+104
+00:06:24,222 --> 00:06:25,642
+but only three skills.
+
+105
+00:06:25,662 --> 00:06:28,032
+So each one shows up a lot.
+
+106
+00:06:28,514 --> 00:06:32,123
+Skill six: equivalent expressions.
+
+107
+00:06:32,353 --> 00:06:35,974
+Expanding, factoring, combining fractions,
+
+108
+00:06:35,994 --> 00:06:39,083
+and rewriting exponents and radicals.
+
+109
+00:06:39,354 --> 00:06:44,044
+The usual question is, which
+expression is equivalent to this one?
+
+110
+00:06:44,465 --> 00:06:49,525
+Which expression is equivalent to
+the quantity three x minus two,
+
+111
+00:06:49,545 --> 00:06:53,725
+squared, minus the quantity x plus four,
+
+112
+00:06:53,745 --> 00:06:56,954
+times the quantity x minus four?
+
+113
+00:06:57,377 --> 00:06:58,867
+Pause and try it.
+
+114
+00:07:04,637 --> 00:07:11,137
+Three x minus two, squared, is nine
+x squared minus twelve x plus four.
+
+115
+00:07:11,157 --> 00:07:14,137
+The product is x squared minus sixteen.
+
+116
+00:07:14,157 --> 00:07:18,657
+Subtract all of it, so minus
+sixteen becomes plus sixteen.
+
+117
+00:07:18,677 --> 00:07:22,977
+That's eight x squared
+minus twelve x plus twenty.
+
+118
+00:07:22,997 --> 00:07:24,847
+The answer is B.
+
+119
+00:07:25,328 --> 00:07:28,107
+A forgets to distribute the minus sign.
+
+120
+00:07:28,127 --> 00:07:30,108
+C drops the middle term.
+
+121
+00:07:30,128 --> 00:07:33,547
+In Desmos, graph the
+original and each choice.
+
+122
+00:07:33,567 --> 00:07:36,897
+Only the equivalent one
+lands exactly on top.
+
+123
+00:07:37,326 --> 00:07:43,386
+Skill seven: nonlinear equations in one
+variable and systems of equations in two
+
+124
+00:07:43,406 --> 00:07:44,026
+variables.
+
+125
+00:07:44,046 --> 00:07:47,746
+That means quadratics,
+radicals, rational equations,
+
+126
+00:07:47,766 --> 00:07:52,895
+and absolute values, plus systems
+like a line crossing a parabola.
+
+127
+00:07:53,321 --> 00:07:57,661
+The system is y equals x
+squared minus two x minus three,
+
+128
+00:07:57,681 --> 00:08:00,171
+and y equals x plus seven.
+
+129
+00:08:00,441 --> 00:08:03,581
+If the point a, b is a
+solution to the system,
+
+130
+00:08:03,601 --> 00:08:07,531
+and a is greater than zero,
+what is the value of b?
+
+131
+00:08:07,998 --> 00:08:09,488
+Pause and try it.
+
+132
+00:08:15,258 --> 00:08:18,037
+Set them equal and move everything over:
+
+133
+00:08:18,057 --> 00:08:22,558
+x squared minus three x
+minus ten equals zero.
+
+134
+00:08:22,578 --> 00:08:27,147
+That factors to x minus
+five, times x plus two.
+
+135
+00:08:27,257 --> 00:08:32,758
+a is positive, so a is five,
+and b is five plus seven,
+
+136
+00:08:32,778 --> 00:08:34,028
+which is twelve.
+
+137
+00:08:34,577 --> 00:08:38,597
+Desmos shortcut: graph both
+and click the intersections,
+
+138
+00:08:38,617 --> 00:08:42,027
+negative two, five, and five, twelve.
+
+139
+00:08:42,337 --> 00:08:44,837
+The trap is answering five, which is a,
+
+140
+00:08:44,857 --> 00:08:45,986
+not b.
+
+141
+00:08:46,440 --> 00:08:51,690
+Skill eight: nonlinear functions,
+mostly quadratic and exponential.
+
+142
+00:08:51,800 --> 00:08:55,460
+In a times b to the x,
+a is the starting value,
+
+143
+00:08:55,480 --> 00:08:58,530
+and b is what you multiply by each step.
+
+144
+00:08:58,960 --> 00:09:02,569
+For the function f, f of zero is six,
+
+145
+00:09:02,600 --> 00:09:06,930
+f of one is eighteen,
+f of two is fifty-four,
+
+146
+00:09:07,079 --> 00:09:10,330
+and f of three is one hundred sixty-two.
+
+147
+00:09:10,760 --> 00:09:13,330
+Which equation defines f?
+
+148
+00:09:13,795 --> 00:09:15,285
+Pause and try it.
+
+149
+00:09:20,056 --> 00:09:22,596
+Each output is three times the one before,
+
+150
+00:09:22,616 --> 00:09:25,826
+so it's exponential with base three.
+
+151
+00:09:25,976 --> 00:09:30,586
+At x equals zero, f is six,
+so six is the starting value.
+
+152
+00:09:30,856 --> 00:09:34,275
+f of x equals six times three to the x.
+
+153
+00:09:34,295 --> 00:09:35,826
+The answer is D.
+
+154
+00:09:36,338 --> 00:09:40,588
+A fits the first two values
+only, so always check a third.
+
+155
+00:09:40,738 --> 00:09:44,118
+Desmos shortcut: enter the
+table, then type y one,
+
+156
+00:09:44,138 --> 00:09:48,268
+tilde, a times b to the x one.
+
+157
+00:09:48,497 --> 00:09:52,748
+Desmos finds a equals
+six and b equals three.
+
+158
+00:09:53,177 --> 00:09:57,306
+Domain three: problem-solving
+and data analysis.
+
+159
+00:09:57,577 --> 00:10:00,437
+About fifteen percent of the section,
+
+160
+00:10:00,457 --> 00:10:03,037
+spread across seven skills.
+
+161
+00:10:03,057 --> 00:10:05,906
+So each skill is a small slice.
+
+162
+00:10:06,427 --> 00:10:10,647
+Skill nine: ratios, rates,
+proportional relationships,
+
+163
+00:10:10,667 --> 00:10:11,917
+and units.
+
+164
+00:10:12,147 --> 00:10:15,966
+Expect unit conversions,
+rates, and scale problems.
+
+165
+00:10:15,986 --> 00:10:18,007
+Write the units next to every number,
+
+166
+00:10:18,027 --> 00:10:19,397
+and let them cancel.
+
+167
+00:10:19,868 --> 00:10:24,998
+A car is traveling at a constant
+speed of sixty-six feet per second.
+
+168
+00:10:25,228 --> 00:10:28,237
+What is the car's speed in miles per hour?
+
+169
+00:10:28,388 --> 00:10:31,998
+One mile is five thousand
+two hundred eighty feet.
+
+170
+00:10:32,467 --> 00:10:33,957
+Pause and try it.
+
+171
+00:10:39,727 --> 00:10:43,227
+Multiply by three thousand
+six hundred seconds per hour,
+
+172
+00:10:43,247 --> 00:10:44,977
+and the seconds cancel.
+
+173
+00:10:45,007 --> 00:10:48,987
+Then divide by five thousand two
+hundred eighty feet per mile,
+
+174
+00:10:49,007 --> 00:10:50,346
+and the feet cancel.
+
+175
+00:10:50,366 --> 00:10:53,056
+You get forty-five miles per hour.
+
+176
+00:10:53,482 --> 00:10:55,821
+Skill ten: percentages.
+
+177
+00:10:55,841 --> 00:11:00,332
+Percent of a number, percent
+change, and percent of a percent.
+
+178
+00:11:00,562 --> 00:11:03,621
+The key idea: a percent is a multiplier.
+
+179
+00:11:03,641 --> 00:11:07,211
+One hundred fifty percent
+means times one point five.
+
+180
+00:11:07,710 --> 00:11:11,480
+The number a is one
+hundred fifty percent of b,
+
+181
+00:11:11,509 --> 00:11:14,440
+and b is forty percent of c.
+
+182
+00:11:14,830 --> 00:11:17,880
+The number a is what percent of c?
+
+183
+00:11:18,333 --> 00:11:19,823
+Pause and try it.
+
+184
+00:11:24,594 --> 00:11:25,974
+Multiply the multipliers.
+
+185
+00:11:25,994 --> 00:11:29,094
+One point five times
+point four is point six,
+
+186
+00:11:29,114 --> 00:11:31,764
+so a is sixty percent of c.
+
+187
+00:11:32,074 --> 00:11:34,294
+Or pick c equals one hundred.
+
+188
+00:11:34,314 --> 00:11:39,213
+Then b is forty, and a is one
+hundred fifty percent of forty,
+
+189
+00:11:39,233 --> 00:11:40,483
+which is sixty.
+
+190
+00:11:40,886 --> 00:11:46,066
+Skill eleven: one-variable data,
+distributions and measures of center and
+
+191
+00:11:46,086 --> 00:11:46,866
+spread.
+
+192
+00:11:46,886 --> 00:11:50,226
+Mean, median, range, standard deviation,
+
+193
+00:11:50,246 --> 00:11:52,666
+and plots of one data set.
+
+194
+00:11:52,686 --> 00:11:56,896
+A favorite question: what happens
+when you remove an outlier?
+
+195
+00:11:57,350 --> 00:12:01,089
+Eight students recorded the minutes
+they spent on an assignment:
+
+196
+00:12:01,109 --> 00:12:04,770
+ten, twelve, fourteen, fourteen, fourteen,
+
+197
+00:12:04,790 --> 00:12:07,640
+sixteen, eighteen, and ninety.
+
+198
+00:12:07,870 --> 00:12:11,880
+If the value ninety is removed,
+which statement is true?
+
+199
+00:12:12,300 --> 00:12:13,790
+Pause and try it.
+
+200
+00:12:19,561 --> 00:12:22,501
+Before, the mean is
+twenty-three point five,
+
+201
+00:12:22,521 --> 00:12:24,491
+and the median is fourteen.
+
+202
+00:12:24,921 --> 00:12:28,020
+Without ninety, the
+mean drops to fourteen,
+
+203
+00:12:28,040 --> 00:12:30,130
+and the median is still fourteen.
+
+204
+00:12:30,560 --> 00:12:33,821
+The mean decreases, and
+the median stays the same.
+
+205
+00:12:33,841 --> 00:12:35,531
+The answer is B.
+
+206
+00:12:35,969 --> 00:12:40,029
+An outlier pulls the mean a lot
+and barely moves the median.
+
+207
+00:12:40,049 --> 00:12:44,348
+In Desmos, type L equals
+the list in square brackets,
+
+208
+00:12:44,368 --> 00:12:47,659
+then mean of L and median of L.
+
+209
+00:12:48,092 --> 00:12:53,192
+Skill twelve: two-variable
+data, models and scatterplots.
+
+210
+00:12:53,212 --> 00:12:56,151
+You'll read a line of best
+fit, make predictions,
+
+211
+00:12:56,171 --> 00:12:59,832
+and interpret the slope
+and intercept in context.
+
+212
+00:12:59,852 --> 00:13:03,262
+The line gives predicted
+values, not exact ones.
+
+213
+00:13:03,743 --> 00:13:06,442
+A scatterplot shows the height of a plant,
+
+214
+00:13:06,462 --> 00:13:10,363
+in centimeters, x weeks
+after it was first measured.
+
+215
+00:13:10,383 --> 00:13:15,953
+The line of best fit is y equals
+two point four x plus eighteen.
+
+216
+00:13:15,982 --> 00:13:20,713
+Which is the best interpretation
+of two point four in this context?
+
+217
+00:13:21,165 --> 00:13:22,655
+Pause and try it.
+
+218
+00:13:28,426 --> 00:13:30,246
+Two point four is the slope.
+
+219
+00:13:30,266 --> 00:13:33,566
+It's the change in predicted
+height for each extra week.
+
+220
+00:13:33,586 --> 00:13:37,805
+So the predicted height increases by
+two point four centimeters each week.
+
+221
+00:13:37,825 --> 00:13:39,716
+The answer is C.
+
+222
+00:13:40,150 --> 00:13:45,170
+Choice A describes the intercept, but
+the predicted height at week zero is
+
+223
+00:13:45,190 --> 00:13:47,610
+eighteen, not two point four.
+
+224
+00:13:47,630 --> 00:13:51,760
+And at ten weeks, the model
+predicts forty-two centimeters.
+
+225
+00:13:52,300 --> 00:13:56,510
+Skill thirteen: probability
+and conditional probability.
+
+226
+00:13:56,540 --> 00:13:59,120
+Most of these use a two-way table.
+
+227
+00:13:59,140 --> 00:14:05,230
+Watch for phrases like given that, or if
+a student who plays a sport is chosen.
+
+228
+00:14:05,420 --> 00:14:08,590
+The condition tells you
+which total to divide by.
+
+229
+00:14:09,085 --> 00:14:14,105
+The table shows two hundred students
+by grade and whether they play a sport.
+
+230
+00:14:14,125 --> 00:14:18,585
+In grade ten, forty-eight
+play and fifty-two don't.
+
+231
+00:14:18,605 --> 00:14:22,855
+In grade eleven, thirty-six
+play and sixty-four don't.
+
+232
+00:14:24,084 --> 00:14:27,775
+If a student who plays a
+sport is selected at random,
+
+233
+00:14:27,885 --> 00:14:31,575
+what is the probability that
+the student is in grade eleven?
+
+234
+00:14:32,011 --> 00:14:33,501
+Pause and try it.
+
+235
+00:14:40,272 --> 00:14:45,372
+The condition is plays a sport, so
+the total is everyone who plays:
+
+236
+00:14:45,392 --> 00:14:48,082
+forty-eight plus
+thirty-six, or eighty-four.
+
+237
+00:14:48,271 --> 00:14:50,802
+Thirty-six of them are in grade eleven.
+
+238
+00:14:50,872 --> 00:14:54,292
+Thirty-six over eighty-four
+is three sevenths.
+
+239
+00:14:54,312 --> 00:14:56,042
+The answer is D.
+
+240
+00:14:56,503 --> 00:15:00,443
+Nine fiftieths divides by
+all two hundred students.
+
+241
+00:15:00,463 --> 00:15:03,793
+Nine twenty-fifths
+divides by grade eleven.
+
+242
+00:15:03,863 --> 00:15:06,633
+The condition decides the denominator.
+
+243
+00:15:07,057 --> 00:15:12,147
+Skill fourteen: inference from sample
+statistics and margin of error.
+
+244
+00:15:12,377 --> 00:15:16,436
+A random sample estimates
+something about a whole population.
+
+245
+00:15:16,456 --> 00:15:21,466
+The margin of error turns that estimate
+into a range of plausible values.
+
+246
+00:15:21,616 --> 00:15:24,987
+Larger samples tend to have
+smaller margins of error.
+
+247
+00:15:25,409 --> 00:15:30,669
+A random sample of four hundred voters
+in a city found that fifty-four percent
+
+248
+00:15:30,689 --> 00:15:33,019
+support building a new park.
+
+249
+00:15:33,209 --> 00:15:37,099
+The margin of error for this
+estimate is three percentage points.
+
+250
+00:15:37,449 --> 00:15:41,499
+Which conclusion is best
+supported by these results?
+
+251
+00:15:41,991 --> 00:15:43,481
+Pause and try it.
+
+252
+00:15:49,252 --> 00:15:53,872
+Fifty-four, plus or minus three, gives
+fifty-one to fifty-seven percent.
+
+253
+00:15:53,892 --> 00:15:57,152
+That's a plausible range
+for all voters in the city,
+
+254
+00:15:57,172 --> 00:15:58,501
+not a guarantee.
+
+255
+00:15:58,571 --> 00:16:00,262
+The answer is A.
+
+256
+00:16:00,909 --> 00:16:04,608
+B and C both claim exactly
+fifty-four percent,
+
+257
+00:16:04,628 --> 00:16:06,929
+but a sample only gives an estimate.
+
+258
+00:16:06,949 --> 00:16:09,679
+And D falls outside the range.
+
+259
+00:16:10,149 --> 00:16:14,048
+Skill fifteen: evaluating
+statistical claims,
+
+260
+00:16:14,068 --> 00:16:16,999
+from observational
+studies and experiments.
+
+261
+00:16:17,109 --> 00:16:18,398
+Two rules.
+
+262
+00:16:18,628 --> 00:16:23,249
+Random assignment to groups lets
+you conclude cause and effect.
+
+263
+00:16:23,269 --> 00:16:27,959
+Random selection from a population
+lets you generalize to that population.
+
+264
+00:16:28,499 --> 00:16:33,679
+A researcher recruited two hundred
+volunteers from one university and randomly
+
+265
+00:16:33,699 --> 00:16:39,029
+assigned each to either use a
+flashcard app daily or not use it.
+
+266
+00:16:39,379 --> 00:16:43,999
+After four weeks, the app group scored
+significantly higher on a vocabulary
+
+267
+00:16:44,019 --> 00:16:45,019
+test.
+
+268
+00:16:45,139 --> 00:16:47,789
+Which conclusion is most appropriate?
+
+269
+00:16:48,270 --> 00:16:49,760
+Pause and try it.
+
+270
+00:16:56,531 --> 00:17:00,911
+Randomly assigned, so a cause
+and effect conclusion is fine.
+
+271
+00:17:00,931 --> 00:17:04,630
+But the volunteers weren't randomly
+selected from all students.
+
+272
+00:17:04,650 --> 00:17:09,231
+So the conclusion only reaches
+students similar to the volunteers.
+
+273
+00:17:09,251 --> 00:17:10,860
+The answer is C.
+
+274
+00:17:11,406 --> 00:17:14,545
+B stretches it to every
+student in the country.
+
+275
+00:17:14,565 --> 00:17:19,336
+A says the study can't show cause,
+but random assignment allows it.
+
+276
+00:17:19,365 --> 00:17:22,696
+And D claims something
+the study never tested.
+
+277
+00:17:23,226 --> 00:17:26,596
+Domain four: geometry and trigonometry.
+
+278
+00:17:26,985 --> 00:17:29,926
+About fifteen percent of the section,
+
+279
+00:17:29,946 --> 00:17:34,555
+four skills, and this is where
+the reference sheet helps most.
+
+280
+00:17:34,986 --> 00:17:38,086
+Skill sixteen: area and volume.
+
+281
+00:17:38,106 --> 00:17:40,566
+Composite shapes, missing dimensions,
+
+282
+00:17:40,586 --> 00:17:41,796
+and scaling.
+
+283
+00:17:41,986 --> 00:17:47,205
+If every length is multiplied by
+k, area is multiplied by k squared,
+
+284
+00:17:47,225 --> 00:17:49,395
+and volume by k cubed.
+
+285
+00:17:49,910 --> 00:17:55,200
+A cylinder has a radius of three centimeters
+and a height of eight centimeters.
+
+286
+00:17:55,230 --> 00:17:59,730
+A cone has the same radius and
+the same volume as the cylinder.
+
+287
+00:17:59,750 --> 00:18:02,799
+What is the height of
+the cone, in centimeters?
+
+288
+00:18:03,249 --> 00:18:04,739
+Pause and try it.
+
+289
+00:18:10,510 --> 00:18:12,809
+Both formulas are on the reference sheet.
+
+290
+00:18:12,829 --> 00:18:18,370
+The cylinder is pi r squared
+h: pi times nine times eight,
+
+291
+00:18:18,390 --> 00:18:20,200
+or seventy-two pi.
+
+292
+00:18:20,350 --> 00:18:23,410
+The cone is one third pi r squared h,
+
+293
+00:18:23,430 --> 00:18:25,170
+which is three pi h.
+
+294
+00:18:25,190 --> 00:18:29,240
+Three pi h equals seventy-two
+pi, so h is twenty-four.
+
+295
+00:18:30,118 --> 00:18:35,008
+Skill seventeen: lines,
+angles, and triangles.
+
+296
+00:18:35,158 --> 00:18:39,058
+Parallel lines cut by a
+transversal, angle sums,
+
+297
+00:18:39,078 --> 00:18:42,607
+isosceles triangles,
+and similar triangles.
+
+298
+00:18:42,638 --> 00:18:46,888
+Similar triangles have equal
+angles and proportional sides.
+
+299
+00:18:47,323 --> 00:18:51,813
+In triangle A B C, point D is on side A B,
+
+300
+00:18:51,843 --> 00:18:58,052
+and point E is on side A C, so
+that D E is parallel to B C.
+
+301
+00:18:58,763 --> 00:19:04,623
+If A D is four, D B is
+six, and D E is five,
+
+302
+00:19:04,643 --> 00:19:06,893
+what is the length of B C?
+
+303
+00:19:07,358 --> 00:19:08,848
+Pause and try it.
+
+304
+00:19:15,618 --> 00:19:22,078
+Because D E is parallel to B C, the small
+triangle A D E is similar to the big
+
+305
+00:19:22,098 --> 00:19:24,347
+triangle A B C.
+
+306
+00:19:24,498 --> 00:19:28,157
+The big triangle's side
+A B is four plus six,
+
+307
+00:19:28,177 --> 00:19:29,438
+which is ten.
+
+308
+00:19:29,458 --> 00:19:33,358
+So four over ten equals five over B C,
+
+309
+00:19:33,378 --> 00:19:35,988
+and B C is twelve point five.
+
+310
+00:19:36,518 --> 00:19:40,498
+The trap is using D B, six,
+instead of the whole side,
+
+311
+00:19:40,518 --> 00:19:41,178
+A B.
+
+312
+00:19:41,198 --> 00:19:42,898
+That gives seven point five.
+
+313
+00:19:42,918 --> 00:19:46,208
+Compare the small triangle
+to the whole big triangle.
+
+314
+00:19:46,636 --> 00:19:50,375
+Skill eighteen: right
+triangles and trigonometry.
+
+315
+00:19:50,395 --> 00:19:53,136
+The Pythagorean theorem,
+special right triangles,
+
+316
+00:19:53,156 --> 00:19:57,406
+soh-cah-toa, complementary
+angles, and sometimes radians.
+
+317
+00:19:57,918 --> 00:20:02,528
+In a right triangle, one of the
+acute angles measures thirty degrees.
+
+318
+00:20:02,718 --> 00:20:06,888
+The side opposite the sixty-degree
+angle has a length of nine.
+
+319
+00:20:07,118 --> 00:20:09,288
+What is the length of the hypotenuse?
+
+320
+00:20:09,780 --> 00:20:11,270
+Pause and try it.
+
+321
+00:20:17,041 --> 00:20:20,141
+The reference sheet gives the sides: x,
+
+322
+00:20:20,161 --> 00:20:23,011
+x root three, and two x.
+
+323
+00:20:23,281 --> 00:20:26,461
+The side opposite sixty is x root three,
+
+324
+00:20:26,481 --> 00:20:30,941
+so x root three is nine,
+and x is three root three.
+
+325
+00:20:30,961 --> 00:20:34,541
+The hypotenuse is two
+x, or six root three.
+
+326
+00:20:34,561 --> 00:20:36,411
+The answer is B.
+
+327
+00:20:36,859 --> 00:20:40,388
+Eighteen treats nine as the short side.
+
+328
+00:20:40,459 --> 00:20:46,759
+Desmos check: in degree mode, nine divided
+by sine of sixty is about ten point
+
+329
+00:20:46,779 --> 00:20:50,029
+three nine, and so is six root three.
+
+330
+00:20:50,458 --> 00:20:54,948
+Skill nineteen: circles.
+
+331
+00:20:55,378 --> 00:21:01,158
+Circle equations, arcs and sectors,
+central and inscribed angles,
+
+332
+00:21:01,178 --> 00:21:03,428
+radians, and tangent lines.
+
+333
+00:21:03,857 --> 00:21:10,198
+The tangent fact to know: a tangent line
+is perpendicular to the radius at the
+
+334
+00:21:10,218 --> 00:21:11,868
+point where it touches.
+
+335
+00:21:12,315 --> 00:21:14,735
+Point O is the center of a circle.
+
+336
+00:21:14,755 --> 00:21:19,135
+Line L is tangent to
+the circle at point P,
+
+337
+00:21:19,155 --> 00:21:21,964
+and point Q lies on line L.
+
+338
+00:21:22,595 --> 00:21:28,725
+If O P is eight and P Q is
+fifteen, what is the length of O Q?
+
+339
+00:21:29,203 --> 00:21:30,693
+Pause and try it.
+
+340
+00:21:36,463 --> 00:21:39,762
+The radius meets the tangent
+line at a right angle,
+
+341
+00:21:39,782 --> 00:21:43,483
+so triangle O P Q has
+its right angle at P.
+
+342
+00:21:43,503 --> 00:21:47,643
+Eight squared plus fifteen squared
+is two hundred eighty-nine,
+
+343
+00:21:47,663 --> 00:21:49,993
+and the square root is seventeen.
+
+344
+00:21:50,450 --> 00:21:53,709
+Whenever a circle question
+gives you a tangent line,
+
+345
+00:21:53,729 --> 00:21:56,860
+draw the radius to the point of tangency.
+
+346
+00:21:56,970 --> 00:21:59,420
+You'll usually get a right triangle.
+
+347
+00:21:59,839 --> 00:22:00,899
+That's all nineteen.
+
+348
+00:22:00,919 --> 00:22:02,928
+Here's how to turn it into a plan.
+
+349
+00:22:03,118 --> 00:22:06,019
+Match every question
+you missed to its skill.
+
+350
+00:22:06,039 --> 00:22:10,099
+Then go to the College Board's free
+Question Bank and filter by that exact
+
+351
+00:22:10,119 --> 00:22:11,119
+skill.
+
+352
+00:22:11,368 --> 00:22:13,508
+Start with algebra and advanced math,
+
+353
+00:22:13,528 --> 00:22:16,188
+since they're about seventy
+percent of the questions.
+
+354
+00:22:16,208 --> 00:22:20,388
+And use Desmos where it's
+fastest: equations and systems,
+
+355
+00:22:20,408 --> 00:22:23,308
+sliders, regressions,
+equivalent expressions,
+
+356
+00:22:23,328 --> 00:22:24,617
+and lists.
+
+357
+00:22:25,168 --> 00:22:29,308
+Here are all nineteen on
+one screen, by domain.
+
+358
+00:22:29,328 --> 00:22:31,578
+Pause here if you want a screenshot.
+
+359
+00:22:32,018 --> 00:22:36,558
+Every question in this video
+was written for this video,
+
+360
+00:22:36,578 --> 00:22:39,118
+in the style of the real test.
+
+361
+00:22:39,138 --> 00:22:41,388
+If this helped, subscribe.
+
+362
+00:22:41,417 --> 00:22:44,918
+The next video goes through
+every SAT trap answer,
+
+363
+00:22:44,938 --> 00:22:46,868
+and how to spot each one.
+
+364
+00:22:46,978 --> 00:22:47,978
+Good luck.

@@ -1,0 +1,29 @@
+{
+  "id": "long-13_linear-functions-word-problems",
+  "type": "longform",
+  "order": 13,
+  "publish_at": "2026-11-03T16:00:00-06:00",
+  "video": "13_linear-functions-word-problems.mp4",
+  "video_bytes": 167926427,
+  "title": "SAT Linear Functions & Word Problems",
+  "description": "Linear functions in context are one of the most common setups on SAT Math. This lesson shows how to read slope and intercept in any word problem, build equations from words and tables, and handle inequalities, with six SAT-style practice questions.\n\nYou'll learn:\n• Slope as a rate and the y-intercept as a starting value\n• How to answer \"What is the best interpretation of…?\" questions\n• How to build a linear equation from a table or a description\n• Linear inequalities in context (\"at most\", \"at least\") and rounding the right way\n• Rates restated in different units (the hardest version)\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Algebra → Linear functions).\n\nCHAPTERS\n0:00 Intro\n0:46 Slope and intercept in context\n1:50 How the SAT tests it\n2:25 Example 1: What the slope means\n3:31 Example 2: What the intercept means\n4:28 Example 3: Build it from a table\n6:21 Example 4: Build it from words\n7:40 Inequalities in context\n9:25 Harder example: Same rate, new units\n11:14 Test-day method\n12:03 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT linear functions",
+    "SAT word problems",
+    "interpret slope SAT",
+    "slope and y-intercept",
+    "SAT math",
+    "digital SAT math",
+    "linear inequalities SAT",
+    "Desmos regression",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/13_linear-functions-word-problems",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}
