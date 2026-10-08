@@ -21,7 +21,7 @@ from pathlib import Path
 
 import requests
 
-from . import config, instagram, longform, tiktok, youtube
+from . import config, instagram, longform, related, tiktok, youtube, ytpace
 
 IG_MAX_HASHTAGS = 5
 AUTO_TYPES = {"carousel", "image", "short"}  # reels/stories stay manual (trending audio)
@@ -184,7 +184,10 @@ def tt_description(p):
 def yt_fields(p):
     yt = p.get("youtube") or {}
     tags = yt.get("hashtags", [])
-    desc = f"{yt.get('description', '')}\n\n{' '.join(tags)}".strip()
+    body = yt.get("description", "")
+    if p.get("_related"):  # the matching long video, already public (set in run())
+        body = f"{body}\n\n{related.description_line(p['_related'])}".strip()
+    desc = f"{body}\n\n{' '.join(tags)}".strip()
     keywords = yt.get("tags") or [t.lstrip("#") for t in tags]
     return yt["title"], desc, keywords
 
@@ -215,7 +218,7 @@ def cooldown_rules():
     return [
         ("instagram", "API access blocked", config.IG_BLOCK_COOLDOWN_HOURS),
         ("tiktok", "app_version_check_failed", config.TIKTOK_APP_COOLDOWN_HOURS),
-    ]
+    ] + [("youtube", needle, hours) for needle, hours in ytpace.rules()]
 
 
 def load_cooldowns():
@@ -384,6 +387,13 @@ def run(now=None):
                 print(f"LATER {p['id']} -> instagram: Instagram posts (feed + Reels) are spaced "
                       f"{config.IG_FEED_MIN_GAP_MINUTES:g} min apart")
                 continue
+            if platform == "youtube":  # Shorts and long videos share one pace (autopost/ytpace.py)
+                why = ytpace.blocked(state, now)
+                if why:
+                    print(f"LATER {p['id']} -> youtube: {why}")
+                    continue
+            if platform == "youtube" and p["type"] == "short":
+                p["_related"] = related.pick(p["id"], state, now)
             try:
                 media_id = post_one(p, platform, tok)
                 if media_id is None:
@@ -394,6 +404,9 @@ def run(now=None):
                     "id": media_id,
                     "at": posted_at.isoformat(timespec="seconds"),
                 }
+                if platform == "youtube" and p.get("_related"):
+                    # Studio-only "Related video" link: tools/related_links.py lists what's left to set
+                    state[p["id"]][platform]["related"] = p["_related"]["long"]
                 cool.pop(platform, None)  # it works again
                 print(f"POSTED {p['id']} -> {platform} ({media_id})")
                 if platform == "instagram":
@@ -419,10 +432,10 @@ def run(now=None):
             shorts_posted += 1
         if not config.DRY_RUN:
             save_state(state)
+    # long-form YouTube videos (longform/<id>/), off until the repo variable YT_LONGFORM=1
+    failures += longform.run(now, state, tok, lambda s: None if config.DRY_RUN else save_state(s), cool=cool)
     if not config.DRY_RUN and json.dumps(cool, sort_keys=True) != cool_before:
         save_cooldowns(cool)
-    # long-form YouTube videos (longform/<id>/), off until the repo variable YT_LONGFORM=1
-    failures += longform.run(now, state, tok, lambda s: None if config.DRY_RUN else save_state(s))
     prune_videos(posts, state, now)
     return 1 if failures else 0
 

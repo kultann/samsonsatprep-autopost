@@ -50,6 +50,9 @@ jobs:
           LONGFORM_UPLOAD_LEAD_HOURS: ${{ vars.LONGFORM_UPLOAD_LEAD_HOURS }}
           LONGFORM_MIN_GAP_HOURS: ${{ vars.LONGFORM_MIN_GAP_HOURS }}
           LONGFORM_VIDEO_BASE: ${{ vars.LONGFORM_VIDEO_BASE }}
+          YT_MIN_GAP_MINUTES: ${{ vars.YT_MIN_GAP_MINUTES }}
+          YT_MAX_PER_DAY: ${{ vars.YT_MAX_PER_DAY }}
+          YT_COOLDOWN_HOURS: ${{ vars.YT_COOLDOWN_HOURS }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
           NEW_SECRETS_FILE: ${{ runner.temp }}/new_secrets.env
         run: python -m autopost.runner

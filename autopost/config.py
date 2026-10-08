@@ -74,6 +74,8 @@ STATE_FILE = os.environ.get("STATE_FILE", "state/posted.json")
 # first video to check the whole pipeline (delete it in Studio afterwards), "1" = on.
 YT_LONGFORM = (os.environ.get("YT_LONGFORM", "") or "0").strip().lower()
 LONGFORM_DIR = os.environ.get("LONGFORM_DIR", "longform")
+# Each YouTube Short is matched to a long-form video (best match first) by script id; see autopost/related.py.
+RELATED_MAP = os.environ.get("RELATED_MAP", "") or os.path.join(LONGFORM_DIR, "related_map.json")
 # Upload this many hours before publish_at as a scheduled video (private + publishAt): YouTube finishes HD
 # processing, and there's time to add the Test & Compare B thumbnail in Studio before it goes live.
 LONGFORM_UPLOAD_LEAD_HOURS = float(os.environ.get("LONGFORM_UPLOAD_LEAD_HOURS", "") or 24)
@@ -89,3 +91,8 @@ LONGFORM_VIDEO_BASE = (os.environ.get("LONGFORM_VIDEO_BASE", "") or
 # Also upload each video's .srt captions. Needs the youtube.force-ssl scope, which the current login
 # (tools/youtube_auth.py) doesn't have, so it's off; without it YouTube makes automatic captions.
 YT_CAPTIONS = (os.environ.get("YT_CAPTIONS", "") or "0") == "1"
+
+# YouTube pacing (autopost/ytpace.py), for Shorts and long-form alike, so uploads never come in a burst.
+YT_MIN_GAP_MINUTES = float(os.environ.get("YT_MIN_GAP_MINUTES", "") or 45)
+YT_MAX_PER_DAY = int(os.environ.get("YT_MAX_PER_DAY", "") or 10)
+YT_COOLDOWN_HOURS = float(os.environ.get("YT_COOLDOWN_HOURS", "") or 12)

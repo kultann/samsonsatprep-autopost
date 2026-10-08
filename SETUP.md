@@ -107,6 +107,11 @@ Shorts use the same Instagram and TikTok logins as your carousels. Instagram pul
 
 **Public uploads:** Google locks videos uploaded by *unverified* API projects to **private**. Until the audit passes, auto-posted Shorts land as private videos. Until then, leave `youtube` out of each short's `platforms` and upload Shorts in YouTube Studio instead (Studio has its own free scheduler).
 
+**Linking Shorts to long videos.** Each YouTube Short is matched to the long video that fits it best (`longform/related_map.json`; rebuild with `python3 tools/build_related_map.py` after the shorts bank or the long-video list changes). When the bot uploads a Short, it names the best match that is already public in the description ("Full lesson: …"). YouTube doesn't make links in Shorts descriptions clickable, and its API can't set a Short's clickable **Related video**, so that one step is done in YouTube Studio:
+- `python3 tools/related_links.py` lists each Short with its Studio link and the long video to pick.
+- In Studio: Content → Shorts → open the Short → **Related video** → pick it → Save. Then `python3 tools/related_links.py --done-all` and push.
+- Needs advanced features: Studio → Settings → Channel → Feature eligibility (verify with ID or a video). The long video must be public.
+
 ## 6b. Shorts media repo (10 min, needed for the 1000 shorts)
 
 1000 shorts are ~6–10 GB of video, and a GitHub Pages site maxes out at 1 GB (this repo's `posts/` is already ~550 MB). So the shorts live in a second public repo whose only job is serving videos. Its own daily workflow deletes each video 48 h after it's live everywhere.
@@ -150,6 +155,7 @@ The bot uploads each long video from `longform/<id>/` (post.json + thumbnail + c
 - **Uploaded one by hand?** Add `"manual": true` to its `longform/<id>/post.json` so the bot skips it.
 - **New videos later:** render into `~/Desktop/SAT/youtube/<NN_slug>/`, run `python3 tools/make_longform.py --only NN`, attach `final/<NN_slug>.mp4` to the `longform` release (Releases → Edit), then `python3 tools/schedule_longform.py --start <date>`.
 - **Captions:** off by default (YouTube makes automatic ones). Uploading the `.srt` files needs the `youtube.force-ssl` scope: add it to `SCOPES` in `tools/youtube_auth.py` and to the Google Auth Platform data access list, log in again, update `YT_REFRESH_TOKEN`, then set the variable `YT_CAPTIONS` = `1`.
+- **YouTube pacing (Shorts + long videos together):** at least 45 minutes between any two YouTube uploads (`YT_MIN_GAP_MINUTES`), at most 10 in any 24 hours (`YT_MAX_PER_DAY`), and a `quotaExceeded` / `uploadLimitExceeded` error pauses YouTube for 12 hours (`YT_COOLDOWN_HOURS`; `rateLimitExceeded` pauses 1 hour). Held-back uploads just go out on a later run (log: `LATER`).
 - The results go in `state/posted.json` under each `long-...` id (`youtube`: video id, upload time, publish time).
 
 ## Day to day

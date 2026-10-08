@@ -54,6 +54,7 @@ class Fake:
         self.download = VIDEO
         self.download_status = 200
         self.n = 0
+        self.quota = False
 
     def post(self, url, data=None, json=None, headers=None, timeout=None, params=None):
         self.calls.append(("POST", url, json if json is not None else data, headers, params))
@@ -64,6 +65,8 @@ class Fake:
         if "/captions" in url:
             return Resp({"id": "CAP1"})
         if "upload/youtube/v3/videos" in url:
+            if self.quota:
+                return Resp({"error": {"errors": [{"reason": "quotaExceeded"}]}}, status=403)
             self.n += 1
             self.received = 0
             return Resp({}, headers={"Location": f"https://upload.youtube/session{self.n}"})
@@ -73,6 +76,8 @@ class Fake:
 
     def put(self, url, data=None, headers=None, timeout=None):
         self.calls.append(("PUT", url, len(data), headers, None))
+        if "Content-Range" not in headers:  # a Short: one single PUT
+            return Resp({"id": "SHORTVID", "status": {"privacyStatus": "public"}})
         total = int(headers["Content-Range"].split("/")[1])
         if headers["Content-Range"].startswith("bytes */"):  # resume query
             return Resp({}, status=308, headers={"Range": f"bytes=0-{self.received - 1}"} if self.received else {})
@@ -211,7 +216,9 @@ class LongformTest(unittest.TestCase):
         self.reload()
         self.runner.run(now=self.at("2026-10-11T10:00:00-05:00"))
         self.assertEqual(len(self.uploads()), 1)
-        self.runner.run(now=self.at("2026-10-11T10:15:00-05:00"))
+        self.runner.run(now=self.at("2026-10-11T10:15:00-05:00"))  # YouTube pacing: 45 min apart
+        self.assertEqual(len(self.uploads()), 1)
+        self.runner.run(now=self.at("2026-10-11T11:00:00-05:00"))
         self.assertEqual(len(self.uploads()), 2)
 
     def test_expired_date_specific_video_is_held(self):
@@ -303,6 +310,51 @@ class LongformTest(unittest.TestCase):
         fit = self.lf.tags_fit(tags)
         self.assertLessEqual(sum(len(t) + 2 for t in fit) + len(fit) - 1, 500)
         self.assertEqual(self.lf.tags_fit(["a<b", " ", "c,d"]), ["ab", "c d"])
+
+    # ------------------------------------------------------------ pacing (ytpace)
+    def test_long_video_waits_45_min_after_a_short(self):
+        st = {"some-short": {"youtube": {"id": "S1", "at": "2026-10-12T08:50:00-05:00"}}}
+        Path(os.environ["STATE_FILE"]).write_text(json.dumps(st))
+        self.runner.run(now=self.at("2026-10-12T09:00:00-05:00"))  # 10 min after the short
+        self.assertEqual(self.uploads(), [])
+        self.runner.run(now=self.at("2026-10-12T09:40:00-05:00"))  # 50 min after
+        self.assertEqual(len(self.uploads()), 1)
+
+    def test_daily_cap(self):
+        base = self.at("2026-10-12T09:00:00-05:00")
+        st = {f"s{i}": {"youtube": {"id": f"S{i}", "at": (base - timedelta(hours=1 + 2 * i)).isoformat()}}
+              for i in range(10)}  # 10 uploads in the last 24 h
+        Path(os.environ["STATE_FILE"]).write_text(json.dumps(st))
+        self.runner.run(now=base)
+        self.assertEqual(self.uploads(), [])
+
+    def test_quota_error_pauses_youtube(self):
+        self.fake.quota = True
+        now = self.at("2026-10-12T09:00:00-05:00")
+        self.assertEqual(self.runner.run(now=now), 1)  # first failure turns the run red
+        cool = json.loads(Path(os.environ["COOLDOWN_FILE"]).read_text())
+        self.assertEqual(cool["youtube"]["reason"], "quotaExceeded")
+        self.fake.quota = False
+        n = len(self.fake.calls)
+        self.assertEqual(self.runner.run(now=now + timedelta(hours=2)), 0)  # still paused: no attempt
+        self.assertFalse(any("upload/youtube" in c[1] for c in self.fake.calls[n:]))
+        self.runner.run(now=now + timedelta(hours=13))  # pause over
+        self.assertEqual(self.state()["long-01"]["youtube"]["id"], "VID1")
+
+    def test_shorts_respect_youtube_gap(self):
+        from test_shorts import SHORT, Fake as ShortFake  # noqa: F401
+        st = {"long-x": {"youtube": {"id": "L1", "at": "2026-10-13T16:50:00-05:00"}}}
+        Path(os.environ["STATE_FILE"]).write_text(json.dumps(st))
+        d = Path("posts") / SHORT["id"]
+        d.mkdir(parents=True)
+        (d / "post.json").write_text(json.dumps(dict(SHORT, platforms=["youtube"])))
+        (d / "video.mp4").write_bytes(b"\x00" * 10)
+        (d / "cover.jpg").write_bytes(b"\xff\xd8\xff\xd9")
+        Path("longform/long-01/post.json").unlink()
+        self.runner.run(now=self.at("2026-10-13T17:07:00-05:00"))  # 17 min after a long upload
+        self.assertNotIn(SHORT["id"], self.state())
+        self.runner.run(now=self.at("2026-10-13T17:37:00-05:00"))  # 47 min after
+        self.assertEqual(self.state()[SHORT["id"]]["youtube"]["id"], "SHORTVID")
 
 
 if __name__ == "__main__":

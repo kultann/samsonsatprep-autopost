@@ -32,7 +32,7 @@ from pathlib import Path
 
 import requests
 
-from . import config, youtube
+from . import config, youtube, ytpace
 
 TITLE_MAX, DESC_MAX, TAGS_MAX = 100, 5000, 500
 THUMB_MAX = 2 * 1024 * 1024  # YouTube's custom thumbnail limit
@@ -236,7 +236,7 @@ def upload_one(p, when, now, tok, title=None, test=False):
     return rec
 
 
-def run_test(posts, now, state, tok, save):
+def run_test(posts, now, state, tok, save, cool=None):
     if TEST_KEY in state:
         print(f"LONGFORM test already uploaded (video {state[TEST_KEY].get('id')}). Delete it in Studio and set "
               "YT_LONGFORM back to 0 (or 1 once the YouTube API audit has passed).")
@@ -246,6 +246,10 @@ def run_test(posts, now, state, tok, save):
         print("LONGFORM test: no valid long-form post to test with")
         return 1
     p = sorted(ok, key=lambda x: (x.get("order", 0), parse(x["publish_at"])))[0]
+    why = ytpace.blocked(state, now, cool)
+    if why:
+        print(f"LATER longform test: {why}")
+        return 0
     try:
         rec = upload_one(p, now, now, tok, title="[TEST] " + p["title"], test=True)
     except Exception as e:
@@ -261,8 +265,10 @@ def run_test(posts, now, state, tok, save):
     return 0
 
 
-def run(now, state, tok, save):
-    """Upload what's due. Returns the number of failures (0 = run stays green)."""
+def run(now, state, tok, save, cool=None):
+    """Upload what's due. Returns the number of failures (0 = run stays green).
+    cool = the runner's platform pauses (state/cooldown.json); YouTube pacing is shared with Shorts."""
+    cool = {} if cool is None else cool
     posts = load()
     if not posts:
         return 0
@@ -274,7 +280,7 @@ def run(now, state, tok, save):
                   "once the YouTube API audit has passed.")
         return 0
     if mode == "test":
-        return run_test(posts, now, state, tok, save)
+        return run_test(posts, now, state, tok, save, cool)
     if mode not in ("1", "on", "true", "yes"):
         print(f"WARN YT_LONGFORM={mode!r} isn't 0, test or 1; doing nothing")
         return 0
@@ -315,11 +321,16 @@ def run(now, state, tok, save):
         if done_now >= config.LONGFORM_MAX_PER_RUN:
             print(f"LATER {p['id']}: max {config.LONGFORM_MAX_PER_RUN} long video(s) per run")
             break
+        why = ytpace.blocked(state, now, cool)
+        if why:
+            print(f"LATER {p['id']} -> youtube (long-form): {why}")
+            break
         try:
             rec = upload_one(p, when, now, tok)
         except Exception as e:
             print(f"FAILED {p['id']} -> youtube (long-form): {e}")
-            failures += 1
+            if ytpace.pause_for(e, cool, now) != "repeat":
+                failures += 1  # a repeated "slow down" doesn't turn every run red
             break  # keep the order: try again next run
         state.setdefault(p["id"], {})["youtube"] = rec
         save(state)  # saved before anything else can fail: never upload twice
