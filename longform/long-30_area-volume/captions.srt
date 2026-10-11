@@ -1,0 +1,989 @@
+1
+00:00:00,182 --> 00:00:04,270
+Area and volume questions look like
+they need a long list of formulas.
+
+2
+00:00:04,290 --> 00:00:05,127
+They don't.
+
+3
+00:00:05,147 --> 00:00:07,804
+Almost every formula you need
+is on the reference sheet,
+
+4
+00:00:07,824 --> 00:00:10,340
+and you can open it any
+time during the test.
+
+5
+00:00:10,360 --> 00:00:13,432
+What costs points is how
+the formulas get used.
+
+6
+00:00:13,511 --> 00:00:15,725
+A diameter used as a radius.
+
+7
+00:00:15,833 --> 00:00:19,404
+A scale factor used once
+instead of three times.
+
+8
+00:00:19,440 --> 00:00:21,705
+Liters mixed with cubic centimeters.
+
+9
+00:00:21,725 --> 00:00:23,796
+A missing one third on a cone.
+
+10
+00:00:23,940 --> 00:00:28,205
+This lesson fixes all four, then
+works through six practice questions,
+
+11
+00:00:28,225 --> 00:00:29,569
+ending with a hard one.
+
+12
+00:00:29,589 --> 00:00:31,053
+Start with what you're given.
+
+13
+00:00:31,232 --> 00:00:35,589
+For flat shapes: a rectangle
+is length times width.
+
+14
+00:00:35,696 --> 00:00:38,981
+A triangle is one half base times height.
+
+15
+00:00:39,409 --> 00:00:44,589
+A circle's area is pi r squared,
+and its circumference is two pi r.
+
+16
+00:00:44,620 --> 00:00:49,728
+For solids: a rectangular prism is
+length times width times height.
+
+17
+00:00:49,978 --> 00:00:52,815
+A cylinder is pi r squared h.
+
+18
+00:00:52,835 --> 00:00:55,620
+A sphere is four thirds pi r cubed.
+
+19
+00:00:55,728 --> 00:00:58,278
+A cone is one third pi r squared h.
+
+20
+00:00:58,298 --> 00:01:01,848
+And a pyramid is one third
+length times width times height.
+
+21
+00:01:01,868 --> 00:01:02,868
+There's a pattern.
+
+22
+00:01:03,261 --> 00:01:07,975
+A prism or a cylinder is the area
+of the base times the height.
+
+23
+00:01:08,118 --> 00:01:10,205
+A cone or a pyramid comes to a point,
+
+24
+00:01:10,225 --> 00:01:11,848
+so it's one third of that.
+
+25
+00:01:11,868 --> 00:01:16,776
+A cone holds exactly one third as much
+as a cylinder with the same base and
+
+26
+00:01:16,796 --> 00:01:17,388
+height.
+
+27
+00:01:17,408 --> 00:01:18,408
+One more habit.
+
+28
+00:01:18,479 --> 00:01:21,265
+Every circle formula uses the radius.
+
+29
+00:01:21,336 --> 00:01:23,209
+If a question gives you the diameter,
+
+30
+00:01:23,229 --> 00:01:27,584
+cut it in half and write the radius on
+the figure before you touch a formula.
+
+31
+00:01:27,604 --> 00:01:30,905
+A sphere with a diameter of
+six has a radius of three,
+
+32
+00:01:30,925 --> 00:01:34,406
+so its volume is four thirds
+pi times twenty-seven,
+
+33
+00:01:34,426 --> 00:01:36,139
+or thirty-six pi.
+
+34
+00:01:36,191 --> 00:01:37,814
+Two things are not on the reference sheet.
+
+35
+00:01:37,834 --> 00:01:39,798
+The first is surface area.
+
+36
+00:01:40,120 --> 00:01:42,493
+Volume is how much fits inside.
+
+37
+00:01:42,513 --> 00:01:45,313
+Surface area is the total
+area of the outside,
+
+38
+00:01:45,333 --> 00:01:46,492
+like the wrapping paper.
+
+39
+00:01:46,512 --> 00:01:51,299
+Volume is in cubic units, and
+surface area is in square units.
+
+40
+00:01:51,370 --> 00:01:53,421
+For a box, add up the six faces.
+
+41
+00:01:53,441 --> 00:01:58,064
+They come in three matching pairs, so
+surface area is two times the quantity l w
+
+42
+00:01:58,084 --> 00:02:01,313
+plus l h plus w h.
+
+43
+00:02:01,333 --> 00:02:05,369
+A box that's four by three by
+two has a volume of twenty-four,
+
+44
+00:02:05,584 --> 00:02:12,477
+but a surface area of fifty-two.
+
+45
+00:02:12,631 --> 00:02:15,861
+A cylinder unrolls into two
+circles and a rectangle.
+
+46
+00:02:15,881 --> 00:02:19,253
+The rectangle's width is
+the circle's circumference.
+
+47
+00:02:19,273 --> 00:02:24,329
+So the surface area is two
+pi r squared plus two pi r h.
+
+48
+00:02:24,349 --> 00:02:26,564
+The second thing is composite shapes.
+
+49
+00:02:26,884 --> 00:02:30,314
+When a figure is built from
+pieces, add the pieces.
+
+50
+00:02:30,635 --> 00:02:33,794
+When part of a shape is cut out
+and you need the part that's left,
+
+51
+00:02:33,814 --> 00:02:34,885
+subtract.
+
+52
+00:02:35,134 --> 00:02:39,492
+Shaded area equals the whole
+shape minus what's removed.
+
+53
+00:02:39,522 --> 00:02:42,073
+Now the rule the SAT loves.
+
+54
+00:02:42,093 --> 00:02:45,181
+If every length of a
+shape is multiplied by k,
+
+55
+00:02:45,201 --> 00:02:50,700
+the area is multiplied by k squared,
+and the volume is multiplied by k cubed.
+
+56
+00:02:50,736 --> 00:02:51,736
+Here's why.
+
+57
+00:02:51,843 --> 00:02:54,644
+Double the edge of a
+cube, from two to four.
+
+58
+00:02:54,664 --> 00:02:57,680
+Each face goes from four
+square units to sixteen.
+
+59
+00:02:57,700 --> 00:03:00,037
+That's four times as much, two squared.
+
+60
+00:03:00,057 --> 00:03:02,573
+The volume goes from eight to sixty-four.
+
+61
+00:03:02,593 --> 00:03:05,021
+That's eight times as much, two cubed.
+
+62
+00:03:05,090 --> 00:03:06,213
+It works in reverse too.
+
+63
+00:03:06,233 --> 00:03:09,677
+If you know the area ratio,
+take the square root to get k.
+
+64
+00:03:09,697 --> 00:03:12,463
+If you know the volume
+ratio, take the cube root.
+
+65
+00:03:12,483 --> 00:03:15,820
+This only works when
+the shapes are similar,
+
+66
+00:03:15,840 --> 00:03:18,661
+meaning every length is
+scaled by the same k.
+
+67
+00:03:18,719 --> 00:03:22,556
+On the test, area and volume
+questions come in a few types.
+
+68
+00:03:22,576 --> 00:03:25,485
+Find the area of a
+composite or shaded figure.
+
+69
+00:03:25,505 --> 00:03:28,021
+Work backward from a
+volume to a missing length.
+
+70
+00:03:28,041 --> 00:03:30,199
+Scale a shape and compare.
+
+71
+00:03:30,219 --> 00:03:31,985
+Fill a container at some rate.
+
+72
+00:03:32,005 --> 00:03:33,838
+Or find a surface area.
+
+73
+00:03:33,858 --> 00:03:36,714
+A few words are always
+worth a second look:
+
+74
+00:03:36,750 --> 00:03:42,357
+diameter, surface area, similar, and
+any unit that doesn't match the others.
+
+75
+00:03:42,572 --> 00:03:45,072
+Those words are where the traps hide.
+
+76
+00:03:45,132 --> 00:03:46,183
+Question one.
+
+77
+00:03:46,203 --> 00:03:50,933
+A rectangular metal plate is twenty
+inches long and fifteen inches wide.
+
+78
+00:03:50,953 --> 00:03:54,040
+Two circular holes, each with
+a diameter of six inches,
+
+79
+00:03:54,060 --> 00:03:55,540
+are cut out of the plate.
+
+80
+00:03:55,560 --> 00:03:59,733
+What is the area, in square
+inches, of the metal that remains?
+
+81
+00:03:59,753 --> 00:04:01,038
+Pause and try it.
+
+82
+00:04:04,274 --> 00:04:07,075
+The metal that remains is the
+whole plate minus the holes.
+
+83
+00:04:07,095 --> 00:04:11,467
+The plate is twenty times fifteen,
+three hundred square inches.
+
+84
+00:04:11,487 --> 00:04:12,701
+Now the holes.
+
+85
+00:04:12,774 --> 00:04:16,774
+The diameter is six, so write a
+radius of three on the figure.
+
+86
+00:04:16,815 --> 00:04:20,492
+Each hole is pi times three
+squared, which is nine pi.
+
+87
+00:04:20,708 --> 00:04:22,509
+Two holes make eighteen pi.
+
+88
+00:04:22,529 --> 00:04:26,421
+So the metal that remains is
+three hundred minus eighteen pi.
+
+89
+00:04:26,458 --> 00:04:27,815
+The answer is C.
+
+90
+00:04:27,861 --> 00:04:30,182
+A subtracts only one hole.
+
+91
+00:04:30,218 --> 00:04:33,484
+B uses the circumference, six pi per hole,
+
+92
+00:04:33,504 --> 00:04:34,861
+instead of the area.
+
+93
+00:04:34,932 --> 00:04:40,805
+D uses the diameter as the radius: pi
+times six squared is thirty-six pi per
+
+94
+00:04:40,825 --> 00:04:43,772
+hole, so seventy-two pi for two.
+
+95
+00:04:43,792 --> 00:04:44,879
+Question two.
+
+96
+00:04:44,899 --> 00:04:49,542
+A cube has a surface area of one
+hundred fifty square centimeters.
+
+97
+00:04:49,613 --> 00:04:53,078
+What is the volume of the
+cube, in cubic centimeters?
+
+98
+00:04:53,119 --> 00:04:54,405
+Pause and try it.
+
+99
+00:04:57,640 --> 00:04:59,513
+Surface area isn't on the reference sheet,
+
+100
+00:04:59,533 --> 00:05:00,692
+so build it.
+
+101
+00:05:00,712 --> 00:05:05,513
+A cube has six square faces, and
+each face has area s squared.
+
+102
+00:05:05,533 --> 00:05:07,869
+So six s squared equals one fifty.
+
+103
+00:05:07,889 --> 00:05:10,442
+Divide by six: s squared is twenty-five,
+
+104
+00:05:10,462 --> 00:05:12,311
+so each edge is five.
+
+105
+00:05:12,331 --> 00:05:13,510
+Now the volume.
+
+106
+00:05:13,724 --> 00:05:18,311
+A cube's volume is s cubed, and five
+cubed is one hundred twenty-five.
+
+107
+00:05:18,331 --> 00:05:20,009
+Enter one twenty-five.
+
+108
+00:05:20,846 --> 00:05:24,826
+Twenty-five is the area of one
+face, and five is the edge.
+
+109
+00:05:24,846 --> 00:05:27,219
+Both show up on the way to the answer.
+
+110
+00:05:27,239 --> 00:05:30,811
+Check that you're giving the
+volume, not an area or a length.
+
+111
+00:05:30,867 --> 00:05:32,188
+Question three.
+
+112
+00:05:32,260 --> 00:05:37,811
+A right circular cone has a volume of
+ninety-six pi cubic inches and a height of
+
+113
+00:05:37,831 --> 00:05:38,938
+eight inches.
+
+114
+00:05:38,973 --> 00:05:41,774
+What is the radius of
+the base of the cone,
+
+115
+00:05:41,794 --> 00:05:42,866
+in inches?
+
+116
+00:05:42,920 --> 00:05:44,205
+Pause and try it.
+
+117
+00:05:48,440 --> 00:05:50,884
+Start from the formula
+and plug in what you know.
+
+118
+00:05:50,904 --> 00:05:54,170
+One third pi r squared
+h equals ninety-six pi,
+
+119
+00:05:54,190 --> 00:05:54,920
+with h equal to eight.
+
+120
+00:05:54,940 --> 00:06:00,027
+Divide both sides by pi, then
+multiply both sides by three.
+
+121
+00:06:00,047 --> 00:06:03,548
+That gives eight r squared
+equals two hundred eighty-eight.
+
+122
+00:06:03,735 --> 00:06:06,537
+Divide by eight: r squared is thirty-six,
+
+123
+00:06:06,557 --> 00:06:08,557
+so the radius is six.
+
+124
+00:06:08,664 --> 00:06:10,464
+The answer is B.
+
+125
+00:06:10,484 --> 00:06:13,642
+A is what you get if you
+forget the one third:
+
+126
+00:06:13,662 --> 00:06:18,304
+eight r squared equals ninety-six,
+so r is the square root of twelve.
+
+127
+00:06:18,341 --> 00:06:19,000
+C is the diameter.
+
+128
+00:06:20,020 --> 00:06:21,571
+D is r squared.
+
+129
+00:06:21,591 --> 00:06:24,408
+Cones and pyramids
+always get the one third.
+
+130
+00:06:24,428 --> 00:06:25,607
+Question four.
+
+131
+00:06:25,000 --> 00:06:30,658
+An aquarium shaped like a rectangular
+prism is fifty centimeters long,
+
+132
+00:06:30,678 --> 00:06:33,963
+thirty centimeters wide,
+and forty centimeters tall.
+
+133
+00:06:34,071 --> 00:06:38,285
+It starts empty, and water is poured
+in at three liters per minute.
+
+134
+00:06:38,357 --> 00:06:41,917
+One liter equals one
+thousand cubic centimeters.
+
+135
+00:06:41,937 --> 00:06:46,310
+How many minutes will it take for the
+water to reach a depth of twenty-four
+
+136
+00:06:46,330 --> 00:06:47,330
+centimeters?
+
+137
+00:06:47,393 --> 00:06:48,678
+Pause and try it.
+
+138
+00:06:52,913 --> 00:06:54,358
+The water forms its own box.
+
+139
+00:06:54,378 --> 00:06:56,965
+It has the same length
+and width as the tank,
+
+140
+00:06:56,985 --> 00:06:59,251
+but its height is the depth, twenty-four,
+
+141
+00:06:59,271 --> 00:07:00,178
+not forty.
+
+142
+00:07:00,198 --> 00:07:04,913
+Fifty times thirty times twenty-four is
+thirty-six thousand cubic centimeters.
+
+143
+00:07:04,954 --> 00:07:06,113
+Now match the units.
+
+144
+00:07:06,133 --> 00:07:08,398
+The rate is in liters, so convert.
+
+145
+00:07:08,418 --> 00:07:11,792
+Thirty-six thousand cubic
+centimeters is thirty-six liters.
+
+146
+00:07:11,812 --> 00:07:14,792
+At three liters per minute,
+that takes twelve minutes.
+
+147
+00:07:14,812 --> 00:07:16,418
+The answer is A.
+
+148
+00:07:16,465 --> 00:07:18,501
+B fills the whole tank,
+all forty centimeters.
+
+149
+00:07:18,644 --> 00:07:21,374
+C is the volume in liters, not the time.
+
+150
+00:07:21,394 --> 00:07:27,195
+D divides thirty-six thousand
+by three without converting.
+
+151
+00:07:27,215 --> 00:07:29,680
+Units have to match before you divide.
+
+152
+00:07:29,750 --> 00:07:30,944
+Question five.
+
+153
+00:07:30,964 --> 00:07:35,659
+The radius and the height of a large
+cylindrical can are each one point five
+
+154
+00:07:35,679 --> 00:07:39,301
+times the radius and the height
+of a small cylindrical can.
+
+155
+00:07:39,321 --> 00:07:42,372
+The small can holds sixteen fluid ounces.
+
+156
+00:07:42,392 --> 00:07:45,286
+How many fluid ounces
+does the large can hold?
+
+157
+00:07:45,343 --> 00:07:46,629
+Pause and try it.
+
+158
+00:07:49,864 --> 00:07:52,201
+Every length is multiplied
+by one point five,
+
+159
+00:07:52,221 --> 00:07:54,201
+so k is one point five.
+
+160
+00:07:54,221 --> 00:07:56,415
+Volume scales by k cubed.
+
+161
+00:07:56,435 --> 00:07:59,522
+One point five cubed is
+three point three seven five,
+
+162
+00:07:59,542 --> 00:08:02,201
+and sixteen times that is fifty-four.
+
+163
+00:08:02,221 --> 00:08:03,720
+The answer is C.
+
+164
+00:08:03,841 --> 00:08:05,413
+You can see it in the formula.
+
+165
+00:08:05,484 --> 00:08:09,750
+Pi r squared h has the radius
+in it twice and the height once.
+
+166
+00:08:09,770 --> 00:08:12,091
+That's three factors of one point five.
+
+167
+00:08:12,156 --> 00:08:16,457
+A scales linearly: sixteen
+times one point five.
+
+168
+00:08:16,477 --> 00:08:18,870
+B uses k squared, the area rule.
+
+169
+00:08:18,977 --> 00:08:22,691
+D multiplies by three times one
+point five instead of cubing.
+
+170
+00:08:22,711 --> 00:08:26,298
+Before the hardest one, here
+are the four traps in one place.
+
+171
+00:08:26,318 --> 00:08:30,032
+Diameter used as radius:
+cut it in half first.
+
+172
+00:08:30,138 --> 00:08:33,191
+Scaling linearly: area gets k squared,
+
+173
+00:08:33,211 --> 00:08:35,067
+and volume gets k cubed.
+
+174
+00:08:35,109 --> 00:08:37,624
+Mixed units: convert before you calculate.
+
+175
+00:08:37,644 --> 00:08:40,339
+And the missing one third:
+anything that comes to a point,
+
+176
+00:08:40,359 --> 00:08:43,463
+like a cone or a pyramid, gets one third.
+
+177
+00:08:43,483 --> 00:08:45,284
+Question six, the hardest one.
+
+178
+00:08:45,304 --> 00:08:47,820
+Pyramid P and pyramid Q are similar.
+
+179
+00:08:47,840 --> 00:08:51,427
+The surface area of pyramid P
+is seventy-two square inches,
+
+180
+00:08:51,447 --> 00:08:55,569
+and the surface area of pyramid Q is
+one hundred sixty-two square inches.
+
+181
+00:08:55,589 --> 00:08:58,802
+The volume of pyramid P
+is forty cubic inches.
+
+182
+00:08:58,822 --> 00:09:02,036
+What is the volume of
+pyramid Q, in cubic inches?
+
+183
+00:09:02,150 --> 00:09:03,237
+Pause and try it.
+
+184
+00:09:03,257 --> 00:09:04,828
+Take a little longer on this one.
+
+185
+00:09:09,027 --> 00:09:11,848
+You're given areas, but
+you're asked about volume.
+
+186
+00:09:12,062 --> 00:09:13,079
+So go through length.
+
+187
+00:09:13,099 --> 00:09:16,742
+The area ratio is one
+sixty-two over seventy-two.
+
+188
+00:09:17,027 --> 00:09:20,562
+Divide both by eighteen,
+and that's nine fourths.
+
+189
+00:09:20,623 --> 00:09:21,210
+That's k squared.
+
+190
+00:09:21,230 --> 00:09:23,924
+Take the square root,
+and k is three halves.
+
+191
+00:09:23,944 --> 00:09:29,782
+Every length of pyramid Q is one and a
+half times the matching length of pyramid
+
+192
+00:09:29,802 --> 00:09:30,432
+P.
+
+193
+00:09:30,452 --> 00:09:32,361
+Volume scales by k cubed.
+
+194
+00:09:32,381 --> 00:09:35,039
+Three halves cubed is
+twenty-seven eighths.
+
+195
+00:09:35,059 --> 00:09:39,004
+Forty times twenty-seven eighths:
+forty divided by eight is five,
+
+196
+00:09:39,024 --> 00:09:41,932
+and five times twenty-seven
+is one hundred thirty-five.
+
+197
+00:09:41,952 --> 00:09:43,917
+Enter one thirty-five.
+
+198
+00:09:44,034 --> 00:09:48,442
+If you got ninety, you scaled
+the volume by the area ratio.
+
+199
+00:09:48,462 --> 00:09:51,978
+If you got sixty, you
+used the length ratio.
+
+200
+00:09:51,998 --> 00:09:55,227
+Areas to lengths to volumes: square root,
+
+201
+00:09:55,247 --> 00:09:56,247
+then cube.
+
+202
+00:09:56,290 --> 00:09:59,949
+Here's the method for any
+area or volume question.
+
+203
+00:09:59,969 --> 00:10:02,485
+One: label the figure.
+
+204
+00:10:02,505 --> 00:10:05,897
+Write the radius, not the
+diameter, and mark what's given.
+
+205
+00:10:06,005 --> 00:10:07,948
+Two: find the formula.
+
+206
+00:10:07,968 --> 00:10:09,520
+It's probably on the reference sheet,
+
+207
+00:10:09,540 --> 00:10:12,040
+with one third for cones and pyramids.
+
+208
+00:10:12,130 --> 00:10:15,002
+Three: match the units
+before you calculate.
+
+209
+00:10:15,022 --> 00:10:18,646
+Four: if a shape is scaled, ask
+whether you're scaling a length,
+
+210
+00:10:18,666 --> 00:10:20,594
+an area, or a volume.
+
+211
+00:10:20,630 --> 00:10:23,252
+Five: reread the last line.
+
+212
+00:10:23,272 --> 00:10:25,146
+Surface area or volume?
+
+213
+00:10:25,166 --> 00:10:26,896
+Radius or diameter?
+
+214
+00:10:26,916 --> 00:10:28,166
+Depth or full?
+
+215
+00:10:28,202 --> 00:10:32,324
+For more practice, the College Board's
+free Question Bank lets you filter for
+
+216
+00:10:32,344 --> 00:10:36,915
+area and volume under
+Geometry and Trigonometry.
+
+217
+00:10:36,987 --> 00:10:40,717
+Every question in this video
+was written for this video,
+
+218
+00:10:40,737 --> 00:10:43,317
+in the style of the real test.
+
+219
+00:10:43,337 --> 00:10:46,837
+Next up: lines, angles, and triangles.
+
+220
+00:10:46,909 --> 00:10:50,317
+Parallel lines, angle chasing,
+and similar triangles.
+
+221
+00:10:50,337 --> 00:10:52,623
+If this helped, subscribe so you catch it.

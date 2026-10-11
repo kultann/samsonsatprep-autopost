@@ -1,0 +1,1115 @@
+1
+00:00:00,182 --> 00:00:02,733
+SAT function questions
+come in four disguises:
+
+2
+00:00:02,753 --> 00:00:06,147
+an equation, a graph, a
+table, or a word problem.
+
+3
+00:00:06,397 --> 00:00:08,984
+Underneath, they all ask
+about the same thing:
+
+4
+00:00:09,004 --> 00:00:10,753
+inputs and outputs.
+
+5
+00:00:10,804 --> 00:00:14,784
+In this lesson: function notation,
+reading graphs and tables,
+
+6
+00:00:14,804 --> 00:00:19,642
+shifting and flipping graphs, and
+what the numbers mean in context.
+
+7
+00:00:19,662 --> 00:00:23,340
+Then six practice questions,
+from easy to hard.
+
+8
+00:00:23,412 --> 00:00:26,213
+One mistake to fix right away.
+
+9
+00:00:26,233 --> 00:00:32,071
+A lot of students think f of the quantity
+x minus two moves a graph two units
+
+10
+00:00:32,091 --> 00:00:33,035
+left.
+
+11
+00:00:33,055 --> 00:00:35,879
+It actually moves it
+right, and you'll see why.
+
+12
+00:00:35,899 --> 00:00:40,935
+A function is a rule that turns
+each input into exactly one output.
+
+13
+00:00:40,970 --> 00:00:44,255
+f of x is the output when the input is x.
+
+14
+00:00:44,334 --> 00:00:48,742
+Here's our home graph: y equals f of x,
+
+15
+00:00:48,762 --> 00:00:50,619
+a parabola that opens down.
+
+16
+00:00:51,119 --> 00:00:54,599
+To find f of two, go to two on the x axis,
+
+17
+00:00:54,619 --> 00:00:57,064
+move up to the curve, and read the height.
+
+18
+00:00:57,084 --> 00:00:58,227
+It's three.
+
+19
+00:00:58,262 --> 00:01:00,584
+So f of two equals three.
+
+20
+00:01:00,613 --> 00:01:01,700
+Now flip the question.
+
+21
+00:01:01,720 --> 00:01:05,235
+If f of x equals three, which inputs work?
+
+22
+00:01:05,255 --> 00:01:07,770
+That's a horizontal line at height three.
+
+23
+00:01:07,790 --> 00:01:12,370
+It hits the curve twice, at x
+equals zero and x equals two.
+
+24
+00:01:12,390 --> 00:01:14,119
+With an equation, same idea.
+
+25
+00:01:14,139 --> 00:01:19,547
+If f of x is x squared minus two
+x, and f of a equals twenty-four,
+
+26
+00:01:19,567 --> 00:01:23,032
+solve a squared minus
+two a equals twenty-four.
+
+27
+00:01:23,103 --> 00:01:26,527
+It factors, and a is six or negative four.
+
+28
+00:01:26,547 --> 00:01:29,777
+A table is just a list
+of input output pairs,
+
+29
+00:01:29,797 --> 00:01:32,884
+so f of three is whatever
+sits under three.
+
+30
+00:01:32,904 --> 00:01:36,955
+And f of g of x means:
+run x through g first,
+
+31
+00:01:36,975 --> 00:01:39,724
+then feed that answer into f.
+
+32
+00:01:39,832 --> 00:01:40,863
+Inside out.
+
+33
+00:01:40,883 --> 00:01:43,184
+Next, the features of a graph.
+
+34
+00:01:43,204 --> 00:01:45,970
+The y intercept is where x equals zero,
+
+35
+00:01:45,990 --> 00:01:47,506
+so it's f of zero.
+
+36
+00:01:47,526 --> 00:01:50,370
+On our graph, that's zero, three.
+
+37
+00:01:50,390 --> 00:01:52,940
+The x intercepts are
+where the height is zero,
+
+38
+00:01:52,960 --> 00:01:55,405
+so they solve f of x equals zero.
+
+39
+00:01:55,425 --> 00:01:57,583
+Here, negative one and three.
+
+40
+00:01:57,603 --> 00:01:59,941
+They're also called the zeros of f.
+
+41
+00:01:59,961 --> 00:02:04,993
+So f of zero is a height, but f of
+x equals zero gives you x values.
+
+42
+00:02:05,013 --> 00:02:07,028
+The maximum is the highest point: here,
+
+43
+00:02:07,048 --> 00:02:08,279
+one, four.
+
+44
+00:02:08,299 --> 00:02:10,636
+The maximum value is the height, four,
+
+45
+00:02:10,656 --> 00:02:12,600
+and it happens at x equals one.
+
+46
+00:02:12,620 --> 00:02:15,099
+The graph is increasing
+for x less than one,
+
+47
+00:02:15,119 --> 00:02:16,916
+and decreasing after that.
+
+48
+00:02:16,936 --> 00:02:19,523
+And to count solutions to f of x equals k,
+
+49
+00:02:19,543 --> 00:02:22,222
+slide a horizontal line to height k.
+
+50
+00:02:22,329 --> 00:02:24,595
+At height three, two crossings.
+
+51
+00:02:24,615 --> 00:02:27,115
+At four, just one, the peak.
+
+52
+00:02:27,185 --> 00:02:28,935
+At five, none.
+
+53
+00:02:28,977 --> 00:02:30,513
+Now transformations.
+
+54
+00:02:30,942 --> 00:02:34,636
+Adding outside the function
+moves the graph vertically.
+
+55
+00:02:34,656 --> 00:02:39,048
+f of x, plus two, lifts
+every point two units.
+
+56
+00:02:39,298 --> 00:02:42,279
+Our peak at one, four moves up to one,
+
+57
+00:02:42,299 --> 00:02:43,234
+six.
+
+58
+00:02:43,254 --> 00:02:45,948
+Changing the input moves
+the graph sideways,
+
+59
+00:02:45,968 --> 00:02:47,770
+and it goes the opposite
+way from the sign.
+
+60
+00:02:47,790 --> 00:02:53,234
+f of the quantity x minus three
+moves the graph three units right.
+
+61
+00:02:53,254 --> 00:02:56,948
+The peak moves from one, four to four,
+
+62
+00:02:56,968 --> 00:02:57,803
+four.
+
+63
+00:02:57,823 --> 00:02:58,823
+Here's why.
+
+64
+00:02:59,109 --> 00:03:02,196
+To reach the old peak, x
+minus three has to equal one,
+
+65
+00:03:02,216 --> 00:03:03,660
+so x equals four.
+
+66
+00:03:03,680 --> 00:03:06,873
+Every input has to be three
+bigger to get the same output,
+
+67
+00:03:06,893 --> 00:03:09,072
+so everything lands three units right.
+
+68
+00:03:09,104 --> 00:03:11,069
+Last, a negative out front.
+
+69
+00:03:11,175 --> 00:03:14,441
+Negative f of x multiplies
+every output by negative one,
+
+70
+00:03:14,461 --> 00:03:16,691
+so the graph flips over the x axis.
+
+71
+00:03:16,711 --> 00:03:20,226
+The maximum at one, four
+becomes a minimum at one,
+
+72
+00:03:20,246 --> 00:03:21,370
+negative four.
+
+73
+00:03:21,390 --> 00:03:23,650
+The x intercepts stay put.
+
+74
+00:03:23,670 --> 00:03:26,471
+In word problems, every
+number means something.
+
+75
+00:03:26,491 --> 00:03:30,293
+In a quadratic height model, the
+constant is the starting height,
+
+76
+00:03:30,313 --> 00:03:33,364
+the vertex is the maximum
+height and when it happens,
+
+77
+00:03:33,384 --> 00:03:35,991
+and the positive zero is when it lands.
+
+78
+00:03:36,039 --> 00:03:40,396
+In an exponential model like eight
+hundred times one point oh five to the t,
+
+79
+00:03:40,468 --> 00:03:44,983
+eight hundred is the starting value, and
+one point oh five means growth of five
+
+80
+00:03:45,003 --> 00:03:46,753
+percent per period.
+
+81
+00:03:46,818 --> 00:03:49,155
+So sort each question first.
+
+82
+00:03:49,175 --> 00:03:51,139
+Evaluate or solve?
+
+83
+00:03:51,318 --> 00:03:53,675
+A feature of a graph or table?
+
+84
+00:03:53,711 --> 00:03:55,298
+A shift or a flip?
+
+85
+00:03:55,318 --> 00:03:57,691
+Or what a number means in context?
+
+86
+00:03:57,711 --> 00:03:58,782
+Let's practice.
+
+87
+00:03:58,842 --> 00:03:59,786
+Question one.
+
+88
+00:03:59,806 --> 00:04:04,536
+The functions f and g are defined by
+f of x equals x squared minus two x,
+
+89
+00:04:04,556 --> 00:04:07,285
+and g of x equals three x plus one.
+
+90
+00:04:07,305 --> 00:04:09,998
+What is the value of g of f of four?
+
+91
+00:04:10,018 --> 00:04:11,411
+Pause and try it.
+
+92
+00:04:14,636 --> 00:04:15,437
+Inside out.
+
+93
+00:04:15,457 --> 00:04:18,079
+f of four comes first:
+sixteen minus eight,
+
+94
+00:04:18,099 --> 00:04:19,116
+which is eight.
+
+95
+00:04:19,136 --> 00:04:20,330
+Then that eight goes into g.
+
+96
+00:04:20,350 --> 00:04:23,686
+Three times eight, plus
+one, is twenty-five.
+
+97
+00:04:23,706 --> 00:04:25,493
+The answer is C.
+
+98
+00:04:25,520 --> 00:04:28,340
+Eight is f of four: you stopped halfway.
+
+99
+00:04:28,483 --> 00:04:31,214
+Thirteen is g of four, which skips f.
+
+100
+00:04:31,234 --> 00:04:33,820
+And one hundred forty-three
+is f of g of four:
+
+101
+00:04:33,840 --> 00:04:36,046
+the right functions in the wrong order.
+
+102
+00:04:36,066 --> 00:04:37,209
+Question two.
+
+103
+00:04:37,494 --> 00:04:40,546
+The graph of y equals f of x is shown.
+
+104
+00:04:40,566 --> 00:04:44,744
+How many solutions does the
+equation f of x equals three have?
+
+105
+00:04:44,780 --> 00:04:46,173
+Pause and try it.
+
+106
+00:04:49,398 --> 00:04:53,449
+f of x equals three asks: where
+is the graph's height three?
+
+107
+00:04:53,469 --> 00:04:56,842
+So draw a horizontal
+line at y equals three,
+
+108
+00:04:56,862 --> 00:04:58,861
+and count where it meets the curve.
+
+109
+00:04:58,911 --> 00:05:01,284
+The curve climbs to a peak at height four,
+
+110
+00:05:01,304 --> 00:05:04,855
+falls to a low point at height
+zero, then climbs again.
+
+111
+00:05:04,875 --> 00:05:06,997
+A line at height three sits between those,
+
+112
+00:05:07,017 --> 00:05:08,854
+so it's crossed three times.
+
+113
+00:05:08,874 --> 00:05:10,518
+The answer is D.
+
+114
+00:05:10,544 --> 00:05:11,953
+The trap is B.
+
+115
+00:05:11,973 --> 00:05:16,774
+It treats three as an x value, as if
+the only solution were x equals three.
+
+116
+00:05:16,794 --> 00:05:18,738
+That's reading the wrong axis.
+
+117
+00:05:18,758 --> 00:05:23,060
+f of x is the output, so f of x
+equals three is a horizontal line.
+
+118
+00:05:23,080 --> 00:05:25,703
+And two is the number of x intercepts,
+
+119
+00:05:25,723 --> 00:05:28,177
+which answers f of x equals zero.
+
+120
+00:05:28,197 --> 00:05:29,248
+Question three.
+
+121
+00:05:29,268 --> 00:05:35,141
+The function h is defined by h of t equals
+negative five t squared plus twenty t
+
+122
+00:05:35,161 --> 00:05:36,340
+plus twenty-five.
+
+123
+00:05:36,482 --> 00:05:41,070
+It gives the height, in meters, of a ball
+above the ground t seconds after it is
+
+124
+00:05:41,090 --> 00:05:42,518
+launched from a platform.
+
+125
+00:05:42,563 --> 00:05:46,793
+According to the model, how many seconds
+after it is launched does the ball hit
+
+126
+00:05:46,813 --> 00:05:47,628
+the ground?
+
+127
+00:05:47,648 --> 00:05:49,041
+Pause and try it.
+
+128
+00:05:53,266 --> 00:05:55,996
+Hitting the ground means
+the height is zero.
+
+129
+00:05:56,016 --> 00:05:59,496
+So set h of t equal to
+zero, not t equal to zero.
+
+130
+00:05:59,516 --> 00:06:04,889
+Divide every term by negative five: t
+squared minus four t minus five equals
+
+131
+00:06:04,909 --> 00:06:05,703
+zero.
+
+132
+00:06:05,723 --> 00:06:09,059
+That factors into t minus
+five, times t plus one.
+
+133
+00:06:09,079 --> 00:06:11,917
+So t is five or negative one.
+
+134
+00:06:11,937 --> 00:06:14,094
+Negative one second
+isn't after the launch,
+
+135
+00:06:14,114 --> 00:06:15,826
+so the answer is five.
+
+136
+00:06:15,846 --> 00:06:17,238
+Now look at the traps.
+
+137
+00:06:17,346 --> 00:06:20,846
+Twenty-five is h of zero,
+the height of the platform.
+
+138
+00:06:20,953 --> 00:06:25,926
+Two is when the ball is highest, and
+forty-five meters is that maximum height.
+
+139
+00:06:25,946 --> 00:06:27,125
+Question four.
+
+140
+00:06:27,161 --> 00:06:32,176
+The function f is defined by f
+of x equals x squared minus four.
+
+141
+00:06:32,196 --> 00:06:37,890
+In the x y plane, the graph of y equals
+g of x is the result of translating the
+
+142
+00:06:37,910 --> 00:06:41,569
+graph of y equals f of x
+three units to the right.
+
+143
+00:06:41,589 --> 00:06:43,482
+Which equation defines g?
+
+144
+00:06:43,617 --> 00:06:45,010
+Pause and try it.
+
+145
+00:06:48,235 --> 00:06:51,929
+Right three means replacing
+x with x minus three.
+
+146
+00:06:51,949 --> 00:06:56,000
+So g of x equals f of the
+quantity x minus three,
+
+147
+00:06:56,020 --> 00:06:58,500
+which is the quantity
+x minus three, squared,
+
+148
+00:06:58,520 --> 00:06:59,806
+minus four.
+
+149
+00:06:59,841 --> 00:07:01,570
+The answer is A.
+
+150
+00:07:01,590 --> 00:07:02,463
+Check with the vertex.
+
+151
+00:07:02,483 --> 00:07:05,070
+f's vertex is zero, negative four.
+
+152
+00:07:05,090 --> 00:07:07,356
+Choice A puts it at three, negative four:
+
+153
+00:07:07,376 --> 00:07:08,712
+three to the right.
+
+154
+00:07:08,732 --> 00:07:11,142
+B puts it at negative
+three, which is left.
+
+155
+00:07:11,162 --> 00:07:15,661
+C and D change the number outside,
+so they move the graph up or down.
+
+156
+00:07:15,693 --> 00:07:18,959
+Before the harder questions,
+the three traps in one place.
+
+157
+00:07:18,979 --> 00:07:23,049
+First, a shift inside the parentheses
+goes opposite to its sign.
+
+158
+00:07:23,192 --> 00:07:25,800
+Minus means right, plus means left.
+
+159
+00:07:25,825 --> 00:07:30,091
+Second, f of x equals
+zero is not x equals zero.
+
+160
+00:07:30,111 --> 00:07:32,376
+Zeros are x intercepts.
+
+161
+00:07:32,396 --> 00:07:34,662
+f of zero is the y intercept.
+
+162
+00:07:34,682 --> 00:07:38,253
+Third, f of x equals k
+is a horizontal line.
+
+163
+00:07:38,307 --> 00:07:40,321
+Question five, a harder one.
+
+164
+00:07:40,341 --> 00:07:46,215
+The table shows several values of x and
+f of x for the quadratic function f.
+
+165
+00:07:46,235 --> 00:07:50,715
+For x equals zero through five,
+the values of f of x are two,
+
+166
+00:07:50,735 --> 00:07:53,715
+negative two, negative
+four, negative four,
+
+167
+00:07:53,735 --> 00:07:55,715
+negative two, and two.
+
+168
+00:07:55,735 --> 00:07:58,057
+What is the minimum value of f?
+
+169
+00:07:58,109 --> 00:07:59,374
+Pause and try it.
+
+170
+00:07:59,394 --> 00:08:00,929
+Take a little longer on this one.
+
+171
+00:08:05,149 --> 00:08:06,915
+The tempting answer is negative four,
+
+172
+00:08:06,935 --> 00:08:08,807
+the smallest number in the table.
+
+173
+00:08:08,827 --> 00:08:11,200
+But a table only shows some inputs.
+
+174
+00:08:11,220 --> 00:08:13,396
+The lowest point might fall between them.
+
+175
+00:08:13,416 --> 00:08:14,952
+Use symmetry.
+
+176
+00:08:15,381 --> 00:08:18,003
+A parabola is symmetric about its vertex,
+
+177
+00:08:18,023 --> 00:08:21,539
+and f of two and f of three
+are both negative four.
+
+178
+00:08:21,559 --> 00:08:26,023
+So the vertex is halfway between,
+at x equals two point five.
+
+179
+00:08:26,050 --> 00:08:28,316
+To get the height there,
+build the equation.
+
+180
+00:08:28,336 --> 00:08:31,316
+f of zero is two, so c is two.
+
+181
+00:08:31,336 --> 00:08:34,816
+The next two rows give a
+plus b equals negative four,
+
+182
+00:08:34,836 --> 00:08:37,851
+and two a plus b equals negative three.
+
+183
+00:08:37,871 --> 00:08:41,336
+Subtract: a is one, b is negative five.
+
+184
+00:08:41,363 --> 00:08:46,220
+So f of x is x squared
+minus five x plus two.
+
+185
+00:08:46,328 --> 00:08:49,236
+Plug in two point five:
+six point two five,
+
+186
+00:08:49,256 --> 00:08:52,271
+minus twelve point five, plus two.
+
+187
+00:08:52,291 --> 00:08:54,665
+That's negative four point two five.
+
+188
+00:08:54,685 --> 00:08:56,220
+The answer is B.
+
+189
+00:08:56,263 --> 00:08:58,242
+Two point five is where
+the minimum happens,
+
+190
+00:08:58,262 --> 00:08:59,564
+not its value.
+
+191
+00:08:59,584 --> 00:09:03,656
+And negative six point two five is
+what you get if you drop the plus two.
+
+192
+00:09:03,676 --> 00:09:07,299
+Faster in Desmos: enter
+the table, then type y one,
+
+193
+00:09:07,319 --> 00:09:10,514
+tilde, a x one squared, plus b x one,
+
+194
+00:09:10,534 --> 00:09:11,534
+plus c.
+
+195
+00:09:11,854 --> 00:09:15,299
+Desmos reports a equals
+one, b equals negative five,
+
+196
+00:09:15,319 --> 00:09:16,727
+c equals two.
+
+197
+00:09:16,747 --> 00:09:18,712
+Then click the bottom of the curve.
+
+198
+00:09:18,759 --> 00:09:20,473
+Last one, the hardest.
+
+199
+00:09:21,009 --> 00:09:27,060
+In the x y plane, the graph of y equals
+f of x has its maximum at the point one,
+
+200
+00:09:27,080 --> 00:09:28,080
+six.
+
+201
+00:09:28,187 --> 00:09:34,168
+The function g is defined by g of x
+equals negative f of the quantity x minus
+
+202
+00:09:34,188 --> 00:09:34,953
+two.
+
+203
+00:09:34,973 --> 00:09:38,968
+Which statement about the graph
+of y equals g of x must be true?
+
+204
+00:09:38,988 --> 00:09:42,576
+The choices: A, a maximum at three, six.
+
+205
+00:09:42,596 --> 00:09:46,040
+B, a minimum at negative
+one, negative six.
+
+206
+00:09:46,060 --> 00:09:49,003
+C, a minimum at three, negative six.
+
+207
+00:09:49,023 --> 00:09:51,880
+D, a maximum at negative one, six.
+
+208
+00:09:51,915 --> 00:09:53,181
+Pause and try it.
+
+209
+00:09:53,201 --> 00:09:54,736
+Take a little longer on this one.
+
+210
+00:09:58,956 --> 00:10:00,007
+We don't need the equation of f.
+
+211
+00:10:00,027 --> 00:10:04,007
+Follow the one point we
+know, one change at a time.
+
+212
+00:10:04,027 --> 00:10:08,578
+First, the inside: x minus two
+moves everything two units right.
+
+213
+00:10:08,598 --> 00:10:11,364
+The peak goes from one, six to three,
+
+214
+00:10:11,384 --> 00:10:12,319
+six.
+
+215
+00:10:12,339 --> 00:10:14,033
+Next, the negative out front.
+
+216
+00:10:14,053 --> 00:10:16,712
+It multiplies every
+output by negative one,
+
+217
+00:10:16,732 --> 00:10:19,660
+so the graph flips over the x axis.
+
+218
+00:10:19,695 --> 00:10:23,461
+The peak at height six becomes
+a low point at negative six.
+
+219
+00:10:23,481 --> 00:10:27,104
+So g has a minimum at three, negative six.
+
+220
+00:10:27,124 --> 00:10:28,624
+The answer is C.
+
+221
+00:10:28,666 --> 00:10:31,467
+A shifted right but forgot the flip.
+
+222
+00:10:31,487 --> 00:10:34,523
+B and D shifted the
+wrong way, to the left.
+
+223
+00:10:34,560 --> 00:10:39,540
+To check in Desmos, make up
+any f with a maximum at one,
+
+224
+00:10:39,560 --> 00:10:43,611
+six, like negative the
+quantity x minus one,
+
+225
+00:10:43,631 --> 00:10:45,611
+squared, plus six.
+
+226
+00:10:45,631 --> 00:10:51,290
+Then type g of x equals negative
+f of the quantity x minus two,
+
+227
+00:10:51,310 --> 00:10:52,632
+and click the low point.
+
+228
+00:10:52,686 --> 00:10:54,079
+The test-day method.
+
+229
+00:10:54,114 --> 00:10:57,416
+Step one: name what they
+give you, an equation,
+
+230
+00:10:57,436 --> 00:11:00,221
+a graph, a table, or a context.
+
+231
+00:11:00,293 --> 00:11:02,629
+Step two: translate.
+
+232
+00:11:02,649 --> 00:11:05,042
+f of a means plug in.
+
+233
+00:11:05,185 --> 00:11:09,773
+f of x equals k means solve,
+or draw a horizontal line.
+
+234
+00:11:09,793 --> 00:11:12,411
+Zeros mean f of x equals zero.
+
+235
+00:11:12,431 --> 00:11:15,839
+Step three: for shifts and
+flips, track one key point,
+
+236
+00:11:15,859 --> 00:11:17,947
+like a vertex or an intercept.
+
+237
+00:11:17,967 --> 00:11:20,482
+Inside changes go the opposite way.
+
+238
+00:11:20,502 --> 00:11:22,780
+Outside changes do what they say.
+
+239
+00:11:22,800 --> 00:11:26,136
+Step four: use Desmos when it saves work:
+
+240
+00:11:26,156 --> 00:11:29,494
+counting solutions, finding
+a maximum or an intercept,
+
+241
+00:11:29,514 --> 00:11:31,637
+checking a shift, or fitting a table.
+
+242
+00:11:31,657 --> 00:11:34,506
+For a single substitution,
+just do it by hand.
+
+243
+00:11:34,526 --> 00:11:37,613
+And before you submit,
+reread what they asked for.
+
+244
+00:11:37,633 --> 00:11:40,026
+An x value or a y value?
+
+245
+00:11:40,133 --> 00:11:42,919
+Where the minimum happens, or what it is?
+
+246
+00:11:42,966 --> 00:11:45,624
+That's nonlinear functions:
+inputs and outputs,
+
+247
+00:11:45,644 --> 00:11:48,803
+horizontal lines for outputs,
+inside shifts in reverse,
+
+248
+00:11:48,823 --> 00:11:50,910
+and a negative that flips the graph.
+
+249
+00:11:50,930 --> 00:11:54,731
+For more practice, the free Question
+Bank lets you filter Advanced Math by
+
+250
+00:11:54,751 --> 00:11:56,251
+nonlinear functions.
+
+251
+00:11:56,336 --> 00:11:59,459
+Every question in this video
+was written for this video,
+
+252
+00:11:59,479 --> 00:12:01,586
+in the style of the real test.
+
+253
+00:12:01,693 --> 00:12:05,637
+Next up: SAT scatterplots
+and lines of best fit.
+
+254
+00:12:05,657 --> 00:12:07,799
+If this helped, subscribe so you catch it.

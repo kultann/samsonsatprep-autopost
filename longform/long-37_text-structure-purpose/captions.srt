@@ -1,0 +1,1172 @@
+1
+00:00:00,182 --> 00:00:03,483
+Some SAT questions don't
+ask what a passage says.
+
+2
+00:00:03,503 --> 00:00:05,234
+They ask what it's doing.
+
+3
+00:00:05,254 --> 00:00:08,805
+Which choice best states the
+main purpose of the text?
+
+4
+00:00:08,825 --> 00:00:11,912
+Which choice best describes
+its overall structure?
+
+5
+00:00:11,932 --> 00:00:14,406
+What's the function of
+the underlined sentence?
+
+6
+00:00:14,426 --> 00:00:17,798
+The most common mistake is picking a
+choice that's true about the passage,
+
+7
+00:00:17,818 --> 00:00:19,855
+but only covers one part of it.
+
+8
+00:00:20,069 --> 00:00:25,656
+In this video: a three-step method,
+six original SAT-style questions,
+
+9
+00:00:25,676 --> 00:00:29,355
+and the four traps these
+questions use again and again.
+
+10
+00:00:29,380 --> 00:00:32,146
+Every sentence in a
+passage does two things.
+
+11
+00:00:32,166 --> 00:00:35,095
+It says something, and it does a job.
+
+12
+00:00:35,166 --> 00:00:37,988
+On these questions, the
+job is what matters.
+
+13
+00:00:38,047 --> 00:00:39,776
+Here are the jobs you'll see most.
+
+14
+00:00:39,796 --> 00:00:43,011
+A claim is the point the
+author wants you to accept.
+
+15
+00:00:43,119 --> 00:00:44,619
+Evidence supports it.
+
+16
+00:00:44,654 --> 00:00:46,689
+An example shows one case of it.
+
+17
+00:00:46,726 --> 00:00:49,240
+A contrast pushes
+against what came before.
+
+18
+00:00:49,260 --> 00:00:51,741
+A concession admits a
+point on the other side.
+
+19
+00:00:51,761 --> 00:00:54,011
+And a conclusion wraps things up.
+
+20
+00:00:54,503 --> 00:00:56,982
+These questions belong
+to Craft and Structure,
+
+21
+00:00:57,002 --> 00:01:00,304
+about twenty-eight percent of
+the Reading and Writing section.
+
+22
+00:01:00,324 --> 00:01:02,753
+That's the largest of the four domains.
+
+23
+00:01:02,818 --> 00:01:04,370
+You'll see three versions.
+
+24
+00:01:04,390 --> 00:01:08,568
+Main purpose asks why the
+author wrote the whole text.
+
+25
+00:01:08,604 --> 00:01:11,512
+Overall structure asks
+for the jobs in order,
+
+26
+00:01:11,532 --> 00:01:12,941
+from start to finish.
+
+27
+00:01:12,961 --> 00:01:18,243
+And function asks what one underlined
+sentence does for the text as a whole.
+
+28
+00:01:18,263 --> 00:01:19,136
+Notice the scope.
+
+29
+00:01:19,156 --> 00:01:22,386
+Purpose and structure
+cover the whole passage.
+
+30
+00:01:22,406 --> 00:01:27,029
+Function covers one sentence, but
+always in relation to the rest.
+
+31
+00:01:27,049 --> 00:01:29,528
+A choice with the wrong scope is wrong,
+
+32
+00:01:29,548 --> 00:01:32,333
+even if every word in it is true.
+
+33
+00:01:32,380 --> 00:01:36,718
+Step one: label every sentence's
+job before you look at the choices.
+
+34
+00:01:36,738 --> 00:01:39,788
+Claim, evidence, contrast, whatever it is.
+
+35
+00:01:39,808 --> 00:01:42,660
+A one-word note in your head is enough.
+
+36
+00:01:42,680 --> 00:01:45,339
+Step two: predict the
+answer in your own words,
+
+37
+00:01:45,359 --> 00:01:47,017
+starting with a verb.
+
+38
+00:01:47,037 --> 00:01:48,180
+Explains.
+
+39
+00:01:48,323 --> 00:01:49,267
+Argues.
+
+40
+00:01:49,287 --> 00:01:50,446
+Describes.
+
+41
+00:01:50,466 --> 00:01:51,644
+Challenges.
+
+42
+00:01:52,179 --> 00:01:55,495
+On a structure question, string
+your labels together in order.
+
+43
+00:01:55,515 --> 00:01:58,745
+Step three: check each choice three ways.
+
+44
+00:01:58,765 --> 00:01:59,781
+Is the verb right?
+
+45
+00:01:59,801 --> 00:02:01,638
+Does it cover the right
+amount of the text?
+
+46
+00:02:01,658 --> 00:02:03,959
+And are the parts in the right order?
+
+47
+00:02:03,979 --> 00:02:05,837
+Miss one, and it's out.
+
+48
+00:02:05,911 --> 00:02:07,090
+Question one.
+
+49
+00:02:07,233 --> 00:02:10,054
+Flamingos get their pink
+color from their food.
+
+50
+00:02:10,090 --> 00:02:14,856
+The algae and small crustaceans they
+eat in shallow lakes and lagoons contain
+
+51
+00:02:14,876 --> 00:02:16,890
+pigments called carotenoids.
+
+52
+00:02:16,910 --> 00:02:21,713
+As a flamingo digests this food, its
+body extracts the pigments and deposits
+
+53
+00:02:21,733 --> 00:02:24,115
+them in its new feathers as they grow.
+
+54
+00:02:24,135 --> 00:02:28,365
+For this reason, zoos add
+carotenoids to their flamingos' food.
+
+55
+00:02:28,385 --> 00:02:32,849
+Without these pigments, a flamingo's
+new feathers would grow in much paler.
+
+56
+00:02:33,100 --> 00:02:36,807
+Which choice best states the
+main purpose of the text?
+
+57
+00:02:36,827 --> 00:02:38,006
+Pause and try it.
+
+58
+00:02:41,197 --> 00:02:42,197
+Label it.
+
+59
+00:02:42,375 --> 00:02:44,982
+Sentence one is the claim:
+the color comes from food.
+
+60
+00:02:45,089 --> 00:02:47,697
+Sentences two and three
+explain how that works.
+
+61
+00:02:47,875 --> 00:02:50,641
+The last sentence shows
+what it means in practice,
+
+62
+00:02:50,661 --> 00:02:51,732
+in zoos.
+
+63
+00:02:51,875 --> 00:02:56,427
+Prediction: the text explains how
+a flamingo's diet makes it pink.
+
+64
+00:02:56,447 --> 00:02:57,661
+That's choice C.
+
+65
+00:02:57,688 --> 00:02:59,116
+Now the traps.
+
+66
+00:02:59,331 --> 00:03:02,775
+A, the lakes where
+flamingos feed, is true,
+
+67
+00:03:02,795 --> 00:03:03,989
+but it's one detail.
+
+68
+00:03:04,009 --> 00:03:05,402
+That's too narrow.
+
+69
+00:03:05,545 --> 00:03:08,738
+D says many birds get
+their colors from food.
+
+70
+00:03:08,758 --> 00:03:10,310
+That's too broad.
+
+71
+00:03:10,330 --> 00:03:12,724
+The text is only about flamingos.
+
+72
+00:03:12,745 --> 00:03:17,923
+And B says the text argues that zoos
+should change what they feed flamingos.
+
+73
+00:03:17,959 --> 00:03:20,224
+The text never takes a side.
+
+74
+00:03:20,244 --> 00:03:21,458
+It explains.
+
+75
+00:03:21,672 --> 00:03:24,280
+When the verb is wrong,
+the choice is wrong.
+
+76
+00:03:24,359 --> 00:03:25,537
+Question two.
+
+77
+00:03:25,823 --> 00:03:30,946
+In the early eighteen hundreds, French
+army officer Charles Barbier devised a
+
+78
+00:03:30,966 --> 00:03:34,553
+code of raised dots that
+could be read by touch.
+
+79
+00:03:34,573 --> 00:03:39,716
+But the code had drawbacks: its symbols
+stood for sounds rather than letters,
+
+80
+00:03:39,859 --> 00:03:43,145
+and each was too tall to
+feel with one fingertip.
+
+81
+00:03:43,217 --> 00:03:46,589
+Louis Braille, a student at a
+Paris school for blind children,
+
+82
+00:03:46,609 --> 00:03:49,233
+kept the raised dots but used smaller,
+
+83
+00:03:49,253 --> 00:03:51,697
+six-dot cells that stood for letters,
+
+84
+00:03:51,717 --> 00:03:54,503
+making the code far easier to read.
+
+85
+00:03:54,753 --> 00:03:58,610
+Which choice best describes the
+overall structure of the text?
+
+86
+00:03:58,651 --> 00:03:59,830
+Pause and try it.
+
+87
+00:04:04,020 --> 00:04:05,358
+Label each sentence.
+
+88
+00:04:05,378 --> 00:04:07,143
+One: an early system.
+
+89
+00:04:07,163 --> 00:04:08,572
+Two: its problems.
+
+90
+00:04:08,592 --> 00:04:12,286
+Three: a later system that keeps the
+good part and fixes the problems.
+
+91
+00:04:12,306 --> 00:04:15,628
+String those together, in order,
+and that's your prediction.
+
+92
+00:04:15,674 --> 00:04:18,153
+Choice B: it introduces an early system,
+
+93
+00:04:18,173 --> 00:04:22,119
+explains its drawbacks, and then
+describes how a later system built on that
+
+94
+00:04:22,139 --> 00:04:24,476
+system while avoiding those drawbacks.
+
+95
+00:04:24,496 --> 00:04:27,047
+Every part matches, in the right order.
+
+96
+00:04:27,067 --> 00:04:28,478
+B is the answer.
+
+97
+00:04:28,498 --> 00:04:30,121
+A flips the order.
+
+98
+00:04:30,141 --> 00:04:34,034
+It says the student came first and
+the officer revised his work later.
+
+99
+00:04:34,176 --> 00:04:36,120
+Right people, wrong order.
+
+100
+00:04:36,140 --> 00:04:37,335
+That's the reversed trap.
+
+101
+00:04:37,355 --> 00:04:40,906
+C says the text argues
+something it never argues,
+
+102
+00:04:40,926 --> 00:04:44,212
+and D ends on the school,
+which is just a detail.
+
+103
+00:04:44,259 --> 00:04:45,168
+Question three.
+
+104
+00:04:45,188 --> 00:04:47,688
+Here the second sentence is underlined.
+
+105
+00:04:47,723 --> 00:04:51,881
+Crows appear able to recognize
+individual human faces.
+
+106
+00:04:51,901 --> 00:04:56,989
+In one study, researchers wearing a
+particular rubber mask trapped several wild
+
+107
+00:04:57,009 --> 00:04:59,474
+crows and released them unharmed.
+
+108
+00:04:59,546 --> 00:05:04,419
+For at least two years afterward, crows
+in the area scolded people wearing that
+
+109
+00:05:04,439 --> 00:05:07,096
+mask but ignored people
+wearing a different one.
+
+110
+00:05:07,116 --> 00:05:10,453
+Many of the scolding crows had
+never been trapped themselves,
+
+111
+00:05:10,473 --> 00:05:15,061
+which suggests that crows can learn
+from one another which faces to treat as
+
+112
+00:05:15,081 --> 00:05:15,987
+threats.
+
+113
+00:05:16,007 --> 00:05:20,773
+Which choice best describes the function
+of the underlined sentence in the text
+
+114
+00:05:20,793 --> 00:05:21,761
+as a whole?
+
+115
+00:05:21,781 --> 00:05:22,960
+Pause and try it.
+
+116
+00:05:27,151 --> 00:05:28,758
+Label the jobs.
+
+117
+00:05:29,079 --> 00:05:33,258
+Sentence one is the claim:
+crows can recognize faces.
+
+118
+00:05:33,508 --> 00:05:36,702
+The underlined sentence describes
+a study that backs it up.
+
+119
+00:05:36,722 --> 00:05:37,865
+That's evidence.
+
+120
+00:05:37,972 --> 00:05:40,345
+The last sentence adds a further finding:
+
+121
+00:05:40,365 --> 00:05:42,801
+crows learn from each other.
+
+122
+00:05:42,821 --> 00:05:47,766
+So the underlined sentence gives evidence
+for the claim in the first sentence.
+
+123
+00:05:47,786 --> 00:05:48,959
+That's choice D.
+
+124
+00:05:48,979 --> 00:05:51,530
+The trap is A: it states the main claim.
+
+125
+00:05:51,550 --> 00:05:53,209
+That's a real job in this passage.
+
+126
+00:05:53,229 --> 00:05:55,031
+It just belongs to the first sentence,
+
+127
+00:05:55,051 --> 00:05:56,459
+not the underlined one.
+
+128
+00:05:56,479 --> 00:06:00,587
+On function questions, make sure the job
+matches the sentence they asked about.
+
+129
+00:06:00,623 --> 00:06:03,353
+B says the last sentence
+calls the study into question.
+
+130
+00:06:03,373 --> 00:06:03,923
+It doesn't.
+
+131
+00:06:03,943 --> 00:06:05,194
+It builds on it.
+
+132
+00:06:05,408 --> 00:06:09,122
+And C invents a debate that
+never appears in the text.
+
+133
+00:06:09,149 --> 00:06:10,343
+Those are the four traps.
+
+134
+00:06:10,363 --> 00:06:13,164
+Too narrow: it's true,
+but it covers one part.
+
+135
+00:06:13,184 --> 00:06:16,113
+Too broad: it covers
+more than the text does.
+
+136
+00:06:16,149 --> 00:06:18,914
+Wrong verb: right topic, but
+the text doesn't do that.
+
+137
+00:06:18,934 --> 00:06:21,613
+And reversed: the right
+parts in the wrong order.
+
+138
+00:06:21,685 --> 00:06:24,628
+The next three are harder:
+a passage from a story,
+
+139
+00:06:24,648 --> 00:06:27,022
+a sentence that admits a
+point to the other side,
+
+140
+00:06:27,042 --> 00:06:30,470
+and a structure question where
+three choices start out the same.
+
+141
+00:06:30,544 --> 00:06:32,687
+Question four is literary.
+
+142
+00:06:32,759 --> 00:06:37,024
+The following text is from an original
+short story written for this video.
+
+143
+00:06:37,044 --> 00:06:41,024
+Teo has reluctantly agreed to spend
+the summer helping at his grandmother's
+
+144
+00:06:41,044 --> 00:06:41,853
+bakery.
+
+145
+00:06:41,873 --> 00:06:44,852
+Teo had expected the four o'clock
+mornings to be the worst part,
+
+146
+00:06:44,872 --> 00:06:49,389
+and for the first week they were: he moved
+through the dark kitchen half asleep,
+
+147
+00:06:49,409 --> 00:06:52,173
+measuring flour wherever
+his grandmother pointed.
+
+148
+00:06:52,193 --> 00:06:56,302
+Then, on the second Monday, she
+let him shape the loaves himself.
+
+149
+00:06:56,347 --> 00:07:00,398
+When the day's first customer lifted
+one from the shelf and held it close to
+
+150
+00:07:00,418 --> 00:07:05,005
+breathe in its warmth, Teo realized he
+had stopped counting the hours until
+
+151
+00:07:05,025 --> 00:07:05,934
+noon.
+
+152
+00:07:05,954 --> 00:07:09,451
+Which choice best states the
+main purpose of the text?
+
+153
+00:07:09,471 --> 00:07:10,650
+Pause and try it.
+
+154
+00:07:14,840 --> 00:07:17,035
+In a story, the jobs
+are a little different.
+
+155
+00:07:17,055 --> 00:07:19,177
+Track where a character's feelings start,
+
+156
+00:07:19,197 --> 00:07:21,356
+what happens, and where they end up.
+
+157
+00:07:21,376 --> 00:07:23,570
+Teo starts out dreading the work.
+
+158
+00:07:23,590 --> 00:07:25,249
+He gets to shape the loaves.
+
+159
+00:07:25,269 --> 00:07:27,447
+Then he watches a customer enjoy one.
+
+160
+00:07:27,502 --> 00:07:28,696
+And he's stopped counting the hours.
+
+161
+00:07:28,716 --> 00:07:31,303
+He isn't waiting for the
+shift to end anymore.
+
+162
+00:07:31,323 --> 00:07:35,874
+Prediction: a character starts to
+enjoy work he expected to dislike.
+
+163
+00:07:35,894 --> 00:07:37,037
+That's choice A.
+
+164
+00:07:37,088 --> 00:07:38,568
+C is the reversed trap.
+
+165
+00:07:38,588 --> 00:07:43,373
+It runs the change backward, from enjoying
+the work to being frustrated by it.
+
+166
+00:07:43,445 --> 00:07:46,675
+B, the customer's reaction, is too narrow.
+
+167
+00:07:46,695 --> 00:07:48,496
+It's one moment, not the point.
+
+168
+00:07:48,516 --> 00:07:51,031
+And D, why the grandmother needed help,
+
+169
+00:07:51,051 --> 00:07:52,228
+never comes up.
+
+170
+00:07:52,248 --> 00:07:53,228
+Question five.
+
+171
+00:07:53,248 --> 00:07:55,300
+The second sentence is underlined.
+
+172
+00:07:55,320 --> 00:07:59,942
+Daylight saving time was adopted in many
+countries partly to conserve energy.
+
+173
+00:07:59,962 --> 00:08:04,300
+Moving clocks forward does reduce how
+much electricity people use for lighting
+
+174
+00:08:04,320 --> 00:08:05,304
+in the evening.
+
+175
+00:08:05,324 --> 00:08:08,982
+But when economists studied Indiana,
+where most counties began observing
+
+176
+00:08:09,002 --> 00:08:11,911
+daylight saving time
+only in two thousand six,
+
+177
+00:08:11,931 --> 00:08:16,473
+they found that household electricity
+use rose after the change.
+
+178
+00:08:16,493 --> 00:08:20,580
+More heating on dark mornings and more
+air conditioning on warm evenings,
+
+179
+00:08:20,600 --> 00:08:23,979
+they concluded, outweighed
+the savings on lighting.
+
+180
+00:08:23,999 --> 00:08:28,764
+Which choice best describes the function
+of the underlined sentence in the text
+
+181
+00:08:28,784 --> 00:08:29,752
+as a whole?
+
+182
+00:08:29,772 --> 00:08:30,951
+Pause and try it.
+
+183
+00:08:35,142 --> 00:08:39,122
+On its own, the underlined sentence
+sounds like support for daylight saving
+
+184
+00:08:39,142 --> 00:08:39,979
+time.
+
+185
+00:08:39,999 --> 00:08:43,213
+But look at what comes next: the word but,
+
+186
+00:08:43,319 --> 00:08:46,785
+and a finding that total
+electricity use went up.
+
+187
+00:08:46,815 --> 00:08:48,937
+So the sentence admits a real benefit,
+
+188
+00:08:48,957 --> 00:08:51,938
+and then the text shows
+that benefit is outweighed.
+
+189
+00:08:51,958 --> 00:08:53,152
+That's a concession.
+
+190
+00:08:53,172 --> 00:08:57,616
+Words like does, admittedly, and
+it's true that often signal one.
+
+191
+00:08:57,636 --> 00:08:58,993
+The answer is C.
+
+192
+00:08:59,051 --> 00:09:00,317
+B is the trap.
+
+193
+00:09:00,337 --> 00:09:04,245
+It says the sentence shows that daylight
+saving time lowers total household
+
+194
+00:09:04,265 --> 00:09:05,602
+electricity use.
+
+195
+00:09:05,622 --> 00:09:10,459
+The sentence is only about lighting,
+and the study found total use went up.
+
+196
+00:09:10,479 --> 00:09:14,388
+A calls it the study's main
+finding, and D calls it a drawback.
+
+197
+00:09:14,408 --> 00:09:15,358
+It's a benefit.
+
+198
+00:09:15,378 --> 00:09:16,322
+Last one.
+
+199
+00:09:16,342 --> 00:09:17,414
+The hardest.
+
+200
+00:09:17,699 --> 00:09:22,144
+In eighteen forty-six, astronomers
+discovered Neptune after calculating that the
+
+201
+00:09:22,164 --> 00:09:27,107
+gravity of an unseen planet could explain
+why Uranus strayed from its predicted
+
+202
+00:09:27,127 --> 00:09:27,847
+path.
+
+203
+00:09:27,867 --> 00:09:31,668
+When Mercury's orbit was also found
+to differ slightly from predictions,
+
+204
+00:09:31,688 --> 00:09:35,525
+some astronomers applied the same
+reasoning and searched for a planet even
+
+205
+00:09:35,545 --> 00:09:38,688
+closer to the Sun, which
+they called Vulcan.
+
+206
+00:09:38,795 --> 00:09:40,724
+None was ever found.
+
+207
+00:09:40,765 --> 00:09:45,352
+In nineteen fifteen, Albert Einstein's
+general theory of relativity,
+
+208
+00:09:45,372 --> 00:09:50,030
+a new account of gravity, explained
+Mercury's orbit without any additional
+
+209
+00:09:50,050 --> 00:09:50,959
+planet.
+
+210
+00:09:50,979 --> 00:09:55,194
+Which choice best describes the
+overall structure of the text?
+
+211
+00:09:55,237 --> 00:09:56,324
+Pause and try it.
+
+212
+00:09:56,344 --> 00:09:57,915
+Take a little longer on this one.
+
+213
+00:10:02,130 --> 00:10:03,003
+Label it.
+
+214
+00:10:03,023 --> 00:10:05,217
+Sentence one: a line of
+reasoning that worked.
+
+215
+00:10:05,237 --> 00:10:07,166
+It found Neptune.
+
+216
+00:10:07,273 --> 00:10:10,486
+Sentence two: the same
+reasoning, tried on a new puzzle.
+
+217
+00:10:10,630 --> 00:10:12,430
+Sentence three: it failed.
+
+218
+00:10:12,450 --> 00:10:15,303
+Sentence four: what
+finally solved the puzzle.
+
+219
+00:10:15,323 --> 00:10:16,787
+Now look at the choices.
+
+220
+00:10:16,894 --> 00:10:19,716
+A, B, and C all start the same way.
+
+221
+00:10:19,751 --> 00:10:22,731
+That's how hard structure
+questions hide the trap:
+
+222
+00:10:22,751 --> 00:10:25,874
+the first part is right,
+and the mistake comes later.
+
+223
+00:10:25,894 --> 00:10:27,746
+So check every part.
+
+224
+00:10:27,766 --> 00:10:30,496
+A says the reasoning led
+to a second discovery.
+
+225
+00:10:30,516 --> 00:10:32,246
+But Vulcan was never found.
+
+226
+00:10:32,266 --> 00:10:35,889
+C gets two parts right, then says the
+text argues that astronomers should have
+
+227
+00:10:35,909 --> 00:10:37,015
+given up sooner.
+
+228
+00:10:37,193 --> 00:10:38,623
+It never argues that.
+
+229
+00:10:38,730 --> 00:10:41,051
+That's the wrong verb
+trap, hiding at the end.
+
+230
+00:10:41,103 --> 00:10:42,531
+D is reversed.
+
+231
+00:10:42,567 --> 00:10:45,690
+Neptune came first, not
+after the failed search.
+
+232
+00:10:45,710 --> 00:10:48,332
+B matches every part, in order.
+
+233
+00:10:48,352 --> 00:10:49,996
+The answer is B.
+
+234
+00:10:50,016 --> 00:10:50,675
+Here's your routine.
+
+235
+00:10:50,695 --> 00:10:53,639
+Read the question first,
+so you know the scope:
+
+236
+00:10:53,659 --> 00:10:56,124
+the whole text, or one sentence.
+
+237
+00:10:56,231 --> 00:11:00,230
+Then read the passage and label
+each sentence's job as you go.
+
+238
+00:11:00,269 --> 00:11:03,212
+Predict with a verb before
+you look at the choices.
+
+239
+00:11:03,232 --> 00:11:05,713
+Then check every choice
+for the right verb,
+
+240
+00:11:05,733 --> 00:11:07,819
+the right scope, and the right order.
+
+241
+00:11:07,839 --> 00:11:12,376
+On long choices, check every part,
+because the mistake is often near the end.
+
+242
+00:11:12,438 --> 00:11:14,989
+Signal words do half the labeling for you.
+
+243
+00:11:15,009 --> 00:11:18,403
+But, however, and yet
+usually start a contrast.
+
+244
+00:11:18,581 --> 00:11:22,347
+Admittedly, or it's true that,
+usually means a concession.
+
+245
+00:11:22,367 --> 00:11:24,617
+For example means an example.
+
+246
+00:11:24,659 --> 00:11:28,710
+You have a little over a minute
+per Reading and Writing question,
+
+247
+00:11:28,730 --> 00:11:29,873
+on average.
+
+248
+00:11:30,052 --> 00:11:35,134
+Labeling takes a few seconds, and it saves
+you from rereading the whole passage.
+
+249
+00:11:35,154 --> 00:11:35,920
+Recap.
+
+250
+00:11:35,940 --> 00:11:37,098
+Label the jobs.
+
+251
+00:11:37,118 --> 00:11:38,706
+Predict with a verb.
+
+252
+00:11:38,726 --> 00:11:41,277
+Then check the verb, the
+scope, and the order,
+
+253
+00:11:41,297 --> 00:11:44,490
+and cross out anything
+too narrow, too broad,
+
+254
+00:11:44,510 --> 00:11:46,654
+with the wrong verb, or reversed.
+
+255
+00:11:46,714 --> 00:11:50,372
+Every question in this video
+was written for this video,
+
+256
+00:11:50,392 --> 00:11:52,836
+in the style of the real test.
+
+257
+00:11:52,856 --> 00:11:57,086
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+258
+00:11:57,106 --> 00:12:00,034
+skill, including Text
+Structure and Purpose.
+
+259
+00:12:00,082 --> 00:12:01,689
+If this helped, subscribe.
+
+260
+00:12:02,011 --> 00:12:05,884
+Next up: Cross-Text Connections,
+the questions with two passages,
+
+261
+00:12:05,904 --> 00:12:08,297
+and how to tell exactly how they relate.

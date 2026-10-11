@@ -1,0 +1,30 @@
+{
+  "id": "long-36_nonlinear-equations-systems",
+  "type": "longform",
+  "order": 36,
+  "publish_at": "2027-01-03T16:00:00-06:00",
+  "video": "36_nonlinear-equations-systems.mp4",
+  "video_bytes": 181897347,
+  "title": "SAT Nonlinear Equations & Systems: Radicals, Absolute Value, Parabolas",
+  "description": "Square roots, fractions with x in the denominator, absolute value, exponents, and lines that meet parabolas: this is the Advanced Math skill \"nonlinear equations in one variable and systems of equations in two variables.\" This lesson shows the one idea behind all of them (which algebra moves add fake solutions and which ones lose real ones) and works through seven SAT-style practice questions, easy to hard.\n\nYou'll learn:\n• Radical equations: isolate, square, then check for extraneous solutions\n• Rational equations: write the excluded values first\n• Absolute value equations: two cases, and when there's no solution\n• Variables in exponents: match the bases\n• Why you should never divide by an expression with x\n• Line-and-parabola (and line-and-circle) systems: substitution and the discriminant\n• How to solve any of these by graphing both sides in Desmos\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Advanced Math).\n\nCHAPTERS\n0:00 Intro\n0:32 Moves that add or lose solutions\n1:46 How the SAT tests it\n2:15 Radical equations\n3:34 Rational equations\n4:39 Absolute value equations\n5:50 Variable in the exponent\n6:54 The dividing trap\n7:56 Line meets parabola\n9:04 How many intersections?\n10:02 Harder: exactly one solution\n11:13 Test-day method\n12:01 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT nonlinear equations",
+    "extraneous solutions",
+    "SAT advanced math",
+    "digital SAT math",
+    "radical equations",
+    "absolute value equations",
+    "rational equations",
+    "SAT systems of equations",
+    "Desmos SAT",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/36_nonlinear-equations-systems",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

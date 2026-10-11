@@ -1,0 +1,1184 @@
+1
+00:00:00,182 --> 00:00:03,682
+Which choice best states
+the main idea of the text?
+
+2
+00:00:04,504 --> 00:00:07,912
+On these questions, most of
+the wrong answers aren't false.
+
+3
+00:00:07,932 --> 00:00:08,948
+They're true.
+
+4
+00:00:08,968 --> 00:00:11,040
+They just aren't the main idea.
+
+5
+00:00:11,182 --> 00:00:13,653
+That's the mistake this video fixes.
+
+6
+00:00:13,673 --> 00:00:15,724
+You'll learn the two
+kinds of these questions,
+
+7
+00:00:15,744 --> 00:00:19,010
+a method for each, and
+the five trap answers.
+
+8
+00:00:19,030 --> 00:00:21,868
+Plus six original SAT-style questions,
+
+9
+00:00:21,888 --> 00:00:25,102
+including a story, a
+poem, and a harder one.
+
+10
+00:00:25,126 --> 00:00:29,606
+Central Ideas and Details is one of
+three skills in the Information and Ideas
+
+11
+00:00:29,626 --> 00:00:33,233
+domain, which is about a quarter
+of the Reading and Writing section.
+
+12
+00:00:33,375 --> 00:00:37,935
+It tests one thing: did you understand
+what the text actually says?
+
+13
+00:00:37,955 --> 00:00:39,455
+It comes in two forms.
+
+14
+00:00:39,598 --> 00:00:45,006
+The main idea question asks: which choice
+best states the main idea of the text?
+
+15
+00:00:45,026 --> 00:00:48,255
+The detail question asks
+about one specific point,
+
+16
+00:00:48,275 --> 00:00:50,791
+and usually starts with
+according to the text,
+
+17
+00:00:50,811 --> 00:00:52,241
+or based on the text.
+
+18
+00:00:52,320 --> 00:00:55,371
+Passages come from science,
+history and social studies,
+
+19
+00:00:55,391 --> 00:00:57,371
+the humanities, and literature.
+
+20
+00:00:57,391 --> 00:01:00,620
+And literature includes short
+excerpts from stories and poems,
+
+21
+00:01:00,640 --> 00:01:02,355
+which get these same questions.
+
+22
+00:01:02,380 --> 00:01:05,359
+Don't mix these up with
+inference questions.
+
+23
+00:01:05,379 --> 00:01:06,396
+Those end with a blank.
+
+24
+00:01:06,416 --> 00:01:07,360
+These have no blank.
+
+25
+00:01:07,380 --> 00:01:08,844
+They ask what the text says.
+
+26
+00:01:08,928 --> 00:01:12,873
+For a main idea question, sum up the
+whole passage in one sentence before you
+
+27
+00:01:12,893 --> 00:01:14,051
+look at the choices.
+
+28
+00:01:14,071 --> 00:01:16,943
+Who or what is it about, and
+what's the point about it?
+
+29
+00:01:16,963 --> 00:01:18,106
+Watch for a turn.
+
+30
+00:01:18,356 --> 00:01:23,301
+Words like but, yet, however, and in
+fact often mark where the main point
+
+31
+00:01:23,321 --> 00:01:24,185
+starts.
+
+32
+00:01:24,205 --> 00:01:25,864
+Then match.
+
+33
+00:01:25,884 --> 00:01:28,399
+The right answer covers the whole passage.
+
+34
+00:01:28,419 --> 00:01:32,348
+Not one sentence of it, and not
+more than the passage covers.
+
+35
+00:01:32,705 --> 00:01:34,042
+Think of it as a title.
+
+36
+00:01:34,062 --> 00:01:35,919
+It has to fit the whole thing.
+
+37
+00:01:35,939 --> 00:01:39,311
+For a detail question, don't summarize.
+
+38
+00:01:39,331 --> 00:01:40,276
+Hunt.
+
+39
+00:01:40,296 --> 00:01:43,132
+Find the exact line that
+answers the question.
+
+40
+00:01:43,152 --> 00:01:45,633
+The right answer says the
+same thing in different words.
+
+41
+00:01:45,653 --> 00:01:48,831
+If you can't point to a
+line, it's not the answer.
+
+42
+00:01:48,859 --> 00:01:50,017
+Question one.
+
+43
+00:01:50,037 --> 00:01:53,232
+Leafcutter ants, which live
+in warm parts of the Americas,
+
+44
+00:01:53,252 --> 00:01:55,482
+are often seen marching in long lines,
+
+45
+00:01:55,502 --> 00:01:57,767
+each ant holding up a piece of leaf.
+
+46
+00:01:57,787 --> 00:01:59,965
+But the ants don't eat the leaves.
+
+47
+00:02:00,067 --> 00:02:02,118
+Back in the nest, they crush the pieces,
+
+48
+00:02:02,138 --> 00:02:07,618
+cut them even smaller, and use them to
+feed a fungus that grows in underground
+
+49
+00:02:07,638 --> 00:02:08,547
+gardens.
+
+50
+00:02:08,567 --> 00:02:12,153
+The fungus, in turn, feeds
+the ants and their young.
+
+51
+00:02:12,173 --> 00:02:15,009
+In other words, leafcutter
+ants are farmers.
+
+52
+00:02:15,029 --> 00:02:16,315
+Pause and try it.
+
+53
+00:02:19,574 --> 00:02:21,038
+Summarize first.
+
+54
+00:02:21,288 --> 00:02:25,018
+Notice the turn: but the
+ants don't eat the leaves.
+
+55
+00:02:25,038 --> 00:02:26,375
+That's where the point starts.
+
+56
+00:02:26,395 --> 00:02:28,804
+They use the leaves to grow a fungus,
+
+57
+00:02:28,824 --> 00:02:30,696
+and the fungus is the food.
+
+58
+00:02:30,716 --> 00:02:35,109
+One sentence: these ants use
+leaves to farm their food.
+
+59
+00:02:35,150 --> 00:02:36,737
+Choice D says exactly that.
+
+60
+00:02:36,757 --> 00:02:41,809
+They gather leaves not to eat them, but
+to grow a fungus that feeds the colony.
+
+61
+00:02:41,829 --> 00:02:42,954
+That's the answer.
+
+62
+00:02:42,974 --> 00:02:47,546
+Now B: they're often seen marching
+in long lines carrying leaves.
+
+63
+00:02:47,760 --> 00:02:48,311
+That's true.
+
+64
+00:02:48,331 --> 00:02:49,653
+It's the first sentence.
+
+65
+00:02:49,760 --> 00:02:51,633
+But it's the setup, not the point.
+
+66
+00:02:51,653 --> 00:02:55,596
+A true detail that isn't the main
+idea is the most common trap here.
+
+67
+00:02:55,616 --> 00:02:57,081
+It's too narrow.
+
+68
+00:02:57,131 --> 00:03:00,917
+C has the opposite problem:
+many kinds of insects.
+
+69
+00:03:01,060 --> 00:03:03,560
+The passage is about one kind of ant.
+
+70
+00:03:03,595 --> 00:03:04,861
+That's too broad.
+
+71
+00:03:04,881 --> 00:03:07,967
+And A, carrying fifty
+times their own weight,
+
+72
+00:03:07,987 --> 00:03:11,273
+may be true in real life,
+but the text never says it.
+
+73
+00:03:11,296 --> 00:03:12,760
+Now a detail question.
+
+74
+00:03:13,224 --> 00:03:15,474
+In the summer of eighteen fifty-eight,
+
+75
+00:03:15,510 --> 00:03:19,882
+hot weather made the sewage-filled River
+Thames in London give off a powerful
+
+76
+00:03:19,902 --> 00:03:23,490
+stench, an event that became
+known as the Great Stink.
+
+77
+00:03:23,510 --> 00:03:27,633
+At the time, most people believed that
+diseases such as cholera were spread by
+
+78
+00:03:27,653 --> 00:03:29,242
+foul-smelling air.
+
+79
+00:03:29,262 --> 00:03:32,170
+With the smell drifting into their
+own building beside the river,
+
+80
+00:03:32,190 --> 00:03:37,491
+members of Parliament quickly passed
+a law to fund a vast new sewer system.
+
+81
+00:03:37,511 --> 00:03:41,992
+According to the text, what did most
+people at the time believe about diseases
+
+82
+00:03:42,012 --> 00:03:43,226
+such as cholera?
+
+83
+00:03:43,277 --> 00:03:44,562
+Pause and try it.
+
+84
+00:03:47,821 --> 00:03:50,070
+Detail question, so find the line.
+
+85
+00:03:50,107 --> 00:03:54,658
+At the time, most people believed that
+diseases such as cholera were spread by
+
+86
+00:03:54,678 --> 00:03:56,214
+foul-smelling air.
+
+87
+00:03:56,284 --> 00:03:57,801
+Choice B says the same thing.
+
+88
+00:03:57,821 --> 00:03:58,927
+That's the answer.
+
+89
+00:03:58,959 --> 00:04:02,010
+Now A: water contaminated with sewage.
+
+90
+00:04:02,030 --> 00:04:04,352
+That's actually how cholera spreads.
+
+91
+00:04:04,602 --> 00:04:07,296
+But the question asks
+what people believed then,
+
+92
+00:04:07,316 --> 00:04:08,759
+according to the text.
+
+93
+00:04:08,779 --> 00:04:10,510
+A is outside knowledge.
+
+94
+00:04:10,530 --> 00:04:13,530
+It isn't in the passage,
+so it can't be the answer.
+
+95
+00:04:13,567 --> 00:04:17,833
+C takes hot weather from the passage
+and attaches it to the wrong thing.
+
+96
+00:04:17,853 --> 00:04:20,618
+The heat caused the
+smell, not the disease.
+
+97
+00:04:20,638 --> 00:04:22,903
+And D adds the word only.
+
+98
+00:04:22,923 --> 00:04:24,816
+Nothing in the text says that.
+
+99
+00:04:24,859 --> 00:04:26,161
+Question three.
+
+100
+00:04:26,181 --> 00:04:30,982
+In parts of Africa, a bird called the
+greater honeyguide works with human honey
+
+101
+00:04:31,002 --> 00:04:32,002
+hunters.
+
+102
+00:04:32,037 --> 00:04:34,446
+The bird leads people to wild bees' nests,
+
+103
+00:04:34,466 --> 00:04:37,323
+which are often hidden high up in trees.
+
+104
+00:04:37,430 --> 00:04:39,661
+The hunters calm the bees with smoke,
+
+105
+00:04:39,681 --> 00:04:41,920
+open the nest, and harvest the honey.
+
+106
+00:04:41,940 --> 00:04:46,011
+The honeyguide, which would have trouble
+breaking into such a nest by itself,
+
+107
+00:04:46,118 --> 00:04:50,618
+then feeds on the wax combs left behind.
+
+108
+00:04:51,010 --> 00:04:54,455
+According to the text, what does the
+honeyguide gain from working with honey
+
+109
+00:04:54,475 --> 00:04:55,266
+hunters?
+
+110
+00:04:55,286 --> 00:04:56,572
+Pause and try it.
+
+111
+00:04:59,831 --> 00:05:01,810
+Find the line about what the bird gets.
+
+112
+00:05:01,830 --> 00:05:03,203
+It's the last sentence.
+
+113
+00:05:03,223 --> 00:05:06,061
+The bird would have trouble
+breaking into the nest by itself,
+
+114
+00:05:06,081 --> 00:05:08,525
+and it feeds on the wax combs left behind.
+
+115
+00:05:08,545 --> 00:05:12,346
+So it gets wax from nests
+it couldn't open alone.
+
+116
+00:05:12,366 --> 00:05:13,687
+That's choice C.
+
+117
+00:05:13,739 --> 00:05:15,524
+Now watch who does what.
+
+118
+00:05:15,631 --> 00:05:18,203
+A gives the bird a share of the honey,
+
+119
+00:05:18,239 --> 00:05:20,131
+but the hunters take the honey.
+
+120
+00:05:20,239 --> 00:05:22,203
+The bird gets the wax.
+
+121
+00:05:22,345 --> 00:05:25,076
+B says the bird gets help finding nests,
+
+122
+00:05:25,096 --> 00:05:27,595
+but the bird is the
+one leading the people.
+
+123
+00:05:27,618 --> 00:05:30,954
+Both choices use the right words,
+attached to the wrong person.
+
+124
+00:05:30,974 --> 00:05:32,419
+That's the wrong person trap.
+
+125
+00:05:32,439 --> 00:05:36,383
+And D, a safe place to build
+a nest, isn't in the text.
+
+126
+00:05:36,403 --> 00:05:38,127
+It just borrows a phrase.
+
+127
+00:05:38,147 --> 00:05:39,341
+Now literature.
+
+128
+00:05:39,361 --> 00:05:42,556
+Story and poem passages
+get the same questions,
+
+129
+00:05:42,576 --> 00:05:44,270
+but your summary changes.
+
+130
+00:05:44,290 --> 00:05:47,520
+Ask: who's in the scene,
+what do they feel or want,
+
+131
+00:05:47,540 --> 00:05:48,754
+and what changes?
+
+132
+00:05:49,075 --> 00:05:52,397
+Most literary passages
+are built around a shift.
+
+133
+00:05:52,445 --> 00:05:53,445
+Two rules.
+
+134
+00:05:53,516 --> 00:05:55,388
+First, read the line at the top.
+
+135
+00:05:55,408 --> 00:05:57,425
+It tells you where the text comes from,
+
+136
+00:05:57,445 --> 00:05:59,588
+and sometimes who the characters are.
+
+137
+00:05:59,873 --> 00:06:02,730
+Second, don't invent a backstory.
+
+138
+00:06:02,765 --> 00:06:06,290
+If the text doesn't say it,
+the answer can't depend on it.
+
+139
+00:06:06,310 --> 00:06:07,361
+Question four.
+
+140
+00:06:07,381 --> 00:06:11,131
+The following text is from a short
+story written for this practice set.
+
+141
+00:06:11,595 --> 00:06:16,021
+Ana has recently taken over her
+grandmother's flower stall at a city market.
+
+142
+00:06:16,041 --> 00:06:20,183
+Ana had watched her grandmother
+wrap bouquets a thousand times,
+
+143
+00:06:20,255 --> 00:06:25,076
+but her first attempt fell apart, the
+stems sliding loose from the paper.
+
+144
+00:06:25,433 --> 00:06:28,306
+The customer, an older man in a gray coat,
+
+145
+00:06:28,326 --> 00:06:29,791
+waited silently.
+
+146
+00:06:30,183 --> 00:06:31,933
+Ana's face grew hot.
+
+147
+00:06:31,955 --> 00:06:36,221
+On her second try, she slowed down and
+folded the paper the way she remembered,
+
+148
+00:06:36,241 --> 00:06:39,955
+corner over corner, and this time it held.
+
+149
+00:06:40,098 --> 00:06:44,577
+The man nodded once, paid, and left
+with the flowers tucked under his arm.
+
+150
+00:06:44,597 --> 00:06:47,955
+Which choice best states
+the main idea of the text?
+
+151
+00:06:47,982 --> 00:06:49,268
+Pause and try it.
+
+152
+00:06:53,526 --> 00:06:54,919
+Summarize the scene.
+
+153
+00:06:55,098 --> 00:06:56,526
+Who: Ana.
+
+154
+00:06:56,812 --> 00:07:00,292
+What changes: her first try falls apart,
+
+155
+00:07:00,312 --> 00:07:01,148
+and she's embarrassed.
+
+156
+00:07:01,168 --> 00:07:04,899
+Then she slows down, does it the
+way she remembers from watching her
+
+157
+00:07:04,919 --> 00:07:06,613
+grandmother, and it works.
+
+158
+00:07:06,633 --> 00:07:07,916
+That's choice A.
+
+159
+00:07:07,936 --> 00:07:08,523
+B is true.
+
+160
+00:07:08,543 --> 00:07:11,220
+She had watched her
+grandmother many times.
+
+161
+00:07:11,757 --> 00:07:13,916
+But that's background from the first line,
+
+162
+00:07:13,936 --> 00:07:15,399
+not the main idea.
+
+163
+00:07:15,649 --> 00:07:20,043
+C says she realizes she'll never wrap
+flowers as well as her grandmother.
+
+164
+00:07:20,150 --> 00:07:21,130
+Never?
+
+165
+00:07:21,150 --> 00:07:23,328
+The text shows her succeeding.
+
+166
+00:07:23,361 --> 00:07:27,647
+Words like never and always need
+a passage that's just as strong.
+
+167
+00:07:27,826 --> 00:07:31,683
+And D makes the customer an old
+friend of her grandmother's.
+
+168
+00:07:31,861 --> 00:07:34,576
+That might be a good story,
+but it isn't this one.
+
+169
+00:07:34,611 --> 00:07:37,575
+An invented backstory is not in the text.
+
+170
+00:07:37,601 --> 00:07:38,510
+Question five.
+
+171
+00:07:38,530 --> 00:07:41,637
+The following text is from a poem
+written for this practice set.
+
+172
+00:07:41,923 --> 00:07:43,831
+My father called the river lazy.
+
+173
+00:07:43,851 --> 00:07:46,367
+All August it dawdled past our fence,
+
+174
+00:07:46,387 --> 00:07:48,652
+too tired, he said, to carry a leaf.
+
+175
+00:07:48,672 --> 00:07:50,540
+I believed him for years.
+
+176
+00:07:50,560 --> 00:07:54,254
+Then came the April it
+rose and took the fence,
+
+177
+00:07:54,274 --> 00:07:59,290
+the shed, the road he drove to work, and
+I understood at last what it had been
+
+178
+00:07:59,310 --> 00:08:00,254
+saving.
+
+179
+00:08:00,274 --> 00:08:05,279
+Based on the text, how does the
+speaker's view of the river change?
+
+180
+00:08:05,299 --> 00:08:06,585
+Pause and try it.
+
+181
+00:08:10,843 --> 00:08:12,022
+Track the shift.
+
+182
+00:08:12,415 --> 00:08:15,002
+Before: the father calls the river lazy,
+
+183
+00:08:15,022 --> 00:08:16,629
+and the speaker believes him.
+
+184
+00:08:16,736 --> 00:08:18,271
+Then the flood.
+
+185
+00:08:18,557 --> 00:08:22,966
+After: the speaker understands
+what the river had been saving,
+
+186
+00:08:22,986 --> 00:08:24,058
+its power.
+
+187
+00:08:24,093 --> 00:08:28,002
+From accepting the father's view to
+seeing the force behind the calm.
+
+188
+00:08:28,022 --> 00:08:29,362
+That's choice B.
+
+189
+00:08:29,382 --> 00:08:30,382
+Now D.
+
+190
+00:08:30,596 --> 00:08:34,540
+The father calls the river lazy, then
+later warns the speaker that it's
+
+191
+00:08:34,560 --> 00:08:35,560
+dangerous.
+
+192
+00:08:35,810 --> 00:08:37,345
+The first half is right.
+
+193
+00:08:37,596 --> 00:08:40,096
+But the father never warns anyone.
+
+194
+00:08:40,381 --> 00:08:42,596
+The realization belongs to the speaker.
+
+195
+00:08:42,845 --> 00:08:45,275
+Same ideas, wrong person.
+
+196
+00:08:45,300 --> 00:08:46,780
+A has it backward.
+
+197
+00:08:46,800 --> 00:08:51,479
+The speaker never fears the river and
+doesn't end up enjoying its slowness.
+
+198
+00:08:51,658 --> 00:08:55,479
+And C, the family moving
+away, isn't in the poem.
+
+199
+00:08:55,533 --> 00:08:57,655
+So here are the five traps.
+
+200
+00:08:57,675 --> 00:09:00,763
+Too narrow: a true detail
+that isn't the point.
+
+201
+00:09:00,783 --> 00:09:03,083
+Too broad: bigger than the passage.
+
+202
+00:09:03,103 --> 00:09:07,370
+Not in the text: outside knowledge,
+or an invented backstory.
+
+203
+00:09:07,390 --> 00:09:10,747
+Too extreme: never, always, proves.
+
+204
+00:09:10,926 --> 00:09:15,411
+And wrong person: the right idea,
+attached to the wrong person.
+
+205
+00:09:15,431 --> 00:09:18,767
+On harder questions, a wrong
+choice can be half right.
+
+206
+00:09:18,787 --> 00:09:21,839
+It starts out correct, then
+slips in one of these traps.
+
+207
+00:09:21,859 --> 00:09:22,714
+Here's one.
+
+208
+00:09:22,734 --> 00:09:24,020
+Question six.
+
+209
+00:09:24,127 --> 00:09:29,643
+A popular story holds that scholars
+opposed Christopher Columbus's plan to sail
+
+210
+00:09:29,663 --> 00:09:32,876
+west to Asia because they
+believed Earth was flat.
+
+211
+00:09:33,091 --> 00:09:36,071
+Historians have found little
+evidence for this story.
+
+212
+00:09:36,091 --> 00:09:41,448
+Educated Europeans of the fourteen nineties
+widely accepted that Earth is round.
+
+213
+00:09:41,475 --> 00:09:44,296
+The real dispute was over its size.
+
+214
+00:09:44,330 --> 00:09:46,632
+Columbus's critics argued, correctly,
+
+215
+00:09:46,652 --> 00:09:50,045
+that he had badly underestimated
+the distance to Asia.
+
+216
+00:09:50,188 --> 00:09:53,452
+The flat Earth version became
+popular centuries later,
+
+217
+00:09:53,472 --> 00:09:57,310
+in part through an eighteen twenty-eight
+biography of Columbus by Washington
+
+218
+00:09:57,330 --> 00:09:58,310
+Irving.
+
+219
+00:09:58,330 --> 00:10:01,759
+Which choice best states
+the main idea of the text?
+
+220
+00:10:01,782 --> 00:10:02,726
+Pause and try it.
+
+221
+00:10:02,746 --> 00:10:04,246
+Take a little longer on this one.
+
+222
+00:10:08,453 --> 00:10:09,254
+Summarize.
+
+223
+00:10:09,274 --> 00:10:11,381
+It opens with a popular story.
+
+224
+00:10:11,452 --> 00:10:15,504
+Then the turn: historians have
+found little evidence for it.
+
+225
+00:10:15,524 --> 00:10:18,790
+Everything after that
+explains what really happened,
+
+226
+00:10:18,810 --> 00:10:20,575
+and where the myth came from.
+
+227
+00:10:20,595 --> 00:10:23,647
+One sentence: the flat
+Earth story is a myth,
+
+228
+00:10:23,667 --> 00:10:26,468
+and the real argument was about size.
+
+229
+00:10:26,488 --> 00:10:27,774
+That's choice C.
+
+230
+00:10:27,824 --> 00:10:32,590
+B is the toughest trap: the critics
+correctly argued that he had underestimated
+
+231
+00:10:32,610 --> 00:10:33,590
+the distance.
+
+232
+00:10:33,610 --> 00:10:35,804
+That's true, and it's an important line.
+
+233
+00:10:35,824 --> 00:10:39,876
+But it says nothing about the popular
+story the whole passage is built around.
+
+234
+00:10:39,896 --> 00:10:41,503
+True, but too narrow.
+
+235
+00:10:41,572 --> 00:10:42,588
+D is half right.
+
+236
+00:10:42,608 --> 00:10:44,944
+Yes, the critics knew Earth was round.
+
+237
+00:10:44,964 --> 00:10:47,338
+But D says they
+underestimated the distance.
+
+238
+00:10:47,358 --> 00:10:48,945
+It was Columbus who did that.
+
+239
+00:10:48,965 --> 00:10:52,337
+That's the wrong person trap, hiding
+in a choice that starts out correct.
+
+240
+00:10:52,357 --> 00:10:54,108
+Read every word.
+
+241
+00:10:54,154 --> 00:10:57,777
+And A, most stories
+about famous explorers,
+
+242
+00:10:57,797 --> 00:11:00,562
+is too broad and too extreme at once.
+
+243
+00:11:00,582 --> 00:11:03,005
+The passage is about one story.
+
+244
+00:11:03,025 --> 00:11:04,326
+Here's your test-day routine.
+
+245
+00:11:04,346 --> 00:11:08,203
+Read the question first, so
+you know which kind it is:
+
+246
+00:11:08,489 --> 00:11:10,631
+main idea, or detail.
+
+247
+00:11:10,674 --> 00:11:14,082
+Main idea: read the whole
+passage, find the turn,
+
+248
+00:11:14,102 --> 00:11:17,333
+and say the point in one sentence
+before you look at the choices.
+
+249
+00:11:17,353 --> 00:11:20,082
+Then pick the choice that
+fits the whole passage,
+
+250
+00:11:20,102 --> 00:11:21,960
+no more and no less.
+
+251
+00:11:21,999 --> 00:11:25,177
+Detail: find the line
+that answers the question.
+
+252
+00:11:25,214 --> 00:11:27,551
+The right answer restates that line.
+
+253
+00:11:27,571 --> 00:11:31,622
+Check who said or did what, and
+cross out anything too extreme,
+
+254
+00:11:31,642 --> 00:11:33,821
+too broad, or not in the text.
+
+255
+00:11:33,850 --> 00:11:37,473
+You have a little over a
+minute per question on average.
+
+256
+00:11:37,493 --> 00:11:40,259
+Detail questions go fast
+once you find the line,
+
+257
+00:11:40,279 --> 00:11:43,385
+so save that time for the
+harder main idea ones.
+
+258
+00:11:43,416 --> 00:11:44,416
+Recap.
+
+259
+00:11:44,452 --> 00:11:49,825
+Main idea: summarize first, then pick
+the choice that fits the whole passage.
+
+260
+00:11:49,845 --> 00:11:52,345
+Details: find the line that proves it.
+
+261
+00:11:52,487 --> 00:11:55,396
+And remember: true isn't enough.
+
+262
+00:11:55,416 --> 00:11:57,267
+It has to be the point.
+
+263
+00:11:57,287 --> 00:12:00,302
+Every question here, including
+the story and the poem,
+
+264
+00:12:00,322 --> 00:12:04,394
+was written for this video,
+in the style of the real test.
+
+265
+00:12:04,536 --> 00:12:08,517
+For official practice, the College
+Board's free Question Bank lets you filter
+
+266
+00:12:08,537 --> 00:12:10,644
+for Central Ideas and Details.
+
+267
+00:12:10,676 --> 00:12:12,212
+If this helped, subscribe.
+
+268
+00:12:12,354 --> 00:12:18,175
+Next up: a new set of hard questions
+to try before the March sixth SAT.

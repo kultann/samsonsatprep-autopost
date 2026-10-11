@@ -1,0 +1,30 @@
+{
+  "id": "long-29_probability-two-way-tables",
+  "type": "longform",
+  "order": 29,
+  "publish_at": "2026-12-17T16:00:00-06:00",
+  "video": "29_probability-two-way-tables.mp4",
+  "video_bytes": 205567755,
+  "title": "SAT Probability & Two-Way Tables: And, Or, Given, Expected Counts",
+  "description": "Probability on the digital SAT is almost never hard math. It's one decision: which total do you divide by? This lesson covers every way the skill is tested, with seven SAT-style practice questions that get harder as you go.\n\nYou'll learn:\n• Probability as favorable over total, and the complement (not = 1 − p)\n• How to read a two-way table and find every possible denominator\n• Conditional probability: \"given\" means restrict to one row or column\n• \"And\" vs \"or\" (and how not to double count)\n• Expected counts: probability × total\n• Working backward from a probability to a missing count\n• Building your own table from percents (the hardest type)\n• A 4-step test-day method\n\nAll practice questions are original SAT-style questions written for this video, not official College Board questions. All tables use illustrative data. For official practice, use the free SAT Suite Question Bank (Problem-Solving and Data Analysis → Probability and conditional probability).\n\nCHAPTERS\n0:00 Intro\n0:42 Probability basics\n1:07 Example 1: Not blue\n1:56 Reading a two-way table\n2:50 Which total? Three denominators\n3:43 Example 2: And\n4:26 Example 3: Given\n5:09 Example 4: Or\n6:09 Example 5: Expected counts\n7:10 Example 6: Work backward\n8:05 Harder example: Build your own table\n9:29 Test-day method\n10:14 Recap\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT probability",
+    "two-way tables",
+    "conditional probability",
+    "SAT two-way table",
+    "digital SAT math",
+    "problem solving and data analysis",
+    "SAT math practice",
+    "SAT prep",
+    "probability given",
+    "SAT data analysis"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/29_probability-two-way-tables",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

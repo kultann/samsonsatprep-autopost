@@ -1,0 +1,1094 @@
+1
+00:00:00,182 --> 00:00:04,663
+Lines, angles, and triangles questions
+give you a figure and a few facts.
+
+2
+00:00:04,683 --> 00:00:07,484
+The whole skill is knowing
+which angles are equal,
+
+3
+00:00:07,504 --> 00:00:11,304
+which ones add up to one eighty, and
+which triangles are secretly the same
+
+4
+00:00:11,324 --> 00:00:12,026
+shape.
+
+5
+00:00:12,046 --> 00:00:16,276
+The mistake that costs the most points
+is using a fact the question never gave
+
+6
+00:00:16,296 --> 00:00:16,955
+you.
+
+7
+00:00:16,975 --> 00:00:19,867
+Treating lines as parallel
+because they look parallel.
+
+8
+00:00:19,975 --> 00:00:22,347
+Matching the wrong sides of two triangles.
+
+9
+00:00:22,367 --> 00:00:25,598
+We'll fix both, then work
+through six practice questions,
+
+10
+00:00:25,618 --> 00:00:26,929
+ending with a hard one.
+
+11
+00:00:26,949 --> 00:00:29,643
+Two lines that cross make four angles.
+
+12
+00:00:29,663 --> 00:00:32,500
+The angles across from each
+other are vertical angles,
+
+13
+00:00:32,520 --> 00:00:34,285
+and they're always equal.
+
+14
+00:00:34,305 --> 00:00:37,249
+Angles next to each
+other form a linear pair.
+
+15
+00:00:37,269 --> 00:00:40,786
+Together they make a straight
+line, so they add up to one eighty.
+
+16
+00:00:40,806 --> 00:00:46,179
+So if one angle is seventy degrees, the
+angle across from it is also seventy,
+
+17
+00:00:46,199 --> 00:00:48,913
+and the other two are
+each one hundred ten.
+
+18
+00:00:49,055 --> 00:00:51,485
+One number gives you all four.
+
+19
+00:00:51,541 --> 00:00:54,128
+Now two parallel lines
+cut by a third line,
+
+20
+00:00:54,148 --> 00:00:55,613
+called a transversal.
+
+21
+00:00:55,684 --> 00:00:58,613
+That makes eight angles,
+but only two sizes.
+
+22
+00:00:58,755 --> 00:01:01,986
+The small angles are all equal,
+the big angles are all equal,
+
+23
+00:01:02,006 --> 00:01:04,791
+and a small one plus a
+big one is one eighty.
+
+24
+00:01:04,854 --> 00:01:08,048
+The SAT uses the official
+names, so know them.
+
+25
+00:01:08,068 --> 00:01:12,047
+Corresponding angles sit in the
+same position at each crossing,
+
+26
+00:01:12,067 --> 00:01:13,334
+and they're equal.
+
+27
+00:01:13,354 --> 00:01:16,119
+Alternate interior angles
+are between the lines,
+
+28
+00:01:16,139 --> 00:01:18,120
+on opposite sides of the transversal,
+
+29
+00:01:18,140 --> 00:01:19,571
+and they're equal too.
+
+30
+00:01:19,591 --> 00:01:21,750
+Same side interior angles
+are between the lines,
+
+31
+00:01:21,770 --> 00:01:23,821
+on the same side of the transversal.
+
+32
+00:01:23,841 --> 00:01:25,250
+Those are not equal.
+
+33
+00:01:25,270 --> 00:01:27,213
+They add up to one eighty.
+
+34
+00:01:27,233 --> 00:01:31,876
+Mixing up equal and supplementary is
+one of the most common angle mistakes.
+
+35
+00:01:31,937 --> 00:01:34,560
+All of this only works if
+the lines are parallel,
+
+36
+00:01:34,580 --> 00:01:37,846
+and the question has to say
+so or mark them with arrows.
+
+37
+00:01:37,866 --> 00:01:42,095
+The test directions say figures are
+drawn to scale unless noted otherwise,
+
+38
+00:01:42,115 --> 00:01:44,310
+so a figure can help you check an answer.
+
+39
+00:01:44,330 --> 00:01:46,937
+But looking parallel
+doesn't prove anything.
+
+40
+00:01:46,996 --> 00:01:47,940
+Triangles.
+
+41
+00:01:47,960 --> 00:01:50,905
+The three angles of a
+triangle add up to one eighty.
+
+42
+00:01:50,925 --> 00:01:52,440
+That one is on the reference sheet.
+
+43
+00:01:52,460 --> 00:01:54,118
+The next rule isn't.
+
+44
+00:01:54,138 --> 00:01:56,976
+An exterior angle, made
+by extending one side,
+
+45
+00:01:56,996 --> 00:02:01,039
+equals the sum of the two interior
+angles that aren't next to it.
+
+46
+00:02:01,059 --> 00:02:03,610
+If those two angles are
+forty and seventy-five,
+
+47
+00:02:03,630 --> 00:02:06,718
+the exterior angle is one fifteen.
+
+48
+00:02:06,738 --> 00:02:10,345
+Check it: the third interior
+angle is sixty-five,
+
+49
+00:02:10,415 --> 00:02:14,059
+and one eighty minus
+sixty-five is one fifteen.
+
+50
+00:02:14,083 --> 00:02:16,348
+Isosceles triangles have two equal sides,
+
+51
+00:02:16,368 --> 00:02:19,118
+and the angles opposite
+those sides are equal.
+
+52
+00:02:19,225 --> 00:02:21,741
+Equilateral triangles
+have three equal sides,
+
+53
+00:02:21,761 --> 00:02:24,047
+so every angle is sixty degrees.
+
+54
+00:02:24,076 --> 00:02:26,090
+Similar triangles have the same shape,
+
+55
+00:02:26,110 --> 00:02:28,270
+but not always the same size.
+
+56
+00:02:28,290 --> 00:02:31,162
+Their angles are equal, and
+their sides are proportional.
+
+57
+00:02:31,182 --> 00:02:33,794
+Two pairs of equal angles
+is enough to prove it.
+
+58
+00:02:33,814 --> 00:02:35,206
+Order matters.
+
+59
+00:02:35,492 --> 00:02:40,044
+If triangle A B C is
+similar to triangle D E F,
+
+60
+00:02:40,064 --> 00:02:44,721
+then A matches D, B
+matches E, and C matches F.
+
+61
+00:02:44,741 --> 00:02:49,044
+So A B over D E equals B C over E F.
+
+62
+00:02:49,064 --> 00:02:51,528
+Write the match before
+you write a proportion.
+
+63
+00:02:51,566 --> 00:02:56,617
+The SAT's favorite setup is a segment
+drawn parallel to one side of a triangle.
+
+64
+00:02:56,637 --> 00:03:00,046
+It cuts off a small triangle
+that's similar to the big one,
+
+65
+00:03:00,066 --> 00:03:03,617
+because the parallel lines make
+equal corresponding angles.
+
+66
+00:03:03,637 --> 00:03:06,709
+Compare the small triangle
+to the whole big triangle.
+
+67
+00:03:06,738 --> 00:03:10,004
+Congruent triangles have the
+same shape and the same size.
+
+68
+00:03:10,024 --> 00:03:14,647
+Side side side, side angle
+side, angle side angle,
+
+69
+00:03:14,667 --> 00:03:18,075
+and angle angle side all prove congruence.
+
+70
+00:03:18,095 --> 00:03:21,042
+Three angles alone only prove similarity.
+
+71
+00:03:21,062 --> 00:03:23,418
+Here's how to spot what a question wants.
+
+72
+00:03:23,561 --> 00:03:25,613
+Parallel means angle pairs.
+
+73
+00:03:25,633 --> 00:03:28,577
+Equal sides or tick marks mean isosceles.
+
+74
+00:03:28,597 --> 00:03:33,193
+A side extended to a new point means
+an exterior angle or a linear pair.
+
+75
+00:03:33,213 --> 00:03:37,586
+A segment parallel to a side, or
+two triangles with matching angles,
+
+76
+00:03:37,606 --> 00:03:40,300
+means similar triangles and a proportion.
+
+77
+00:03:40,320 --> 00:03:44,713
+And the word sufficient means the
+congruence and similarity rules.
+
+78
+00:03:44,755 --> 00:03:45,755
+Question one.
+
+79
+00:03:45,827 --> 00:03:49,128
+In the figure, line L
+is parallel to line M,
+
+80
+00:03:49,148 --> 00:03:51,414
+and line T crosses both.
+
+81
+00:03:51,434 --> 00:03:56,627
+Where T crosses line L, the angle above
+L and to the left of T measures two x
+
+82
+00:03:56,647 --> 00:03:58,127
+plus fifteen degrees.
+
+83
+00:03:58,147 --> 00:04:03,914
+Where T crosses line M, the angle above
+M and to the right of T measures four x
+
+84
+00:04:03,934 --> 00:04:05,521
+minus fifteen degrees.
+
+85
+00:04:05,541 --> 00:04:07,469
+What is the value of x?
+
+86
+00:04:07,567 --> 00:04:08,781
+Pause and try it.
+
+87
+00:04:12,994 --> 00:04:15,008
+These two angles aren't
+a standard pair yet,
+
+88
+00:04:15,028 --> 00:04:16,366
+so move one.
+
+89
+00:04:16,386 --> 00:04:20,366
+The angle across from two x plus
+fifteen is its vertical angle,
+
+90
+00:04:20,386 --> 00:04:22,671
+below line L and right of T.
+
+91
+00:04:22,994 --> 00:04:24,035
+Same measure.
+
+92
+00:04:24,055 --> 00:04:28,821
+Now that angle and four x minus
+fifteen are both between the lines,
+
+93
+00:04:28,841 --> 00:04:30,321
+on the same side of T.
+
+94
+00:04:30,341 --> 00:04:33,428
+Same side interior angles
+add up to one eighty.
+
+95
+00:04:33,448 --> 00:04:37,034
+So six x equals one
+eighty, and x is thirty.
+
+96
+00:04:37,054 --> 00:04:38,642
+The answer is B.
+
+97
+00:04:38,662 --> 00:04:42,749
+Check it: the angles are
+seventy-five and one hundred five,
+
+98
+00:04:42,769 --> 00:04:45,590
+a small one and a big
+one, like the figure.
+
+99
+00:04:45,768 --> 00:04:48,125
+A comes from setting them equal.
+
+100
+00:04:48,269 --> 00:04:51,233
+C and D are the angles, not x.
+
+101
+00:04:51,275 --> 00:04:52,382
+Question two.
+
+102
+00:04:52,846 --> 00:04:57,005
+In triangle A B C, A B equals A C.
+
+103
+00:04:57,025 --> 00:05:00,775
+Side B C is extended past C to point D.
+
+104
+00:05:00,918 --> 00:05:05,417
+The measure of angle A C D is
+one hundred fifteen degrees.
+
+105
+00:05:05,525 --> 00:05:09,790
+What is the measure, in
+degrees, of angle B A C?
+
+106
+00:05:09,810 --> 00:05:11,024
+Pause and try it.
+
+107
+00:05:14,237 --> 00:05:19,038
+Angle A C D and angle A
+C B form a linear pair,
+
+108
+00:05:19,058 --> 00:05:22,717
+so angle A C B is one
+eighty minus one fifteen,
+
+109
+00:05:22,737 --> 00:05:24,165
+which is sixty-five.
+
+110
+00:05:24,275 --> 00:05:28,719
+A B equals A C, so the equal angles
+are the ones opposite those sides:
+
+111
+00:05:28,739 --> 00:05:30,469
+angle C and angle B.
+
+112
+00:05:30,489 --> 00:05:32,861
+So angle B is also sixty-five.
+
+113
+00:05:32,881 --> 00:05:35,791
+That leaves one eighty minus
+one thirty for angle A.
+
+114
+00:05:35,811 --> 00:05:36,877
+Enter fifty.
+
+115
+00:05:36,897 --> 00:05:41,841
+Exterior angle check: fifty
+plus sixty-five is one fifteen.
+
+116
+00:05:41,861 --> 00:05:45,483
+The trap is treating angle A
+as one of the equal angles.
+
+117
+00:05:45,503 --> 00:05:48,932
+The equal angles always sit
+opposite the equal sides.
+
+118
+00:05:48,973 --> 00:05:50,096
+Question three.
+
+119
+00:05:50,116 --> 00:05:56,238
+In triangle P Q R, point S lies on
+side P Q and point T lies on side P R,
+
+120
+00:05:56,258 --> 00:06:00,739
+so that segment S T is
+parallel to side Q R.
+
+121
+00:06:00,759 --> 00:06:05,025
+If P S is six, S Q is
+nine, and P T is eight,
+
+122
+00:06:05,045 --> 00:06:06,830
+what is the length of T R?
+
+123
+00:06:06,864 --> 00:06:08,078
+Pause and try it.
+
+124
+00:06:12,291 --> 00:06:18,735
+S T is parallel to Q R, so triangle
+P S T is similar to triangle P Q R.
+
+125
+00:06:18,755 --> 00:06:21,627
+Compare small to big, using whole sides.
+
+126
+00:06:21,647 --> 00:06:24,377
+P Q is six plus nine, or fifteen.
+
+127
+00:06:24,397 --> 00:06:28,398
+So six over fifteen equals eight over P R.
+
+128
+00:06:28,433 --> 00:06:33,091
+Cross multiply: six times
+P R equals one twenty,
+
+129
+00:06:33,111 --> 00:06:35,040
+so P R is twenty.
+
+130
+00:06:35,325 --> 00:06:38,789
+But the question asks for
+T R, the piece below T.
+
+131
+00:06:39,040 --> 00:06:41,290
+Twenty minus eight is twelve.
+
+132
+00:06:41,503 --> 00:06:43,026
+The answer is C.
+
+133
+00:06:43,046 --> 00:06:47,312
+Shortcut: a parallel segment cuts
+both sides in the same ratio,
+
+134
+00:06:47,332 --> 00:06:50,991
+so six over nine equals eight over T R.
+
+135
+00:06:51,011 --> 00:06:53,275
+That works for the
+pieces of the cut sides,
+
+136
+00:06:53,295 --> 00:06:56,511
+but for S T and Q R, use whole sides.
+
+137
+00:06:56,546 --> 00:06:58,989
+D is P R, the whole side.
+
+138
+00:06:59,009 --> 00:07:00,526
+A flips the ratio.
+
+139
+00:07:00,546 --> 00:07:03,668
+B adds three, because nine
+is three more than six.
+
+140
+00:07:03,688 --> 00:07:06,276
+Similar triangles scale by multiplying,
+
+141
+00:07:06,296 --> 00:07:07,608
+never by adding.
+
+142
+00:07:07,628 --> 00:07:08,822
+Question four.
+
+143
+00:07:08,842 --> 00:07:15,822
+In triangles J K L and R S T, angles J
+and R each measure thirty-five degrees,
+
+144
+00:07:15,842 --> 00:07:19,786
+and angles K and S each
+measure eighty degrees.
+
+145
+00:07:19,806 --> 00:07:23,608
+Which additional piece of information
+is sufficient to determine whether
+
+146
+00:07:23,628 --> 00:07:29,128
+triangle J K L is congruent
+to triangle R S T?
+
+147
+00:07:29,150 --> 00:07:30,365
+Pause and try it.
+
+148
+00:07:34,577 --> 00:07:37,592
+Two pairs of equal angles
+make the triangles similar.
+
+149
+00:07:37,612 --> 00:07:38,700
+Same shape.
+
+150
+00:07:38,720 --> 00:07:43,343
+Congruent also needs the same size, so
+you need to compare one pair of matching
+
+151
+00:07:43,363 --> 00:07:44,272
+sides.
+
+152
+00:07:44,292 --> 00:07:51,006
+J matches R and K matches S,
+so side J K matches side R S.
+
+153
+00:07:51,049 --> 00:07:55,993
+If J K equals R S, the triangles
+are congruent by angle side angle.
+
+154
+00:07:56,013 --> 00:07:57,636
+If not, they're different sizes.
+
+155
+00:07:57,656 --> 00:07:59,100
+Either way, you can decide.
+
+156
+00:07:59,120 --> 00:08:00,534
+The answer is A.
+
+157
+00:08:00,554 --> 00:08:04,748
+B adds nothing: the third angles
+are already sixty-five degrees each.
+
+158
+00:08:04,768 --> 00:08:08,247
+C is one length from one triangle,
+so there's nothing to compare.
+
+159
+00:08:08,267 --> 00:08:09,747
+D is the trap.
+
+160
+00:08:09,767 --> 00:08:12,661
+Equal angles prove similar, not congruent.
+
+161
+00:08:12,689 --> 00:08:15,490
+Question five, where
+the traps come together.
+
+162
+00:08:15,510 --> 00:08:20,010
+In triangle A B C, point
+D lies on side A B,
+
+163
+00:08:20,082 --> 00:08:22,939
+and point E lies on side A C.
+
+164
+00:08:23,653 --> 00:08:27,832
+Angle A D E is congruent to angle A C B.
+
+165
+00:08:28,225 --> 00:08:32,776
+If A B is twelve, A C
+is nine, and A D is six,
+
+166
+00:08:32,796 --> 00:08:34,832
+what is the length of A E?
+
+167
+00:08:34,885 --> 00:08:36,099
+Pause and try it.
+
+168
+00:08:40,312 --> 00:08:43,719
+It's tempting to treat
+D E as parallel to B C,
+
+169
+00:08:43,739 --> 00:08:45,685
+but the question never says that.
+
+170
+00:08:45,705 --> 00:08:48,578
+What it gives you is one
+pair of equal angles:
+
+171
+00:08:48,598 --> 00:08:52,205
+angle A D E and angle A C B.
+
+172
+00:08:52,312 --> 00:08:55,042
+Both triangles also share angle A.
+
+173
+00:08:55,062 --> 00:08:57,407
+Two pairs of equal angles,
+so they're similar.
+
+174
+00:08:57,427 --> 00:08:59,086
+Now match carefully.
+
+175
+00:08:59,106 --> 00:09:00,550
+A matches A.
+
+176
+00:09:00,570 --> 00:09:03,300
+D matches C, because those
+are the equal angles.
+
+177
+00:09:03,320 --> 00:09:05,514
+That leaves E matching B.
+
+178
+00:09:05,534 --> 00:09:09,943
+So triangle A D E is
+similar to triangle A C B,
+
+179
+00:09:09,963 --> 00:09:10,989
+in that order.
+
+180
+00:09:11,009 --> 00:09:13,008
+Read the sides from that order.
+
+181
+00:09:13,115 --> 00:09:17,330
+A D over A C equals A E over A B.
+
+182
+00:09:17,438 --> 00:09:20,809
+Six over nine equals A E over twelve.
+
+183
+00:09:20,829 --> 00:09:22,525
+Two thirds of twelve is eight.
+
+184
+00:09:22,545 --> 00:09:24,320
+The answer is C.
+
+185
+00:09:24,340 --> 00:09:30,820
+B is what you get if you assume D E is
+parallel to B C and match A D with A B.
+
+186
+00:09:30,840 --> 00:09:34,212
+D flips the ratio, and it's
+longer than all of A C,
+
+187
+00:09:34,232 --> 00:09:35,213
+which is impossible.
+
+188
+00:09:35,233 --> 00:09:37,396
+A subtracts instead of scaling.
+
+189
+00:09:37,416 --> 00:09:39,038
+Those are the three big traps.
+
+190
+00:09:39,058 --> 00:09:41,987
+Assuming lines are parallel
+because they look that way.
+
+191
+00:09:42,058 --> 00:09:45,324
+Matching the wrong sides, so
+write the vertex match first.
+
+192
+00:09:45,344 --> 00:09:48,806
+And mixing up equal and
+supplementary angles.
+
+193
+00:09:48,826 --> 00:09:50,912
+For that last one, use the picture.
+
+194
+00:09:50,932 --> 00:09:55,842
+Small equals small, big equals big,
+and a small one plus a big one is one
+
+195
+00:09:55,862 --> 00:09:56,510
+eighty.
+
+196
+00:09:56,530 --> 00:09:58,474
+Question six, the hardest one.
+
+197
+00:09:58,494 --> 00:10:01,260
+Line L is parallel to line M.
+
+198
+00:10:01,280 --> 00:10:05,724
+Points Q and A lie on line
+L, with Q to the left of A.
+
+199
+00:10:05,744 --> 00:10:10,510
+Points B and R lie on line
+M, with R to the right of B.
+
+200
+00:10:10,530 --> 00:10:12,887
+Point P lies between the two lines.
+
+201
+00:10:12,992 --> 00:10:17,472
+The measure of angle Q A P is
+one hundred forty-two degrees,
+
+202
+00:10:17,492 --> 00:10:21,419
+and the measure of angle R
+B P is forty-seven degrees.
+
+203
+00:10:21,526 --> 00:10:25,527
+What is the measure, in
+degrees, of angle A P B?
+
+204
+00:10:25,592 --> 00:10:26,500
+Pause and try it.
+
+205
+00:10:26,520 --> 00:10:28,020
+Take a little longer on this one.
+
+206
+00:10:32,234 --> 00:10:33,929
+First, the linear pair at A.
+
+207
+00:10:33,949 --> 00:10:39,428
+Angle Q A P is one forty-two, so
+the angle between A P and line L,
+
+208
+00:10:39,448 --> 00:10:42,535
+on the right side of A, is one
+eighty minus one forty-two.
+
+209
+00:10:42,555 --> 00:10:44,376
+That's thirty-eight degrees.
+
+210
+00:10:44,509 --> 00:10:47,597
+Now the trick for any bent
+path between parallel lines.
+
+211
+00:10:47,617 --> 00:10:50,561
+Draw a new line through
+P, parallel to both.
+
+212
+00:10:50,581 --> 00:10:54,044
+It splits angle A P B into two pieces.
+
+213
+00:10:54,170 --> 00:10:58,757
+The top piece and the thirty-eight degree
+angle are alternate interior angles,
+
+214
+00:10:58,777 --> 00:11:00,364
+so the top piece is thirty-eight.
+
+215
+00:11:00,384 --> 00:11:05,043
+The bottom piece and the forty-seven
+degree angle are alternate interior angles
+
+216
+00:11:05,063 --> 00:11:07,419
+too, so the bottom piece is forty-seven.
+
+217
+00:11:07,533 --> 00:11:10,370
+Add them: thirty-eight plus
+forty-seven is eighty-five.
+
+218
+00:11:10,390 --> 00:11:12,120
+Enter eighty-five.
+
+219
+00:11:12,140 --> 00:11:14,798
+If you added one
+forty-two and forty-seven,
+
+220
+00:11:14,818 --> 00:11:16,726
+you used the wrong angle at A.
+
+221
+00:11:16,746 --> 00:11:19,104
+That's why you fix the linear pair first.
+
+222
+00:11:19,135 --> 00:11:21,472
+Here's the method for any lines, angles,
+
+223
+00:11:21,492 --> 00:11:23,135
+or triangles question.
+
+224
+00:11:23,171 --> 00:11:25,564
+One: mark only what's given.
+
+225
+00:11:25,600 --> 00:11:28,400
+Parallel arrows, tick marks, right angles.
+
+226
+00:11:28,420 --> 00:11:30,008
+Two: angle chase.
+
+227
+00:11:30,028 --> 00:11:32,722
+Fill in every angle you
+can with linear pairs,
+
+228
+00:11:32,742 --> 00:11:34,992
+vertical angles, and the one eighty rule.
+
+229
+00:11:35,097 --> 00:11:38,382
+Three: for lengths,
+find similar triangles.
+
+230
+00:11:38,489 --> 00:11:41,077
+Write the vertex match,
+then the proportion,
+
+231
+00:11:41,097 --> 00:11:42,668
+using whole sides.
+
+232
+00:11:42,847 --> 00:11:44,597
+Four: stuck?
+
+233
+00:11:44,704 --> 00:11:47,719
+Add a line, like a parallel
+line through a point.
+
+234
+00:11:47,739 --> 00:11:50,470
+Five: reread what they ask for.
+
+235
+00:11:50,490 --> 00:11:52,327
+The angle or x?
+
+236
+00:11:52,347 --> 00:11:54,298
+The whole side or a piece?
+
+237
+00:11:54,318 --> 00:11:58,191
+For more practice, the College Board's
+free Question Bank lets you filter for
+
+238
+00:11:58,211 --> 00:12:02,997
+lines, angles, and triangles
+under Geometry and Trigonometry.
+
+239
+00:12:03,104 --> 00:12:06,798
+Every question in this video
+was written for this video,
+
+240
+00:12:06,818 --> 00:12:09,176
+in the style of the real test.
+
+241
+00:12:09,208 --> 00:12:12,045
+Next up: right triangles and trigonometry.
+
+242
+00:12:12,065 --> 00:12:14,831
+The Pythagorean theorem,
+special right triangles,
+
+243
+00:12:14,851 --> 00:12:17,315
+and sine, cosine, and tangent.
+
+244
+00:12:17,423 --> 00:12:19,636
+If this helped, subscribe so you catch it.

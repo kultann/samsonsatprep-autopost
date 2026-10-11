@@ -1,0 +1,1156 @@
+1
+00:00:00,182 --> 00:00:04,127
+Right triangle questions on the
+SAT use a small set of tools:
+
+2
+00:00:04,147 --> 00:00:07,091
+the Pythagorean theorem,
+two special right triangles,
+
+3
+00:00:07,111 --> 00:00:08,734
+and three trig ratios.
+
+4
+00:00:08,754 --> 00:00:11,805
+You'll learn each one,
+see how the SAT tests it,
+
+5
+00:00:11,825 --> 00:00:15,486
+and work through seven practice
+questions that get harder as they go.
+
+6
+00:00:15,506 --> 00:00:18,399
+The most common mistake
+isn't forgetting a formula.
+
+7
+00:00:18,433 --> 00:00:21,307
+It's labeling the sides
+from the wrong angle.
+
+8
+00:00:21,327 --> 00:00:24,683
+Opposite and adjacent change
+depending on where you're standing.
+
+9
+00:00:24,862 --> 00:00:28,255
+Get that habit right, and most
+of these questions get easier.
+
+10
+00:00:28,287 --> 00:00:31,910
+Start with the Pythagorean theorem,
+which is on the reference sheet.
+
+11
+00:00:31,930 --> 00:00:34,910
+a squared plus b squared equals c squared.
+
+12
+00:00:34,930 --> 00:00:37,695
+The legs, a and b, form the right angle.
+
+13
+00:00:37,715 --> 00:00:40,838
+The hypotenuse, c, is
+across from the right angle,
+
+14
+00:00:40,858 --> 00:00:43,394
+and it's always the longest side.
+
+15
+00:00:43,421 --> 00:00:46,151
+The SAT loves whole-number
+right triangles,
+
+16
+00:00:46,171 --> 00:00:48,171
+called Pythagorean triples.
+
+17
+00:00:48,207 --> 00:00:49,472
+Memorize three.
+
+18
+00:00:49,492 --> 00:00:52,151
+Three, four, five.
+
+19
+00:00:52,171 --> 00:00:54,972
+Five, twelve, thirteen.
+
+20
+00:00:54,992 --> 00:00:57,615
+And eight, fifteen, seventeen.
+
+21
+00:00:57,635 --> 00:00:59,294
+Their multiples work too.
+
+22
+00:00:59,314 --> 00:01:04,492
+Six, eight, ten is just
+three, four, five doubled.
+
+23
+00:01:04,562 --> 00:01:08,506
+So if the legs are nine and twelve,
+you don't need to square anything.
+
+24
+00:01:08,526 --> 00:01:11,648
+Nine and twelve are three
+and four, times three.
+
+25
+00:01:11,668 --> 00:01:14,862
+So the hypotenuse is five times three,
+
+26
+00:01:14,882 --> 00:01:15,920
+fifteen.
+
+27
+00:01:15,940 --> 00:01:18,277
+Next, the two special right triangles,
+
+28
+00:01:18,297 --> 00:01:19,885
+also on the reference sheet.
+
+29
+00:01:19,905 --> 00:01:23,169
+In a forty-five,
+forty-five, ninety triangle,
+
+30
+00:01:23,189 --> 00:01:27,812
+the legs are equal, and the
+hypotenuse is a leg times root two.
+
+31
+00:01:27,832 --> 00:01:32,187
+So the sides are s, s, and s root two.
+
+32
+00:01:32,207 --> 00:01:36,222
+In a thirty, sixty, ninety
+triangle, the sides are x,
+
+33
+00:01:36,242 --> 00:01:38,600
+x root three, and two x.
+
+34
+00:01:38,707 --> 00:01:42,563
+The short side, x, is across
+from the thirty degree angle.
+
+35
+00:01:42,635 --> 00:01:44,722
+The hypotenuse is twice that.
+
+36
+00:01:44,742 --> 00:01:47,385
+And x root three is across from the sixty.
+
+37
+00:01:47,435 --> 00:01:48,629
+One warning.
+
+38
+00:01:48,649 --> 00:01:53,113
+These ratios only work when the
+angles really are forty-five,
+
+39
+00:01:53,149 --> 00:01:56,808
+forty-five, ninety, or thirty, sixty,
+
+40
+00:01:56,828 --> 00:01:57,807
+ninety.
+
+41
+00:01:57,827 --> 00:02:00,435
+A triangle that just looks special isn't.
+
+42
+00:02:00,489 --> 00:02:01,826
+Quick note on radians.
+
+43
+00:02:01,846 --> 00:02:04,683
+If an angle is given
+in radians, convert it.
+
+44
+00:02:04,703 --> 00:02:08,290
+The reference sheet says a full
+circle is three hundred sixty degrees,
+
+45
+00:02:08,310 --> 00:02:12,897
+or two pi radians, so pi radians
+is one hundred eighty degrees.
+
+46
+00:02:12,917 --> 00:02:17,183
+Pi over six is thirty degrees,
+pi over four is forty-five,
+
+47
+00:02:17,203 --> 00:02:19,647
+and pi over three is sixty.
+
+48
+00:02:19,667 --> 00:02:21,595
+Then use the same triangles.
+
+49
+00:02:21,640 --> 00:02:23,354
+Now trigonometry.
+
+50
+00:02:23,389 --> 00:02:25,834
+For an acute angle in a right triangle,
+
+51
+00:02:25,854 --> 00:02:27,263
+there are three ratios.
+
+52
+00:02:27,283 --> 00:02:29,977
+Sine is opposite over hypotenuse.
+
+53
+00:02:29,997 --> 00:02:32,584
+Cosine is adjacent over hypotenuse.
+
+54
+00:02:32,604 --> 00:02:35,140
+Tangent is opposite over adjacent.
+
+55
+00:02:35,175 --> 00:02:37,533
+The memory trick is soh cah toa.
+
+56
+00:02:37,610 --> 00:02:38,610
+Here's the key.
+
+57
+00:02:38,717 --> 00:02:41,503
+The hypotenuse never changes.
+
+58
+00:02:41,574 --> 00:02:44,662
+But opposite and adjacent
+depend on where you stand.
+
+59
+00:02:44,682 --> 00:02:47,768
+From angle A, opposite is
+the side across from A,
+
+60
+00:02:47,788 --> 00:02:50,859
+and adjacent is the leg touching A.
+
+61
+00:02:50,896 --> 00:02:54,574
+Move to angle B, and
+those two legs swap jobs.
+
+62
+00:02:54,601 --> 00:02:58,172
+That swap leads to a rule
+the SAT tests directly.
+
+63
+00:02:58,280 --> 00:03:01,903
+The two acute angles in a right
+triangle add up to ninety degrees,
+
+64
+00:03:01,923 --> 00:03:04,958
+and the side opposite A is adjacent to B.
+
+65
+00:03:05,030 --> 00:03:08,127
+So sine of A equals cosine of B.
+
+66
+00:03:08,147 --> 00:03:14,198
+In general, sine of x degrees equals
+cosine of ninety minus x degrees.
+
+67
+00:03:14,218 --> 00:03:18,162
+Sine of twenty degrees equals
+cosine of seventy degrees.
+
+68
+00:03:18,182 --> 00:03:22,090
+So when sine of one acute
+angle equals cosine of another,
+
+69
+00:03:22,110 --> 00:03:24,393
+the two angles add up to ninety.
+
+70
+00:03:24,413 --> 00:03:25,413
+Last idea.
+
+71
+00:03:25,699 --> 00:03:28,536
+Trig ratios depend only on the angles,
+
+72
+00:03:28,556 --> 00:03:30,735
+not on the size of the triangle.
+
+73
+00:03:30,877 --> 00:03:33,965
+So similar right triangles
+share the same sine,
+
+74
+00:03:33,985 --> 00:03:35,519
+cosine, and tangent.
+
+75
+00:03:35,698 --> 00:03:39,465
+Scale a three, four,
+five triangle up to six,
+
+76
+00:03:39,485 --> 00:03:43,875
+eight, ten, and the sine of the
+matching angle is still three fifths.
+
+77
+00:03:43,895 --> 00:03:45,467
+Here's how to spot what you need.
+
+78
+00:03:45,610 --> 00:03:47,860
+Two sides, and they want the third?
+
+79
+00:03:48,038 --> 00:03:51,110
+Pythagorean theorem,
+and look for a triple.
+
+80
+00:03:51,252 --> 00:03:54,180
+Thirty, forty-five, or sixty degrees?
+
+81
+00:03:54,360 --> 00:03:56,003
+Special triangles.
+
+82
+00:03:56,073 --> 00:03:59,003
+Asked for a sine, cosine, or tangent?
+
+83
+00:03:59,253 --> 00:04:01,360
+Draw it, and label from that angle.
+
+84
+00:04:01,409 --> 00:04:04,622
+Sine of one expression
+equals cosine of another?
+
+85
+00:04:04,695 --> 00:04:05,960
+Add them to ninety.
+
+86
+00:04:05,980 --> 00:04:07,409
+Similar triangles?
+
+87
+00:04:07,445 --> 00:04:09,266
+Copy the ratio across.
+
+88
+00:04:09,373 --> 00:04:13,746
+And a non-special angle usually
+means an answer written with sine,
+
+89
+00:04:13,766 --> 00:04:15,373
+cosine, or tangent.
+
+90
+00:04:15,457 --> 00:04:16,401
+Question one.
+
+91
+00:04:16,421 --> 00:04:19,258
+A twenty foot ladder leans
+against a vertical wall.
+
+92
+00:04:19,278 --> 00:04:21,401
+The bottom of the ladder
+is on level ground,
+
+93
+00:04:21,421 --> 00:04:23,366
+twelve feet from the base of the wall.
+
+94
+00:04:23,386 --> 00:04:27,524
+How many feet above the ground does
+the top of the ladder touch the wall?
+
+95
+00:04:27,544 --> 00:04:28,830
+Pause and try it.
+
+96
+00:04:32,086 --> 00:04:33,959
+The wall and the ground
+make the right angle,
+
+97
+00:04:33,979 --> 00:04:37,030
+so the ladder, across from
+it, is the hypotenuse:
+
+98
+00:04:37,050 --> 00:04:37,995
+twenty.
+
+99
+00:04:38,015 --> 00:04:39,244
+Twelve is a leg.
+
+100
+00:04:39,264 --> 00:04:41,173
+Twelve and twenty are three and five,
+
+101
+00:04:41,193 --> 00:04:42,172
+times four.
+
+102
+00:04:42,192 --> 00:04:46,852
+So it's a three, four, five
+triangle scaled by four,
+
+103
+00:04:46,872 --> 00:04:49,209
+and the missing leg is four times four,
+
+104
+00:04:49,229 --> 00:04:49,959
+sixteen.
+
+105
+00:04:49,979 --> 00:04:51,943
+The answer is B.
+
+106
+00:04:51,981 --> 00:04:57,282
+Check: twelve squared plus sixteen squared
+is one forty-four plus two fifty-six,
+
+107
+00:04:57,302 --> 00:05:00,159
+which is four hundred, twenty squared.
+
+108
+00:05:00,195 --> 00:05:01,603
+The trap is C.
+
+109
+00:05:01,623 --> 00:05:04,960
+It treats the ladder as a
+leg and adds the squares.
+
+110
+00:05:04,980 --> 00:05:08,266
+A and D just subtract and add the sides.
+
+111
+00:05:08,308 --> 00:05:09,487
+Question two.
+
+112
+00:05:10,057 --> 00:05:14,594
+In right triangle J K L,
+angle K is a right angle,
+
+113
+00:05:14,808 --> 00:05:18,593
+J K equals twenty, and
+K L equals twenty-one.
+
+114
+00:05:19,021 --> 00:05:21,648
+What is the value of sine of L?
+
+115
+00:05:21,668 --> 00:05:22,954
+Pause and try it.
+
+116
+00:05:26,210 --> 00:05:28,404
+There's no figure, so draw one.
+
+117
+00:05:28,424 --> 00:05:30,031
+Put the right angle at K.
+
+118
+00:05:30,138 --> 00:05:32,868
+The hypotenuse is across
+from K, so it's J L.
+
+119
+00:05:32,888 --> 00:05:35,654
+Twenty and twenty-one
+aren't a triple you know,
+
+120
+00:05:35,674 --> 00:05:37,067
+so use the theorem.
+
+121
+00:05:37,137 --> 00:05:40,332
+Four hundred plus four
+forty-one is eight forty-one,
+
+122
+00:05:40,352 --> 00:05:42,388
+and its square root is twenty-nine.
+
+123
+00:05:42,494 --> 00:05:43,724
+Now stand at L.
+
+124
+00:05:43,744 --> 00:05:47,331
+The side opposite L is
+J K, which is twenty.
+
+125
+00:05:47,351 --> 00:05:49,458
+The hypotenuse is twenty-nine.
+
+126
+00:05:49,530 --> 00:05:52,331
+So sine of L is twenty over twenty-nine.
+
+127
+00:05:52,351 --> 00:05:54,493
+The answer is C.
+
+128
+00:05:54,521 --> 00:05:57,573
+Every other choice is a real
+ratio from this triangle,
+
+129
+00:05:57,593 --> 00:06:00,858
+just the wrong one:
+cosine of L, tangent of L,
+
+130
+00:06:00,878 --> 00:06:04,335
+and tangent of J, which is
+labeled from the wrong angle.
+
+131
+00:06:04,355 --> 00:06:05,478
+Question three.
+
+132
+00:06:05,498 --> 00:06:08,799
+In right triangle P Q R,
+angle Q is a right angle,
+
+133
+00:06:08,819 --> 00:06:13,641
+angle P measures sixty degrees,
+and P R equals fourteen.
+
+134
+00:06:13,711 --> 00:06:15,569
+What is the length of Q R?
+
+135
+00:06:15,589 --> 00:06:16,874
+Pause and try it.
+
+136
+00:06:20,131 --> 00:06:23,289
+Angle Q is ninety and angle P is sixty,
+
+137
+00:06:23,309 --> 00:06:25,218
+so angle R is thirty.
+
+138
+00:06:25,238 --> 00:06:28,075
+It's a thirty, sixty, ninety triangle.
+
+139
+00:06:28,095 --> 00:06:31,361
+P R is across from the right
+angle, so it's the hypotenuse,
+
+140
+00:06:31,381 --> 00:06:32,253
+two x.
+
+141
+00:06:32,273 --> 00:06:35,166
+Two x equals fourteen, so x is seven.
+
+142
+00:06:35,203 --> 00:06:39,203
+Q R is across from angle
+P, the sixty degree angle.
+
+143
+00:06:39,275 --> 00:06:42,540
+The side across from
+sixty is x root three.
+
+144
+00:06:42,560 --> 00:06:44,898
+So Q R is seven root three.
+
+145
+00:06:44,918 --> 00:06:46,489
+The answer is D.
+
+146
+00:06:46,542 --> 00:06:49,449
+Seven is P Q, the side
+across from the thirty.
+
+147
+00:06:49,469 --> 00:06:52,557
+Seven root two uses the
+forty-five, forty-five,
+
+148
+00:06:52,577 --> 00:06:53,771
+ninety ratio.
+
+149
+00:06:53,791 --> 00:06:57,307
+And fourteen root three treats the
+hypotenuse like the short side.
+
+150
+00:06:57,327 --> 00:07:00,938
+Always match each side to
+the angle across from it.
+
+151
+00:07:00,958 --> 00:07:05,831
+Before the harder questions, here are the
+three traps behind most wrong answers.
+
+152
+00:07:05,851 --> 00:07:08,673
+One: mixing up opposite and adjacent,
+
+153
+00:07:08,780 --> 00:07:11,315
+usually by labeling from the wrong angle.
+
+154
+00:07:11,387 --> 00:07:14,296
+Two: using the hypotenuse as a leg.
+
+155
+00:07:14,316 --> 00:07:18,816
+Three: using special triangle ratios
+on a triangle that isn't special.
+
+156
+00:07:18,873 --> 00:07:21,925
+Here's a question built
+on traps one and three.
+
+157
+00:07:21,945 --> 00:07:25,909
+In right triangle A B C,
+angle C is a right angle,
+
+158
+00:07:26,122 --> 00:07:28,460
+angle A measures thirty-five degrees,
+
+159
+00:07:28,480 --> 00:07:30,265
+and A B equals ten.
+
+160
+00:07:30,373 --> 00:07:33,313
+Which expression represents
+the length of B C?
+
+161
+00:07:33,333 --> 00:07:34,619
+Pause and try it.
+
+162
+00:07:37,875 --> 00:07:38,712
+Stand at A.
+
+163
+00:07:38,732 --> 00:07:41,445
+B C is across from A, so it's opposite.
+
+164
+00:07:41,660 --> 00:07:43,497
+A B is the hypotenuse.
+
+165
+00:07:43,517 --> 00:07:45,819
+Opposite over hypotenuse is sine.
+
+166
+00:07:45,839 --> 00:07:49,731
+So sine of thirty-five
+degrees equals B C over ten,
+
+167
+00:07:49,803 --> 00:07:53,676
+and B C equals ten times
+sine of thirty-five degrees.
+
+168
+00:07:53,696 --> 00:07:55,362
+The answer is A.
+
+169
+00:07:55,382 --> 00:07:58,095
+B is the adjacent side, A C.
+
+170
+00:07:58,167 --> 00:08:01,862
+C uses tangent, but tangent
+never involves the hypotenuse.
+
+171
+00:08:01,882 --> 00:08:04,754
+And D, five, is half the hypotenuse.
+
+172
+00:08:04,774 --> 00:08:08,326
+That only works for the side
+across from a thirty degree angle.
+
+173
+00:08:08,346 --> 00:08:10,013
+Thirty-five isn't special.
+
+174
+00:08:10,033 --> 00:08:13,370
+And notice: angle B is fifty-five degrees.
+
+175
+00:08:13,390 --> 00:08:19,248
+So the same length could be written as
+ten times cosine of fifty-five degrees.
+
+176
+00:08:19,283 --> 00:08:22,425
+That's the complement rule,
+and it's the next question.
+
+177
+00:08:22,445 --> 00:08:23,353
+Question five.
+
+178
+00:08:23,373 --> 00:08:29,425
+In the equation, sine of the quantity
+two k plus thirteen degrees equals cosine
+
+179
+00:08:29,445 --> 00:08:32,388
+of the quantity three
+k minus eight degrees,
+
+180
+00:08:32,408 --> 00:08:37,210
+k is a constant, and both angle measures
+are between zero and ninety degrees.
+
+181
+00:08:37,230 --> 00:08:39,015
+What is the value of k?
+
+182
+00:08:39,035 --> 00:08:40,320
+Pause and try it.
+
+183
+00:08:44,576 --> 00:08:47,806
+Sine of one acute angle
+equals cosine of another,
+
+184
+00:08:47,826 --> 00:08:49,806
+so the angles add to ninety.
+
+185
+00:08:49,826 --> 00:08:53,091
+Two k plus thirteen,
+plus three k minus eight,
+
+186
+00:08:53,111 --> 00:08:54,342
+equals ninety.
+
+187
+00:08:54,362 --> 00:08:57,270
+That's five k plus five equals ninety.
+
+188
+00:08:57,290 --> 00:09:01,120
+So five k is eighty-five,
+and k is seventeen.
+
+189
+00:09:01,140 --> 00:09:04,335
+Check: the angles are forty-seven
+and forty-three degrees,
+
+190
+00:09:04,355 --> 00:09:06,799
+both acute, and they add to ninety.
+
+191
+00:09:06,819 --> 00:09:09,085
+The trap is setting the angles equal.
+
+192
+00:09:09,105 --> 00:09:12,835
+That gives k equals twenty-one
+and two fifty-five degree angles,
+
+193
+00:09:12,855 --> 00:09:14,980
+which add to one hundred ten.
+
+194
+00:09:15,000 --> 00:09:16,250
+Question six.
+
+195
+00:09:16,464 --> 00:09:20,552
+In right triangle R S T,
+angle T is a right angle,
+
+196
+00:09:20,572 --> 00:09:22,587
+and cosine of R equals eight seventeenths.
+
+197
+00:09:22,607 --> 00:09:29,837
+Triangle U V W is similar
+to triangle R S T,
+
+198
+00:09:29,857 --> 00:09:34,194
+with U, V, and W corresponding to R, S,
+
+199
+00:09:34,214 --> 00:09:35,105
+and T.
+
+200
+00:09:35,125 --> 00:09:39,911
+If U V equals fifty-one,
+what is the length of V W?
+
+201
+00:09:39,942 --> 00:09:41,227
+Pause and try it.
+
+202
+00:09:45,483 --> 00:09:48,249
+Similar triangles share their trig ratios.
+
+203
+00:09:48,269 --> 00:09:53,142
+U matches R, so cosine of U
+is also eight seventeenths.
+
+204
+00:09:53,162 --> 00:09:56,677
+And W matches T, so W is the right angle.
+
+205
+00:09:56,697 --> 00:10:00,698
+That makes U V, across
+from W, the hypotenuse.
+
+206
+00:10:00,753 --> 00:10:04,483
+Cosine is adjacent over
+hypotenuse, so this is an eight,
+
+207
+00:10:04,503 --> 00:10:09,626
+fifteen, seventeen triangle, and the
+side across from U is the fifteen part.
+
+208
+00:10:09,646 --> 00:10:14,983
+Fifty-one is seventeen times three,
+so every side is three times bigger.
+
+209
+00:10:15,003 --> 00:10:18,575
+V W is fifteen times three, forty-five.
+
+210
+00:10:18,677 --> 00:10:21,336
+If you got twenty-four, you
+found the adjacent side,
+
+211
+00:10:21,356 --> 00:10:21,443
+U W.
+
+212
+00:10:21,463 --> 00:10:26,071
+The question asks for V
+W, the side across from U.
+
+213
+00:10:26,091 --> 00:10:27,948
+Last one, and the hardest.
+
+214
+00:10:28,305 --> 00:10:32,571
+In triangle A B C, point
+D lies on side B C,
+
+215
+00:10:32,591 --> 00:10:36,233
+and segment A D is
+perpendicular to side B C.
+
+216
+00:10:36,305 --> 00:10:40,857
+Angle B measures forty-five degrees,
+angle C measures thirty degrees,
+
+217
+00:10:40,877 --> 00:10:42,912
+and A D equals six.
+
+218
+00:10:43,127 --> 00:10:45,198
+What is the length of B C?
+
+219
+00:10:45,218 --> 00:10:45,912
+Pause and try it.
+
+220
+00:10:45,932 --> 00:10:47,718
+Take a little longer on this one.
+
+221
+00:10:51,914 --> 00:10:55,966
+The altitude splits the big
+triangle into two right triangles.
+
+222
+00:10:55,986 --> 00:11:00,394
+On the left, triangle A B D has
+a forty-five degree angle at B,
+
+223
+00:11:00,414 --> 00:11:03,823
+so it's forty-five, forty-five, ninety.
+
+224
+00:11:03,843 --> 00:11:06,609
+The legs are equal, so B D equals A D,
+
+225
+00:11:06,629 --> 00:11:07,771
+which is six.
+
+226
+00:11:07,823 --> 00:11:11,339
+On the right, triangle A D C
+has a thirty degree angle at C,
+
+227
+00:11:11,359 --> 00:11:14,073
+so it's thirty, sixty, ninety.
+
+228
+00:11:14,180 --> 00:11:17,053
+A D is across from the thirty,
+so it's the short side:
+
+229
+00:11:17,073 --> 00:11:18,430
+x equals six.
+
+230
+00:11:18,608 --> 00:11:21,303
+D C is across from the
+sixty degree angle at A,
+
+231
+00:11:21,323 --> 00:11:23,103
+so it's six root three.
+
+232
+00:11:23,123 --> 00:11:26,174
+B C is the two pieces together:
+six plus six root three.
+
+233
+00:11:26,194 --> 00:11:27,682
+The answer is B.
+
+234
+00:11:27,702 --> 00:11:29,932
+A assumes both halves are forty-five,
+
+235
+00:11:29,952 --> 00:11:31,844
+forty-five, ninety.
+
+236
+00:11:32,202 --> 00:11:34,432
+C divides by root three
+instead of multiplying,
+
+237
+00:11:34,452 --> 00:11:38,966
+which makes the side across from sixty
+shorter than the side across from thirty.
+
+238
+00:11:38,986 --> 00:11:42,559
+And D adds the two slanted
+sides instead of the base.
+
+239
+00:11:42,610 --> 00:11:45,538
+Here's the method for any
+right triangle question.
+
+240
+00:11:45,644 --> 00:11:48,947
+Step one: draw it, even
+if there's a figure,
+
+241
+00:11:48,967 --> 00:11:50,645
+and mark the right angle.
+
+242
+00:11:50,752 --> 00:11:54,054
+Step two: put your finger
+on the angle they ask about,
+
+243
+00:11:54,074 --> 00:11:57,788
+and label hypotenuse, opposite,
+and adjacent from there.
+
+244
+00:11:57,830 --> 00:12:01,115
+Step three: look for a
+shortcut before you calculate.
+
+245
+00:12:01,222 --> 00:12:04,739
+A triple, a special angle,
+a sine equal to a cosine,
+
+246
+00:12:04,759 --> 00:12:06,223
+or a similar triangle.
+
+247
+00:12:06,330 --> 00:12:10,595
+Step four: write the ratio, solve,
+and reread what they asked for.
+
+248
+00:12:10,615 --> 00:12:11,274
+Which side?
+
+249
+00:12:11,294 --> 00:12:12,402
+Which angle?
+
+250
+00:12:12,464 --> 00:12:15,943
+And if you use Desmos to
+evaluate sine or cosine,
+
+251
+00:12:15,963 --> 00:12:20,070
+check whether it's set to degrees
+or radians in the settings first.
+
+252
+00:12:20,136 --> 00:12:23,579
+To recap: Pythagorean triples,
+the two special triangles,
+
+253
+00:12:23,599 --> 00:12:28,508
+soh cah toa from the correct angle, sine
+of x equals cosine of ninety minus x,
+
+254
+00:12:28,528 --> 00:12:31,186
+and similar triangles share ratios.
+
+255
+00:12:31,206 --> 00:12:34,651
+For more practice, filter the College
+Board's free Question Bank for right
+
+256
+00:12:34,671 --> 00:12:36,462
+triangles and trigonometry.
+
+257
+00:12:36,482 --> 00:12:40,069
+Every question in this video
+was written for this video,
+
+258
+00:12:40,089 --> 00:12:42,267
+in the style of the real test.
+
+259
+00:12:42,410 --> 00:12:45,389
+Next up: SAT equivalent expressions.
+
+260
+00:12:45,409 --> 00:12:47,659
+If this helped, subscribe so you catch it.

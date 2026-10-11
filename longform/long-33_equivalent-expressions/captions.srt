@@ -1,0 +1,1109 @@
+1
+00:00:00,182 --> 00:00:02,004
+Which expression is equivalent?
+
+2
+00:00:02,397 --> 00:00:06,770
+Equivalent expressions is one of the
+three skills in the SAT's Advanced Math
+
+3
+00:00:06,790 --> 00:00:10,627
+domain, which is about thirty-five
+percent of the math section.
+
+4
+00:00:10,647 --> 00:00:12,859
+The algebra usually isn't the hard part.
+
+5
+00:00:12,879 --> 00:00:17,288
+Points get lost on one small slip, and
+the wrong answers are built from those
+
+6
+00:00:17,308 --> 00:00:18,145
+slips.
+
+7
+00:00:18,165 --> 00:00:22,181
+Here's the plan: six tools,
+seven practice questions,
+
+8
+00:00:22,201 --> 00:00:26,895
+the four traps behind most mistakes,
+and a check you can run on any of these
+
+9
+00:00:26,915 --> 00:00:27,888
+questions.
+
+10
+00:00:27,908 --> 00:00:32,530
+First, equivalent means equal for every
+value of x where both are defined,
+
+11
+00:00:32,550 --> 00:00:33,816
+not just one.
+
+12
+00:00:33,836 --> 00:00:36,651
+That idea is behind every shortcut later.
+
+13
+00:00:36,671 --> 00:00:40,114
+Tool one: distribute,
+then combine like terms,
+
+14
+00:00:40,134 --> 00:00:42,921
+meaning the same variable
+raised to the same power.
+
+15
+00:00:42,954 --> 00:00:46,577
+The big danger is a minus
+sign in front of parentheses.
+
+16
+00:00:46,597 --> 00:00:50,006
+It multiplies every term
+inside, not just the first.
+
+17
+00:00:50,026 --> 00:00:54,219
+Five x plus two, minus the
+quantity three x minus six,
+
+18
+00:00:54,239 --> 00:00:56,934
+becomes five x plus two, minus three x,
+
+19
+00:00:56,954 --> 00:00:57,827
+plus six.
+
+20
+00:00:57,847 --> 00:00:59,883
+That's two x plus eight.
+
+21
+00:00:59,915 --> 00:01:03,308
+Tool two: factoring, which
+is distributing in reverse.
+
+22
+00:01:03,736 --> 00:01:06,451
+Always start with the
+greatest common factor.
+
+23
+00:01:06,629 --> 00:01:10,751
+Six x squared plus nine x
+has three x in both terms,
+
+24
+00:01:10,771 --> 00:01:15,160
+so it's three x times the
+quantity two x plus three.
+
+25
+00:01:15,180 --> 00:01:17,323
+Next, the difference of squares.
+
+26
+00:01:17,430 --> 00:01:20,731
+a squared minus b
+squared equals a minus b,
+
+27
+00:01:20,751 --> 00:01:22,767
+times a plus b.
+
+28
+00:01:22,787 --> 00:01:26,231
+So x squared minus
+forty-nine is x minus seven,
+
+29
+00:01:26,251 --> 00:01:28,001
+times x plus seven.
+
+30
+00:01:28,287 --> 00:01:32,410
+And four x squared minus
+nine is two x minus three,
+
+31
+00:01:32,430 --> 00:01:34,501
+times two x plus three.
+
+32
+00:01:34,535 --> 00:01:38,393
+For a trinomial like x squared
+minus two x minus twenty-four,
+
+33
+00:01:38,428 --> 00:01:43,373
+find two numbers that multiply to negative
+twenty-four and add to negative two.
+
+34
+00:01:43,393 --> 00:01:47,658
+That's negative six and four,
+so it factors into x minus six,
+
+35
+00:01:47,678 --> 00:01:49,333
+times x plus four.
+
+36
+00:01:49,353 --> 00:01:51,475
+When the leading coefficient isn't one,
+
+37
+00:01:51,495 --> 00:01:53,869
+guess and check by multiplying back.
+
+38
+00:01:53,889 --> 00:01:58,297
+Two x squared plus seven x
+plus three is two x plus one,
+
+39
+00:01:58,317 --> 00:02:00,440
+times x plus three.
+
+40
+00:02:00,460 --> 00:02:02,684
+And with four terms, try grouping.
+
+41
+00:02:02,704 --> 00:02:07,826
+Take x cubed plus two x squared
+minus nine x minus eighteen.
+
+42
+00:02:07,846 --> 00:02:10,755
+Pull x squared out of the first two terms,
+
+43
+00:02:10,775 --> 00:02:13,576
+and negative nine out of the last two.
+
+44
+00:02:13,596 --> 00:02:15,969
+Both groups leave x plus two.
+
+45
+00:02:15,989 --> 00:02:20,326
+So it's x plus two, times
+x squared minus nine,
+
+46
+00:02:20,346 --> 00:02:22,898
+which factors again into x minus three,
+
+47
+00:02:22,918 --> 00:02:25,182
+times x plus three.
+
+48
+00:02:25,202 --> 00:02:27,396
+Tool three: exponent rules.
+
+49
+00:02:27,416 --> 00:02:30,825
+Multiplying powers of the
+same base, add the exponents.
+
+50
+00:02:30,845 --> 00:02:32,467
+Dividing, subtract them.
+
+51
+00:02:32,487 --> 00:02:34,932
+A power of a power, multiply them.
+
+52
+00:02:34,952 --> 00:02:39,344
+And an exponent outside parentheses
+applies to every factor inside.
+
+53
+00:02:39,374 --> 00:02:41,604
+A negative exponent means reciprocal:
+
+54
+00:02:41,624 --> 00:02:44,838
+x to the negative two
+is one over x squared.
+
+55
+00:02:44,945 --> 00:02:46,639
+A fractional exponent means a root.
+
+56
+00:02:46,659 --> 00:02:50,925
+The bottom number is the root,
+and the top number is the power.
+
+57
+00:02:50,945 --> 00:02:54,532
+So twenty-seven to the two thirds
+is the cube root of twenty-seven,
+
+58
+00:02:54,552 --> 00:02:57,347
+which is three, squared, which is nine.
+
+59
+00:02:57,367 --> 00:03:02,383
+One rule to burn in: exponents and
+roots spread over multiplication,
+
+60
+00:03:02,403 --> 00:03:04,224
+never over addition.
+
+61
+00:03:04,616 --> 00:03:08,526
+x plus four, squared, is
+not x squared plus sixteen.
+
+62
+00:03:08,546 --> 00:03:11,597
+It's x squared plus eight x plus sixteen.
+
+63
+00:03:11,617 --> 00:03:17,474
+And the square root of the quantity x
+squared plus sixteen is not x plus four.
+
+64
+00:03:17,520 --> 00:03:21,607
+Tool four: rational expressions,
+which are fractions with variables.
+
+65
+00:03:21,627 --> 00:03:24,500
+To add or subtract them,
+get a common denominator,
+
+66
+00:03:24,520 --> 00:03:25,892
+just like with numbers.
+
+67
+00:03:25,912 --> 00:03:28,857
+To simplify, factor the
+top and bottom completely,
+
+68
+00:03:28,877 --> 00:03:30,948
+then cancel matching factors.
+
+69
+00:03:30,995 --> 00:03:33,066
+Cancel factors, not terms.
+
+70
+00:03:33,245 --> 00:03:36,617
+Three x plus six, over
+three, is x plus two,
+
+71
+00:03:36,637 --> 00:03:39,224
+because three is a
+factor of the whole top.
+
+72
+00:03:39,244 --> 00:03:43,189
+But x plus six, over
+six, is not x plus one.
+
+73
+00:03:43,209 --> 00:03:45,995
+That six is only a term,
+so you can't cancel it.
+
+74
+00:03:46,025 --> 00:03:48,989
+Tool five: finding a missing constant.
+
+75
+00:03:49,096 --> 00:03:53,432
+If two expressions are equivalent, the
+coefficients of like terms have to match.
+
+76
+00:03:53,452 --> 00:03:58,504
+If three times the quantity two x minus
+k equals six x minus twenty-one for all
+
+77
+00:03:58,524 --> 00:04:02,549
+x, then three k equals
+twenty-one, so k is seven.
+
+78
+00:04:02,569 --> 00:04:05,676
+Tool six is your safety
+net: the plug-in check.
+
+79
+00:04:05,747 --> 00:04:10,262
+Pick a number like two or three, and
+evaluate the original and each choice.
+
+80
+00:04:10,282 --> 00:04:14,298
+Avoid zero and one, because different
+expressions can agree there.
+
+81
+00:04:14,318 --> 00:04:18,345
+x squared and x cubed are
+both one when x is one.
+
+82
+00:04:18,365 --> 00:04:20,972
+If two choices match, try a second number.
+
+83
+00:04:21,080 --> 00:04:24,401
+Or use Desmos: graph the
+original and a choice.
+
+84
+00:04:24,651 --> 00:04:27,095
+If the graphs land exactly
+on top of each other,
+
+85
+00:04:27,115 --> 00:04:28,115
+they're equivalent.
+
+86
+00:04:28,185 --> 00:04:31,005
+On the test, these show up in a few forms.
+
+87
+00:04:31,435 --> 00:04:33,951
+Which expression is
+equivalent to this one.
+
+88
+00:04:33,971 --> 00:04:35,807
+Which expression is a factor.
+
+89
+00:04:35,827 --> 00:04:39,471
+For what value of a constant
+are two expressions equivalent.
+
+90
+00:04:39,542 --> 00:04:42,665
+And rewrites with exponents or radicals,
+
+91
+00:04:42,685 --> 00:04:46,185
+usually with a condition
+like x is greater than zero.
+
+92
+00:04:46,238 --> 00:04:47,238
+Question one.
+
+93
+00:04:47,309 --> 00:04:52,075
+Which expression is equivalent to the
+quantity four x squared minus three x plus
+
+94
+00:04:52,095 --> 00:04:57,344
+five, minus the quantity two x
+squared minus seven x minus one?
+
+95
+00:04:57,376 --> 00:04:58,591
+Pause and try it.
+
+96
+00:05:01,787 --> 00:05:05,194
+Distribute the minus sign to all
+three terms in the second group:
+
+97
+00:05:05,214 --> 00:05:08,965
+minus two x squared,
+plus seven x, plus one.
+
+98
+00:05:09,214 --> 00:05:10,394
+Now combine.
+
+99
+00:05:10,679 --> 00:05:14,124
+Four x squared minus two x
+squared is two x squared.
+
+100
+00:05:14,144 --> 00:05:17,159
+Negative three x plus seven x is four x.
+
+101
+00:05:17,179 --> 00:05:19,409
+Five plus one is six.
+
+102
+00:05:19,429 --> 00:05:21,108
+The answer is C.
+
+103
+00:05:21,128 --> 00:05:24,179
+A only changes the sign of the first term.
+
+104
+00:05:24,199 --> 00:05:27,393
+B flips the x term but
+misses the last one.
+
+105
+00:05:27,413 --> 00:05:31,071
+And D adds the polynomials
+instead of subtracting.
+
+106
+00:05:31,091 --> 00:05:32,949
+Each trap is one sign.
+
+107
+00:05:32,988 --> 00:05:34,166
+Question two.
+
+108
+00:05:34,274 --> 00:05:38,952
+Which expression is equivalent
+to two x cubed minus fifty x?
+
+109
+00:05:38,986 --> 00:05:40,200
+Pause and try it.
+
+110
+00:05:43,396 --> 00:05:45,626
+Greatest common factor first.
+
+111
+00:05:45,646 --> 00:05:48,305
+Both terms have two x, so pull it out:
+
+112
+00:05:48,325 --> 00:05:52,396
+two x times the quantity x
+squared minus twenty-five.
+
+113
+00:05:52,538 --> 00:05:56,232
+And x squared minus twenty-five
+is a difference of squares:
+
+114
+00:05:56,252 --> 00:05:59,233
+x minus five, times x plus five.
+
+115
+00:05:59,253 --> 00:06:00,825
+The answer is B.
+
+116
+00:06:00,859 --> 00:06:05,196
+A squares x minus five, which creates a
+middle term the original doesn't have.
+
+117
+00:06:05,216 --> 00:06:07,767
+C uses twenty-five instead
+of its square root.
+
+118
+00:06:07,787 --> 00:06:10,598
+And D drops the x from the common factor.
+
+119
+00:06:10,618 --> 00:06:11,527
+Question three.
+
+120
+00:06:11,547 --> 00:06:16,277
+Which expression is equivalent to
+the quantity sixteen x to the eighth,
+
+121
+00:06:16,297 --> 00:06:20,559
+raised to the three fourths power,
+where x is greater than zero?
+
+122
+00:06:20,579 --> 00:06:21,793
+Pause and try it.
+
+123
+00:06:24,989 --> 00:06:27,345
+The exponent applies to both factors.
+
+124
+00:06:27,524 --> 00:06:30,719
+For sixteen, three fourths
+means take the fourth root,
+
+125
+00:06:30,739 --> 00:06:31,846
+then cube it.
+
+126
+00:06:32,025 --> 00:06:36,452
+The fourth root of sixteen is
+two, and two cubed is eight.
+
+127
+00:06:36,632 --> 00:06:40,433
+For x to the eighth, a power
+of a power means multiply:
+
+128
+00:06:40,453 --> 00:06:43,005
+eight times three fourths is six.
+
+129
+00:06:43,025 --> 00:06:44,612
+So it's eight x to the sixth.
+
+130
+00:06:44,632 --> 00:06:46,453
+The answer is D.
+
+131
+00:06:46,535 --> 00:06:48,800
+A multiplies sixteen by three fourths,
+
+132
+00:06:48,820 --> 00:06:50,729
+which isn't what an exponent does.
+
+133
+00:06:50,749 --> 00:06:53,621
+B takes the fourth root
+but forgets to cube.
+
+134
+00:06:53,641 --> 00:06:56,891
+And C adds the exponents
+instead of multiplying them.
+
+135
+00:06:56,921 --> 00:06:57,865
+Question four.
+
+136
+00:06:57,885 --> 00:07:02,401
+Which expression is equivalent to
+four over the quantity x plus three,
+
+137
+00:07:02,421 --> 00:07:05,544
+minus two over the quantity x minus one,
+
+138
+00:07:05,564 --> 00:07:07,447
+for x greater than one?
+
+139
+00:07:07,467 --> 00:07:08,681
+Pause and try it.
+
+140
+00:07:12,877 --> 00:07:15,500
+The common denominator is x plus three,
+
+141
+00:07:15,520 --> 00:07:17,322
+times x minus one.
+
+142
+00:07:17,342 --> 00:07:19,999
+Multiply the first top by x minus one,
+
+143
+00:07:20,019 --> 00:07:22,821
+and the second top by x plus three.
+
+144
+00:07:22,841 --> 00:07:26,857
+The numerator becomes four
+times the quantity x minus one,
+
+145
+00:07:26,877 --> 00:07:30,497
+minus two times the quantity x plus three.
+
+146
+00:07:30,517 --> 00:07:33,568
+Distribute carefully: four x minus four,
+
+147
+00:07:33,588 --> 00:07:35,783
+minus two x, minus six.
+
+148
+00:07:35,803 --> 00:07:37,710
+That's two x minus ten.
+
+149
+00:07:37,730 --> 00:07:39,660
+The answer is A.
+
+150
+00:07:39,894 --> 00:07:43,767
+B makes the classic sign error:
+minus two times three is minus six,
+
+151
+00:07:43,787 --> 00:07:45,053
+not plus six.
+
+152
+00:07:45,073 --> 00:07:47,909
+C multiplies each top
+by its own denominator.
+
+153
+00:07:47,929 --> 00:07:51,088
+And D subtracts the numerators
+without rewriting them.
+
+154
+00:07:51,108 --> 00:07:55,410
+Plug in two to confirm: the
+original is four fifths minus two,
+
+155
+00:07:55,430 --> 00:07:58,323
+negative six fifths, and only A matches.
+
+156
+00:07:58,357 --> 00:08:00,372
+You've already seen the sign trap twice.
+
+157
+00:08:00,392 --> 00:08:02,837
+Here are all four traps in one place.
+
+158
+00:08:02,857 --> 00:08:06,408
+One: distributing a negative to
+only part of the parentheses.
+
+159
+00:08:06,428 --> 00:08:08,944
+Two: squaring a sum term by term.
+
+160
+00:08:08,964 --> 00:08:12,265
+Three: splitting a power
+or a root over a plus sign.
+
+161
+00:08:12,285 --> 00:08:15,135
+Four: cancelling terms instead of factors.
+
+162
+00:08:15,155 --> 00:08:16,885
+Here's one built on trap four.
+
+163
+00:08:16,905 --> 00:08:20,635
+Which expression is equivalent
+to x squared plus five x,
+
+164
+00:08:20,655 --> 00:08:24,727
+over x squared minus twenty-five,
+for x greater than five?
+
+165
+00:08:24,772 --> 00:08:25,986
+Pause and try it.
+
+166
+00:08:29,182 --> 00:08:31,912
+The tempting move is to
+cancel the x squared terms,
+
+167
+00:08:31,932 --> 00:08:33,448
+which gives choice A.
+
+168
+00:08:33,468 --> 00:08:35,983
+But x squared is only a term.
+
+169
+00:08:36,003 --> 00:08:37,019
+Factor first.
+
+170
+00:08:37,039 --> 00:08:40,768
+The top is x times the
+quantity x plus five.
+
+171
+00:08:40,788 --> 00:08:45,039
+The bottom is x minus
+five, times x plus five.
+
+172
+00:08:45,092 --> 00:08:48,520
+Now x plus five is a factor
+of both, so cancel it.
+
+173
+00:08:48,663 --> 00:08:52,250
+That leaves x over the
+quantity x minus five.
+
+174
+00:08:52,270 --> 00:08:53,805
+The answer is C.
+
+175
+00:08:53,985 --> 00:08:58,306
+B cancels the wrong factor,
+and D cancels the x too.
+
+176
+00:08:58,342 --> 00:09:02,429
+To check, plug in six: the
+original is sixty-six over eleven,
+
+177
+00:09:02,449 --> 00:09:05,869
+which is six, and only C gives six.
+
+178
+00:09:05,889 --> 00:09:07,032
+Question six.
+
+179
+00:09:07,139 --> 00:09:12,333
+If the quantity a x plus five, times
+the quantity three x minus two,
+
+180
+00:09:12,353 --> 00:09:17,512
+equals twelve x squared plus b
+x minus ten for all values of x,
+
+181
+00:09:17,532 --> 00:09:21,148
+where a and b are constants,
+what is the value of b?
+
+182
+00:09:21,168 --> 00:09:22,382
+Pause and try it.
+
+183
+00:09:26,578 --> 00:09:29,772
+For all values of x means
+the two sides are equivalent,
+
+184
+00:09:29,792 --> 00:09:31,272
+so match coefficients.
+
+185
+00:09:31,292 --> 00:09:33,058
+Multiply out the left side.
+
+186
+00:09:33,078 --> 00:09:36,094
+The x squared term is three a x squared.
+
+187
+00:09:36,114 --> 00:09:39,915
+The x terms are negative
+two a x plus fifteen x.
+
+188
+00:09:39,935 --> 00:09:43,499
+And the constant is negative
+ten, which already matches.
+
+189
+00:09:43,519 --> 00:09:47,213
+Match the x squared terms:
+three a equals twelve,
+
+190
+00:09:47,233 --> 00:09:48,856
+so a is four.
+
+191
+00:09:48,876 --> 00:09:54,035
+Then match the x terms: b equals
+negative two a plus fifteen.
+
+192
+00:09:54,055 --> 00:09:56,946
+That's negative eight plus
+fifteen, which is seven.
+
+193
+00:09:56,966 --> 00:10:00,160
+If you entered four, you found a, not b.
+
+194
+00:10:00,180 --> 00:10:03,716
+If you got twenty-three, you
+dropped the negative on two a.
+
+195
+00:10:03,822 --> 00:10:05,731
+Last one, and the hardest.
+
+196
+00:10:05,751 --> 00:10:09,659
+Which expression is equivalent to
+the quantity two x minus three,
+
+197
+00:10:09,679 --> 00:10:12,872
+squared, minus the quantity x plus one,
+
+198
+00:10:12,892 --> 00:10:13,714
+squared?
+
+199
+00:10:13,734 --> 00:10:14,571
+Pause and try it.
+
+200
+00:10:14,591 --> 00:10:16,234
+Take a little longer on this one.
+
+201
+00:10:20,443 --> 00:10:22,265
+One way is to expand.
+
+202
+00:10:22,336 --> 00:10:28,137
+Two x minus three, squared, is four
+x squared minus twelve x plus nine.
+
+203
+00:10:28,157 --> 00:10:32,923
+x plus one, squared, is x
+squared plus two x plus one.
+
+204
+00:10:32,943 --> 00:10:38,459
+Subtract all of it, and you get three
+x squared minus fourteen x plus eight.
+
+205
+00:10:38,479 --> 00:10:39,566
+But that's not a choice.
+
+206
+00:10:39,586 --> 00:10:41,158
+The choices are factored.
+
+207
+00:10:41,218 --> 00:10:42,377
+So use the structure.
+
+208
+00:10:42,397 --> 00:10:44,305
+This is a square minus a square.
+
+209
+00:10:44,325 --> 00:10:49,039
+Call two x minus three
+A, and x plus one B.
+
+210
+00:10:49,075 --> 00:10:52,234
+A squared minus B squared is A minus B,
+
+211
+00:10:52,254 --> 00:10:54,460
+times A plus B.
+
+212
+00:10:54,480 --> 00:10:58,639
+A minus B is two x minus three, minus x,
+
+213
+00:10:58,659 --> 00:11:01,103
+minus one, which is x minus four.
+
+214
+00:11:01,123 --> 00:11:03,781
+A plus B is three x minus two.
+
+215
+00:11:03,801 --> 00:11:08,246
+So the answer is x minus
+four, times three x minus two.
+
+216
+00:11:08,266 --> 00:11:09,281
+That's D.
+
+217
+00:11:09,301 --> 00:11:12,301
+Multiply it out, and it
+matches the expanded form.
+
+218
+00:11:12,353 --> 00:11:13,603
+Now the traps.
+
+219
+00:11:13,675 --> 00:11:15,924
+A squares each term separately.
+
+220
+00:11:16,032 --> 00:11:19,333
+B subtracts only the x squared term.
+
+221
+00:11:19,353 --> 00:11:21,940
+C makes a sign slip inside A minus B.
+
+222
+00:11:21,960 --> 00:11:25,476
+Plug in two to check: the
+original is one minus nine,
+
+223
+00:11:25,496 --> 00:11:26,833
+negative eight.
+
+224
+00:11:26,853 --> 00:11:29,833
+A gives twenty, B gives two, C gives zero,
+
+225
+00:11:29,853 --> 00:11:31,904
+and only D gives negative eight.
+
+226
+00:11:31,924 --> 00:11:35,118
+Or graph the original and
+each choice in Desmos.
+
+227
+00:11:35,138 --> 00:11:39,245
+Only D's parabola lands
+exactly on top of the original.
+
+228
+00:11:39,271 --> 00:11:42,556
+Here's the method for any
+equivalent expressions question.
+
+229
+00:11:42,914 --> 00:11:45,751
+Step one: read the choices first.
+
+230
+00:11:45,771 --> 00:11:49,500
+Their form tells you the goal:
+factored choices mean factor,
+
+231
+00:11:49,520 --> 00:11:51,879
+and expanded choices mean expand.
+
+232
+00:11:52,056 --> 00:11:55,287
+Step two: look for structure,
+like a common factor,
+
+233
+00:11:55,307 --> 00:11:57,879
+a difference of squares,
+or a perfect square.
+
+234
+00:11:57,933 --> 00:12:00,556
+Step three: slow down
+where the traps live.
+
+235
+00:12:00,576 --> 00:12:04,484
+Every negative sign, every
+exponent, every cancel.
+
+236
+00:12:04,504 --> 00:12:09,198
+Step four: verify with a plug-in
+number or Desmos before you click.
+
+237
+00:12:09,218 --> 00:12:13,326
+And on a missing constant question,
+answer the letter they asked for.
+
+238
+00:12:13,360 --> 00:12:17,090
+To recap: distribute a
+negative to every term,
+
+239
+00:12:17,110 --> 00:12:21,825
+factor completely, multiply
+exponents for a power of a power,
+
+240
+00:12:21,860 --> 00:12:24,895
+never split a power or
+root over a plus sign,
+
+241
+00:12:25,038 --> 00:12:27,930
+cancel factors only,
+and check with a number.
+
+242
+00:12:27,950 --> 00:12:32,073
+For practice, filter the College Board's
+free Question Bank for equivalent
+
+243
+00:12:32,093 --> 00:12:33,128
+expressions.
+
+244
+00:12:33,211 --> 00:12:36,441
+Every question in this video
+was written for this video,
+
+245
+00:12:36,461 --> 00:12:38,925
+in the style of the real test.
+
+246
+00:12:39,425 --> 00:12:43,405
+Next up: SAT nonlinear
+functions and graphs.
+
+247
+00:12:43,425 --> 00:12:45,747
+If this helped, subscribe so you catch it.

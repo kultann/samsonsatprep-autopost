@@ -1,0 +1,1018 @@
+1
+00:00:00,182 --> 00:00:05,575
+Probability questions on the SAT
+are almost never about hard math.
+
+2
+00:00:05,647 --> 00:00:09,519
+They come down to one decision:
+what do you divide by?
+
+3
+00:00:09,539 --> 00:00:12,467
+Get the total right, and
+the rest is a fraction.
+
+4
+00:00:12,500 --> 00:00:16,802
+The common mistake is dividing by the
+grand total when the question has quietly
+
+5
+00:00:16,822 --> 00:00:18,286
+narrowed the group.
+
+6
+00:00:18,715 --> 00:00:24,444
+One phrase, like given that, or if a
+customer who chose popcorn is selected,
+
+7
+00:00:24,464 --> 00:00:26,036
+changes the denominator.
+
+8
+00:00:26,215 --> 00:00:29,679
+And the trap answer is waiting
+for anyone who misses it.
+
+9
+00:00:29,741 --> 00:00:33,650
+In this lesson: basic probability,
+reading two-way tables,
+
+10
+00:00:33,670 --> 00:00:36,685
+conditional probability, and versus or,
+
+11
+00:00:36,705 --> 00:00:39,527
+complements, and expected counts.
+
+12
+00:00:39,633 --> 00:00:42,560
+Seven practice questions, easy to hard.
+
+13
+00:00:42,580 --> 00:00:46,095
+Probability is favorable
+outcomes over total outcomes,
+
+14
+00:00:46,115 --> 00:00:48,631
+when every outcome is equally likely.
+
+15
+00:00:48,651 --> 00:00:51,203
+It's always between zero and one.
+
+16
+00:00:51,223 --> 00:00:54,473
+Zero means impossible,
+and one means certain.
+
+17
+00:00:54,512 --> 00:00:56,512
+The complement is everything else.
+
+18
+00:00:56,547 --> 00:01:01,350
+The probability that something does not
+happen is one minus the probability that
+
+19
+00:01:01,370 --> 00:01:02,206
+it does.
+
+20
+00:01:02,226 --> 00:01:04,456
+If the chance of rain is three tenths,
+
+21
+00:01:04,476 --> 00:01:07,326
+the chance of no rain is seven tenths.
+
+22
+00:01:07,346 --> 00:01:08,346
+Question one.
+
+23
+00:01:08,382 --> 00:01:11,898
+A box contains six red
+tiles, nine blue tiles,
+
+24
+00:01:11,918 --> 00:01:13,560
+and five green tiles.
+
+25
+00:01:13,632 --> 00:01:15,932
+One tile is selected at random.
+
+26
+00:01:15,952 --> 00:01:19,774
+What is the probability that
+the selected tile is not blue?
+
+27
+00:01:19,831 --> 00:01:21,045
+Pause and try it.
+
+28
+00:01:24,226 --> 00:01:28,992
+Total tiles: six plus
+nine plus five is twenty.
+
+29
+00:01:29,012 --> 00:01:33,491
+Not blue means red or green,
+and six plus five is eleven.
+
+30
+00:01:33,511 --> 00:01:36,262
+So the probability is eleven twentieths.
+
+31
+00:01:36,691 --> 00:01:40,278
+Or use the complement:
+one minus nine twentieths.
+
+32
+00:01:40,298 --> 00:01:41,206
+Same answer.
+
+33
+00:01:41,226 --> 00:01:42,834
+The answer is B.
+
+34
+00:01:42,883 --> 00:01:45,848
+Nine twentieths is the
+probability of blue.
+
+35
+00:01:46,026 --> 00:01:50,077
+Nine elevenths and eleven ninths
+compare one group to the other group.
+
+36
+00:01:50,097 --> 00:01:52,506
+That's a ratio, not a probability.
+
+37
+00:01:52,526 --> 00:01:54,541
+And eleven ninths is bigger than one,
+
+38
+00:01:54,561 --> 00:01:56,811
+so it can't be a probability at all.
+
+39
+00:01:56,864 --> 00:02:00,307
+Many SAT probability
+questions use a two-way table.
+
+40
+00:02:00,327 --> 00:02:03,344
+It sorts one group by
+two categories at once:
+
+41
+00:02:03,364 --> 00:02:06,629
+one category across the
+rows, one down the columns,
+
+42
+00:02:06,649 --> 00:02:08,506
+with totals on the edges.
+
+43
+00:02:08,543 --> 00:02:10,809
+Here's the table for
+the next four questions.
+
+44
+00:02:10,829 --> 00:02:12,722
+The numbers are made up for practice.
+
+45
+00:02:12,757 --> 00:02:15,845
+A movie theater surveyed
+two hundred forty customers.
+
+46
+00:02:15,865 --> 00:02:19,023
+Each row is the show
+time, matinee or evening.
+
+47
+00:02:19,043 --> 00:02:21,809
+Each column is the snack: popcorn, candy,
+
+48
+00:02:21,829 --> 00:02:22,745
+or nothing.
+
+49
+00:02:22,765 --> 00:02:25,173
+Matinee: forty-eight
+popcorn, twenty-two candy,
+
+50
+00:02:25,193 --> 00:02:28,194
+thirty nothing, for a
+total of one hundred.
+
+51
+00:02:28,444 --> 00:02:31,816
+Evening: eighty-four
+popcorn, thirty-six candy,
+
+52
+00:02:31,836 --> 00:02:35,102
+twenty nothing, for a
+total of one hundred forty.
+
+53
+00:02:35,122 --> 00:02:37,872
+The column totals are
+one hundred thirty-two,
+
+54
+00:02:37,908 --> 00:02:39,722
+fifty-eight, and fifty.
+
+55
+00:02:39,742 --> 00:02:41,864
+Before any question, find the totals.
+
+56
+00:02:41,884 --> 00:02:46,222
+Each row total, each column total,
+and the grand total in the corner.
+
+57
+00:02:46,242 --> 00:02:48,043
+Those are your possible denominators.
+
+58
+00:02:48,063 --> 00:02:50,170
+The question tells you which one to use.
+
+59
+00:02:50,251 --> 00:02:51,680
+Here's the key idea.
+
+60
+00:02:51,930 --> 00:02:56,930
+Take one cell: the thirty matinee
+customers who chose nothing.
+
+61
+00:02:57,037 --> 00:02:59,767
+That one number can turn into
+three different probabilities,
+
+62
+00:02:59,787 --> 00:03:01,537
+depending on the denominator.
+
+63
+00:03:01,557 --> 00:03:06,144
+Out of all customers, thirty over
+two hundred forty is one eighth:
+
+64
+00:03:06,164 --> 00:03:08,109
+matinee and nothing.
+
+65
+00:03:08,129 --> 00:03:12,109
+Out of the matinee row, thirty
+over one hundred is three tenths:
+
+66
+00:03:12,129 --> 00:03:13,914
+nothing, given matinee.
+
+67
+00:03:14,128 --> 00:03:18,109
+Out of the nothing column, thirty
+over fifty is three fifths:
+
+68
+00:03:18,129 --> 00:03:20,409
+matinee, given nothing.
+
+69
+00:03:20,429 --> 00:03:22,158
+Given means you restrict the group.
+
+70
+00:03:22,178 --> 00:03:27,143
+Stop looking at the whole table, and
+look only at one row or one column.
+
+71
+00:03:27,179 --> 00:03:30,429
+That row or column total
+becomes the denominator.
+
+72
+00:03:30,489 --> 00:03:33,540
+The SAT words it in different ways.
+
+73
+00:03:33,560 --> 00:03:35,040
+Given that.
+
+74
+00:03:35,060 --> 00:03:36,148
+Of the customers who.
+
+75
+00:03:36,168 --> 00:03:39,825
+Or, if a customer who
+chose popcorn is selected.
+
+76
+00:03:39,845 --> 00:03:42,540
+They all mean the same
+thing: restrict first,
+
+77
+00:03:42,560 --> 00:03:43,667
+then count.
+
+78
+00:03:43,746 --> 00:03:44,996
+Question two.
+
+79
+00:03:45,175 --> 00:03:49,405
+Using the table, if one of these
+customers is selected at random,
+
+80
+00:03:49,425 --> 00:03:53,975
+what is the probability that the customer
+attended an evening show and chose
+
+81
+00:03:53,995 --> 00:03:54,784
+candy?
+
+82
+00:03:54,804 --> 00:03:56,019
+Pause and try it.
+
+83
+00:03:59,200 --> 00:04:00,394
+There's no condition here.
+
+84
+00:04:00,414 --> 00:04:02,430
+The customer is chosen from everyone,
+
+85
+00:04:02,450 --> 00:04:04,751
+so the denominator is the grand total,
+
+86
+00:04:04,771 --> 00:04:06,001
+two hundred forty.
+
+87
+00:04:06,021 --> 00:04:09,072
+Evening and candy is one cell: thirty-six.
+
+88
+00:04:09,092 --> 00:04:12,001
+Thirty-six over two hundred
+forty is three twentieths.
+
+89
+00:04:12,021 --> 00:04:13,700
+The answer is A.
+
+90
+00:04:13,747 --> 00:04:16,870
+Nine thirty-fifths divides
+by the evening row.
+
+91
+00:04:16,890 --> 00:04:19,906
+Eighteen twenty-ninths
+divides by the candy column.
+
+92
+00:04:19,926 --> 00:04:23,012
+Both answer a given
+question that wasn't asked.
+
+93
+00:04:23,032 --> 00:04:26,817
+And seven twelfths is just
+the chance of an evening show.
+
+94
+00:04:26,837 --> 00:04:27,924
+Question three.
+
+95
+00:04:27,944 --> 00:04:31,603
+If a customer who chose
+popcorn is selected at random,
+
+96
+00:04:31,623 --> 00:04:34,515
+what is the probability that
+the customer attended a matinee?
+
+97
+00:04:35,319 --> 00:04:36,533
+Pause and try it.
+
+98
+00:04:39,714 --> 00:04:41,836
+Who chose popcorn is the condition.
+
+99
+00:04:41,856 --> 00:04:43,480
+Restrict to the popcorn column.
+
+100
+00:04:43,500 --> 00:04:45,730
+There are one hundred
+thirty-two customers in it,
+
+101
+00:04:45,750 --> 00:04:48,730
+and forty-eight of them
+attended a matinee.
+
+102
+00:04:48,750 --> 00:04:52,622
+Forty-eight over one hundred
+thirty-two reduces to four elevenths.
+
+103
+00:04:52,642 --> 00:04:54,143
+The answer is B.
+
+104
+00:04:54,171 --> 00:04:56,436
+Twelve twenty-fifths is
+the reverse question:
+
+105
+00:04:56,456 --> 00:04:58,293
+popcorn, given matinee.
+
+106
+00:04:58,313 --> 00:05:00,365
+Same cell, wrong total.
+
+107
+00:05:00,385 --> 00:05:02,421
+One fifth uses the grand total.
+
+108
+00:05:02,456 --> 00:05:05,793
+Mixing up the row and the column
+is an easy mistake to make,
+
+109
+00:05:05,813 --> 00:05:09,635
+so highlight the condition's row
+or column before you calculate.
+
+110
+00:05:09,692 --> 00:05:10,743
+Question four.
+
+111
+00:05:10,763 --> 00:05:13,799
+If one of these customers
+is selected at random,
+
+112
+00:05:13,870 --> 00:05:18,620
+what is the probability that the customer
+attended a matinee or chose popcorn?
+
+113
+00:05:18,661 --> 00:05:19,876
+Pause and try it.
+
+114
+00:05:24,057 --> 00:05:25,985
+Or means either one, or both.
+
+115
+00:05:26,307 --> 00:05:30,680
+The tempting move is to add the
+matinee total and the popcorn total,
+
+116
+00:05:30,700 --> 00:05:32,485
+one hundred plus one hundred thirty-two.
+
+117
+00:05:32,663 --> 00:05:36,557
+But the forty-eight customers
+who did both get counted twice.
+
+118
+00:05:36,636 --> 00:05:38,259
+Count each person once.
+
+119
+00:05:38,279 --> 00:05:40,866
+Take the whole matinee row, one hundred.
+
+120
+00:05:40,886 --> 00:05:43,866
+Then add the popcorn customers
+who aren't already in it:
+
+121
+00:05:43,886 --> 00:05:46,116
+the evening popcorn cell, eighty-four.
+
+122
+00:05:46,136 --> 00:05:48,616
+That's one hundred eighty-four
+out of two hundred forty,
+
+123
+00:05:48,636 --> 00:05:51,136
+which reduces to twenty-three thirtieths.
+
+124
+00:05:51,196 --> 00:05:52,998
+The formula says the same thing.
+
+125
+00:05:53,018 --> 00:05:56,676
+The probability of A or B
+is the probability of A,
+
+126
+00:05:56,696 --> 00:06:00,731
+plus the probability of B,
+minus the probability of both.
+
+127
+00:06:00,910 --> 00:06:03,105
+One hundred plus one hundred thirty-two,
+
+128
+00:06:03,125 --> 00:06:06,018
+minus forty-eight, is
+one hundred eighty-four.
+
+129
+00:06:06,116 --> 00:06:09,937
+If you got twenty-nine thirtieths,
+you counted the overlap twice.
+
+130
+00:06:09,957 --> 00:06:11,866
+Probabilities also predict counts.
+
+131
+00:06:11,886 --> 00:06:15,258
+Expected count equals
+probability times the total.
+
+132
+00:06:15,278 --> 00:06:20,151
+If a coin lands heads half the time, in
+two hundred flips you'd expect about one
+
+133
+00:06:20,171 --> 00:06:21,206
+hundred heads.
+
+134
+00:06:21,289 --> 00:06:22,090
+Question five.
+
+135
+00:06:22,110 --> 00:06:26,554
+The theater expects three thousand six
+hundred evening customers next month.
+
+136
+00:06:26,574 --> 00:06:30,947
+If the proportion of evening customers
+who choose popcorn is the same as in the
+
+137
+00:06:30,967 --> 00:06:35,626
+survey, how many of next month's evening
+customers would be expected to choose
+
+138
+00:06:35,646 --> 00:06:36,547
+popcorn?
+
+139
+00:06:36,567 --> 00:06:37,781
+Pause and try it.
+
+140
+00:06:41,963 --> 00:06:44,193
+The new group is evening customers only,
+
+141
+00:06:44,213 --> 00:06:46,121
+so use the evening row.
+
+142
+00:06:46,141 --> 00:06:50,120
+Eighty-four of the one hundred forty
+evening customers chose popcorn.
+
+143
+00:06:50,140 --> 00:06:51,478
+That's three fifths.
+
+144
+00:06:51,498 --> 00:06:55,906
+Three fifths of three thousand six
+hundred is two thousand one hundred sixty.
+
+145
+00:06:55,926 --> 00:06:57,737
+The answer is D.
+
+146
+00:06:57,757 --> 00:07:00,078
+Each wrong choice uses the wrong rate.
+
+147
+00:07:00,256 --> 00:07:04,094
+One thousand nine hundred eighty
+uses popcorn out of all customers.
+
+148
+00:07:04,114 --> 00:07:07,130
+One thousand two hundred sixty
+divides by the grand total.
+
+149
+00:07:07,150 --> 00:07:10,872
+And one thousand seven hundred
+twenty-eight uses the matinee row.
+
+150
+00:07:10,892 --> 00:07:13,193
+Sometimes the SAT flips the question.
+
+151
+00:07:13,213 --> 00:07:16,321
+It gives you the probability
+and asks for a missing count.
+
+152
+00:07:16,392 --> 00:07:19,908
+Write favorable over total, set
+it equal to the probability,
+
+153
+00:07:19,928 --> 00:07:20,891
+and solve.
+
+154
+00:07:20,911 --> 00:07:22,268
+Question six.
+
+155
+00:07:22,554 --> 00:07:26,554
+A jar contains only red
+marbles and blue marbles.
+
+156
+00:07:26,626 --> 00:07:29,876
+There are twelve red marbles in the jar.
+
+157
+00:07:30,018 --> 00:07:35,034
+If one marble is selected at random,
+the probability that it is red is three
+
+158
+00:07:35,054 --> 00:07:35,963
+eighths.
+
+159
+00:07:35,983 --> 00:07:38,766
+How many blue marbles are in the jar?
+
+160
+00:07:38,786 --> 00:07:40,000
+Pause and try it.
+
+161
+00:07:43,182 --> 00:07:45,732
+Red over total equals three eighths.
+
+162
+00:07:45,752 --> 00:07:49,197
+So twelve over the total
+equals three over eight.
+
+163
+00:07:49,217 --> 00:07:52,661
+Cross multiply: three times
+the total is ninety-six,
+
+164
+00:07:52,681 --> 00:07:55,609
+so the total is thirty-two marbles.
+
+165
+00:07:55,641 --> 00:07:57,855
+But the question asks for blue marbles.
+
+166
+00:07:58,140 --> 00:08:00,478
+Thirty-two minus twelve is twenty.
+
+167
+00:08:00,498 --> 00:08:02,033
+Enter twenty.
+
+168
+00:08:02,069 --> 00:08:03,549
+Thirty-two is the trap.
+
+169
+00:08:03,569 --> 00:08:06,068
+It's the total, not the blue count.
+
+170
+00:08:06,125 --> 00:08:08,232
+Question seven, the hardest one.
+
+171
+00:08:08,267 --> 00:08:12,498
+At a high school, sixty percent of the
+students take Spanish and the other forty
+
+172
+00:08:12,518 --> 00:08:14,319
+percent take French.
+
+173
+00:08:14,339 --> 00:08:16,303
+No student takes both.
+
+174
+00:08:16,482 --> 00:08:20,839
+Of the students who take Spanish,
+twenty-five percent are in the band.
+
+175
+00:08:21,196 --> 00:08:25,375
+Of the students who take French,
+forty-five percent are in the band.
+
+176
+00:08:25,424 --> 00:08:29,083
+If a student who is in the
+band is selected at random,
+
+177
+00:08:29,103 --> 00:08:32,138
+what is the probability that
+the student takes French?
+
+178
+00:08:32,158 --> 00:08:33,210
+Pause and try it.
+
+179
+00:08:33,230 --> 00:08:34,801
+Take a little longer on this one.
+
+180
+00:08:38,985 --> 00:08:40,715
+There's no table, so build one.
+
+181
+00:08:40,735 --> 00:08:42,858
+Pretend the school has
+one hundred students.
+
+182
+00:08:42,878 --> 00:08:46,393
+Then sixty take Spanish
+and forty take French.
+
+183
+00:08:46,413 --> 00:08:51,143
+Twenty-five percent of sixty is
+fifteen Spanish students in the band.
+
+184
+00:08:51,163 --> 00:08:55,700
+Forty-five percent of forty is
+eighteen French students in the band.
+
+185
+00:08:55,760 --> 00:08:57,225
+Now read the condition.
+
+186
+00:08:57,795 --> 00:09:02,705
+A student in the band is selected, so
+the denominator is everyone in the band:
+
+187
+00:09:02,725 --> 00:09:05,062
+fifteen plus eighteen, or thirty-three.
+
+188
+00:09:05,082 --> 00:09:07,812
+Eighteen of them take French.
+
+189
+00:09:07,832 --> 00:09:10,705
+Eighteen over thirty-three
+is six elevenths.
+
+190
+00:09:10,725 --> 00:09:12,546
+The answer is D.
+
+191
+00:09:12,617 --> 00:09:14,010
+Look at the traps.
+
+192
+00:09:14,046 --> 00:09:16,312
+Nine twentieths is the reverse condition:
+
+193
+00:09:16,332 --> 00:09:17,669
+band, given French.
+
+194
+00:09:17,689 --> 00:09:21,562
+Thirty-three hundredths is the chance
+a student is in the band at all.
+
+195
+00:09:21,582 --> 00:09:24,204
+And nine fiftieths is French and band,
+
+196
+00:09:24,224 --> 00:09:25,062
+out of everyone.
+
+197
+00:09:25,082 --> 00:09:28,347
+Picking one hundred works for
+any percent question like this,
+
+198
+00:09:28,367 --> 00:09:30,046
+because the total cancels.
+
+199
+00:09:30,114 --> 00:09:31,522
+Here's the test-day method.
+
+200
+00:09:31,542 --> 00:09:33,557
+Step one: find the condition.
+
+201
+00:09:33,577 --> 00:09:37,165
+Look for given, of the, among, or who.
+
+202
+00:09:37,185 --> 00:09:38,129
+Underline it.
+
+203
+00:09:38,149 --> 00:09:41,185
+If there's no condition,
+the group is everyone.
+
+204
+00:09:41,239 --> 00:09:45,183
+Step two: highlight the row or
+column the condition points to.
+
+205
+00:09:45,203 --> 00:09:47,254
+That total is your denominator.
+
+206
+00:09:47,274 --> 00:09:49,560
+No condition means the grand total.
+
+207
+00:09:49,589 --> 00:09:54,712
+Step three: find the numerator
+inside that row or column only.
+
+208
+00:09:54,732 --> 00:09:57,319
+For or, count each person once.
+
+209
+00:09:57,339 --> 00:09:59,533
+For not, use one minus.
+
+210
+00:09:59,553 --> 00:10:03,482
+For an expected count, multiply
+the right rate by the new total.
+
+211
+00:10:03,509 --> 00:10:06,059
+Step four: check against the traps.
+
+212
+00:10:06,079 --> 00:10:09,596
+Wrong choices are often the same
+numerator over a different total,
+
+213
+00:10:09,616 --> 00:10:11,131
+or the reverse condition.
+
+214
+00:10:11,151 --> 00:10:14,151
+If there's no table, build
+one with one hundred.
+
+215
+00:10:14,197 --> 00:10:14,677
+Quick recap.
+
+216
+00:10:14,697 --> 00:10:17,141
+Probability is favorable over total.
+
+217
+00:10:17,161 --> 00:10:19,642
+Given restricts you to one row or column,
+
+218
+00:10:19,662 --> 00:10:21,713
+and that total is the denominator.
+
+219
+00:10:21,733 --> 00:10:22,999
+And is one cell.
+
+220
+00:10:23,019 --> 00:10:25,176
+Or means count each person once.
+
+221
+00:10:25,196 --> 00:10:26,856
+Not means one minus.
+
+222
+00:10:26,876 --> 00:10:29,828
+Expected count is
+probability times the total.
+
+223
+00:10:29,848 --> 00:10:34,971
+Every question here was written for this
+video in the style of the real test,
+
+224
+00:10:34,991 --> 00:10:38,114
+and every table used made-up numbers.
+
+225
+00:10:38,134 --> 00:10:42,257
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+226
+00:10:42,277 --> 00:10:46,007
+skill, including probability
+and conditional probability.
+
+227
+00:10:46,027 --> 00:10:47,741
+If this helped, subscribe.
+
+228
+00:10:47,956 --> 00:10:51,436
+The next video is SAT area and volume:
+
+229
+00:10:51,456 --> 00:10:56,777
+what the reference sheet gives you, and
+how the SAT makes those formulas harder.

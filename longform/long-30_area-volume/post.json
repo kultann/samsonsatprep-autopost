@@ -1,0 +1,30 @@
+{
+  "id": "long-30_area-volume",
+  "type": "longform",
+  "order": 30,
+  "publish_at": "2026-12-20T16:00:00-06:00",
+  "video": "30_area-volume.mp4",
+  "video_bytes": 183825317,
+  "title": "SAT Area & Volume: Formulas, Scale Factors, and Traps",
+  "description": "Most SAT area and volume formulas are on the reference sheet. The points get lost in how they're used: a diameter used as a radius, a scale factor applied the wrong way, mixed units, or a missing one third on a cone. This lesson covers all of it, then works through 6 SAT-style practice questions.\n\nYou'll learn:\n• Every area and volume formula on the SAT reference sheet, and the pattern behind them\n• Surface area vs. volume (surface area is NOT on the sheet)\n• Shaded and composite regions: whole minus what's removed\n• The scale factor rule: lengths × k, area × k², volume × k³\n• Working backward from a volume to a missing length\n• Filling and rate problems with unit conversions\n• A 5-step test-day method\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Geometry and Trigonometry → Area and volume).\n\nCHAPTERS\n0:00 Intro\n0:29 What's on the reference sheet\n1:36 Surface area and shaded regions\n2:39 The scale factor rule\n3:18 How the SAT tests it\n3:44 Question 1: Shaded region\n4:43 Question 2: Surface area to volume\n5:30 Question 3: Working backward\n6:24 Question 4: Filling a tank\n7:29 Question 5: Scaling a solid\n8:22 The four traps\n8:43 Question 6: A harder example\n9:56 Test-day method\n10:28 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT area and volume",
+    "SAT geometry",
+    "SAT volume questions",
+    "SAT reference sheet",
+    "surface area SAT",
+    "scale factor SAT",
+    "digital SAT math",
+    "SAT math practice",
+    "SAT prep",
+    "cone volume SAT"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/30_area-volume",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

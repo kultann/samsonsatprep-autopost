@@ -1,0 +1,1058 @@
+1
+00:00:00,182 --> 00:00:03,341
+Scatterplot questions
+look like data analysis,
+
+2
+00:00:03,361 --> 00:00:06,091
+but many of them come down to one idea.
+
+3
+00:00:06,111 --> 00:00:08,769
+The line of best fit gives predictions.
+
+4
+00:00:08,789 --> 00:00:11,397
+The dots show what actually happened.
+
+5
+00:00:11,445 --> 00:00:14,817
+In this lesson: associations,
+reading a line of best fit,
+
+6
+00:00:14,837 --> 00:00:19,674
+predicted versus actual values,
+linear versus exponential models,
+
+7
+00:00:19,694 --> 00:00:22,052
+and when a prediction can't be trusted.
+
+8
+00:00:22,695 --> 00:00:26,530
+Then six practice questions,
+all with made-up data.
+
+9
+00:00:26,550 --> 00:00:29,601
+The biggest mistake is
+treating the model as exact.
+
+10
+00:00:29,621 --> 00:00:31,514
+The line describes a trend.
+
+11
+00:00:31,693 --> 00:00:34,943
+It doesn't promise anything
+about any single point.
+
+12
+00:00:35,008 --> 00:00:36,773
+Start with the cloud of points.
+
+13
+00:00:36,793 --> 00:00:40,916
+If y tends to go up as x goes up,
+that's a positive association.
+
+14
+00:00:40,936 --> 00:00:43,165
+If y tends to go down, it's negative.
+
+15
+00:00:43,185 --> 00:00:46,257
+If there's no clear trend,
+there's no association.
+
+16
+00:00:46,343 --> 00:00:48,021
+Notice the word tends.
+
+17
+00:00:48,200 --> 00:00:50,950
+Real data has points
+that break the pattern.
+
+18
+00:00:51,128 --> 00:00:54,180
+So when an answer choice
+says always or every,
+
+19
+00:00:54,200 --> 00:00:55,750
+test it against the dots.
+
+20
+00:00:55,770 --> 00:00:58,072
+And if the points follow a straight path,
+
+21
+00:00:58,092 --> 00:01:00,000
+the association is linear.
+
+22
+00:01:00,020 --> 00:01:02,093
+If they bend, it's nonlinear.
+
+23
+00:01:02,135 --> 00:01:04,508
+A line of best fit follows the trend.
+
+24
+00:01:04,528 --> 00:01:05,706
+Here's one.
+
+25
+00:01:05,778 --> 00:01:08,901
+The scatterplot shows
+the age, x, in years,
+
+26
+00:01:08,921 --> 00:01:12,563
+and the price, y, in
+dollars, of eight used bikes.
+
+27
+00:01:12,707 --> 00:01:16,864
+The line of best fit is y equals
+negative forty x plus four hundred.
+
+28
+00:01:16,884 --> 00:01:22,026
+The slope is the predicted change
+in y for each increase of one in x.
+
+29
+00:01:22,205 --> 00:01:24,506
+Here, for each additional year of age,
+
+30
+00:01:24,526 --> 00:01:27,113
+the predicted price
+drops by forty dollars.
+
+31
+00:01:27,133 --> 00:01:31,161
+Keep that order: per one
+unit of x, the change in y.
+
+32
+00:01:31,181 --> 00:01:35,125
+The y intercept is the
+predicted y when x is zero.
+
+33
+00:01:35,145 --> 00:01:38,125
+Here, that's the predicted
+price of a brand new bike:
+
+34
+00:01:38,145 --> 00:01:39,609
+four hundred dollars.
+
+35
+00:01:39,824 --> 00:01:42,359
+And always say predicted.
+
+36
+00:01:42,538 --> 00:01:46,895
+The line gives estimates,
+not facts about any one bike.
+
+37
+00:01:46,945 --> 00:01:48,854
+Every point has two y values.
+
+38
+00:01:48,874 --> 00:01:50,961
+The actual value is where the dot is.
+
+39
+00:01:50,981 --> 00:01:54,302
+The predicted value is
+where the line is at that x.
+
+40
+00:01:55,052 --> 00:01:59,837
+Take the five-year-old bike that
+sold for two hundred thirty dollars.
+
+41
+00:01:59,863 --> 00:02:02,413
+The line predicts
+negative forty times five,
+
+42
+00:02:02,433 --> 00:02:04,628
+plus four hundred, which is two hundred.
+
+43
+00:02:04,648 --> 00:02:07,934
+So actual minus predicted
+is positive thirty.
+
+44
+00:02:08,005 --> 00:02:11,307
+A dot above the line is
+higher than predicted.
+
+45
+00:02:11,327 --> 00:02:13,588
+A dot below the line is lower.
+
+46
+00:02:13,608 --> 00:02:16,016
+Not every scatterplot is a straight line.
+
+47
+00:02:16,036 --> 00:02:19,159
+If the points curve upward,
+getting steeper and steeper,
+
+48
+00:02:19,179 --> 00:02:22,848
+an exponential model usually
+fits better than a line.
+
+49
+00:02:22,868 --> 00:02:24,726
+In a table, check the pattern.
+
+50
+00:02:24,833 --> 00:02:27,884
+If y goes up by about the
+same amount each step,
+
+51
+00:02:27,904 --> 00:02:28,976
+think linear.
+
+52
+00:02:29,118 --> 00:02:32,098
+If y gets multiplied by about
+the same number each step,
+
+53
+00:02:32,118 --> 00:02:33,404
+think exponential.
+
+54
+00:02:33,436 --> 00:02:37,059
+Predicting inside the range of
+the data is called interpolation,
+
+55
+00:02:37,079 --> 00:02:38,523
+and it's usually reasonable.
+
+56
+00:02:38,543 --> 00:02:41,309
+Predicting outside the
+range is extrapolation.
+
+57
+00:02:41,329 --> 00:02:43,829
+The farther you go, the riskier it gets.
+
+58
+00:02:43,921 --> 00:02:46,777
+Our bike data covers
+ages one through eight.
+
+59
+00:02:46,956 --> 00:02:48,937
+Ask the line about a
+fifteen-year-old bike,
+
+60
+00:02:48,957 --> 00:02:52,150
+and it predicts a price of
+negative two hundred dollars.
+
+61
+00:02:52,170 --> 00:02:55,091
+The line doesn't know
+the trend has to stop.
+
+62
+00:02:55,111 --> 00:02:58,018
+On the SAT, this topic
+shows up in a few ways.
+
+63
+00:02:58,038 --> 00:02:59,825
+Describe the association.
+
+64
+00:02:59,861 --> 00:03:02,055
+Interpret a slope or intercept.
+
+65
+00:03:02,075 --> 00:03:04,733
+Compare predicted and actual values.
+
+66
+00:03:04,753 --> 00:03:05,769
+Choose a model.
+
+67
+00:03:05,789 --> 00:03:08,233
+Or decide which statement
+the data supports.
+
+68
+00:03:08,253 --> 00:03:09,753
+We'll do all five.
+
+69
+00:03:09,806 --> 00:03:10,679
+Question one.
+
+70
+00:03:10,699 --> 00:03:12,929
+The scatterplot shows the number of hours,
+
+71
+00:03:12,949 --> 00:03:17,179
+x, that each of ten phones had been
+used since its last full charge,
+
+72
+00:03:17,199 --> 00:03:19,143
+and the phone's remaining battery charge,
+
+73
+00:03:19,163 --> 00:03:20,663
+y, as a percent.
+
+74
+00:03:20,699 --> 00:03:24,913
+Which statement best describes
+the association between x and y?
+
+75
+00:03:24,935 --> 00:03:26,150
+Pause and try it.
+
+76
+00:03:29,400 --> 00:03:31,986
+The dots fall from upper
+left to lower right.
+
+77
+00:03:32,006 --> 00:03:35,487
+So as x increases, y tends to decrease.
+
+78
+00:03:35,507 --> 00:03:37,308
+That's a negative association.
+
+79
+00:03:37,328 --> 00:03:38,720
+The answer is B.
+
+80
+00:03:38,753 --> 00:03:42,323
+C is the trap, because
+of one word: always.
+
+81
+00:03:42,574 --> 00:03:45,268
+Look at the phones used
+six and seven hours.
+
+82
+00:03:45,288 --> 00:03:47,554
+The one used longer has more charge left,
+
+83
+00:03:47,574 --> 00:03:49,554
+sixty percent versus fifty-eight.
+
+84
+00:03:49,574 --> 00:03:51,911
+So y doesn't always decrease.
+
+85
+00:03:51,931 --> 00:03:54,431
+The data shows a trend, not a rule.
+
+86
+00:03:54,462 --> 00:03:55,514
+Question two.
+
+87
+00:03:55,534 --> 00:03:58,550
+The scatterplot shows the
+length, x, in centimeters,
+
+88
+00:03:58,570 --> 00:04:02,570
+and the mass, y, in grams, of
+twelve fish of one species.
+
+89
+00:04:02,605 --> 00:04:06,764
+The line of best fit is y equals
+twenty-five x minus four hundred.
+
+90
+00:04:06,784 --> 00:04:11,226
+Which choice is the best interpretation
+of twenty-five in this context?
+
+91
+00:04:11,246 --> 00:04:12,460
+Pause and try it.
+
+92
+00:04:15,710 --> 00:04:20,619
+Twenty-five is the slope, and
+its units are y units per x unit:
+
+93
+00:04:20,639 --> 00:04:22,103
+grams per centimeter.
+
+94
+00:04:22,246 --> 00:04:25,262
+So for each increase of
+one centimeter in length,
+
+95
+00:04:25,282 --> 00:04:28,475
+the predicted mass increases
+by twenty-five grams.
+
+96
+00:04:28,495 --> 00:04:30,210
+The answer is C.
+
+97
+00:04:30,266 --> 00:04:33,068
+A flips it around, from
+grams to centimeters.
+
+98
+00:04:33,088 --> 00:04:35,123
+That's reading the slope backwards.
+
+99
+00:04:35,159 --> 00:04:36,532
+D swaps the numbers.
+
+100
+00:04:36,552 --> 00:04:40,175
+And B describes the y intercept,
+which is negative four hundred,
+
+101
+00:04:40,195 --> 00:04:41,552
+not twenty-five.
+
+102
+00:04:41,710 --> 00:04:43,888
+That intercept is worth a look.
+
+103
+00:04:44,067 --> 00:04:47,638
+Negative four hundred grams
+for a fish with no length?
+
+104
+00:04:47,817 --> 00:04:52,225
+It's meaningless, because zero
+centimeters is far outside the data,
+
+105
+00:04:52,245 --> 00:04:54,474
+which runs from twenty to forty.
+
+106
+00:04:54,494 --> 00:04:56,991
+Not every intercept has a real meaning.
+
+107
+00:04:57,011 --> 00:04:58,098
+Question three.
+
+108
+00:04:58,118 --> 00:05:00,347
+The scatterplot shows
+the high temperature,
+
+109
+00:05:00,367 --> 00:05:03,348
+x, in degrees Fahrenheit,
+and the number of hot drinks,
+
+110
+00:05:03,368 --> 00:05:06,455
+y, sold at a coffee cart on twelve days.
+
+111
+00:05:06,475 --> 00:05:10,597
+The line of best fit is y equals negative
+one point five x plus one hundred
+
+112
+00:05:10,617 --> 00:05:11,323
+forty.
+
+113
+00:05:11,343 --> 00:05:13,893
+On the day with a high
+temperature of forty degrees,
+
+114
+00:05:13,913 --> 00:05:16,914
+the cart sold ninety-five hot drinks.
+
+115
+00:05:16,986 --> 00:05:20,750
+How many more hot drinks did the cart
+sell that day than the number predicted by
+
+116
+00:05:20,770 --> 00:05:22,303
+the line of best fit?
+
+117
+00:05:22,323 --> 00:05:23,537
+Pause and try it.
+
+118
+00:05:26,787 --> 00:05:28,981
+Find the predicted value first.
+
+119
+00:05:29,001 --> 00:05:31,037
+Plug forty into the line.
+
+120
+00:05:31,180 --> 00:05:35,053
+Negative one point five times
+forty is negative sixty,
+
+121
+00:05:35,073 --> 00:05:37,357
+plus one hundred forty is eighty.
+
+122
+00:05:37,465 --> 00:05:39,770
+The line predicts eighty drinks.
+
+123
+00:05:39,790 --> 00:05:41,876
+The actual number was ninety-five.
+
+124
+00:05:41,896 --> 00:05:45,484
+Ninety-five minus eighty is
+fifteen, so the answer is fifteen.
+
+125
+00:05:45,504 --> 00:05:49,076
+On the graph, that's the vertical
+gap from the line up to the dot.
+
+126
+00:05:49,114 --> 00:05:51,487
+The traps are eighty, the predicted value,
+
+127
+00:05:51,507 --> 00:05:54,221
+and ninety-five, the actual value.
+
+128
+00:05:54,435 --> 00:05:56,236
+The question asks for the difference,
+
+129
+00:05:56,256 --> 00:05:57,293
+so you need both.
+
+130
+00:05:57,360 --> 00:05:58,269
+Question four.
+
+131
+00:05:58,289 --> 00:06:01,304
+A student recorded the area,
+y, in square centimeters,
+
+132
+00:06:01,324 --> 00:06:05,645
+covered by a mold colony x days
+after it was first observed.
+
+133
+00:06:05,789 --> 00:06:09,554
+For days zero through six,
+the areas were two point one,
+
+134
+00:06:09,574 --> 00:06:12,483
+two point seven, four
+point oh, five point six,
+
+135
+00:06:12,503 --> 00:06:16,181
+seven point five, eleven point
+oh, and fourteen point eight.
+
+136
+00:06:16,271 --> 00:06:18,664
+Which equation best models the data?
+
+137
+00:06:18,696 --> 00:06:19,910
+Pause and try it.
+
+138
+00:06:24,160 --> 00:06:25,283
+Check the pattern.
+
+139
+00:06:25,303 --> 00:06:27,819
+The differences grow: zero point six,
+
+140
+00:06:27,839 --> 00:06:30,390
+then one point three, and
+up to three point eight.
+
+141
+00:06:30,410 --> 00:06:31,909
+So it isn't linear.
+
+142
+00:06:32,266 --> 00:06:33,533
+Now the ratios.
+
+143
+00:06:33,553 --> 00:06:36,925
+Each value is about one point
+four times the one before.
+
+144
+00:06:36,945 --> 00:06:39,482
+A steady multiplier means exponential.
+
+145
+00:06:39,524 --> 00:06:42,861
+An exponential model looks
+like a times b to the x.
+
+146
+00:06:42,881 --> 00:06:46,290
+The starting value, a, is
+about two, and the multiplier,
+
+147
+00:06:46,310 --> 00:06:48,290
+b, is about one point four.
+
+148
+00:06:48,310 --> 00:06:51,897
+That's y equals two times
+one point four to the x.
+
+149
+00:06:51,917 --> 00:06:53,808
+The answer is D.
+
+150
+00:06:53,828 --> 00:06:56,307
+A has a base less than one, so it shrinks.
+
+151
+00:06:56,327 --> 00:06:57,487
+That's decay.
+
+152
+00:06:57,507 --> 00:07:01,165
+C swaps a and b, and it's
+way too big by day six.
+
+153
+00:07:01,185 --> 00:07:02,630
+And B is a line.
+
+154
+00:07:02,650 --> 00:07:05,273
+It's close to the best
+line through these points,
+
+155
+00:07:05,293 --> 00:07:07,364
+but a line can't follow the curve.
+
+156
+00:07:07,429 --> 00:07:10,873
+In Desmos, enter the table,
+then graph each choice.
+
+157
+00:07:10,893 --> 00:07:14,251
+Only D follows the points
+all the way across.
+
+158
+00:07:14,305 --> 00:07:16,483
+Three traps before the harder questions.
+
+159
+00:07:16,590 --> 00:07:18,820
+One: the model is not exact.
+
+160
+00:07:18,840 --> 00:07:23,590
+Words like always, every, and
+exactly don't belong with a trend.
+
+161
+00:07:23,697 --> 00:07:27,962
+Two: slope is the change
+in y per one unit of x,
+
+162
+00:07:27,982 --> 00:07:29,573
+never the other way around.
+
+163
+00:07:29,593 --> 00:07:31,894
+Three: predicted versus actual.
+
+164
+00:07:31,914 --> 00:07:33,751
+The line gives the predicted value.
+
+165
+00:07:33,771 --> 00:07:35,878
+The dot gives the actual value.
+
+166
+00:07:35,986 --> 00:07:38,572
+Before you answer, ask which
+one the question wants,
+
+167
+00:07:38,592 --> 00:07:40,627
+or whether it wants the gap between them.
+
+168
+00:07:40,648 --> 00:07:41,700
+Question five.
+
+169
+00:07:41,720 --> 00:07:45,235
+The scatterplot shows
+the age, x, in years,
+
+170
+00:07:45,255 --> 00:07:50,183
+and the height, y, in meters, of
+twelve trees of one species in a park.
+
+171
+00:07:50,327 --> 00:07:54,878
+The line of best fit is y equals zero
+point six x plus one point eight.
+
+172
+00:07:54,898 --> 00:07:59,299
+Which statement is best supported by the
+scatterplot and the line of best fit?
+
+173
+00:07:59,319 --> 00:08:00,264
+Pause and try it.
+
+174
+00:08:00,284 --> 00:08:01,784
+Take a little longer on this one.
+
+175
+00:08:05,976 --> 00:08:08,225
+Test each statement against the data.
+
+176
+00:08:08,369 --> 00:08:12,884
+A says the line predicts seven point
+two meters for a nine-year-old tree.
+
+177
+00:08:12,904 --> 00:08:15,956
+Zero point six times
+nine is five point four,
+
+178
+00:08:15,976 --> 00:08:18,313
+plus one point eight is seven point two.
+
+179
+00:08:18,333 --> 00:08:20,547
+And nine is inside the data.
+
+180
+00:08:20,690 --> 00:08:21,671
+That works.
+
+181
+00:08:21,691 --> 00:08:26,584
+B says the nine-year-old tree in the
+sample is seven point two meters tall.
+
+182
+00:08:26,906 --> 00:08:28,707
+But that's the predicted value.
+
+183
+00:08:28,727 --> 00:08:31,350
+The actual dot is at six point five.
+
+184
+00:08:31,370 --> 00:08:34,313
+C says the older tree is always taller,
+
+185
+00:08:34,333 --> 00:08:37,227
+but the nine-year-old is
+shorter than the eight-year-old.
+
+186
+00:08:37,318 --> 00:08:40,761
+And D uses the line for
+an eighty-year-old tree.
+
+187
+00:08:40,781 --> 00:08:44,369
+That's far outside ages two to fourteen,
+
+188
+00:08:44,389 --> 00:08:47,583
+and trees don't keep growing
+at the same rate forever.
+
+189
+00:08:47,603 --> 00:08:49,797
+That prediction isn't reliable.
+
+190
+00:08:49,817 --> 00:08:51,385
+The answer is A.
+
+191
+00:08:51,405 --> 00:08:53,119
+Last one, the hardest.
+
+192
+00:08:53,154 --> 00:08:56,527
+The scatterplot shows
+the depth, x, in meters,
+
+193
+00:08:56,547 --> 00:08:59,419
+below the surface of a lake,
+and the water temperature,
+
+194
+00:08:59,439 --> 00:09:02,297
+y, in degrees Celsius, at twelve depths.
+
+195
+00:09:02,440 --> 00:09:06,179
+A line of best fit is shown,
+but its equation isn't given.
+
+196
+00:09:06,199 --> 00:09:09,465
+For the measurement at a
+depth of fifteen meters,
+
+197
+00:09:09,485 --> 00:09:14,679
+what is the actual temperature minus
+the temperature predicted by the line of
+
+198
+00:09:14,699 --> 00:09:16,913
+best fit, in degrees Celsius?
+
+199
+00:09:16,972 --> 00:09:17,916
+Pause and try it.
+
+200
+00:09:17,936 --> 00:09:19,436
+Take a little longer on this one.
+
+201
+00:09:23,628 --> 00:09:26,036
+No equation, so build one from the graph.
+
+202
+00:09:26,056 --> 00:09:29,537
+Find two points where the line
+crosses grid intersections:
+
+203
+00:09:29,557 --> 00:09:32,501
+zero, twenty-four, and twenty, eight.
+
+204
+00:09:32,521 --> 00:09:34,607
+The slope is eight minus twenty-four,
+
+205
+00:09:34,627 --> 00:09:37,699
+over twenty, which is
+negative zero point eight.
+
+206
+00:09:37,950 --> 00:09:39,985
+The y intercept is twenty-four.
+
+207
+00:09:40,109 --> 00:09:44,375
+At a depth of fifteen, the line predicts
+negative twelve plus twenty-four,
+
+208
+00:09:44,395 --> 00:09:46,109
+which is twelve degrees.
+
+209
+00:09:46,430 --> 00:09:50,180
+The actual dot at fifteen
+sits at ten degrees.
+
+210
+00:09:50,221 --> 00:09:52,844
+Actual minus predicted
+is ten minus twelve,
+
+211
+00:09:52,864 --> 00:09:54,415
+which is negative two.
+
+212
+00:09:54,435 --> 00:09:57,665
+The dot is below the line, so
+the answer has to be negative.
+
+213
+00:09:57,685 --> 00:10:01,381
+If you got positive two, you
+subtracted in the wrong order.
+
+214
+00:10:01,401 --> 00:10:03,222
+Here's the method for test day.
+
+215
+00:10:03,329 --> 00:10:07,722
+Step one: read the axes and
+the units before anything else.
+
+216
+00:10:07,758 --> 00:10:10,059
+Step two: name the question type.
+
+217
+00:10:10,079 --> 00:10:14,559
+Association, interpretation,
+predicted versus actual,
+
+218
+00:10:14,579 --> 00:10:17,401
+choosing a model, or which
+statement is supported.
+
+219
+00:10:17,440 --> 00:10:21,349
+Step three: for any prediction,
+plug x into the line,
+
+220
+00:10:21,369 --> 00:10:24,012
+and check that x is inside the data.
+
+221
+00:10:24,369 --> 00:10:26,920
+Step four: when they ask what's supported,
+
+222
+00:10:26,940 --> 00:10:29,598
+test every statement
+against the actual dots,
+
+223
+00:10:29,618 --> 00:10:32,262
+and be wary of absolute words.
+
+224
+00:10:32,291 --> 00:10:34,377
+Use Desmos when the choices are models,
+
+225
+00:10:34,397 --> 00:10:36,005
+or there's no equation.
+
+226
+00:10:36,113 --> 00:10:39,093
+Enter the points in a table,
+then graph each choice,
+
+227
+00:10:39,113 --> 00:10:42,520
+or type y one, tilde, m x one plus b,
+
+228
+00:10:42,540 --> 00:10:44,077
+to get a line of best fit.
+
+229
+00:10:44,148 --> 00:10:46,541
+For a quick prediction,
+just plug in by hand.
+
+230
+00:10:46,562 --> 00:10:48,276
+That's scatterplots.
+
+231
+00:10:48,812 --> 00:10:51,614
+Associations are trends,
+the line predicts,
+
+232
+00:10:51,634 --> 00:10:55,792
+the dots are actual, and predictions
+get risky outside the data.
+
+233
+00:10:55,812 --> 00:11:00,513
+For official practice, filter the free
+Question Bank by two-variable data.
+
+234
+00:11:00,533 --> 00:11:04,012
+Every question and data set in this
+video was made up for practice,
+
+235
+00:11:04,032 --> 00:11:06,354
+in the style of the real test.
+
+236
+00:11:06,462 --> 00:11:10,727
+Next up: SAT nonlinear
+equations and systems.
+
+237
+00:11:10,747 --> 00:11:13,104
+If this helped, subscribe so you catch it.

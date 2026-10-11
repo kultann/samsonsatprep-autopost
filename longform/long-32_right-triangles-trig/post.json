@@ -1,0 +1,30 @@
+{
+  "id": "long-32_right-triangles-trig",
+  "type": "longform",
+  "order": 32,
+  "publish_at": "2026-12-24T16:00:00-06:00",
+  "video": "32_right-triangles-trig.mp4",
+  "video_bytes": 194392975,
+  "title": "SAT Right Triangles & Trig: SOHCAHTOA and Special Right Triangles",
+  "description": "Right triangle questions on the SAT come down to a few tools: the Pythagorean theorem, two special right triangles, and three trig ratios. This lesson covers each one, shows how the SAT tests it, and works through 7 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• The Pythagorean theorem and the triples worth memorizing (3-4-5, 5-12-13, 8-15-17)\n• The 30-60-90 and 45-45-90 triangles from the reference sheet\n• SOHCAHTOA, and how to label opposite and adjacent from the correct angle\n• Why the sine of an angle equals the cosine of its complement\n• Why similar right triangles share the same trig ratios\n• A quick note on radians\n• A 4-step method for any right triangle question\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Geometry and Trigonometry, skill: Right triangles and trigonometry).\n\nCHAPTERS\n0:00 Intro\n0:28 The Pythagorean theorem and triples\n1:15 Special right triangles and radians\n2:21 SOHCAHTOA\n2:54 Complementary angles and similar triangles\n3:43 How the SAT tests it\n4:15 Question 1: Missing side\n5:08 Question 2: Find a trig ratio\n6:04 Question 3: Special right triangle\n7:00 Common traps\n8:22 Question 5: Sine equals cosine\n9:14 Question 6: Similar triangles\n10:25 Question 7: Two triangles in one\n11:42 Test-day method\n12:19 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT trigonometry",
+    "SAT right triangles",
+    "SOHCAHTOA",
+    "special right triangles",
+    "30-60-90 triangle",
+    "Pythagorean theorem SAT",
+    "sin cos complementary angles",
+    "digital SAT math",
+    "SAT geometry",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/32_right-triangles-trig",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

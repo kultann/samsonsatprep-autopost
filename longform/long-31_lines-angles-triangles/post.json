@@ -1,0 +1,30 @@
+{
+  "id": "long-31_lines-angles-triangles",
+  "type": "longform",
+  "order": 31,
+  "publish_at": "2026-12-22T16:00:00-06:00",
+  "video": "31_lines-angles-triangles.mp4",
+  "video_bytes": 196732891,
+  "title": "SAT Lines, Angles & Triangles: Parallel Lines and Similar Triangles",
+  "description": "SAT lines, angles, and triangles questions come down to three things: which angles are equal, which ones add up to 180°, and which triangles are the same shape. This lesson covers every rule you need, the traps that cost the most points, and 6 SAT-style practice questions.\n\nYou'll learn:\n• Vertical angles and linear pairs\n• Parallel lines cut by a transversal: corresponding, alternate interior, and same-side interior angles\n• Triangle angle sum and the exterior angle theorem\n• Isosceles and equilateral triangles\n• Similar triangles, including a triangle split by a segment parallel to one side\n• Congruence basics: what's sufficient and what isn't\n• A 5-step test-day method\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Geometry and Trigonometry → Lines, angles, and triangles).\n\nCHAPTERS\n0:00 Intro\n0:26 Angle pairs\n0:51 Parallel lines and a transversal\n1:46 Triangle rules\n2:23 Similar and congruent triangles\n3:20 How the SAT tests it\n3:44 Question 1: Parallel lines\n4:51 Question 2: Isosceles and exterior angles\n5:48 Question 3: A segment parallel to a side\n7:07 Question 4: Congruence\n8:12 Question 5: The parallel trap\n9:37 The three traps\n9:56 Question 6: A harder example\n11:18 Test-day method\n11:54 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT geometry",
+    "SAT lines angles and triangles",
+    "SAT similar triangles",
+    "parallel lines transversal",
+    "SAT angles",
+    "exterior angle theorem",
+    "digital SAT math",
+    "SAT math practice",
+    "SAT prep",
+    "congruent triangles"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/31_lines-angles-triangles",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

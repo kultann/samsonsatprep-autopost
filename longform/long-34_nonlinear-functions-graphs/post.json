@@ -1,0 +1,30 @@
+{
+  "id": "long-34_nonlinear-functions-graphs",
+  "type": "longform",
+  "order": 34,
+  "publish_at": "2026-12-29T16:00:00-06:00",
+  "video": "34_nonlinear-functions-graphs.mp4",
+  "video_bytes": 202858454,
+  "title": "SAT Nonlinear Functions & Graphs: Read Any Graph, Table, or Shift",
+  "description": "SAT function questions show up as equations, graphs, tables, and word problems, but they all test the same idea: inputs and outputs. This lesson covers the official SAT skill \"nonlinear functions\" from the ground up, with 6 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• Function notation: f(a), f(x) = k, and compositions like g(f(4))\n• How to read intercepts, maximums and minimums, and solution counts from a graph\n• Why f(x − 2) shifts a graph RIGHT, and what −f(x) does\n• What the numbers mean in quadratic and exponential models\n• When to use Desmos (and when not to bother)\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Advanced Math → Nonlinear functions).\n\nCHAPTERS\n0:00 Intro\n0:35 Function notation\n1:40 Reading a graph\n2:28 Shifting and flipping graphs\n3:23 Functions in context\n3:58 Question 1: Composition\n4:35 Question 2: Solutions from a graph\n5:28 Question 3: A quadratic in context\n6:25 Question 4: Shifting a graph\n7:15 The three traps\n7:38 Question 5: Minimum from a table\n9:18 Question 6: Shift and flip\n10:52 Test-day method\n11:42 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT nonlinear functions",
+    "SAT function notation",
+    "SAT graphs",
+    "function transformations SAT",
+    "SAT advanced math",
+    "digital SAT math",
+    "SAT quadratics graph",
+    "Desmos SAT",
+    "SAT math practice",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/34_nonlinear-functions-graphs",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}

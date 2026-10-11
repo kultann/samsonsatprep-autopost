@@ -1,0 +1,964 @@
+1
+00:00:00,182 --> 00:00:05,484
+Ratios, rates, and unit conversions
+look like the easy part of the SAT math
+
+2
+00:00:05,504 --> 00:00:06,234
+section.
+
+3
+00:00:06,254 --> 00:00:08,020
+Most students understand them.
+
+4
+00:00:08,040 --> 00:00:12,054
+They still lose points on them, because
+these questions are built around a few
+
+5
+00:00:12,074 --> 00:00:14,110
+very specific mistakes.
+
+6
+00:00:14,174 --> 00:00:16,189
+Flipping a ratio upside down.
+
+7
+00:00:16,209 --> 00:00:17,832
+Mixing minutes and hours.
+
+8
+00:00:17,852 --> 00:00:21,510
+Converting square feet to square
+yards by dividing by three.
+
+9
+00:00:21,530 --> 00:00:25,483
+And reading a part-to-part ratio
+as a fraction of the whole.
+
+10
+00:00:25,503 --> 00:00:28,946
+In this lesson, you'll learn one
+method that handles all of them:
+
+11
+00:00:28,966 --> 00:00:31,483
+keep the units attached to every number,
+
+12
+00:00:31,503 --> 00:00:32,966
+and let them cancel.
+
+13
+00:00:33,182 --> 00:00:36,609
+Six practice questions,
+getting harder as we go.
+
+14
+00:00:36,652 --> 00:00:38,330
+Start with the vocabulary.
+
+15
+00:00:38,651 --> 00:00:43,937
+A ratio compares two quantities, like
+four sopranos for every seven altos.
+
+16
+00:00:44,079 --> 00:00:46,524
+A rate is a ratio between
+two different units,
+
+17
+00:00:46,544 --> 00:00:49,008
+like miles per hour or dollars per pound.
+
+18
+00:00:49,089 --> 00:00:51,890
+A unit rate tells you how much for one.
+
+19
+00:00:51,910 --> 00:00:54,890
+If twelve pounds of apples
+cost eighteen dollars,
+
+20
+00:00:54,910 --> 00:00:58,232
+the unit rate is one dollar
+and fifty cents per pound.
+
+21
+00:00:58,410 --> 00:01:00,696
+Divide by the thing you want one of.
+
+22
+00:01:00,727 --> 00:01:02,493
+Some rates have special names.
+
+23
+00:01:02,513 --> 00:01:04,707
+Speed is distance per time.
+
+24
+00:01:04,727 --> 00:01:09,564
+Density is mass per volume, or people
+per area for population density.
+
+25
+00:01:09,584 --> 00:01:13,707
+A block with a mass of three hundred
+grams and a volume of four hundred cubic
+
+26
+00:01:13,727 --> 00:01:18,977
+centimeters has a density of zero point
+seven five grams per cubic centimeter.
+
+27
+00:01:19,009 --> 00:01:22,488
+Two quantities are proportional
+when their ratio stays the same.
+
+28
+00:01:22,508 --> 00:01:25,739
+That gives you the key fact:
+if one quantity triples,
+
+29
+00:01:25,759 --> 00:01:27,238
+the other triples too.
+
+30
+00:01:27,258 --> 00:01:29,560
+A proportion is just two equal ratios,
+
+31
+00:01:29,580 --> 00:01:32,080
+and you can solve it by cross multiplying.
+
+32
+00:01:32,109 --> 00:01:35,930
+The College Board's description of
+this skill lists the question types.
+
+33
+00:01:36,037 --> 00:01:37,966
+Proportions and ratios.
+
+34
+00:01:38,073 --> 00:01:39,053
+Rates.
+
+35
+00:01:39,073 --> 00:01:41,839
+Unit conversions, both
+one step and multistep.
+
+36
+00:01:41,859 --> 00:01:44,588
+Derived units, like population
+per square kilometer.
+
+37
+00:01:44,608 --> 00:01:46,002
+And scale drawings.
+
+38
+00:01:46,031 --> 00:01:48,404
+Every one of those comes
+down to the same move.
+
+39
+00:01:48,424 --> 00:01:52,475
+Write the units next to the numbers,
+and set things up so the units you don't
+
+40
+00:01:52,495 --> 00:01:53,761
+want cancel out.
+
+41
+00:01:53,781 --> 00:01:55,399
+Let's start with proportions.
+
+42
+00:01:55,419 --> 00:01:56,471
+Question one.
+
+43
+00:01:56,491 --> 00:02:00,169
+A recipe uses three cups of
+flour to make eight muffins.
+
+44
+00:02:00,205 --> 00:02:04,597
+At this rate, how many cups of flour
+are needed to make twenty muffins?
+
+45
+00:02:04,629 --> 00:02:05,843
+Pause and try it.
+
+46
+00:02:09,089 --> 00:02:11,104
+Set up the proportion with labels.
+
+47
+00:02:11,124 --> 00:02:13,962
+Flour over muffins equals
+flour over muffins.
+
+48
+00:02:13,982 --> 00:02:16,605
+Three over eight equals x over twenty.
+
+49
+00:02:16,625 --> 00:02:18,748
+Same units on top, same
+units on the bottom.
+
+50
+00:02:18,768 --> 00:02:19,905
+That's the whole rule.
+
+51
+00:02:19,925 --> 00:02:21,298
+Cross multiply.
+
+52
+00:02:21,318 --> 00:02:25,012
+Eight x equals sixty, so
+x equals seven point five.
+
+53
+00:02:25,032 --> 00:02:26,512
+The answer is B.
+
+54
+00:02:26,532 --> 00:02:29,905
+Quick check: twenty muffins
+is two and a half batches,
+
+55
+00:02:29,925 --> 00:02:33,103
+and two and a half times three
+cups is seven point five.
+
+56
+00:02:33,174 --> 00:02:35,581
+Each wrong choice is a classic mistake.
+
+57
+00:02:35,601 --> 00:02:37,797
+One hundred sixty thirds flips one ratio,
+
+58
+00:02:37,817 --> 00:02:40,475
+so muffins end up on top on one side.
+
+59
+00:02:40,495 --> 00:02:43,725
+Fifteen adds instead of
+multiplying: twelve more muffins,
+
+60
+00:02:43,745 --> 00:02:45,225
+so twelve more cups.
+
+61
+00:02:45,245 --> 00:02:47,439
+And two point five is the scale factor,
+
+62
+00:02:47,459 --> 00:02:48,638
+one step early.
+
+63
+00:02:48,693 --> 00:02:49,780
+Question two.
+
+64
+00:02:49,800 --> 00:02:54,265
+In a choir, the ratio of sopranos
+to altos is four to seven.
+
+65
+00:02:54,408 --> 00:02:58,602
+The choir has seventy-seven members, and
+each member is either a soprano or an
+
+66
+00:02:58,622 --> 00:02:59,458
+alto.
+
+67
+00:02:59,478 --> 00:03:01,684
+How many sopranos are in the choir?
+
+68
+00:03:01,704 --> 00:03:02,919
+Pause and try it.
+
+69
+00:03:06,165 --> 00:03:09,002
+Four to seven compares one
+part to the other part.
+
+70
+00:03:09,022 --> 00:03:10,288
+It's part to part.
+
+71
+00:03:10,308 --> 00:03:13,358
+It does not say four sevenths
+of the choir are sopranos.
+
+72
+00:03:13,378 --> 00:03:15,215
+To get the whole, add the parts.
+
+73
+00:03:15,235 --> 00:03:17,236
+Four plus seven is eleven.
+
+74
+00:03:17,307 --> 00:03:20,271
+So sopranos are four
+elevenths of the choir.
+
+75
+00:03:20,306 --> 00:03:23,966
+Seventy-seven divided by eleven
+is seven members per part.
+
+76
+00:03:23,986 --> 00:03:29,073
+Four parts is twenty-eight sopranos,
+and seven parts is forty-nine altos.
+
+77
+00:03:29,093 --> 00:03:30,700
+The answer is A.
+
+78
+00:03:30,735 --> 00:03:31,750
+Forty-four is the trap.
+
+79
+00:03:31,770 --> 00:03:36,270
+It's four sevenths of seventy-seven,
+which treats the ratio as part to whole.
+
+80
+00:03:36,377 --> 00:03:38,341
+Forty-nine is the altos.
+
+81
+00:03:38,377 --> 00:03:41,357
+Thirty-three is seventy-seven
+minus forty-four,
+
+82
+00:03:41,377 --> 00:03:43,214
+the same mistake one step later.
+
+83
+00:03:43,234 --> 00:03:47,552
+Check: twenty-eight to forty-nine
+reduces to four to seven.
+
+84
+00:03:47,572 --> 00:03:49,322
+Now unit conversions.
+
+85
+00:03:49,358 --> 00:03:52,017
+The method is called dimensional analysis.
+
+86
+00:03:52,037 --> 00:03:55,088
+Write each conversion as
+a fraction equal to one,
+
+87
+00:03:55,108 --> 00:03:57,695
+like sixty minutes over one hour.
+
+88
+00:03:57,715 --> 00:04:03,302
+Then line the fractions up so each unit
+you don't want appears once on top and
+
+89
+00:04:03,322 --> 00:04:04,488
+once on the bottom.
+
+90
+00:04:04,508 --> 00:04:05,559
+Question three.
+
+91
+00:04:05,579 --> 00:04:09,345
+A pump removes water from a flooded
+basement at a constant rate of two hundred
+
+92
+00:04:09,365 --> 00:04:11,059
+fifty liters per minute.
+
+93
+00:04:11,079 --> 00:04:14,043
+What is this rate in
+cubic meters per hour?
+
+94
+00:04:14,186 --> 00:04:17,088
+One cubic meter equals
+one thousand liters.
+
+95
+00:04:17,108 --> 00:04:18,322
+Pause and try it.
+
+96
+00:04:22,568 --> 00:04:24,798
+Start with two hundred
+fifty liters per minute.
+
+97
+00:04:24,818 --> 00:04:28,798
+Minutes are on the bottom, so multiply
+by sixty minutes over one hour.
+
+98
+00:04:28,818 --> 00:04:31,854
+The minutes cancel, and
+now it's liters per hour.
+
+99
+00:04:31,919 --> 00:04:36,526
+Liters are on top, so multiply by one
+cubic meter over one thousand liters.
+
+100
+00:04:36,669 --> 00:04:38,062
+The liters cancel.
+
+101
+00:04:38,169 --> 00:04:40,955
+What's left is cubic meters per hour.
+
+102
+00:04:41,026 --> 00:04:44,469
+Two hundred fifty times sixty,
+divided by one thousand,
+
+103
+00:04:44,489 --> 00:04:45,632
+is fifteen.
+
+104
+00:04:45,811 --> 00:04:47,178
+Enter fifteen.
+
+105
+00:04:47,198 --> 00:04:49,677
+If you got fifteen thousand,
+you skipped the liters.
+
+106
+00:04:49,697 --> 00:04:52,928
+If you got zero point two
+five, you skipped the minutes.
+
+107
+00:04:52,948 --> 00:04:55,768
+A unit left over in the
+wrong place is your warning.
+
+108
+00:04:55,804 --> 00:04:56,641
+Question four.
+
+109
+00:04:56,661 --> 00:05:00,070
+Machine A packs two hundred
+seventy boxes per hour.
+
+110
+00:05:00,090 --> 00:05:03,054
+Machine B packs six boxes per minute.
+
+111
+00:05:03,126 --> 00:05:05,427
+Working at the same time at these rates,
+
+112
+00:05:05,447 --> 00:05:09,376
+how many boxes do the two
+machines pack in forty minutes?
+
+113
+00:05:09,452 --> 00:05:10,666
+Pause and try it.
+
+114
+00:05:14,912 --> 00:05:16,249
+The rates are in different units.
+
+115
+00:05:16,269 --> 00:05:18,642
+One is per hour, and one is per minute.
+
+116
+00:05:18,662 --> 00:05:21,464
+Before you add anything,
+put them in the same unit.
+
+117
+00:05:21,484 --> 00:05:24,320
+Two hundred seventy per
+hour, divided by sixty,
+
+118
+00:05:24,340 --> 00:05:26,519
+is four point five boxes per minute.
+
+119
+00:05:26,583 --> 00:05:29,349
+Together, they pack four
+point five plus six,
+
+120
+00:05:29,369 --> 00:05:31,583
+or ten point five boxes per minute.
+
+121
+00:05:31,797 --> 00:05:34,349
+Rates for machines working
+at the same time add.
+
+122
+00:05:34,369 --> 00:05:37,670
+Ten point five times forty
+minutes is four hundred twenty.
+
+123
+00:05:37,690 --> 00:05:39,218
+The answer is C.
+
+124
+00:05:39,238 --> 00:05:41,182
+Eleven thousand forty is the trap.
+
+125
+00:05:41,202 --> 00:05:44,753
+It adds two hundred seventy and
+six as if they were the same unit,
+
+126
+00:05:44,773 --> 00:05:46,574
+then multiplies by forty.
+
+127
+00:05:46,594 --> 00:05:50,575
+One hundred eighty-four converts
+the time but not machine B's rate.
+
+128
+00:05:50,595 --> 00:05:53,475
+And two hundred forty is machine B alone.
+
+129
+00:05:53,495 --> 00:05:55,475
+Now the biggest trap in this skill.
+
+130
+00:05:55,495 --> 00:05:57,297
+One yard is three feet.
+
+131
+00:05:57,317 --> 00:06:00,297
+But one square yard is
+not three square feet.
+
+132
+00:06:00,317 --> 00:06:02,760
+A square yard is three feet by three feet,
+
+133
+00:06:02,780 --> 00:06:04,368
+which is nine square feet.
+
+134
+00:06:04,388 --> 00:06:06,618
+A cubic yard is three by three by three,
+
+135
+00:06:06,638 --> 00:06:08,524
+which is twenty-seven cubic feet.
+
+136
+00:06:08,544 --> 00:06:11,794
+So for area, square the conversion factor.
+
+137
+00:06:11,936 --> 00:06:14,009
+For volume, cube it.
+
+138
+00:06:14,473 --> 00:06:16,774
+Or convert the lengths
+before you multiply,
+
+139
+00:06:16,794 --> 00:06:18,866
+which avoids the problem completely.
+
+140
+00:06:18,891 --> 00:06:20,050
+Question five.
+
+141
+00:06:20,070 --> 00:06:24,105
+A rectangular floor measures
+eighteen feet by twenty-four feet.
+
+142
+00:06:24,248 --> 00:06:27,085
+Carpet costs thirty
+dollars per square yard.
+
+143
+00:06:27,105 --> 00:06:30,463
+What is the cost of carpet
+to cover the entire floor?
+
+144
+00:06:30,497 --> 00:06:32,676
+One yard equals three feet.
+
+145
+00:06:32,768 --> 00:06:33,982
+Pause and try it.
+
+146
+00:06:38,228 --> 00:06:39,887
+Convert the lengths first.
+
+147
+00:06:39,907 --> 00:06:44,228
+Eighteen feet is six yards, and
+twenty-four feet is eight yards.
+
+148
+00:06:44,442 --> 00:06:48,549
+So the floor is six times eight,
+or forty-eight square yards.
+
+149
+00:06:48,585 --> 00:06:52,672
+At thirty dollars per square yard,
+that's one thousand four hundred forty
+
+150
+00:06:52,692 --> 00:06:53,422
+dollars.
+
+151
+00:06:53,442 --> 00:06:55,149
+The answer is B.
+
+152
+00:06:55,169 --> 00:06:56,328
+Check it the other way.
+
+153
+00:06:56,348 --> 00:06:59,578
+The area is four hundred
+thirty-two square feet.
+
+154
+00:06:59,598 --> 00:07:03,562
+Divide by nine, not three,
+and you get forty-eight again.
+
+155
+00:07:03,991 --> 00:07:06,276
+Dividing by three gives choice C.
+
+156
+00:07:06,454 --> 00:07:09,113
+Dividing by twenty-seven,
+the cubic factor,
+
+157
+00:07:09,133 --> 00:07:09,471
+gives A.
+
+158
+00:07:09,491 --> 00:07:12,483
+And never converting at all gives D.
+
+159
+00:07:12,503 --> 00:07:14,733
+Question six, the hardest one.
+
+160
+00:07:14,753 --> 00:07:18,269
+On a map, one centimeter
+represents five kilometers.
+
+161
+00:07:18,289 --> 00:07:22,446
+A region shown on the map is a rectangle
+that measures four centimeters by three
+
+162
+00:07:22,466 --> 00:07:23,466
+centimeters.
+
+163
+00:07:23,502 --> 00:07:27,081
+The region has a population
+of forty-two thousand people.
+
+164
+00:07:27,101 --> 00:07:29,851
+What is the population
+density of the region,
+
+165
+00:07:30,173 --> 00:07:32,494
+in people per square kilometer?
+
+166
+00:07:32,523 --> 00:07:33,610
+Pause and try it.
+
+167
+00:07:33,630 --> 00:07:35,201
+Take a little longer on this one.
+
+168
+00:07:39,387 --> 00:07:42,117
+Population density is
+people per square kilometer,
+
+169
+00:07:42,137 --> 00:07:43,974
+so you need the real area.
+
+170
+00:07:43,994 --> 00:07:46,367
+Don't scale the map's area by five.
+
+171
+00:07:46,387 --> 00:07:47,581
+Scale the lengths.
+
+172
+00:07:47,601 --> 00:07:49,616
+Four centimeters is twenty kilometers,
+
+173
+00:07:49,636 --> 00:07:52,387
+and three centimeters
+is fifteen kilometers.
+
+174
+00:07:52,422 --> 00:07:54,794
+So the real area is twenty times fifteen,
+
+175
+00:07:54,814 --> 00:07:56,902
+or three hundred square kilometers.
+
+176
+00:07:56,922 --> 00:08:01,008
+Forty-two thousand people divided by
+three hundred square kilometers is one
+
+177
+00:08:01,028 --> 00:08:03,437
+hundred forty people per square kilometer.
+
+178
+00:08:03,457 --> 00:08:05,360
+Enter one hundred forty.
+
+179
+00:08:05,380 --> 00:08:06,416
+Here's the trap.
+
+180
+00:08:06,559 --> 00:08:09,289
+The map area is twelve square centimeters,
+
+181
+00:08:09,309 --> 00:08:11,467
+and twelve times five is sixty.
+
+182
+00:08:11,487 --> 00:08:13,538
+That gives a density of seven hundred,
+
+183
+00:08:13,558 --> 00:08:15,503
+five times too big.
+
+184
+00:08:15,523 --> 00:08:19,360
+Each square centimeter on this
+map is five by five kilometers,
+
+185
+00:08:19,380 --> 00:08:21,737
+which is twenty-five square kilometers.
+
+186
+00:08:21,786 --> 00:08:23,500
+Here's the test-day method.
+
+187
+00:08:23,820 --> 00:08:28,266
+Step one: write the units next
+to every number in the question,
+
+188
+00:08:28,286 --> 00:08:30,551
+including the units the answer needs.
+
+189
+00:08:30,571 --> 00:08:33,393
+That tells you where you're
+going before you start.
+
+190
+00:08:33,442 --> 00:08:36,814
+Step two: for ratios, ask part to part,
+
+191
+00:08:36,834 --> 00:08:38,208
+or part to whole.
+
+192
+00:08:38,228 --> 00:08:41,244
+If it's part to part, add
+the parts to get the whole.
+
+193
+00:08:41,264 --> 00:08:45,651
+For proportions, keep the same units on
+top and the same units on the bottom.
+
+194
+00:08:45,671 --> 00:08:50,544
+Step three: for conversions, chain fractions
+so the units you don't want cancel.
+
+195
+00:08:50,564 --> 00:08:52,757
+For area, square the factor.
+
+196
+00:08:52,777 --> 00:08:54,564
+For volume, cube it.
+
+197
+00:08:54,599 --> 00:08:56,528
+Or convert the lengths first.
+
+198
+00:08:56,561 --> 00:08:58,740
+Step four: sense check.
+
+199
+00:08:58,954 --> 00:09:01,649
+A bigger unit on top
+means a smaller number:
+
+200
+00:09:01,669 --> 00:09:05,418
+fifteen cubic meters per
+hour, not fifteen thousand.
+
+201
+00:09:05,489 --> 00:09:08,597
+A bigger unit on the bottom
+means a bigger number:
+
+202
+00:09:08,668 --> 00:09:12,979
+two hundred fifty liters per minute
+is fifteen thousand liters per hour.
+
+203
+00:09:12,999 --> 00:09:16,392
+If the size looks wrong,
+a unit didn't cancel.
+
+204
+00:09:16,429 --> 00:09:17,338
+Quick recap.
+
+205
+00:09:17,358 --> 00:09:19,481
+A rate is a ratio with units.
+
+206
+00:09:19,501 --> 00:09:22,409
+Keep the units on every
+number and let them cancel.
+
+207
+00:09:22,429 --> 00:09:26,143
+A part-to-part ratio needs the
+parts added to get the whole.
+
+208
+00:09:26,179 --> 00:09:28,338
+Rates for things working together add,
+
+209
+00:09:28,358 --> 00:09:29,695
+once they share a unit.
+
+210
+00:09:29,715 --> 00:09:33,536
+And square or cube the
+factor for area and volume.
+
+211
+00:09:33,559 --> 00:09:38,646
+Every question here was written for this
+video in the style of the real test.
+
+212
+00:09:38,666 --> 00:09:43,146
+For official practice, the College Board's
+free Question Bank lets you filter by
+
+213
+00:09:43,166 --> 00:09:47,396
+skill, including ratios, rates,
+proportional relationships,
+
+214
+00:09:47,416 --> 00:09:48,702
+and units.
+
+215
+00:09:48,770 --> 00:09:50,500
+If this helped, subscribe.
+
+216
+00:09:50,520 --> 00:09:54,500
+The next video is SAT
+probability and two-way tables,
+
+217
+00:09:54,520 --> 00:09:57,306
+where picking the right
+total is the whole game.

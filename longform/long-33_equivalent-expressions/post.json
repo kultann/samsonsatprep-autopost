@@ -1,0 +1,30 @@
+{
+  "id": "long-33_equivalent-expressions",
+  "type": "longform",
+  "order": 33,
+  "publish_at": "2026-12-27T16:00:00-06:00",
+  "video": "33_equivalent-expressions.mp4",
+  "video_bytes": 189630928,
+  "title": "SAT Equivalent Expressions: Factoring, Exponents, and the Plug-In Check",
+  "description": "\"Which expression is equivalent?\" questions come from a short list of algebra tools, and the wrong answers come from a short list of mistakes. This lesson covers both, then works through 7 SAT-style practice questions that get harder as they go.\n\nYou'll learn:\n• Distributing (especially a negative) and combining like terms\n• Factoring: greatest common factor, difference of squares, trinomials, and grouping\n• Exponent rules, including negative and fractional exponents and radicals\n• Adding and simplifying rational expressions\n• Matching coefficients to find a missing constant\n• The plug-in check and the Desmos check for any equivalence question\n• The 4 traps behind most wrong answers\n\nAll questions are original SAT-style questions written for this video, not official College Board questions. For official practice, use the free SAT Suite Question Bank (Advanced Math, skill: Equivalent expressions).\n\nCHAPTERS\n0:00 Intro\n0:36 Distributing and like terms\n0:59 Factoring\n2:25 Exponent rules and radicals\n3:17 Rational expressions\n3:45 Missing constants and the plug-in check\n4:28 How the SAT tests it\n4:46 Question 1: Subtracting polynomials\n5:32 Question 2: Factoring\n6:10 Question 3: Fractional exponents\n6:56 Question 4: Rational expressions\n7:58 The four traps\n9:05 Question 6: Find the constant\n10:03 Question 7: Use the structure\n11:39 Test-day method\n12:13 Wrap-up\n\nDaily SAT practice: @samsonsatprep on Instagram and TikTok\n\n#SAT #DigitalSAT #SATmath",
+  "tags": [
+    "SAT equivalent expressions",
+    "SAT algebra",
+    "SAT factoring",
+    "exponent rules SAT",
+    "rational expressions",
+    "SAT advanced math",
+    "digital SAT math",
+    "Desmos SAT",
+    "SAT math practice",
+    "SAT prep"
+  ],
+  "category": "27",
+  "language": "en",
+  "synthetic_media": false,
+  "made_for_kids": false,
+  "notify_subscribers": true,
+  "source": "youtube/33_equivalent-expressions",
+  "thumbnail": "thumbnail.png",
+  "captions": "captions.srt"
+}
