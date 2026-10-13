@@ -93,6 +93,18 @@ class TikTokWeekTest(unittest.TestCase):
         self.assertEqual(len(rec), 7)  # missing render/caption aren't recorded, so the media repo keeps them
         self.assertEqual(rec[f"{MON}_0730_R1-001"]["file"], "01_Mon_0730_R1-001.mp4")
 
+    def test_gemini_prompt(self):
+        self.build(carousels=True)
+        prompt = (self.week / "gemini_prompt.txt").read_text()
+        self.assertIn("File: 01_Mon_0730_R1-001.mp4 (video)", prompt)
+        self.assertIn("Schedule: Monday, October 19, 2026 at 7:30 AM Central", prompt)
+        self.assertIn("Caption:\nCaption for R1-001\n\n#studytok #satprep #sattips #digitalsat #satmath\n---", prompt)
+        self.assertIn("File: 02_Mon_0800_q01 (photo post, 10 slides in order)", prompt)
+        self.assertIn('never click "Post"', prompt)
+        page = (self.week / "checklist.html").read_text()
+        self.assertIn("Copy Gemini prompt", page)
+        self.assertEqual(page.count("class='card'"), 8)  # the prompt box isn't a card
+
     def test_daily_cap_keeps_long_shorts_then_best(self):
         s = self.build(per_day=4)
         self.assertEqual([n.split("_", 3)[3] for n in self.mp4s()],
@@ -140,6 +152,15 @@ class TikTokWeekTest(unittest.TestCase):
         self.build(per_day=2)
         self.assertEqual(len(self.mp4s()), 2)
         self.assertTrue((self.week / "my notes.txt").exists())
+
+    def test_next_monday(self):
+        self.assertEqual(tw.next_monday(date(2026, 10, 18)), date(2026, 10, 19))  # Sunday night -> tomorrow
+        self.assertEqual(tw.next_monday(date(2026, 10, 13)), date(2026, 10, 19))  # Tuesday
+        self.assertEqual(tw.next_monday(date(2026, 10, 19)), date(2026, 10, 26))  # Monday -> next week
+
+    def test_cli_needs_a_start(self):
+        with self.assertRaises(SystemExit):
+            tw.main(["--sat", str(self.sat), "--no-record"])
 
     def test_cli(self):
         self.assertEqual(tw.main(["--start", "2026-10-26", "--sat", str(self.sat), "--no-record"]), 0)

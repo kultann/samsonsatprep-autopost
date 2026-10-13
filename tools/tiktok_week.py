@@ -16,6 +16,8 @@ Then it lists those shorts in samsonsatprep-media/tiktok_weekly.json, so the med
 their videos (push the media repo in GitHub Desktop afterwards). The render archive is never touched.
 
 Settings: edit the constants below or use the flags (--per-day, --carousels, --mix, --days, --no-record).
+Scheduled run (Sundays 9 PM, launchd: ~/Desktop/SAT/tools/launchd/com.samsonsatprep.tiktok-week.plist) uses
+--next (the coming Monday) and --notify (a Mac notification when the folder is ready).
 Re-running a week rebuilds its folder; ticks in checklist.html are kept.
 """
 import argparse
@@ -320,8 +322,10 @@ def build(paths, start, days=7, per_day=SHORTS_PER_DAY, carousels=CAROUSELS, mix
         "skipped": sorted(skipped, key=lambda s: s["when"]),
         "settings": {"per_day": per_day, "carousels": carousels, "mix": mix},
     }
-    (week / "checklist.html").write_text(checklist_html(start, end, cards, summary), encoding="utf-8")
-    made.append("checklist.html")
+    prompt = gemini_prompt(start, end, cards)
+    (week / "gemini_prompt.txt").write_text(prompt, encoding="utf-8")
+    (week / "checklist.html").write_text(checklist_html(start, end, cards, summary, prompt), encoding="utf-8")
+    made += ["gemini_prompt.txt", "checklist.html"]
     (week / ".tiktok_week.json").write_text(json.dumps({"made": made, "built": stamp}, indent=1) + "\n")
     summary["recorded"] = update_record(paths, rec) if record else False
     summary["record_count"] = len(rec) if summary["recorded"] else 0
@@ -397,7 +401,42 @@ progress();
 """
 
 
-def checklist_html(start, end, cards, summary):
+def gemini_prompt(start, end, cards):
+    """One prompt for Gemini in Chrome: it fills in caption, AI label and schedule for each uploaded file
+    (Samson, 2026-10-13: he uploads the files, Gemini does the rest)."""
+    last_day = end - timedelta(days=1)
+    out = [
+        "You're helping me schedule TikTok posts for @samsonsatprep in TikTok Studio on desktop "
+        "(https://www.tiktok.com/tiktokstudio/upload). I upload the files myself. For each file I've uploaded:",
+        "1. Find its post below by the file name (TikTok Studio shows the file name and puts it in the description box "
+        "by default), for example 01_Mon_0730_Q1-020.",
+        "2. Replace everything in the description box with that post's caption below, exactly as written, including the "
+        "blank line and the hashtags. Don't add, remove or reword anything (no extra hashtags, no emojis).",
+        "3. Videos only: open \"Show more\" (advanced settings) and turn on \"AI-generated content\".",
+        "4. Choose \"Schedule\" and set the date and time listed for that post. Times are Central Time, which is my "
+        "computer's time zone.",
+        "5. Click \"Schedule\" and go on to the next file.",
+        "Rules: never click \"Post\" (only \"Schedule\"); don't change any other setting; if a file name isn't in the "
+        "list, a post is already scheduled, or the page looks different from what I described, stop and ask me.",
+        "",
+        f"Posts for {start:%a %b} {start.day} – {last_day:%a %b} {last_day.day}, {start.year} ({len(cards)} total):",
+    ]
+    day = None
+    for c in cards:
+        t = c["when"]
+        if t.date() != day:
+            day = t.date()
+            out += ["", f"=== {t:%A}, {t:%B} {t.day} ==="]
+        kind = "video" if c["kind"] == "short" else f"photo post, {c['slides']} slides in order"
+        out += ["", f"File: {c['file'].rstrip('/')} ({kind})",
+                f"Schedule: {t:%A, %B} {t.day}, {t.year} at {nice_time(t).split(' · ')[1]} Central"]
+        if c["kind"] != "short":
+            out.append(f"Title: {c['title']}")
+        out += ["Caption:", c["text"], "---"]
+    return "\n".join(out) + "\n"
+
+
+def checklist_html(start, end, cards, summary, prompt=""):
     e = html.escape
     last_day = end - timedelta(days=1)
     title = f"TikTok week of {start:%b} {start.day}"
@@ -420,6 +459,12 @@ def checklist_html(start, end, cards, summary):
         "<li>Tick the card.</li></ol>",
         "<p>TikTok only schedules about 10 days ahead, so build each week's folder a day or two before it starts.</p></div>",
     ]
+    if prompt and cards:
+        out += ["<div class='how'><b>Using Gemini in Chrome?</b> Upload the files in TikTok Studio, then paste this prompt into "
+                "Gemini (it's also in <span class='file'>gemini_prompt.txt</span>). It fills in each caption, the AI label and "
+                "the schedule. Spot-check a few, then tick the cards.",
+                f"<textarea class='title' id='gemini' readonly>{e(prompt)}</textarea>",
+                "<button class='copy' data-for='gemini'>Copy Gemini prompt</button></div>"]
     day = None
     for c in cards:
         t = c["when"]
@@ -470,21 +515,51 @@ def checklist_html(start, end, cards, summary):
 
 
 # ---------------------------------------------------------------- CLI
+def next_monday(today):
+    """The coming Monday: tomorrow on a Sunday, a week later on a Monday."""
+    return today + timedelta(days=(7 - today.weekday()) % 7 or 7)
+
+
+def notify(title, text):
+    """Mac notification (the scheduled Sunday run). Does nothing elsewhere or if it fails."""
+    if sys.platform != "darwin":
+        return
+    script = f"display notification {json.dumps(text)} with title {json.dumps(title)}"
+    subprocess.run(["osascript", "-e", script], capture_output=True)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Build a week of TikToks to schedule by hand in TikTok Studio.")
-    ap.add_argument("--start", required=True, help="first day, YYYY-MM-DD (usually a Monday)")
+    ap.add_argument("--start", help="first day, YYYY-MM-DD (usually a Monday)")
+    ap.add_argument("--next", action="store_true", help="start on the coming Monday (used by the Sunday-night schedule)")
+    ap.add_argument("--notify", action="store_true", help="show a Mac notification when done")
     ap.add_argument("--days", type=int, default=7, help="how many days (default 7)")
     ap.add_argument("--per-day", type=int, default=SHORTS_PER_DAY, help=f"shorts per day (default {SHORTS_PER_DAY})")
     ap.add_argument("--carousels", action=argparse.BooleanOptionalAction, default=CAROUSELS,
-                    help="also prepare photo carousels (default: %(default)s)")
+                    help="also prepare photo carousels (off by default)")
     ap.add_argument("--mix", choices=["final", "clean"], default=MIX, help="final (with music) or clean (to add a TikTok sound)")
     ap.add_argument("--no-record", action="store_true", help="don't list the shorts in samsonsatprep-media/tiktok_weekly.json")
     ap.add_argument("--sat", default=str(REPO.parent), help="the SAT folder (default: %(default)s)")
     a = ap.parse_args(argv)
+    if not (a.start or a.next):
+        ap.error("give --start YYYY-MM-DD or --next")
+    start = next_monday(date.today()) if a.next else date.fromisoformat(a.start)
+    print(f"[{datetime.now():%Y-%m-%d %H:%M}] tiktok_week --start {start}")
     paths = Paths(a.sat)
     if not paths.bank.exists():
+        if a.notify:
+            notify("TikTok week failed", f"Shorts bank not found: {paths.bank}")
         ap.error(f"shorts bank not found: {paths.bank}")
-    s = build(paths, date.fromisoformat(a.start), a.days, max(0, a.per_day), a.carousels, a.mix, record=not a.no_record)
+    try:
+        s = build(paths, start, a.days, max(0, a.per_day), a.carousels, a.mix, record=not a.no_record)
+    except Exception as e:
+        if a.notify:
+            notify("TikTok week failed", f"{type(e).__name__}: {e}"[:200])
+        raise
+    if a.notify:
+        skipped = f", {len(s['skipped'])} skipped" if s["skipped"] else ""
+        notify(f"TikTok week of {start:%b} {start.day} is ready",
+               f"{plural(s['posts'], 'post')}{skipped}. Open checklist.html, then push the media repo.")
     print(f"TikTok week {s['week']} -> {s['folder']}")
     if s["posts"]:
         print(f"  {plural(s['posts'], 'post')} ({plural(s['shorts'], 'short')}, {plural(s['carousels'], 'carousel')})")
