@@ -53,9 +53,11 @@ else:
         report("Instagram publish permission", "error" not in lim,
                lim.get("error", {}).get("message", f"used today: {lim.get('data', [{}])[0].get('quota_usage', '?')}"))
 
-# 3. TikTok
+# 3. TikTok (skipped while the bot doesn't post to TikTok: TIKTOK_ENABLED unset/0, the default since 2026-10-13)
 key, sec, rt = (os.environ.get(k) for k in ("TIKTOK_CLIENT_KEY", "TIKTOK_CLIENT_SECRET", "TIKTOK_REFRESH_TOKEN"))
-if not (key and sec and rt):
+if (os.environ.get("TIKTOK_ENABLED", "") or "0").strip().lower() not in ("1", "true", "yes", "on"):
+    print("SKIP TikTok -> off (TIKTOK_ENABLED); TikTok is posted by hand from tools/tiktok_week.py")
+elif not (key and sec and rt):
     report("TikTok secrets", False, "client key/secret or refresh token missing")
 else:
     t = requests.post("https://open.tiktokapis.com/v2/oauth/token/",

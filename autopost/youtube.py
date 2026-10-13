@@ -94,6 +94,22 @@ def upload_short(token, path, title, description, tags=(), synthetic=False, priv
 # ---------------------------------------------------------------------------
 # Long-form videos (longform/<id>/post.json, see autopost/longform.py)
 # ---------------------------------------------------------------------------
+VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
+
+
+def video_gone(token, video_id):
+    """True only when YouTube confirms the video is no longer on the channel (deleted in Studio).
+    Any error or doubt counts as "still there", so a hiccup can never cause a second upload."""
+    if config.DRY_RUN or not token or not video_id:
+        return False
+    try:
+        r = requests.get(VIDEOS_URL, params={"part": "id", "id": video_id},
+                         headers={"Authorization": f"Bearer {token}"}, timeout=30)
+        return r.status_code == 200 and isinstance(r.json(), dict) and not r.json().get("items")
+    except Exception:
+        return False
+
+
 THUMB_URL = "https://www.googleapis.com/upload/youtube/v3/thumbnails/set"
 CAPTIONS_URL = "https://www.googleapis.com/upload/youtube/v3/captions"
 LONG_CHUNK = 32 * 1024 * 1024  # resumable chunks must be multiples of 256 KiB

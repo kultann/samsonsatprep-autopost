@@ -5,6 +5,8 @@ Each post lives in posts/<id>/ with a post.json and its media.
 - short: one vertical MP4 -> Instagram Reels, TikTok video, YouTube Shorts
 A post is due when publish_at <= now and it isn't recorded in state/posted.json
 for that platform yet. Run this on a schedule (GitHub Actions does it hourly).
+TikTok is skipped while config.TIKTOK_ENABLED is off (the default since 2026-10-13): TikTok is posted
+by hand each week from tools/tiktok_week.py.
 
 Usage:
   python -m autopost.runner            # post what's due (+ prune old short videos)
@@ -63,6 +65,18 @@ def load_media_posts():
 def fully_posted(p, state):
     done = state.get(p.get("id"), {})
     return bool(p.get("platforms")) and all(pl in done for pl in p["platforms"])
+
+
+def active_platforms(p):
+    """The platforms the bot posts p to. TikTok is left out while TIKTOK_ENABLED is off (posted by hand)."""
+    return [pl for pl in p.get("platforms", []) if pl != "tiktok" or config.TIKTOK_ENABLED]
+
+
+def posted_time(now):
+    """When a post went out: the real clock, unless run() was handed a time far from it (tests and
+    simulations), in which case that time, so spacing rules see the clock the run is using."""
+    real = datetime.now(timezone.utc)
+    return max(now, real) if abs(real - now) < timedelta(hours=1) else now
 
 
 def validate(p, state=None):
@@ -358,11 +372,13 @@ def run(now=None):
         if p["type"] not in AUTO_TYPES:
             continue
         if datetime.fromisoformat(p["publish_at"]) <= now:
-            pending = [pl for pl in p["platforms"] if pl not in state.get(p["id"], {})]
+            pending = [pl for pl in active_platforms(p) if pl not in state.get(p["id"], {})]
             if pending:
                 due.append((p, pending))
 
     failures = 0
+    if not config.TIKTOK_ENABLED:
+        print("TikTok: off (TIKTOK_ENABLED), posted by hand from tools/tiktok_week.py")
     if not due:
         print("Nothing due.")
     due.sort(key=lambda x: datetime.fromisoformat(x[0]["publish_at"]))  # oldest first
@@ -399,7 +415,7 @@ def run(now=None):
                 if media_id is None:
                     continue
                 posted_any = True
-                posted_at = max(now, datetime.now(timezone.utc))
+                posted_at = posted_time(now)
                 state.setdefault(p["id"], {})[platform] = {
                     "id": media_id,
                     "at": posted_at.isoformat(timespec="seconds"),

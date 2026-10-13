@@ -55,6 +55,8 @@ class Fake:
         self.download_status = 200
         self.n = 0
         self.quota = False
+        self.existing = set()     # video ids still on the channel (videos.list)
+        self.list_error = False
 
     def post(self, url, data=None, json=None, headers=None, timeout=None, params=None):
         self.calls.append(("POST", url, json if json is not None else data, headers, params))
@@ -92,11 +94,16 @@ class Fake:
             st = {"privacyStatus": meta["status"]["privacyStatus"]}
             if meta["status"].get("publishAt"):
                 st["publishAt"] = meta["status"]["publishAt"]
+            self.existing.add(f"VID{self.n}")
             return Resp({"id": f"VID{self.n}", "status": st})
         return Resp({}, status=308, headers={"Range": f"bytes=0-{self.received - 1}"})
 
-    def get(self, url, params=None, timeout=None, stream=False):
+    def get(self, url, params=None, timeout=None, stream=False, headers=None):
         self.calls.append(("GET", url, None, None, None))
+        if url.endswith("/youtube/v3/videos"):  # videos.list: is the video still there?
+            if self.list_error:
+                return Resp({"error": {"code": 500}}, status=500)
+            return Resp({"items": [{"id": i} for i in params["id"].split(",") if i in self.existing]})
         return Resp({}, status=self.download_status, body=self.download)
 
     def head(self, url, allow_redirects=True, timeout=None):
@@ -278,6 +285,28 @@ class LongformTest(unittest.TestCase):
         self.assertNotIn("long-01", st)  # the real post is untouched
         self.runner.run(now=self.at("2026-10-08T09:15:00-05:00"))
         self.assertEqual(len(self.uploads()), 1)
+
+    def test_test_mode_uploads_again_after_the_test_video_is_deleted(self):
+        os.environ["YT_LONGFORM"] = "test"
+        self.reload()
+        t0 = self.at("2026-10-08T09:00:00-05:00")
+        self.runner.run(now=t0)
+        first = self.state()["_longform_test"]["id"]
+        self.runner.run(now=t0 + timedelta(hours=1))
+        self.assertEqual(len(self.uploads()), 1)  # still on YouTube: no second upload
+        self.fake.existing.discard(first)  # deleted in Studio...
+        self.fake.list_error = True        # ...but YouTube can't be asked right now: still no second upload
+        self.runner.run(now=t0 + timedelta(hours=2))
+        self.assertEqual(len(self.uploads()), 1)
+        self.fake.list_error = False
+        self.runner.run(now=t0 + timedelta(hours=3))
+        self.assertEqual(len(self.uploads()), 2)
+        st = self.state()
+        self.assertEqual(st["_longform_test_prev"]["id"], first)
+        self.assertNotEqual(st["_longform_test"]["id"], first)
+        self.assertTrue(self.uploads()[1][2]["snippet"]["title"].startswith("[TEST] "))
+        self.runner.run(now=t0 + timedelta(hours=4))
+        self.assertEqual(len(self.uploads()), 2)  # the new one is on YouTube: done
 
     def test_captions_when_enabled(self):
         os.environ["YT_CAPTIONS"] = "1"

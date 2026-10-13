@@ -82,6 +82,7 @@ class RunnerTest(unittest.TestCase):
             "PUBLIC_BASE_URL": "https://example.github.io/samsonsatprep-autopost",
             "IG_USER_ID": "123", "IG_ACCESS_TOKEN": "IGTOKEN",
             "TIKTOK_CLIENT_KEY": "k", "TIKTOK_CLIENT_SECRET": "s", "TIKTOK_REFRESH_TOKEN": "TT_REFRESH_OLD",
+            "TIKTOK_ENABLED": "1",  # these tests cover the TikTok code; it's off by default (see test_tiktok_off_*)
             "POSTS_DIR": "posts",
             "STATE_FILE": os.path.join(self.tmp, "posted.json"),
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"),
@@ -239,6 +240,26 @@ class RunnerTest(unittest.TestCase):
         self.assertNotIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
         self.runner.run(now=due + timedelta(minutes=45))
         self.assertIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
+
+    def test_tiktok_off_by_default(self):
+        with mock.patch.dict(os.environ, {"TIKTOK_ENABLED": ""}):
+            importlib.reload(self.runner.config)
+            self.assertFalse(self.runner.config.TIKTOK_ENABLED)
+        importlib.reload(self.runner.config)  # back to this test class's env (TIKTOK_ENABLED=1)
+        self.assertTrue(self.runner.config.TIKTOK_ENABLED)
+
+    def test_tiktok_off_posts_instagram_only(self):
+        """TikTok is posted by hand (tools/tiktok_week.py) while TIKTOK_ENABLED is off."""
+        from datetime import timedelta
+        due = datetime(2026, 10, 12, 21, 7, tzinfo=timezone.utc)
+        with mock.patch.object(self.runner.config, "TIKTOK_ENABLED", False):
+            self.assertEqual(self.runner.run(now=due), 0)
+            state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+            self.assertEqual(sorted(state["2026-10-12_q01"]), ["instagram"])
+            self.assertFalse([c for c in self.fake.calls if "tiktok" in c[1]])  # no token refresh either
+            n = len(self.fake.calls)
+            self.assertEqual(self.runner.run(now=due + timedelta(hours=1)), 0)
+            self.assertEqual(len(self.fake.calls), n)  # nothing pending: TikTok isn't retried every run
 
     def test_check_passes(self):
         self.assertEqual(self.runner.check(), 0)

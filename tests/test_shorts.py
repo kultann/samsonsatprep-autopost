@@ -84,6 +84,7 @@ class ShortsTest(unittest.TestCase):
             "PUBLIC_BASE_URL": "https://example.github.io/samsonsatprep-autopost",
             "IG_USER_ID": "123", "IG_ACCESS_TOKEN": "IGTOKEN",
             "TIKTOK_CLIENT_KEY": "k", "TIKTOK_CLIENT_SECRET": "s", "TIKTOK_REFRESH_TOKEN": "TT_REFRESH_OLD",
+            "TIKTOK_ENABLED": "1",
             "YT_CLIENT_ID": "id", "YT_CLIENT_SECRET": "sec", "YT_REFRESH_TOKEN": "rt",
             "POSTS_DIR": "posts", "STATE_FILE": os.path.join(self.tmp, "posted.json"),
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"), "DRY_RUN": "0",
@@ -156,6 +157,17 @@ class ShortsTest(unittest.TestCase):
         self.assertFalse((self.dir / "video.mp4").exists())
         self.assertEqual(self.runner.check(), 0)  # a pruned, fully posted short still validates
 
+    def test_tiktok_off_posts_instagram_and_youtube_only(self):
+        """TikTok is posted by hand (tools/tiktok_week.py) while TIKTOK_ENABLED is off."""
+        fake = Fake(); self.patch(fake)
+        with mock.patch.object(self.runner.config, "TIKTOK_ENABLED", False):
+            self.assertEqual(self.runner.run(now=self.due), 0)
+            state = json.loads(Path(os.environ["STATE_FILE"]).read_text())[SHORT["id"]]
+            self.assertEqual(sorted(state), ["instagram", "youtube"])
+            self.assertFalse([c for c in fake.calls if "tiktok" in c[1]])
+            self.runner.run(now=self.due + timedelta(hours=49))
+            self.assertTrue((self.dir / "video.mp4").exists())  # kept: TikTok hasn't had it yet
+
     def test_validation(self):
         p = dict(SHORT, _dir=self.dir, youtube={"title": ""})
         self.assertIn("youtube.title missing", self.runner.validate(p))
@@ -222,6 +234,7 @@ class MediaRepoTest(unittest.TestCase):
             "MEDIA_BASE_URL": "https://example.github.io/samsonsatprep-media",
             "IG_USER_ID": "123", "IG_ACCESS_TOKEN": "IGTOKEN",
             "TIKTOK_CLIENT_KEY": "k", "TIKTOK_CLIENT_SECRET": "s", "TIKTOK_REFRESH_TOKEN": "TT_REFRESH_OLD",
+            "TIKTOK_ENABLED": "1",
             "POSTS_DIR": "posts", "STATE_FILE": os.path.join(self.tmp, "posted.json"),
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"), "DRY_RUN": "0",
         }

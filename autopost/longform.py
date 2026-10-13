@@ -40,6 +40,12 @@ EXTRA_TRIES = 5              # thumbnail/captions retries on later runs
 TEST_KEY = "_longform_test"
 
 
+def _stamp(now):
+    """Upload time: the real clock, unless run() was handed a time far from it (tests), then that time."""
+    real = datetime.now(timezone.utc)
+    return max(now, real) if abs(real - now) < timedelta(hours=1) else now
+
+
 def load():
     posts = []
     for f in sorted(Path(config.LONGFORM_DIR).glob("*/post.json")):
@@ -228,7 +234,7 @@ def upload_one(p, when, now, tok, title=None, test=False):
             category=str(p.get("category", youtube.EDUCATION)),
             notify=False if test else p.get("notify_subscribers", True),
             made_for_kids=p.get("made_for_kids", False))
-    rec = {"id": vid, "at": max(now, datetime.now(timezone.utc)).isoformat(timespec="seconds"),
+    rec = {"id": vid, "at": _stamp(now).isoformat(timespec="seconds"),
            "publish_at": (now if public_now else when).isoformat(timespec="seconds"),
            "privacy": "test" if test else ("public" if public_now else "scheduled")}
     if status.get("privacyStatus"):
@@ -238,9 +244,16 @@ def upload_one(p, when, now, tok, title=None, test=False):
 
 def run_test(posts, now, state, tok, save, cool=None):
     if TEST_KEY in state:
-        print(f"LONGFORM test already uploaded (video {state[TEST_KEY].get('id')}). Delete it in Studio and set "
-              "YT_LONGFORM back to 0 (or 1 once the YouTube API audit has passed).")
-        return 0
+        old = state[TEST_KEY]
+        # Deleting the [TEST] video in Studio resets the test (Samson, 2026-10-13: record it again for Google's
+        # review). The old record moves to TEST_KEY + "_prev"; it still counts for YouTube pacing.
+        if not youtube.video_gone(tok.youtube(), old.get("id")):
+            print(f"LONGFORM test already uploaded (video {old.get('id')}). To upload it again, delete that video "
+                  "in Studio; otherwise set YT_LONGFORM back to 0 (or 1 once the YouTube API audit has passed).")
+            return 0
+        print(f"LONGFORM test video {old.get('id')} was deleted in Studio: uploading the test again")
+        state[TEST_KEY + "_prev"] = old
+        del state[TEST_KEY]
     ok = [p for p in posts if not validate(p)]
     if not ok:
         print("LONGFORM test: no valid long-form post to test with")

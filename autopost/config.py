@@ -16,6 +16,11 @@ TIKTOK_CLIENT_KEY = os.environ.get("TIKTOK_CLIENT_KEY", "")
 TIKTOK_CLIENT_SECRET = os.environ.get("TIKTOK_CLIENT_SECRET", "")
 TIKTOK_REFRESH_TOKEN = os.environ.get("TIKTOK_REFRESH_TOKEN", "")
 TIKTOK_API = "https://open.tiktokapis.com/v2"
+# TikTok posting by the bot: OFF by default (Samson, 2026-10-13). TikTok rejected the developer app for
+# production ("apps for personal use are not eligible"), so API posts could only ever be private. TikTok is
+# now posted by hand once a week from tools/tiktok_week.py (TikTok Studio scheduler). The TikTok code stays;
+# set the repo variable TIKTOK_ENABLED=1 to let the bot post to TikTok again.
+TIKTOK_ENABLED = (os.environ.get("TIKTOK_ENABLED", "") or "0").strip().lower() in ("1", "true", "yes", "on")
 
 # YouTube (Data API v3). Refresh token from tools/youtube_auth.py
 YT_CLIENT_ID = os.environ.get("YT_CLIENT_ID", "")
