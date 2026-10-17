@@ -57,6 +57,11 @@ TIKTOK_APP_COOLDOWN_HOURS = float(os.environ.get("TIKTOK_APP_COOLDOWN_HOURS", ""
 # backlog drips out instead of posting in a burst (bursts on a new account look automated).
 # 40 min with runs every 15 min (cron-job.org) = one Instagram post about every 45 min.
 IG_FEED_MIN_GAP_MINUTES = float(os.environ.get("IG_FEED_MIN_GAP_MINUTES", "") or 40)
+# Feed posts (carousels/images, not shorts) per Central day and platform (Samson, 2026-10-17: about one a
+# day). The earliest feed post of each day goes out; the day's others are marked "skipped" for that platform
+# instead of piling up. 0 = no cap (repo variables IG_FEED_PER_DAY / TIKTOK_FEED_PER_DAY).
+IG_FEED_PER_DAY = int(os.environ.get("IG_FEED_PER_DAY", "") or 1)
+TIKTOK_FEED_PER_DAY = int(os.environ.get("TIKTOK_FEED_PER_DAY", "") or 1)
 NTFY_SERVER = (os.environ.get("NTFY_SERVER", "") or "https://ntfy.sh").rstrip("/")
 
 # TikTok photo carousels: "direct" (default, Samson 2026-10-05) posts straight to the profile (no

@@ -117,6 +117,10 @@ def main():
     empty = [k for k, v in m.items() if not v]
     if empty:
         sys.exit(f"no related long video for {len(empty)} shorts, e.g. {empty[:5]}")
+    # hand-picked links for posts that aren't in the shorts bank (premium weekly videos, PW-...)
+    extra = REPO / "longform" / "related_extra.json"
+    if extra.exists():
+        m.update(json.loads(extra.read_text()))
     OUT.write_text(json.dumps(m, indent=0, sort_keys=True) + "\n")
     first = {}
     for v in m.values():

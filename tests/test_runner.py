@@ -88,6 +88,7 @@ class RunnerTest(unittest.TestCase):
             "NEW_SECRETS_FILE": os.path.join(self.tmp, "new.env"),
             "COOLDOWN_FILE": os.path.join(self.tmp, "cooldown.json"),
             "DRY_RUN": "0",
+            "IG_FEED_PER_DAY": "0", "TIKTOK_FEED_PER_DAY": "0",  # the daily feed cap has its own test
         }
         self.env = mock.patch.dict(os.environ, env)
         self.env.start()
@@ -240,6 +241,28 @@ class RunnerTest(unittest.TestCase):
         self.assertNotIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
         self.runner.run(now=due + timedelta(minutes=45))
         self.assertIn("instagram", json.loads(Path(os.environ["STATE_FILE"]).read_text())["2026-10-12_q02"])
+
+    def test_daily_feed_cap_keeps_the_first_post_and_skips_the_rest(self):
+        from datetime import timedelta
+        second = dict(POST, id="2026-10-12_q02", publish_at="2026-10-12T19:00:00-05:00")
+        d = Path("posts") / second["id"]
+        d.mkdir(parents=True)
+        (d / "post.json").write_text(json.dumps(second))
+        for f in second["slides"] + second["slides_tiktok"]:
+            (d / f).write_bytes(b"\xff\xd8\xff\xd9")
+        due = datetime(2026, 10, 13, 1, 30, tzinfo=timezone.utc)  # both are due
+        with mock.patch.object(self.runner.config, "IG_FEED_PER_DAY", 1), \
+                mock.patch.object(self.runner.config, "TIKTOK_FEED_PER_DAY", 1):
+            self.assertEqual(self.runner.run(now=due), 0)
+            state = json.loads(Path(os.environ["STATE_FILE"]).read_text())
+            self.assertIn("id", state["2026-10-12_q01"]["instagram"])
+            self.assertIn("id", state["2026-10-12_q01"]["tiktok"])
+            self.assertEqual(state["2026-10-12_q02"]["instagram"]["skipped"], "daily feed cap")
+            self.assertEqual(state["2026-10-12_q02"]["tiktok"]["skipped"], "daily feed cap")
+            self.assertNotIn("at", state["2026-10-12_q02"]["instagram"])  # Instagram spacing ignores skips
+            n = len(self.fake.calls)
+            self.assertEqual(self.runner.run(now=due + timedelta(hours=2)), 0)
+            self.assertEqual(len(self.fake.calls), n)  # skipped posts don't come back
 
     def test_tiktok_off_by_default(self):
         with mock.patch.dict(os.environ, {"TIKTOK_ENABLED": ""}):

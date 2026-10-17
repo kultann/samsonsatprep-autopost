@@ -72,6 +72,23 @@ def active_platforms(p):
     return [pl for pl in p.get("platforms", []) if pl != "tiktok" or config.TIKTOK_ENABLED]
 
 
+def feed_keep(posts):
+    """{platform: post ids the daily feed cap lets through}: the earliest N feed posts of each Central day."""
+    from zoneinfo import ZoneInfo
+    ct = ZoneInfo("America/Chicago")
+    keep = {}
+    for pl, n in (("instagram", config.IG_FEED_PER_DAY), ("tiktok", config.TIKTOK_FEED_PER_DAY)):
+        if n <= 0:
+            continue
+        days = {}
+        for p in posts:
+            if p.get("type") in AUTO_TYPES and p["type"] != "short" and pl in p.get("platforms", []):
+                t = datetime.fromisoformat(p["publish_at"])
+                days.setdefault(t.astimezone(ct).date(), []).append((t, p["id"]))
+        keep[pl] = {i for v in days.values() for _, i in sorted(v)[:n]}
+    return keep
+
+
 def posted_time(now):
     """When a post went out: the real clock, unless run() was handed a time far from it (tests and
     simulations), in which case that time, so spacing rules see the clock the run is using."""
@@ -388,12 +405,19 @@ def run(now=None):
     cool_before = json.dumps(cool, sort_keys=True)
     last_ig = last_ig_post(state)
     feed_gap = timedelta(minutes=config.IG_FEED_MIN_GAP_MINUTES)
+    keep = feed_keep(posts)
     for p, pending in due:
         if p["type"] == "short" and cap and shorts_posted >= cap:
             print(f"LATER {p['id']}: max {cap} short(s) per run, posts on a later run")
             continue
         posted_any = False
         for platform in pending:
+            if p["type"] != "short" and platform in keep and p["id"] not in keep[platform]:
+                # over the daily feed cap: record it as skipped (no "at", so Instagram spacing ignores it)
+                state.setdefault(p["id"], {})[platform] = {"skipped": "daily feed cap",
+                                                           "on": now.isoformat(timespec="seconds")}
+                print(f"SKIP {p['id']} -> {platform}: over the daily feed cap")
+                continue
             rec = cool.get(platform)
             if rec and datetime.fromisoformat(rec["until"]) > now:
                 print(f"WAIT {p['id']} -> {platform}: paused until {rec['until']} ({rec['reason']})")

@@ -45,6 +45,8 @@ jobs:
           PRUNE_VIDEOS_AFTER_HOURS: ${{ vars.PRUNE_VIDEOS_AFTER_HOURS }}
           MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
           MAX_SHORTS_PER_RUN: ${{ vars.MAX_SHORTS_PER_RUN }}
+          IG_FEED_PER_DAY: ${{ vars.IG_FEED_PER_DAY }}
+          TIKTOK_FEED_PER_DAY: ${{ vars.TIKTOK_FEED_PER_DAY }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           YT_LONGFORM: ${{ vars.YT_LONGFORM }}
           YT_CAPTIONS: ${{ vars.YT_CAPTIONS }}

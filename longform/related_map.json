@@ -3940,7 +3940,6 @@
 "long-10_every-sat-trap-answer"
 ],
 "N03-015": [
-"long-22_statistics",
 "long-09_all-19-sat-math-skills",
 "long-27_full-math-module-walkthrough",
 "long-10_every-sat-trap-answer"
@@ -6165,6 +6164,15 @@
 "long-09_all-19-sat-math-skills",
 "long-27_full-math-module-walkthrough",
 "long-10_every-sat-trap-answer"
+],
+"PW-001": [
+"long-05_formulas-not-on-reference-sheet",
+"long-09_all-19-sat-math-skills"
+],
+"PW-002": [
+"long-35_scatterplots-best-fit",
+"long-22_statistics",
+"long-09_all-19-sat-math-skills"
 ],
 "Q1-001": [
 "long-01_every-sat-grammar-rule",
