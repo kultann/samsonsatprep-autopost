@@ -1,1158 +1,1183 @@
 1
-00:00:00,182 --> 00:00:03,324
-Inference questions end with
-a blank and one question:
+00:00:00,182 --> 00:00:04,290
+There are only four kinds of wrong
+answers on SAT inference questions.
 
 2
-00:00:03,432 --> 00:00:06,790
-which choice most logically
-completes the text?
+00:00:05,433 --> 00:00:06,433
+Too strong.
 
 3
-00:00:06,968 --> 00:00:10,162
-A common mistake is picking
-an answer that could be true.
+00:00:07,432 --> 00:00:08,432
+Out of scope.
 
 4
-00:00:10,182 --> 00:00:12,698
-The right answer is the
-one that has to be true,
+00:00:09,290 --> 00:00:11,682
+True in real life, but not in the passage.
 
 5
-00:00:12,718 --> 00:00:14,147
-based on the text.
+00:00:12,111 --> 00:00:14,555
+And the fourth one looks completely right,
 
 6
-00:00:14,186 --> 00:00:16,916
-In this video: what these
-questions are really testing,
+00:00:14,575 --> 00:00:17,361
+because it uses the passage's own words.
 
 7
-00:00:16,936 --> 00:00:20,809
-a three-step method, six
-original SAT-style questions,
+00:00:17,431 --> 00:00:18,982
+The first three are quick to spot.
 
 8
-00:00:20,829 --> 00:00:23,615
-and the four trap answers
-you'll keep running into.
+00:00:19,002 --> 00:00:21,982
+The fourth is reversed
+logic: the right words,
 
 9
-00:00:23,648 --> 00:00:27,807
+00:00:22,002 --> 00:00:23,268
+with the relationship flipped.
+
+10
+00:00:23,288 --> 00:00:25,911
+That's question six, the hardest one,
+
+11
+00:00:25,931 --> 00:00:27,037
+so stay for it.
+
+12
+00:00:27,145 --> 00:00:30,090
+The rule for all four:
+pick what has to be true,
+
+13
+00:00:30,110 --> 00:00:31,717
+not what could be true.
+
+14
+00:00:32,002 --> 00:00:34,252
+Six SAT-style questions.
+
+15
+00:00:34,788 --> 00:00:37,217
+Keep score, and see if
+you can get all six.
+
+16
+00:00:37,263 --> 00:00:40,692
 An inference question gives you a
 short passage that builds an argument.
 
-10
-00:00:27,827 --> 00:00:30,449
+17
+00:00:40,942 --> 00:00:44,085
 A few facts, a claim, maybe a contrast.
 
-11
-00:00:30,469 --> 00:00:32,984
+18
+00:00:44,477 --> 00:00:46,763
 Then the last sentence stops halfway.
 
-12
-00:00:33,004 --> 00:00:35,354
+19
+00:00:46,906 --> 00:00:48,871
 Your job is to finish the reasoning.
 
-13
-00:00:35,374 --> 00:00:37,533
+20
+00:00:48,930 --> 00:00:50,553
 Think of it like the last line of a proof.
 
-14
-00:00:37,553 --> 00:00:39,890
+21
+00:00:50,573 --> 00:00:54,160
 The lines above it have to lead there.
 
-15
-00:00:39,910 --> 00:00:43,446
+22
+00:00:54,180 --> 00:00:57,087
 The answer isn't a guess
 about what else might be true,
 
-16
-00:00:43,624 --> 00:00:47,160
+23
+00:00:57,107 --> 00:01:00,215
 and it isn't something you happen
 to know from outside the passage.
 
-17
-00:00:47,186 --> 00:00:51,202
+24
+00:01:00,269 --> 00:01:03,698
 These are Inference questions, part
 of the Information and Ideas domain,
 
-18
-00:00:51,222 --> 00:00:54,916
+25
+00:01:03,768 --> 00:01:06,412
 which is about a quarter of the
 Reading and Writing section.
 
-19
-00:00:54,936 --> 00:00:57,201
+26
+00:01:07,447 --> 00:01:09,534
 Reading and Writing
 passages come from science,
 
-20
-00:00:57,221 --> 00:00:59,808
+27
+00:01:09,554 --> 00:01:12,035
 history and social
 studies, the humanities,
 
-21
-00:00:59,828 --> 00:01:00,936
+28
+00:01:12,055 --> 00:01:13,055
 and literature.
 
-22
-00:01:00,971 --> 00:01:02,757
+29
+00:01:13,094 --> 00:01:14,844
 They're easy to recognize.
 
-23
-00:01:02,864 --> 00:01:05,451
+30
+00:01:15,629 --> 00:01:17,681
 The blank is at the
 very end of the passage,
 
-24
-00:01:05,471 --> 00:01:07,951
+31
+00:01:17,701 --> 00:01:20,110
 and the question is
 almost always the same:
 
-25
-00:01:07,971 --> 00:01:11,150
+32
+00:01:20,130 --> 00:01:22,666
 which choice most logically
 completes the text?
 
-26
-00:01:11,195 --> 00:01:13,104
+33
+00:01:22,712 --> 00:01:24,640
 Now look at the words
 right before the blank.
 
-27
-00:01:13,124 --> 00:01:15,766
+34
+00:01:25,390 --> 00:01:27,462
 They tell you what kind
 of ending you need.
 
-28
-00:01:15,909 --> 00:01:19,210
+35
+00:01:28,640 --> 00:01:32,605
 Therefore, so, or thus means a conclusion.
 
-29
-00:01:19,230 --> 00:01:21,802
+36
+00:01:32,855 --> 00:01:35,604
 However or but means a contrast.
 
-30
-00:01:21,945 --> 00:01:25,032
+37
+00:01:36,283 --> 00:01:39,692
 Suggests or most likely
 means a careful conclusion,
 
-31
-00:01:25,052 --> 00:01:26,481
+38
+00:01:39,712 --> 00:01:40,926
 not a certain one.
 
-32
-00:01:26,502 --> 00:01:27,502
+39
+00:01:40,989 --> 00:01:41,989
 Here's the method.
 
-33
-00:01:27,573 --> 00:01:29,930
+40
+00:01:42,631 --> 00:01:44,774
 Step one: trace the logic.
 
-34
-00:01:29,965 --> 00:01:33,089
+41
+00:01:45,203 --> 00:01:48,361
 Mark each claim, and how it
 connects to the next one.
 
-35
-00:01:33,109 --> 00:01:34,287
+42
+00:01:48,381 --> 00:01:49,524
 Is it a cause?
 
-36
-00:01:34,359 --> 00:01:35,589
+43
+00:01:49,595 --> 00:01:50,846
 A contrast?
 
-37
-00:01:35,609 --> 00:01:37,894
+44
+00:01:50,917 --> 00:01:52,703
 A condition, like only if?
 
-38
-00:01:37,931 --> 00:01:39,717
+45
+00:01:52,763 --> 00:01:54,942
 Step two: predict.
 
-39
-00:01:40,073 --> 00:01:43,610
+46
+00:01:55,406 --> 00:01:58,656
 Before you look at the choices,
 finish the sentence in your own words.
 
-40
-00:01:43,681 --> 00:01:45,482
+47
+00:01:58,763 --> 00:02:00,314
 A rough prediction is fine.
 
-41
-00:01:45,502 --> 00:01:47,708
+48
+00:02:00,334 --> 00:02:02,192
 It keeps the choices from steering you.
 
-42
-00:01:47,728 --> 00:01:51,157
+49
+00:02:02,254 --> 00:02:05,824
 Step three: choose the
 answer the text guarantees.
 
-43
-00:01:51,371 --> 00:01:54,529
+50
+00:02:06,146 --> 00:02:09,804
 For each choice, ask: does
 the passage force this?
 
-44
-00:01:54,549 --> 00:01:57,957
+51
+00:02:09,824 --> 00:02:12,805
 If it needs an extra fact, or a
 bigger leap than the passage makes,
 
-45
-00:01:57,977 --> 00:01:58,910
+52
+00:02:12,825 --> 00:02:13,603
 it's out.
 
-46
-00:01:58,930 --> 00:01:59,874
+53
+00:02:13,623 --> 00:02:14,623
 Question one.
 
-47
-00:01:59,894 --> 00:02:03,195
+54
+00:02:14,802 --> 00:02:18,460
 Tardigrades, tiny animals
 often found in moss,
 
-48
-00:02:03,215 --> 00:02:05,945
+55
+00:02:18,480 --> 00:02:20,802
 can survive being completely dried out.
 
-49
-00:02:05,965 --> 00:02:08,767
+56
+00:02:20,979 --> 00:02:23,638
 As they lose water, they
 curl into a compact,
 
-50
-00:02:08,787 --> 00:02:13,588
+57
+00:02:23,658 --> 00:02:27,730
 dormant form called a tun, in which
 their metabolism nearly stops.
 
-51
-00:02:13,608 --> 00:02:17,838
+58
+00:02:28,195 --> 00:02:31,826
 When water returns, a tun can
 rehydrate and become active again.
 
-52
-00:02:17,858 --> 00:02:21,517
+59
+00:02:31,846 --> 00:02:35,203
 A tardigrade that looks lifeless
 in a sample of dried moss,
 
-53
-00:02:21,537 --> 00:02:23,287
+60
+00:02:35,632 --> 00:02:37,453
 then, blank
 
-54
-00:02:23,349 --> 00:02:24,635
+61
+00:02:37,490 --> 00:02:38,597
 Pause and try it.
 
-55
-00:02:27,873 --> 00:02:28,639
+62
+00:02:41,815 --> 00:02:42,815
 Trace it.
 
-56
-00:02:28,659 --> 00:02:31,068
+63
+00:02:43,065 --> 00:02:45,280
 Dried out tardigrades become tuns.
 
-57
-00:02:31,088 --> 00:02:34,068
+64
+00:02:45,494 --> 00:02:48,244
 Tuns can become active
 again when water returns.
 
-58
-00:02:34,088 --> 00:02:38,515
+65
+00:02:48,494 --> 00:02:51,957
 So a tardigrade that looks dead
 in dry moss might just be a tun.
 
-59
-00:02:38,730 --> 00:02:41,228
+66
+00:02:52,565 --> 00:02:54,672
 Prediction: it could still be alive.
 
-60
-00:02:41,248 --> 00:02:45,514
+67
+00:02:54,754 --> 00:02:58,663
 Choice B: may still be alive, and could
 become active again if the moss is
 
-61
-00:02:45,534 --> 00:02:45,978
+68
+00:02:58,683 --> 00:02:59,683
 moistened.
 
-62
-00:02:45,998 --> 00:02:47,442
+69
+00:03:00,004 --> 00:03:01,076
 That's the answer.
 
-63
-00:02:47,462 --> 00:02:49,085
+70
+00:03:01,576 --> 00:03:03,076
 Notice the word may.
 
-64
-00:02:49,105 --> 00:02:52,013
+71
+00:03:03,469 --> 00:03:06,199
 The passage says tardigrades
 can survive drying out,
 
-65
-00:02:52,033 --> 00:02:53,442
+72
+00:03:06,219 --> 00:03:07,611
 not that every one does.
 
-66
-00:02:53,462 --> 00:02:55,641
+73
+00:03:07,861 --> 00:03:10,897
 So a careful answer is the right fit.
 
-67
-00:02:55,701 --> 00:02:58,752
+74
+00:03:10,989 --> 00:03:14,274
 A gets the logic backward: it
 says the tardigrade has died.
 
-68
-00:02:58,772 --> 00:03:01,859
+75
+00:03:14,632 --> 00:03:18,275
 D is too strong:
 certainly, within minutes.
 
-69
-00:03:01,879 --> 00:03:03,502
+76
+00:03:18,917 --> 00:03:22,024
 And C is the interesting one.
 
-70
-00:03:03,522 --> 00:03:06,751
+77
+00:03:22,131 --> 00:03:25,560
 Tardigrades really have survived
 exposure to outer space.
 
-71
-00:03:06,771 --> 00:03:09,609
+78
+00:03:26,096 --> 00:03:29,025
 But the passage never mentions space.
 
-72
-00:03:09,629 --> 00:03:13,201
+79
+00:03:29,775 --> 00:03:32,953
 True in real life is not the
 same as supported by the text.
 
-73
-00:03:13,279 --> 00:03:14,259
+80
+00:03:33,035 --> 00:03:34,086
 Question two.
 
-74
-00:03:14,279 --> 00:03:18,687
+81
+00:03:34,106 --> 00:03:37,622
 The Venus flytrap, a plant native to
 wetlands in North and South Carolina,
 
-75
-00:03:18,707 --> 00:03:21,672
+82
+00:03:37,642 --> 00:03:40,106
 catches insects with
 leaves that snap shut.
 
-76
-00:03:21,814 --> 00:03:26,223
+83
+00:03:40,356 --> 00:03:44,085
 Each leaf has several trigger hairs,
 and a leaf closes only if its hairs are
 
-77
-00:03:26,243 --> 00:03:29,207
+84
+00:03:44,105 --> 00:03:47,052
 touched at least twice
 within about twenty seconds.
 
-78
-00:03:29,249 --> 00:03:34,015
+85
+00:03:47,072 --> 00:03:51,322
 An insect crawling across a leaf usually
 brushes the hairs more than once,
 
-79
-00:03:34,035 --> 00:03:38,800
+86
+00:03:51,572 --> 00:03:56,108
 but a raindrop or a falling seed
 typically touches a hair just once.
 
-80
-00:03:38,820 --> 00:03:42,293
+87
+00:03:56,858 --> 00:04:00,608
 This requirement therefore
 most likely blank
 
-81
-00:03:42,313 --> 00:03:43,598
+88
+00:04:00,686 --> 00:04:01,793
 Pause and try it.
 
-82
-00:03:46,837 --> 00:03:47,746
+89
+00:04:05,011 --> 00:04:06,011
 Trace it.
 
-83
-00:03:47,766 --> 00:03:50,316
+90
+00:04:06,225 --> 00:04:11,440
 Insects usually touch
 the hairs more than once.
 
-84
-00:03:50,336 --> 00:03:52,781
+91
+00:04:12,011 --> 00:04:13,670
 Raindrops and seeds typically touch once.
 
-85
-00:03:52,801 --> 00:03:54,210
+92
+00:04:13,690 --> 00:04:14,634
 A leaf needs two touches.
 
-86
-00:03:54,230 --> 00:03:58,030
+93
+00:04:14,654 --> 00:04:17,367
 So the rule filters out most of
 the things that aren't insects.
 
-87
-00:03:58,050 --> 00:04:00,866
+94
+00:04:18,082 --> 00:04:20,940
 Prediction: fewer false alarms.
 
-88
-00:04:00,886 --> 00:04:06,188
+95
+00:04:21,015 --> 00:04:26,066
 Choice D: it reduces how often the plant
 closes a leaf on objects that are not
 
-89
-00:04:06,208 --> 00:04:06,866
+96
+00:04:26,086 --> 00:04:27,031
 prey.
 
-90
-00:04:06,886 --> 00:04:07,866
+97
+00:04:27,051 --> 00:04:28,086
 Reduces.
 
-91
-00:04:07,886 --> 00:04:09,830
+98
+00:04:28,264 --> 00:04:30,065
 That's exactly as strong as the passage,
 
-92
-00:04:09,850 --> 00:04:10,866
+99
+00:04:30,085 --> 00:04:31,479
 and no stronger.
 
-93
-00:04:10,886 --> 00:04:12,238
+100
+00:04:31,693 --> 00:04:33,085
 D is the answer.
 
-94
-00:04:12,258 --> 00:04:16,917
+101
+00:04:33,144 --> 00:04:37,160
 Now compare A: it prevents the plant from
 ever closing on anything other than a
 
-95
-00:04:16,937 --> 00:04:18,115
+102
+00:04:37,180 --> 00:04:38,465
 living insect.
 
-96
-00:04:18,258 --> 00:04:18,917
+103
+00:04:38,787 --> 00:04:39,731
 Ever?
 
-97
-00:04:18,937 --> 00:04:23,059
+104
+00:04:39,751 --> 00:04:43,251
 The passage says raindrops and
 seeds typically touch a hair once.
 
-98
-00:04:23,079 --> 00:04:24,667
+105
+00:04:43,857 --> 00:04:45,410
 Typically isn't always.
 
-99
-00:04:24,687 --> 00:04:26,211
+106
+00:04:45,430 --> 00:04:46,929
 That's the too strong trap.
 
-100
-00:04:26,231 --> 00:04:32,140
+107
+00:04:46,974 --> 00:04:53,026
 Words like ever, always, never, all,
 and proves need a passage that's just as
 
-101
-00:04:32,160 --> 00:04:33,160
+108
+00:04:53,046 --> 00:04:53,987
 absolute.
 
-102
-00:04:33,276 --> 00:04:35,577
+109
+00:04:54,007 --> 00:04:55,579
 B and C are out of scope.
 
-103
-00:04:35,597 --> 00:04:38,827
+110
+00:04:55,756 --> 00:04:58,936
 The passage says nothing about
 how fast the leaves close,
 
-104
-00:04:38,847 --> 00:04:41,501
+111
+00:04:59,007 --> 00:05:01,114
 or how many insects live in the wetlands.
 
-105
-00:04:41,521 --> 00:04:42,680
+112
+00:05:01,175 --> 00:05:02,175
 Question three.
 
-106
-00:04:42,700 --> 00:04:47,342
+113
+00:05:02,711 --> 00:05:07,496
 When the price of a good rises,
 people generally buy less of it.
 
-107
-00:04:47,557 --> 00:04:53,107
+114
+00:05:08,817 --> 00:05:13,261
 Economists call demand for a good
 inelastic when the percentage drop in the
 
-108
-00:04:53,127 --> 00:04:57,378
+115
+00:05:13,281 --> 00:05:16,675
 quantity people buy is smaller
 than the percentage rise in price.
 
-109
-00:04:57,422 --> 00:04:59,687
+116
+00:05:16,736 --> 00:05:18,915
 Studies have found that in the short run,
 
-110
-00:04:59,707 --> 00:05:03,152
+117
+00:05:19,129 --> 00:05:22,700
 demand for gasoline in the
 United States is inelastic,
 
-111
-00:05:03,172 --> 00:05:07,500
+118
+00:05:23,058 --> 00:05:27,538
 in part because many drivers can't
 quickly change how far they need to drive.
 
-112
-00:05:07,520 --> 00:05:11,643
+119
+00:05:27,558 --> 00:05:31,164
 If gasoline prices rose by
 ten percent over a few weeks,
 
-113
-00:05:11,663 --> 00:05:17,297
+120
+00:05:31,343 --> 00:05:36,040
 economists would therefore expect the
 quantity of gasoline people buy to blank
 
-114
-00:05:17,340 --> 00:05:18,625
+121
+00:05:36,093 --> 00:05:37,200
 Pause and try it.
 
-115
-00:05:22,864 --> 00:05:23,773
+122
+00:05:41,418 --> 00:05:42,363
 Trace it.
 
-116
-00:05:23,793 --> 00:05:26,257
+123
+00:05:42,383 --> 00:05:44,668
 Price goes up, so people buy less.
 
-117
-00:05:26,363 --> 00:05:27,237
+124
+00:05:44,775 --> 00:05:45,899
 That's a drop.
 
-118
-00:05:27,257 --> 00:05:31,772
+125
+00:05:45,918 --> 00:05:50,561
 Inelastic means the percent drop is
 smaller than the percent rise in price.
 
-119
-00:05:31,792 --> 00:05:34,273
+126
+00:05:50,740 --> 00:05:53,133
 Gas is inelastic in the short run.
 
-120
-00:05:34,293 --> 00:05:36,094
+127
+00:05:53,347 --> 00:05:54,990
 Prices rise ten percent.
 
-121
-00:05:36,114 --> 00:05:39,058
+128
+00:05:55,061 --> 00:05:58,061
 So the quantity falls, but
 by less than ten percent.
 
-122
-00:05:39,078 --> 00:05:40,293
+129
+00:05:58,490 --> 00:05:59,490
 That's choice C.
 
-123
-00:05:40,338 --> 00:05:42,781
+130
+00:05:59,682 --> 00:06:02,325
 A says the quantity falls
 by more than ten percent.
 
-124
-00:05:42,801 --> 00:05:46,104
+131
+00:06:02,468 --> 00:06:05,289
 That's the definition of
 inelastic turned upside down.
 
-125
-00:05:46,124 --> 00:05:47,997
+132
+00:06:05,754 --> 00:06:07,697
 This is the reversed logic trap.
 
-126
-00:05:48,017 --> 00:05:51,981
+133
+00:06:07,717 --> 00:06:11,384
 It uses the right words, but the
 relationship runs the wrong way.
 
-127
-00:05:52,062 --> 00:05:55,005
+134
+00:06:11,404 --> 00:06:14,134
 B goes too far: stay exactly the same.
 
-128
-00:05:55,025 --> 00:05:59,098
+135
+00:06:14,154 --> 00:06:17,313
 Can't quickly change isn't the
 same as can't change at all,
 
-129
-00:05:59,133 --> 00:06:02,256
+136
+00:06:17,333 --> 00:06:20,118
 and the passage says
 people generally buy less.
 
-130
-00:06:02,276 --> 00:06:04,792
+137
+00:06:20,369 --> 00:06:22,563
 And nothing in the passage supports D,
 
-131
-00:06:04,812 --> 00:06:06,061
+138
+00:06:22,583 --> 00:06:23,869
 the quantity going up.
 
-132
-00:06:06,119 --> 00:06:07,298
+139
+00:06:23,937 --> 00:06:25,009
 Question four.
 
-133
-00:06:07,477 --> 00:06:12,171
+140
+00:06:26,330 --> 00:06:31,345
 In the eighteen eighties, the French
 painters Georges Seurat and Paul Signac
 
-134
-00:06:12,191 --> 00:06:15,384
+141
+00:06:31,365 --> 00:06:34,346
 developed pointillism, a
 technique in which small,
 
-135
-00:06:15,404 --> 00:06:18,698
+142
+00:06:34,366 --> 00:06:37,274
 distinct dots of color
 are applied to a canvas.
 
-136
-00:06:18,718 --> 00:06:21,447
+143
+00:06:37,294 --> 00:06:39,631
 Rather than mixing every
 shade on a palette,
 
-137
-00:06:21,467 --> 00:06:24,055
+144
+00:06:39,651 --> 00:06:41,794
 pointillists relied on the viewer's eye:
 
-138
-00:06:24,075 --> 00:06:28,340
+145
+00:06:41,937 --> 00:06:45,703
 from a distance, neighboring dots of
 different colors can appear to blend into a
 
-139
-00:06:28,360 --> 00:06:29,503
+146
+00:06:45,723 --> 00:06:46,901
 single tone.
 
-140
-00:06:29,565 --> 00:06:33,008
+147
+00:06:46,923 --> 00:06:50,081
 This effect, however, depends
 on the dots being too small,
 
-141
-00:06:33,028 --> 00:06:36,886
+148
+00:06:50,101 --> 00:06:53,566
 from where the viewer stands,
 to be seen as separate marks.
 
-142
-00:06:37,100 --> 00:06:41,938
+149
+00:06:54,279 --> 00:06:58,153
 A viewer standing just a few inches from
 a pointillist painting would therefore
 
-143
-00:06:41,958 --> 00:06:44,136
+150
+00:06:58,173 --> 00:07:00,468
 most likely blank
 
-144
-00:06:44,177 --> 00:06:45,463
+151
+00:07:00,525 --> 00:07:01,633
 Pause and try it.
 
-145
-00:06:49,702 --> 00:06:50,539
+152
+00:07:05,851 --> 00:07:06,851
 Trace it.
 
-146
-00:06:50,559 --> 00:06:54,860
+153
+00:07:06,994 --> 00:07:10,494
 The blending only happens when the dots
 are too small to see as separate marks.
 
-147
-00:06:54,880 --> 00:06:57,468
+154
+00:07:10,922 --> 00:07:13,295
 A few inches away, they
 aren't too small anymore.
 
-148
-00:06:57,488 --> 00:06:59,308
+155
+00:07:13,315 --> 00:07:15,028
 So the blending breaks down.
 
-149
-00:06:59,452 --> 00:07:02,039
+156
+00:07:15,315 --> 00:07:17,116
 Prediction: you'd see the separate dots.
 
-150
-00:07:02,059 --> 00:07:03,359
+157
+00:07:17,136 --> 00:07:18,351
 That's choice A.
 
-151
-00:07:03,379 --> 00:07:06,930
+158
+00:07:18,384 --> 00:07:21,684
 B reverses it: the colors
 blend even more up close.
 
-152
-00:07:06,950 --> 00:07:08,680
+159
+00:07:21,704 --> 00:07:23,098
 C is out of scope.
 
-153
-00:07:08,700 --> 00:07:11,216
+160
+00:07:23,491 --> 00:07:25,791
 It compares pointillism
 with Impressionist painting,
 
-154
-00:07:11,236 --> 00:07:12,786
+161
+00:07:25,811 --> 00:07:27,455
 which the passage never mentions.
 
-155
-00:07:12,806 --> 00:07:15,716
+162
+00:07:27,740 --> 00:07:30,383
 It sounds like art history,
 so it feels relevant.
 
-156
-00:07:15,736 --> 00:07:18,466
+163
+00:07:30,669 --> 00:07:33,241
 But the passage gives you
 nothing to judge it with.
 
-157
-00:07:18,486 --> 00:07:20,208
+164
+00:07:33,384 --> 00:07:35,027
 That's the out of scope trap.
 
-158
-00:07:20,228 --> 00:07:24,422
+165
+00:07:35,115 --> 00:07:38,559
 And D, unable to tell what
 the painting shows at all,
 
-159
-00:07:24,442 --> 00:07:25,743
+166
+00:07:38,579 --> 00:07:39,973
 is too strong.
 
-160
-00:07:25,763 --> 00:07:29,215
+167
+00:07:40,473 --> 00:07:43,686
 Seeing separate dots doesn't mean
 you can't recognize anything.
 
-161
-00:07:29,235 --> 00:07:30,501
+168
+00:07:43,759 --> 00:07:45,152
 So those are the four traps.
 
-162
-00:07:30,521 --> 00:07:33,751
+169
+00:07:45,580 --> 00:07:49,417
 Too strong: the answer claims
 more than the passage can prove.
 
-163
-00:07:33,771 --> 00:07:37,842
+170
+00:07:49,437 --> 00:07:53,079
 Out of scope: it's about something
 the passage never discusses.
 
-164
-00:07:37,878 --> 00:07:40,214
+171
+00:07:53,258 --> 00:07:55,615
 Reversed: it flips the relationship.
 
-165
-00:07:40,234 --> 00:07:42,465
+172
+00:07:55,722 --> 00:07:58,239
 And true in real life: it might be a fact,
 
-166
-00:07:42,485 --> 00:07:44,092
+173
+00:07:58,259 --> 00:07:59,759
 but it isn't in the text.
 
-167
-00:07:44,179 --> 00:07:47,231
+174
+00:07:59,816 --> 00:08:02,618
 On harder questions, the
 logic takes an extra step,
 
-168
-00:07:47,251 --> 00:07:48,981
+175
+00:08:02,638 --> 00:08:04,423
 and the traps get harder to see.
 
-169
-00:07:49,001 --> 00:07:49,977
+176
+00:08:04,816 --> 00:08:05,706
 Here are two.
 
-170
-00:07:49,997 --> 00:07:51,156
+177
+00:08:05,726 --> 00:08:07,119
 Question five.
 
-171
-00:07:51,176 --> 00:07:55,370
+178
+00:08:07,761 --> 00:08:11,992
 Dendrochronologists, scientists
 who date wood using tree rings,
 
-172
-00:07:55,390 --> 00:08:00,155
+179
+00:08:12,012 --> 00:08:16,349
 match a sample's pattern of wide and
 narrow rings to a master record built from
 
-173
-00:08:00,175 --> 00:08:04,844
+180
+00:08:16,369 --> 00:08:20,440
 trees of known age, which lets them
 assign a calendar year to each ring.
 
-174
-00:08:04,864 --> 00:08:07,415
+181
+00:08:20,520 --> 00:08:22,714
 If a beam still has its outermost ring,
 
-175
-00:08:07,435 --> 00:08:10,594
+182
+00:08:22,734 --> 00:08:25,627
 the last one the tree grew
 before it was cut down,
 
-176
-00:08:10,614 --> 00:08:13,093
+183
+00:08:26,234 --> 00:08:28,663
 researchers can tell
 when the tree was felled.
 
-177
-00:08:13,113 --> 00:08:15,772
+184
+00:08:29,091 --> 00:08:31,321
 But a beam's outer
 rings are often missing,
 
-178
-00:08:15,792 --> 00:08:17,471
+185
+00:08:31,341 --> 00:08:33,241
 trimmed away when the beam was shaped.
 
-179
-00:08:17,900 --> 00:08:22,344
+186
+00:08:33,261 --> 00:08:37,098
 So if a trimmed beam's outermost
 surviving ring dates to twelve fifty,
 
-180
-00:08:22,364 --> 00:08:26,543
+187
+00:08:37,118 --> 00:08:41,038
 researchers can conclude only
 that the tree was cut down blank
 
-181
-00:08:26,563 --> 00:08:27,849
+188
+00:08:41,071 --> 00:08:42,178
 Pause and try it.
 
-182
-00:08:32,087 --> 00:08:33,246
+189
+00:08:46,397 --> 00:08:47,611
 Trace it carefully.
 
-183
-00:08:33,266 --> 00:08:37,746
+190
+00:08:49,039 --> 00:08:53,147
 The passage tells you the outermost
 ring is the last one the tree grew.
 
-184
-00:08:37,766 --> 00:08:39,853
+191
+00:08:53,361 --> 00:08:55,504
 So the outer rings are the newest.
 
-185
-00:08:39,873 --> 00:08:42,710
+192
+00:08:55,824 --> 00:08:59,217
 On this beam, some outer
 rings were trimmed off.
 
-186
-00:08:42,730 --> 00:08:45,444
+193
+00:08:59,504 --> 00:09:01,968
 Those missing rings
 grew after twelve fifty.
 
-187
-00:08:45,464 --> 00:08:48,122
+194
+00:09:02,006 --> 00:09:04,220
 So the tree was still
 alive in twelve fifty,
 
-188
-00:08:48,142 --> 00:08:51,515
+195
+00:09:04,505 --> 00:09:07,399
 and it may have kept growing
 for years after that.
 
-189
-00:08:51,535 --> 00:08:55,321
+196
+00:09:07,649 --> 00:09:09,935
 It was cut down in twelve
 fifty at the earliest.
 
-190
-00:08:55,499 --> 00:08:58,514
+197
+00:09:10,685 --> 00:09:12,665
 Prediction: no earlier than twelve fifty.
 
-191
-00:08:58,534 --> 00:08:59,857
+198
+00:09:12,685 --> 00:09:13,792
 That's choice C.
 
-192
-00:08:59,881 --> 00:09:03,004
+199
+00:09:13,836 --> 00:09:17,193
 B is the reversed trap: no
 later than twelve fifty.
 
-193
-00:09:03,024 --> 00:09:05,131
+200
+00:09:17,693 --> 00:09:19,621
 Same number, logic flipped.
 
-194
-00:09:05,238 --> 00:09:06,433
+201
+00:09:19,836 --> 00:09:21,228
 A is too strong.
 
-195
-00:09:06,453 --> 00:09:11,218
+202
+00:09:21,263 --> 00:09:26,086
 Exactly twelve fifty would only work
 if the outermost ring were still there.
 
-196
-00:09:11,238 --> 00:09:16,040
+203
+00:09:26,335 --> 00:09:30,851
 And D sounds reasonable, but the passage
 says nothing about when beams were
 
-197
-00:09:16,060 --> 00:09:16,879
+204
+00:09:30,871 --> 00:09:31,779
 installed.
 
-198
-00:09:16,899 --> 00:09:17,558
+205
+00:09:31,799 --> 00:09:32,799
 Last one.
 
-199
-00:09:17,578 --> 00:09:18,614
+206
+00:09:33,157 --> 00:09:34,335
 The hardest.
 
-200
-00:09:18,934 --> 00:09:23,701
+207
+00:09:34,442 --> 00:09:38,514
 Ice cores drilled in Antarctica
 contain tiny bubbles of ancient air.
 
-201
-00:09:23,721 --> 00:09:26,307
+208
+00:09:38,621 --> 00:09:41,136
 Each year's snow buries
 the snow beneath it,
 
-202
-00:09:26,327 --> 00:09:29,228
+209
+00:09:41,156 --> 00:09:43,717
 slowly compressing older layers into ice.
 
-203
-00:09:29,248 --> 00:09:33,120
+210
+00:09:43,737 --> 00:09:47,538
 Near the surface, though, air still
 moves between the grains of packed snow,
 
-204
-00:09:33,140 --> 00:09:37,585
+211
+00:09:47,558 --> 00:09:51,288
 and pockets of air aren't sealed off
 from the atmosphere until they're roughly
 
-205
-00:09:37,605 --> 00:09:39,978
+212
+00:09:51,308 --> 00:09:53,645
 forty to one hundred twenty meters deep.
 
-206
-00:09:39,998 --> 00:09:44,325
+213
+00:09:53,665 --> 00:09:57,951
 As a result, the air
 trapped in a bubble is blank
 
-207
-00:09:44,345 --> 00:09:45,432
+214
+00:09:57,981 --> 00:09:59,124
 Pause and try it.
 
-208
-00:09:45,452 --> 00:09:46,988
+215
+00:10:00,196 --> 00:10:01,874
 Take a little longer on this one.
 
-209
-00:09:51,208 --> 00:09:51,938
+216
+00:10:06,073 --> 00:10:07,073
 Trace it.
 
-210
-00:09:51,958 --> 00:09:54,187
+217
+00:10:07,430 --> 00:10:10,073
 Each year's snow buries the snow below it.
 
-211
-00:09:54,207 --> 00:09:58,544
+218
+00:10:10,287 --> 00:10:13,374
 So snow that's forty to one hundred
 twenty meters down has been buried for a
 
-212
-00:09:58,564 --> 00:09:59,081
+219
+00:10:13,394 --> 00:10:14,159
 long time.
 
-213
-00:09:59,101 --> 00:09:59,974
+220
+00:10:14,179 --> 00:10:15,231
 It's old.
 
-214
-00:09:59,994 --> 00:10:04,081
+221
+00:10:15,251 --> 00:10:18,374
 But the air between its grains kept
 mixing with the atmosphere the whole time.
 
-215
-00:10:04,101 --> 00:10:06,668
+222
+00:10:18,394 --> 00:10:20,529
 The air only gets locked
 in at the very end.
 
-216
-00:10:06,688 --> 00:10:11,596
+223
+00:10:20,549 --> 00:10:24,601
 So when a bubble finally seals,
 the ice around it is old,
 
-217
-00:10:11,616 --> 00:10:14,238
+224
+00:10:24,621 --> 00:10:26,835
 and the air inside it is newer.
 
-218
-00:10:14,258 --> 00:10:17,168
+225
+00:10:27,228 --> 00:10:29,799
 The air is younger than
 the ice that surrounds it.
 
-219
-00:10:17,188 --> 00:10:18,721
+226
+00:10:30,157 --> 00:10:31,799
 The answer is D.
 
-220
-00:10:18,741 --> 00:10:22,148
+227
+00:10:31,835 --> 00:10:34,871
 A is the reversed trap:
 older than the ice.
 
-221
-00:10:22,168 --> 00:10:25,792
+228
+00:10:35,585 --> 00:10:39,692
 It sounds right, because the
 passage calls it ancient air.
 
-222
-00:10:25,812 --> 00:10:28,598
+229
+00:10:40,406 --> 00:10:42,763
 But trace the steps, and it's backward.
 
-223
-00:10:28,627 --> 00:10:30,572
+230
+00:10:42,844 --> 00:10:44,609
 And C is true in real life.
 
-224
-00:10:30,592 --> 00:10:35,500
+231
+00:10:44,629 --> 00:10:48,895
 Scientists really do use the air in
 ice cores to study past carbon dioxide
 
-225
-00:10:35,520 --> 00:10:36,520
+232
+00:10:48,915 --> 00:10:49,915
 levels.
 
-226
-00:10:36,662 --> 00:10:39,572
+233
+00:10:50,486 --> 00:10:52,665
 But the blank starts with as a result.
 
-227
-00:10:39,592 --> 00:10:42,357
+234
+00:10:53,129 --> 00:10:56,216
 The answer has to follow
 from that sealing delay,
 
-228
-00:10:42,377 --> 00:10:43,750
+235
+00:10:56,236 --> 00:10:57,558
 and C doesn't.
 
-229
-00:10:43,770 --> 00:10:48,199
+236
+00:10:58,308 --> 00:11:01,772
 The words before the blank tell
 you what job the answer has to do.
 
-230
-00:10:48,234 --> 00:10:49,841
+237
+00:11:01,798 --> 00:11:02,743
 Here's your test-day routine.
 
-231
-00:10:50,020 --> 00:10:54,377
+238
+00:11:02,763 --> 00:11:07,584
 Read the passage once, tracing how
 each sentence connects to the next.
 
-232
-00:10:54,448 --> 00:10:57,570
+239
+00:11:07,834 --> 00:11:10,334
 Then look hard at the words
 right before the blank.
 
-233
-00:10:57,590 --> 00:11:01,714
+240
+00:11:10,691 --> 00:11:14,671
 They tell you the job: a
 conclusion, a contrast,
 
-234
-00:11:01,734 --> 00:11:03,189
+241
+00:11:14,691 --> 00:11:16,012
 or a careful maybe.
 
-235
-00:11:03,209 --> 00:11:06,030
+242
+00:11:16,079 --> 00:11:18,544
 Predict the ending before
 you look at the choices.
 
-236
-00:11:06,137 --> 00:11:09,082
+243
+00:11:18,901 --> 00:11:21,416
 Then test each choice with one question:
 
-237
-00:11:09,102 --> 00:11:10,887
+244
+00:11:21,436 --> 00:11:23,222
 does the text force this?
 
-238
-00:11:11,031 --> 00:11:13,725
+245
+00:11:24,151 --> 00:11:26,952
 Cross out anything too
 strong, out of scope,
 
-239
-00:11:13,745 --> 00:11:16,602
+246
+00:11:26,972 --> 00:11:29,400
 reversed, or true only in real life.
 
-240
-00:11:16,639 --> 00:11:18,654
+247
+00:11:29,467 --> 00:11:31,217
 Match the strength of the passage.
 
-241
-00:11:18,674 --> 00:11:23,725
+248
+00:11:31,466 --> 00:11:36,018
 If it says may, often, or typically,
 the right answer will usually be just as
 
-242
-00:11:23,745 --> 00:11:24,405
+249
+00:11:36,038 --> 00:11:37,073
 careful.
 
-243
-00:11:24,425 --> 00:11:28,282
+250
+00:11:37,146 --> 00:11:40,181
 An absolute word in a
 choice is a warning sign.
 
-244
-00:11:28,303 --> 00:11:33,105
+251
+00:11:40,275 --> 00:11:44,953
 On average, you have a little over a
 minute per Reading and Writing question.
 
-245
-00:11:33,125 --> 00:11:37,196
+252
+00:11:45,346 --> 00:11:48,612
 These passages can be dense, so
 don't reread the whole thing.
 
-246
-00:11:37,659 --> 00:11:40,267
+253
+00:11:48,632 --> 00:11:51,453
 Reread the sentence
 that sets up the blank.
 
-247
-00:11:40,325 --> 00:11:41,126
+254
+00:11:51,510 --> 00:11:52,546
 Recap.
 
-248
-00:11:41,146 --> 00:11:46,019
+255
+00:11:52,582 --> 00:11:56,847
 Trace the logic, predict the ending, and
 choose the answer the text guarantees.
 
-249
-00:11:46,039 --> 00:11:47,447
+256
+00:11:56,867 --> 00:11:58,596
 Not the one that could be true.
 
-250
-00:11:47,467 --> 00:11:49,003
+257
+00:11:58,616 --> 00:12:00,046
 The one that has to be.
 
-251
-00:11:49,049 --> 00:11:52,421
+258
+00:12:00,096 --> 00:12:02,861
 Every question in this video
 was written for this video,
 
-252
-00:11:52,441 --> 00:11:54,728
+259
+00:12:02,881 --> 00:12:04,524
 in the style of the real test.
 
-253
-00:11:54,871 --> 00:11:58,708
+260
+00:12:05,167 --> 00:12:08,861
 For official practice, the College Board's
 free Question Bank lets you filter by
 
-254
-00:11:58,728 --> 00:12:00,905
+261
+00:12:08,881 --> 00:12:10,810
 skill, including Inferences.
 
-255
-00:12:00,939 --> 00:12:02,689
+262
+00:12:10,865 --> 00:12:12,972
 If this helped, subscribe.
 
-256
-00:12:02,938 --> 00:12:07,597
+263
+00:12:13,079 --> 00:12:18,238
 Next up: Words in Context, and how to
 get those questions right even when you
 
-257
-00:12:07,617 --> 00:12:08,759
+264
+00:12:18,258 --> 00:12:19,401
 don't know the word.

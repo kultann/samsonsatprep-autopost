@@ -1,1320 +1,1347 @@
 1
-00:00:00,182 --> 00:00:03,305
-The SAT gives you a math reference sheet.
+00:00:00,182 --> 00:00:03,147
+The SAT reference sheet
+mostly covers shapes.
 
 2
-00:00:03,325 --> 00:00:05,555
-But it mostly covers shapes.
+00:00:03,932 --> 00:00:07,340
+Algebra and advanced math are about
+seventy percent of the math section,
 
 3
-00:00:05,575 --> 00:00:09,341
-Algebra and advanced math are about
-seventy percent of the section,
-
-4
-00:00:09,361 --> 00:00:12,039
+00:00:07,360 --> 00:00:10,340
 and almost none of their
 formulas are on it.
 
+4
+00:00:10,360 --> 00:00:12,396
+There are fifteen you need to know.
+
 5
-00:00:12,111 --> 00:00:13,182
-Those are on you.
+00:00:12,611 --> 00:00:13,611
+Slope.
 
 6
-00:00:13,214 --> 00:00:15,087
+00:00:13,825 --> 00:00:15,325
+The quadratic formula.
+
+7
+00:00:15,790 --> 00:00:17,037
+The circle equation.
+
+8
+00:00:17,057 --> 00:00:21,022
+And one of them looks so simple that
+the trap answer feels exactly right.
+
+9
+00:00:21,088 --> 00:00:23,282
+That's percent change, formula fourteen,
+
+10
+00:00:23,302 --> 00:00:24,372
+so stay for it.
+
+11
+00:00:24,730 --> 00:00:26,889
 First, here's exactly
 what is on the sheet,
 
-7
-00:00:15,107 --> 00:00:17,500
+12
+00:00:26,909 --> 00:00:28,802
 so you don't waste time memorizing it.
 
-8
-00:00:17,607 --> 00:00:23,607
-Then, fifteen formulas that aren't,
-each with a quick SAT-style example.
+13
+00:00:29,122 --> 00:00:33,908
+Then all fifteen, with sixteen
+quick SAT-style questions.
 
-9
-00:00:23,632 --> 00:00:25,061
+14
+00:00:34,622 --> 00:00:37,373
+Keep score, and see if
+you can get all sixteen.
+
+15
+00:00:37,453 --> 00:00:38,631
 Here's the whole sheet.
 
-10
-00:00:25,311 --> 00:00:27,791
+16
+00:00:39,238 --> 00:00:41,524
 Area and circumference of a circle.
 
-11
-00:00:27,811 --> 00:00:30,596
+17
+00:00:42,024 --> 00:00:44,238
 Area of a rectangle and a triangle.
 
-12
-00:00:30,632 --> 00:00:34,112
+18
+00:00:45,131 --> 00:00:48,987
 The Pythagorean theorem, and
 the two special right triangles:
 
-13
-00:00:34,132 --> 00:00:37,255
+19
+00:00:49,416 --> 00:00:51,897
 thirty, sixty, ninety, and forty-five,
 
-14
-00:00:37,275 --> 00:00:38,989
+20
+00:00:51,917 --> 00:00:53,160
 forty-five, ninety.
 
-15
-00:00:39,033 --> 00:00:42,228
+21
+00:00:53,180 --> 00:00:55,839
 Volumes of a rectangular prism, cylinder,
 
-16
-00:00:42,248 --> 00:00:44,049
+22
+00:00:55,859 --> 00:00:57,930
 sphere, cone, and pyramid.
 
-17
-00:00:44,069 --> 00:00:48,121
+23
+00:00:58,180 --> 00:01:01,552
 And three facts: a circle has
 three hundred sixty degrees,
 
-18
-00:00:48,141 --> 00:00:53,371
+24
+00:01:01,572 --> 00:01:05,910
 or two pi radians, of arc, and a triangle's
 angles add up to one hundred eighty
 
-19
-00:00:53,391 --> 00:00:54,347
+25
+00:01:05,930 --> 00:01:06,817
 degrees.
 
-20
-00:00:54,367 --> 00:00:54,918
+26
+00:01:06,837 --> 00:01:07,745
 That's all of it.
 
-21
-00:00:54,938 --> 00:00:56,346
+27
+00:01:07,765 --> 00:01:09,102
 Look those up when you need them.
 
-22
-00:00:56,366 --> 00:00:58,581
+28
+00:01:09,122 --> 00:01:11,122
 Everything else, you need to know cold.
 
-23
-00:00:58,641 --> 00:01:00,264
+29
+00:01:11,184 --> 00:01:13,255
 Part one, lines.
 
-24
-00:01:00,284 --> 00:01:03,371
+30
+00:01:14,398 --> 00:01:17,949
 Formula one is slope: y two minus y one,
 
-25
-00:01:03,391 --> 00:01:05,514
+31
+00:01:17,969 --> 00:01:20,199
 over x two minus x one.
 
-26
-00:01:05,534 --> 00:01:06,838
+32
+00:01:20,219 --> 00:01:21,565
 Rise over run.
 
-27
-00:01:06,858 --> 00:01:07,894
+33
+00:01:21,585 --> 00:01:22,692
 Example.
 
-28
-00:01:08,536 --> 00:01:11,409
+34
+00:01:23,370 --> 00:01:25,779
 A line passes through
 the points negative two,
 
-29
-00:01:11,429 --> 00:01:14,231
+35
+00:01:25,799 --> 00:01:28,370
 seven, and four, negative five.
 
-30
-00:01:14,251 --> 00:01:16,358
+36
+00:01:28,549 --> 00:01:30,244
 What is the slope of the line?
 
-31
-00:01:16,383 --> 00:01:17,847
+37
+00:01:30,264 --> 00:01:31,371
 Pause and try it.
 
-32
-00:01:21,078 --> 00:01:23,665
+38
+00:01:34,586 --> 00:01:36,959
 The change in y is
 negative five minus seven,
 
-33
-00:01:23,685 --> 00:01:25,043
+39
+00:01:36,979 --> 00:01:38,443
 or negative twelve.
 
-34
-00:01:25,400 --> 00:01:28,165
+40
+00:01:38,622 --> 00:01:40,816
 The change in x is four
 minus negative two,
 
-35
-00:01:28,185 --> 00:01:29,471
+41
+00:01:40,836 --> 00:01:42,014
 or six.
 
-36
-00:01:29,721 --> 00:01:32,487
+42
+00:01:42,085 --> 00:01:43,959
 Negative twelve over six is negative two.
 
-37
-00:01:32,507 --> 00:01:33,970
+43
+00:01:43,979 --> 00:01:45,157
 The answer is A.
 
-38
-00:01:34,012 --> 00:01:36,207
+44
+00:01:45,200 --> 00:01:47,108
 The traps are flipping
 it to run over rise,
 
-39
-00:01:36,227 --> 00:01:38,262
+45
+00:01:47,128 --> 00:01:48,736
 and losing a negative sign.
 
-40
-00:01:38,369 --> 00:01:41,183
+46
+00:01:49,700 --> 00:01:52,200
 Subtract in the same
 order on top and bottom.
 
-41
-00:01:41,203 --> 00:01:43,682
+47
+00:01:52,261 --> 00:01:54,510
 Formula two is three forms of a line.
 
-42
-00:01:43,702 --> 00:01:47,326
+48
+00:01:54,546 --> 00:01:55,848
 Slope-intercept: y equals m x plus b,
 
-43
-00:01:47,346 --> 00:01:50,468
+49
+00:01:55,868 --> 00:01:58,526
 where m is the slope and
 b is the y intercept.
 
-44
-00:01:50,488 --> 00:01:55,183
+50
+00:01:58,546 --> 00:02:04,776
 Point-slope: y minus y one
 equals m times x minus x one,
 
-45
-00:01:55,203 --> 00:01:57,632
+51
+00:02:04,796 --> 00:02:06,689
 for when you know a point and the slope.
 
-46
-00:01:57,699 --> 00:02:02,127
+52
+00:02:06,740 --> 00:02:10,883
 And standard form: A x plus B y equals C.
 
-47
-00:02:02,199 --> 00:02:05,072
+53
+00:02:11,954 --> 00:02:14,275
 Its slope is negative A over B.
 
-48
-00:02:05,092 --> 00:02:05,929
+54
+00:02:14,367 --> 00:02:15,688
 Example.
 
-49
-00:02:05,949 --> 00:02:10,072
+55
+00:02:15,724 --> 00:02:19,454
 A line has a slope of four and
 passes through the point three,
 
-50
-00:02:10,092 --> 00:02:10,929
+56
+00:02:19,474 --> 00:02:20,545
 one.
 
-51
-00:02:10,949 --> 00:02:14,164
+57
+00:02:20,617 --> 00:02:23,789
 What is the y coordinate
 of its y intercept?
 
-52
-00:02:14,195 --> 00:02:15,659
+58
+00:02:23,809 --> 00:02:24,916
 Pause and try it.
 
-53
-00:02:18,890 --> 00:02:19,942
+59
+00:02:28,131 --> 00:02:29,345
 Use point-slope.
 
-54
-00:02:19,962 --> 00:02:23,728
+60
+00:02:29,774 --> 00:02:33,738
 y minus one equals four
 times x minus three.
 
-55
-00:02:23,748 --> 00:02:27,405
+61
+00:02:33,881 --> 00:02:37,131
 That's y minus one equals
 four x minus twelve,
 
-56
-00:02:27,425 --> 00:02:30,390
+62
+00:02:37,344 --> 00:02:39,952
 so y equals four x minus eleven.
 
-57
-00:02:30,639 --> 00:02:32,934
+63
+00:02:40,773 --> 00:02:43,238
 The y intercept is negative eleven.
 
-58
-00:02:32,954 --> 00:02:34,077
+64
+00:02:43,274 --> 00:02:44,881
 Formula three.
 
-59
-00:02:34,097 --> 00:02:36,433
+65
+00:02:44,952 --> 00:02:47,202
 Parallel lines have equal slopes.
 
-60
-00:02:36,453 --> 00:02:39,684
+66
+00:02:47,524 --> 00:02:50,524
 Perpendicular lines have
 negative reciprocal slopes:
 
-61
-00:02:39,704 --> 00:02:42,168
+67
+00:02:50,738 --> 00:02:53,167
 flip the fraction and change the sign.
 
-62
-00:02:42,219 --> 00:02:43,235
+68
+00:02:53,216 --> 00:02:54,823
 Example.
 
-63
-00:02:43,255 --> 00:02:48,362
+69
+00:02:55,573 --> 00:03:00,715
 Line p is defined by six x
 minus two y equals seven.
 
-64
-00:02:48,469 --> 00:02:51,556
+70
+00:03:01,716 --> 00:03:04,679
 Line q is perpendicular to line p.
 
-65
-00:02:51,576 --> 00:02:53,719
+71
+00:03:05,466 --> 00:03:07,538
 What is the slope of line q?
 
-66
-00:02:53,761 --> 00:02:55,225
+72
+00:03:07,624 --> 00:03:08,731
 Pause and try it.
 
-67
-00:02:58,456 --> 00:03:03,293
+73
+00:03:11,946 --> 00:03:15,891
 Line p is in standard form, so
 its slope is negative A over B:
 
-68
-00:03:03,313 --> 00:03:06,650
+74
+00:03:15,911 --> 00:03:19,695
 negative six over negative
 two, which is three.
 
-69
-00:03:06,670 --> 00:03:09,920
+75
+00:03:19,875 --> 00:03:22,981
 Flip it and change the
 sign: negative one third.
 
-70
-00:03:10,028 --> 00:03:11,705
+76
+00:03:23,803 --> 00:03:25,482
 The answer is B.
 
-71
-00:03:11,738 --> 00:03:13,504
+77
+00:03:25,524 --> 00:03:27,167
 Three is the parallel slope.
 
-72
-00:03:13,524 --> 00:03:17,952
+78
+00:03:27,523 --> 00:03:30,917
 Negative three and positive one
 third each do only half the job.
 
-73
-00:03:17,972 --> 00:03:19,115
+79
+00:03:31,009 --> 00:03:32,402
 Formula four.
 
-74
-00:03:19,329 --> 00:03:22,579
+80
+00:03:33,402 --> 00:03:36,330
 Distance is the square
 root of the change in x,
 
-75
-00:03:22,615 --> 00:03:25,059
+81
+00:03:36,616 --> 00:03:39,452
 squared, plus the change in y, squared.
 
-76
-00:03:25,079 --> 00:03:27,008
+82
+00:03:39,472 --> 00:03:41,545
 That's just the Pythagorean theorem.
 
-77
-00:03:27,043 --> 00:03:30,829
+83
+00:03:41,794 --> 00:03:45,151
 And the midpoint averages the
 x values and the y values.
 
-78
-00:03:30,857 --> 00:03:31,857
+84
+00:03:45,251 --> 00:03:46,251
 Example.
 
-79
-00:03:32,000 --> 00:03:35,837
+85
+00:03:46,287 --> 00:03:49,231
 Segment A B has endpoints
 A at negative one,
 
-80
-00:03:35,857 --> 00:03:38,643
+86
+00:03:49,251 --> 00:03:51,501
 two, and B at five, ten.
 
-81
-00:03:38,822 --> 00:03:41,312
+87
+00:03:52,144 --> 00:03:54,500
 What is the length of segment A B?
 
-82
-00:03:41,332 --> 00:03:42,796
+88
+00:03:54,573 --> 00:03:55,680
 Pause and try it.
 
-83
-00:03:46,027 --> 00:03:47,400
+89
+00:03:58,895 --> 00:04:00,538
 The changes are six and eight.
 
-84
-00:03:47,420 --> 00:03:49,471
+90
+00:04:00,680 --> 00:04:02,625
 Six squared plus eight
 squared is one hundred,
 
-85
-00:03:49,491 --> 00:03:51,650
+91
+00:04:02,645 --> 00:04:04,609
 and the square root of one hundred is ten.
 
-86
-00:03:51,670 --> 00:03:53,813
+92
+00:04:04,859 --> 00:04:06,823
 The midpoint is two, six.
 
-87
-00:03:53,884 --> 00:03:57,507
+93
+00:04:06,859 --> 00:04:11,732
 In Desmos, type distance, with
 the two points in parentheses,
 
-88
-00:03:57,527 --> 00:03:58,777
+94
+00:04:11,752 --> 00:04:13,038
 and you get ten.
 
-89
-00:03:59,384 --> 00:04:01,294
+95
+00:04:13,716 --> 00:04:15,423
 Midpoint works the same way.
 
-90
-00:04:01,314 --> 00:04:03,242
+96
+00:04:15,443 --> 00:04:17,622
 Part two, quadratics.
 
-91
-00:04:03,813 --> 00:04:09,508
+97
+00:04:18,335 --> 00:04:23,030
 Formula five: for a x squared
 plus b x plus c equals zero,
 
-92
-00:04:09,528 --> 00:04:15,758
+98
+00:04:23,050 --> 00:04:27,566
 x equals negative b, plus or minus the
 square root of b squared minus four a c,
 
-93
-00:04:15,778 --> 00:04:17,371
+99
+00:04:27,586 --> 00:04:28,872
 all over two a.
 
-94
-00:04:17,391 --> 00:04:18,336
+100
+00:04:28,932 --> 00:04:30,218
 Example.
 
-95
-00:04:18,356 --> 00:04:23,407
+101
+00:04:30,504 --> 00:04:34,770
 Which of the following are the solutions
 to two x squared minus four x minus
 
-96
-00:04:23,427 --> 00:04:24,926
+102
+00:04:34,790 --> 00:04:36,111
 three equals zero?
 
-97
-00:04:24,953 --> 00:04:26,417
+103
+00:04:36,194 --> 00:04:37,301
 Pause and try it.
 
-98
-00:04:29,648 --> 00:04:33,700
+104
+00:04:40,516 --> 00:04:44,730
 a is two, b is negative four,
 and c is negative three.
 
-99
-00:04:33,720 --> 00:04:36,164
+105
+00:04:45,016 --> 00:04:47,852
 Under the root: sixteen plus twenty-four,
 
-100
-00:04:36,184 --> 00:04:37,270
+106
+00:04:47,872 --> 00:04:49,229
 which is forty.
 
-101
-00:04:37,290 --> 00:04:40,592
+107
+00:04:49,409 --> 00:04:52,746
 So x equals four, plus
 or minus root forty,
 
-102
-00:04:40,612 --> 00:04:41,641
+108
+00:04:52,766 --> 00:04:53,909
 over four.
 
-103
-00:04:41,661 --> 00:04:43,732
+109
+00:04:53,955 --> 00:04:56,134
 Root forty is two root ten.
 
-104
-00:04:43,767 --> 00:04:47,855
+110
+00:04:56,990 --> 00:05:00,935
 Divide every term by two:
 two, plus or minus root ten,
 
-105
-00:04:47,875 --> 00:04:48,747
+111
+00:05:00,955 --> 00:05:02,026
 over two.
 
-106
-00:04:48,767 --> 00:04:50,268
+112
+00:05:02,241 --> 00:05:03,633
 The answer is C.
 
-107
-00:04:50,768 --> 00:04:55,411
+113
+00:05:04,562 --> 00:05:10,026
 D forgot to divide by two a, and A
 used negative four for negative b.
 
-108
-00:04:55,446 --> 00:04:59,641
+114
+00:05:10,100 --> 00:05:14,350
 Formula six is the discriminant:
 b squared minus four a c.
 
-109
-00:04:59,661 --> 00:05:01,676
+115
+00:05:14,600 --> 00:05:16,902
 Positive means two real solutions.
 
-110
-00:05:01,696 --> 00:05:03,498
+116
+00:05:16,922 --> 00:05:18,723
 Zero means exactly one.
 
-111
-00:05:03,518 --> 00:05:05,124
+117
+00:05:18,743 --> 00:05:20,207
 Negative means none.
 
-112
-00:05:05,144 --> 00:05:06,180
+118
+00:05:20,235 --> 00:05:21,307
 Example.
 
-113
-00:05:06,716 --> 00:05:10,910
+119
+00:05:21,450 --> 00:05:25,073
 In the equation x squared
 plus ten x plus c equals zero,
 
-114
-00:05:10,930 --> 00:05:12,287
+120
+00:05:25,093 --> 00:05:26,521
 c is a constant.
 
-115
-00:05:12,786 --> 00:05:16,195
+121
+00:05:27,093 --> 00:05:30,377
 If the equation has
 exactly one real solution,
 
-116
-00:05:16,215 --> 00:05:17,911
+122
+00:05:30,521 --> 00:05:32,126
 what is the value of c?
 
-117
-00:05:17,931 --> 00:05:19,395
+123
+00:05:32,146 --> 00:05:33,253
 Pause and try it.
 
-118
-00:05:22,626 --> 00:05:26,197
+124
+00:05:36,468 --> 00:05:39,897
 Exactly one solution means
 the discriminant is zero.
 
-119
-00:05:26,376 --> 00:05:28,892
+125
+00:05:40,397 --> 00:05:42,948
 One hundred minus four c equals zero,
 
-120
-00:05:28,912 --> 00:05:30,769
+126
+00:05:42,968 --> 00:05:44,575
 so c is twenty-five.
 
-121
-00:05:30,843 --> 00:05:35,465
+127
+00:05:44,639 --> 00:05:48,261
 Desmos shortcut: graph y equals
 x squared plus ten x plus c,
 
-122
-00:05:35,485 --> 00:05:37,430
+128
+00:05:48,281 --> 00:05:49,781
 and add a slider for c.
 
-123
-00:05:37,450 --> 00:05:40,823
+129
+00:05:49,853 --> 00:05:52,476
 The slider only runs from
 negative ten to ten at first,
 
-124
-00:05:40,843 --> 00:05:42,965
+130
+00:05:52,496 --> 00:05:54,531
 so change its upper limit to fifty.
 
-125
-00:05:42,985 --> 00:05:46,180
+131
+00:05:54,602 --> 00:05:57,332
 Then drag until the parabola
 just touches the x axis.
 
-126
-00:05:46,200 --> 00:05:47,557
+132
+00:05:57,352 --> 00:05:58,352
 That's at twenty-five.
 
-127
-00:05:47,667 --> 00:05:49,647
+133
+00:05:58,670 --> 00:05:59,829
 Formula seven is the vertex.
 
-128
-00:05:49,667 --> 00:05:53,576
+134
+00:05:59,849 --> 00:06:03,528
 Its x coordinate is negative b over two a.
 
-129
-00:05:53,596 --> 00:05:55,112
+135
+00:06:04,028 --> 00:06:05,706
 Plug that in to get y.
 
-130
-00:05:55,132 --> 00:05:59,647
+136
+00:06:05,848 --> 00:06:11,456
 And in vertex form, y
 equals a times x minus h,
 
-131
-00:05:59,667 --> 00:06:02,933
+137
+00:06:12,456 --> 00:06:16,242
 squared, plus k, the vertex is just h,
 
-132
-00:06:02,953 --> 00:06:03,573
+138
+00:06:16,670 --> 00:06:17,275
 k.
 
-133
-00:06:03,593 --> 00:06:04,573
+139
+00:06:17,295 --> 00:06:18,616
 Example.
 
-134
-00:06:04,593 --> 00:06:10,180
+140
+00:06:18,759 --> 00:06:24,275
 What is the vertex of the graph of y
 equals two x squared plus twelve x plus
 
-135
-00:06:10,200 --> 00:06:11,149
+141
+00:06:24,295 --> 00:06:25,072
 thirteen?
 
-136
-00:06:11,169 --> 00:06:12,633
+142
+00:06:25,092 --> 00:06:26,200
 Pause and try it.
 
-137
-00:06:15,865 --> 00:06:18,772
+143
+00:06:29,414 --> 00:06:31,879
 Negative twelve over
 four is negative three.
 
-138
-00:06:18,792 --> 00:06:24,094
+144
+00:06:32,057 --> 00:06:36,430
 Plug it in: eighteen minus thirty-six
 plus thirteen is negative five.
 
-139
-00:06:24,114 --> 00:06:27,166
+145
+00:06:36,450 --> 00:06:39,037
 The vertex is negative
 three, negative five.
 
-140
-00:06:27,186 --> 00:06:28,793
+146
+00:06:39,057 --> 00:06:40,486
 The answer is D.
 
-141
-00:06:28,817 --> 00:06:32,475
+147
+00:06:40,530 --> 00:06:44,422
 Desmos check: graph it and
 click the bottom of the curve.
 
-142
-00:06:32,495 --> 00:06:34,924
+148
+00:06:45,065 --> 00:06:47,137
 Desmos labels the vertex for you.
 
-143
-00:06:34,949 --> 00:06:40,072
+149
+00:06:47,200 --> 00:06:51,752
 Formula eight: for a x squared
 plus b x plus c equals zero,
 
-144
-00:06:40,092 --> 00:06:42,679
+150
+00:06:51,772 --> 00:06:54,252
 the sum of the solutions
 is negative b over a,
 
-145
-00:06:42,699 --> 00:06:45,664
+151
+00:06:54,272 --> 00:06:56,521
 and the product is c over a.
 
-146
-00:06:45,734 --> 00:06:47,056
+152
+00:06:57,343 --> 00:06:58,629
 No solving needed.
 
-147
-00:06:47,098 --> 00:06:48,098
+153
+00:06:58,667 --> 00:06:59,881
 Example.
 
-148
-00:06:48,455 --> 00:06:54,792
+154
+00:07:00,416 --> 00:07:05,325
 What is the product of the solutions
 to two x squared plus nine x minus ten
 
-149
-00:06:54,812 --> 00:06:55,937
+155
+00:07:05,345 --> 00:07:06,345
 equals zero?
 
-150
-00:06:55,957 --> 00:06:57,421
+156
+00:07:06,432 --> 00:07:07,540
 Pause and try it.
 
-151
-00:07:00,652 --> 00:07:04,561
+157
+00:07:10,754 --> 00:07:13,949
 c over a is negative ten over
 two, which is negative five.
 
-152
-00:07:04,581 --> 00:07:05,902
+158
+00:07:13,969 --> 00:07:15,290
 The answer is B.
 
-153
-00:07:05,974 --> 00:07:10,949
+159
+00:07:16,683 --> 00:07:21,396
 Negative nine halves is the sum, and
 negative ten forgot to divide by a.
 
-154
-00:07:10,969 --> 00:07:13,576
+160
+00:07:21,441 --> 00:07:23,761
 Part three, circles and trig.
 
-155
-00:07:13,897 --> 00:07:18,342
+161
+00:07:24,619 --> 00:07:29,421
 Formula nine: x minus h,
 squared, plus y minus k,
 
-156
-00:07:18,362 --> 00:07:20,699
+162
+00:07:29,441 --> 00:07:32,191
 squared, equals r squared.
 
-157
-00:07:20,719 --> 00:07:24,647
+163
+00:07:32,334 --> 00:07:36,334
 The center is h, k, and the radius is r.
 
-158
-00:07:24,755 --> 00:07:27,874
+164
+00:07:37,155 --> 00:07:39,922
 If the equation comes
 expanded, complete the square.
 
-159
-00:07:27,894 --> 00:07:28,930
+165
+00:07:39,942 --> 00:07:41,458
 Example.
 
-160
-00:07:29,001 --> 00:07:33,874
+166
+00:07:41,478 --> 00:07:45,958
 The equation x squared plus y squared
 plus eight x minus two y equals eight
 
-161
-00:07:33,894 --> 00:07:36,517
+167
+00:07:45,978 --> 00:07:48,298
 represents a circle in the x y plane.
 
-162
-00:07:36,537 --> 00:07:38,491
+168
+00:07:49,370 --> 00:07:51,014
 What is the radius of the circle?
 
-163
-00:07:38,511 --> 00:07:39,975
+169
+00:07:51,063 --> 00:07:52,171
 Pause and try it.
 
-164
-00:07:43,206 --> 00:07:47,242
+170
+00:07:55,385 --> 00:07:58,814
 Half of eight is four, and
 four squared is sixteen.
 
-165
-00:07:47,313 --> 00:07:49,615
+171
+00:07:59,314 --> 00:08:01,115
 Half of negative two is negative one,
 
-166
-00:07:49,635 --> 00:07:51,528
+172
+00:08:01,135 --> 00:08:02,813
 and that squared is one.
 
-167
-00:07:51,598 --> 00:07:54,028
+173
+00:08:02,850 --> 00:08:05,170
 Add sixteen and one to both sides.
 
-168
-00:07:54,078 --> 00:07:57,557
+174
+00:08:05,190 --> 00:08:10,491
 Now it's x plus four,
 squared, plus y minus one,
 
-169
-00:07:57,577 --> 00:07:59,201
+175
+00:08:10,511 --> 00:08:12,276
 squared, equals twenty-five.
 
-170
-00:07:59,221 --> 00:08:02,164
+176
+00:08:12,296 --> 00:08:14,920
 The radius is five, not twenty-five.
 
-171
-00:08:02,184 --> 00:08:05,701
+177
+00:08:14,940 --> 00:08:17,955
 The answer is C, and the
 center is negative four,
 
-172
-00:08:05,721 --> 00:08:06,393
+178
+00:08:17,975 --> 00:08:18,627
 one.
 
-173
-00:08:06,413 --> 00:08:07,520
+179
+00:08:18,647 --> 00:08:19,647
 Formula ten.
 
-174
-00:08:08,377 --> 00:08:11,464
+180
+00:08:20,968 --> 00:08:23,468
 Arcs and sectors are
 fractions of the circle.
 
-175
-00:08:11,484 --> 00:08:14,964
+181
+00:08:23,825 --> 00:08:26,682
 The fraction is the central
 angle over three sixty.
 
-176
-00:08:14,984 --> 00:08:17,821
+182
+00:08:27,253 --> 00:08:29,647
 Multiply it by the
 circumference for arc length,
 
-177
-00:08:17,841 --> 00:08:20,467
+183
+00:08:29,825 --> 00:08:31,824
 or by the area for sector area.
 
-178
-00:08:20,487 --> 00:08:21,558
+184
+00:08:31,894 --> 00:08:33,501
 Example.
 
-179
-00:08:21,665 --> 00:08:24,717
+185
+00:08:33,573 --> 00:08:36,394
 A circle has a radius of nine centimeters.
 
-180
-00:08:24,737 --> 00:08:27,788
+186
+00:08:37,001 --> 00:08:39,767
 What is the area, in square centimeters,
 
-181
-00:08:27,808 --> 00:08:31,165
+187
+00:08:39,787 --> 00:08:42,501
 of a sector with a central
 angle of forty degrees?
 
-182
-00:08:31,234 --> 00:08:32,699
+188
+00:08:42,597 --> 00:08:43,704
 Pause and try it.
 
-183
-00:08:35,930 --> 00:08:37,874
+189
+00:08:46,919 --> 00:08:48,506
 Forty over three sixty is one ninth.
 
-184
-00:08:37,894 --> 00:08:41,624
+190
+00:08:48,526 --> 00:08:52,578
 The whole area is eighty-one
 pi, so the sector is nine pi.
 
-185
-00:08:41,644 --> 00:08:43,087
+191
+00:08:52,598 --> 00:08:53,919
 The answer is B.
 
-186
-00:08:43,107 --> 00:08:46,500
+192
+00:08:53,955 --> 00:08:56,634
 Two pi is the arc length,
 which is the common mix-up.
 
-187
-00:08:46,609 --> 00:08:49,922
+193
+00:08:56,749 --> 00:09:00,285
 If the angle is in radians,
 compare it to two pi instead.
 
-188
-00:08:49,942 --> 00:08:51,371
+194
+00:09:00,318 --> 00:09:01,461
 Formula eleven.
 
-189
-00:08:51,941 --> 00:08:56,406
+195
+00:09:02,317 --> 00:09:06,512
 Soh-cah-toa: sine is
 opposite over hypotenuse,
 
-190
-00:08:56,442 --> 00:09:02,065
+196
+00:09:06,532 --> 00:09:10,547
 cosine is adjacent over hypotenuse,
 and tangent is opposite over adjacent.
 
-191
-00:09:02,085 --> 00:09:04,871
+197
+00:09:10,567 --> 00:09:13,175
 Always measured from the
 angle the question names.
 
-192
-00:09:04,897 --> 00:09:05,897
+198
+00:09:13,216 --> 00:09:14,216
 Example.
 
-193
-00:09:05,968 --> 00:09:11,254
+199
+00:09:14,359 --> 00:09:18,538
 In right triangle X Y Z,
 angle Z is the right angle.
 
-194
-00:09:11,397 --> 00:09:17,397
+200
+00:09:18,859 --> 00:09:23,787
 X Z is twenty-four, Y Z is
 seven, and X Y is twenty-five.
 
-195
-00:09:17,539 --> 00:09:20,183
+201
+00:09:24,287 --> 00:09:26,394
 What is the value of cosine of X?
 
-196
-00:09:20,230 --> 00:09:21,694
+202
+00:09:26,450 --> 00:09:27,557
 Pause and try it.
 
-197
-00:09:24,925 --> 00:09:28,282
+203
+00:09:30,772 --> 00:09:33,985
 From angle X, the adjacent
 side is twenty-four,
 
-198
-00:09:28,424 --> 00:09:30,782
+204
+00:09:34,128 --> 00:09:36,343
 and the hypotenuse is twenty-five.
 
-199
-00:09:30,818 --> 00:09:34,047
+205
+00:09:36,593 --> 00:09:39,502
 So cosine of X is
 twenty-four over twenty-five.
 
-200
-00:09:34,067 --> 00:09:35,512
+206
+00:09:39,522 --> 00:09:42,272
 The answer is C.
 
-201
-00:09:35,532 --> 00:09:38,710
+207
+00:09:42,378 --> 00:09:44,699
 Seven over twenty-five is sine of X.
 
-202
-00:09:38,732 --> 00:09:43,784
+208
+00:09:44,783 --> 00:09:49,585
 Now notice: from angle Y, sine is
 also twenty-four over twenty-five.
 
-203
-00:09:43,804 --> 00:09:44,927
+209
+00:09:49,605 --> 00:09:50,640
 That's the rule.
 
-204
-00:09:44,947 --> 00:09:49,497
+210
+00:09:50,747 --> 00:09:54,835
 Sine of x equals cosine
 of ninety degrees minus x,
 
-205
-00:09:49,517 --> 00:09:52,445
+211
+00:09:54,855 --> 00:09:57,497
 because the two acute
 angles add up to ninety.
 
-206
-00:09:52,465 --> 00:09:53,481
+212
+00:09:57,575 --> 00:09:58,932
 Example.
 
-207
-00:09:53,501 --> 00:09:58,266
+213
+00:09:59,396 --> 00:10:03,090
 If sine of x degrees equals
 cosine of thirty-two degrees,
 
-208
-00:09:58,286 --> 00:10:03,179
+214
+00:10:03,110 --> 00:10:07,038
 and x is between zero and
 ninety, what is the value of x?
 
-209
-00:10:03,226 --> 00:10:04,690
+215
+00:10:07,070 --> 00:10:08,177
 Pause and try it.
 
-210
-00:10:07,921 --> 00:10:10,187
+216
+00:10:11,392 --> 00:10:13,300
 Ninety minus thirty-two is fifty-eight.
 
-211
-00:10:10,207 --> 00:10:14,401
+217
+00:10:13,320 --> 00:10:18,284
 To check in Desmos, switch
 to degrees in graph settings,
 
-212
-00:10:14,421 --> 00:10:18,884
+218
+00:10:18,605 --> 00:10:22,569
 then type sine of fifty-eight
 and cosine of thirty-two.
 
-213
-00:10:18,992 --> 00:10:20,089
+219
+00:10:22,856 --> 00:10:23,927
 Same decimal.
 
-214
-00:10:20,109 --> 00:10:22,053
+220
+00:10:23,973 --> 00:10:25,901
 Part four, exponents.
 
-215
-00:10:22,073 --> 00:10:24,268
+221
+00:10:26,900 --> 00:10:29,080
 Formula twelve is a set of rules.
 
-216
-00:10:24,288 --> 00:10:26,232
+222
+00:10:29,330 --> 00:10:31,544
 Multiplying, add the exponents.
 
-217
-00:10:26,252 --> 00:10:27,802
+223
+00:10:31,937 --> 00:10:33,973
 Dividing, subtract them.
 
-218
-00:10:27,822 --> 00:10:29,803
+224
+00:10:34,150 --> 00:10:36,437
 Power of a power, multiply them.
 
-219
-00:10:29,823 --> 00:10:32,108
+225
+00:10:36,937 --> 00:10:38,845
 A negative exponent means one over.
 
-220
-00:10:32,215 --> 00:10:36,502
+226
+00:10:38,865 --> 00:10:42,258
 And in a fraction exponent, the top is
 the power and the bottom is the root.
 
-221
-00:10:36,548 --> 00:10:37,548
+227
+00:10:42,329 --> 00:10:43,309
 Example.
 
-222
-00:10:37,655 --> 00:10:43,099
+228
+00:10:43,329 --> 00:10:47,309
 Which expression is equivalent to
 the quantity three x to the fourth,
 
-223
-00:10:43,119 --> 00:10:46,063
+229
+00:10:47,329 --> 00:10:50,380
 squared, times x to the negative five,
 
-224
-00:10:46,083 --> 00:10:47,860
+230
+00:10:50,400 --> 00:10:52,007
 where x is not zero?
 
-225
-00:10:47,880 --> 00:10:49,344
+231
+00:10:52,064 --> 00:10:53,172
 Pause and try it.
 
-226
-00:10:52,575 --> 00:10:55,054
+232
+00:10:56,386 --> 00:10:58,671
 Squaring gives nine x to the eighth.
 
-227
-00:10:55,074 --> 00:10:57,519
+233
+00:10:59,029 --> 00:11:01,009
 Then multiply by x to the negative five,
 
-228
-00:10:57,539 --> 00:11:01,341
+234
+00:11:01,029 --> 00:11:05,152
 so add the exponents:
 eight minus five is three.
 
-229
-00:11:01,361 --> 00:11:03,003
+235
+00:11:05,172 --> 00:11:07,208
 That's nine x cubed.
 
-230
-00:11:03,182 --> 00:11:04,825
+236
+00:11:07,457 --> 00:11:09,421
 The answer is A.
 
-231
-00:11:05,074 --> 00:11:08,075
+237
+00:11:10,029 --> 00:11:12,172
 C doubled the three
 instead of squaring it.
 
-232
-00:11:08,096 --> 00:11:09,418
+238
+00:11:12,206 --> 00:11:13,813
 Formula thirteen.
 
-233
-00:11:09,560 --> 00:11:14,648
+239
+00:11:14,492 --> 00:11:17,329
 Growth: y equals a times
 the quantity one plus r,
 
-234
-00:11:14,668 --> 00:11:15,668
+240
+00:11:17,349 --> 00:11:18,349
 to the t.
 
-235
-00:11:15,738 --> 00:11:17,968
+241
+00:11:18,885 --> 00:11:21,135
 For decay, it's one minus r.
 
-236
-00:11:17,988 --> 00:11:21,872
+242
+00:11:21,348 --> 00:11:24,634
 a is the starting amount, and
 r is the percent as a decimal.
 
-237
-00:11:21,892 --> 00:11:22,943
+243
+00:11:24,677 --> 00:11:25,550
 Example.
 
-238
-00:11:22,963 --> 00:11:25,872
+244
+00:11:25,570 --> 00:11:28,443
 A machine was worth five thousand
 dollars when it was bought,
 
-239
-00:11:25,892 --> 00:11:29,336
+245
+00:11:28,463 --> 00:11:31,534
 and its value decreases
 by ten percent each year.
 
-240
-00:11:29,356 --> 00:11:32,479
+246
+00:11:32,033 --> 00:11:35,033
 Which function gives
 its value V, in dollars,
 
-241
-00:11:32,499 --> 00:11:34,356
+247
+00:11:35,498 --> 00:11:37,463
 t years after it was bought?
 
-242
-00:11:34,426 --> 00:11:35,891
+248
+00:11:37,532 --> 00:11:38,640
 Pause and try it.
 
-243
-00:11:39,122 --> 00:11:41,816
+249
+00:11:41,854 --> 00:11:44,854
 Losing ten percent means
 keeping ninety percent,
 
-244
-00:11:41,836 --> 00:11:43,888
+250
+00:11:44,926 --> 00:11:47,192
 so the multiplier is point nine.
 
-245
-00:11:43,908 --> 00:11:45,979
+251
+00:11:47,212 --> 00:11:49,890
 The answer is D.
 
-246
-00:11:46,193 --> 00:11:49,208
+252
+00:11:49,961 --> 00:11:53,426
 B keeps only ten percent, C is growth,
 
-247
-00:11:49,228 --> 00:11:50,841
+253
+00:11:53,497 --> 00:11:54,844
 and A is linear.
 
-248
-00:11:50,861 --> 00:11:55,448
+254
+00:11:54,864 --> 00:11:57,916
 After two years, the machine is
 worth four thousand fifty dollars,
 
-249
-00:11:55,468 --> 00:11:56,770
+255
+00:11:57,936 --> 00:11:59,293
 not four thousand.
 
-250
-00:11:56,790 --> 00:11:59,912
+256
+00:11:59,400 --> 00:12:02,150
 Each year takes ten percent
 of a smaller amount.
 
-251
-00:11:59,932 --> 00:12:03,697
+257
+00:12:02,614 --> 00:12:06,593
 In Desmos, use x for t, define f of x,
 
-252
-00:12:03,717 --> 00:12:06,037
+258
+00:12:06,613 --> 00:12:08,257
 and type f of two to check.
 
-253
-00:12:06,057 --> 00:12:08,914
+259
+00:12:08,320 --> 00:12:10,749
 Part five, percents and stats.
 
-254
-00:12:09,021 --> 00:12:13,073
+260
+00:12:11,819 --> 00:12:15,122
 Formula fourteen: percent
 change is new minus old,
 
-255
-00:12:13,093 --> 00:12:15,394
+261
+00:12:15,142 --> 00:12:16,999
 over old, times one hundred.
 
-256
-00:12:15,414 --> 00:12:18,930
+262
+00:12:17,391 --> 00:12:20,086
 From forty dollars to
 thirty-four is a six-dollar drop,
 
-257
-00:12:18,950 --> 00:12:22,700
+263
+00:12:20,106 --> 00:12:23,142
 and six over forty is a
 fifteen percent decrease.
 
-258
-00:12:22,791 --> 00:12:25,056
+264
+00:12:23,175 --> 00:12:25,389
 The SAT also runs it backward.
 
-259
-00:12:25,076 --> 00:12:26,163
+265
+00:12:25,746 --> 00:12:26,583
 Example.
 
-260
-00:12:26,183 --> 00:12:30,699
+266
+00:12:26,603 --> 00:12:31,067
 After a twenty percent discount, a
 jacket costs forty-eight dollars.
 
-261
-00:12:30,719 --> 00:12:33,112
+267
+00:12:31,424 --> 00:12:33,460
 What was the original price of the jacket?
 
-262
-00:12:33,177 --> 00:12:34,641
+268
+00:12:33,516 --> 00:12:34,623
 Pause and try it.
 
-263
-00:12:37,872 --> 00:12:40,372
+269
+00:12:37,838 --> 00:12:40,210
 Twenty percent off means
 you pay eighty percent.
 
-264
-00:12:40,479 --> 00:12:42,602
+270
+00:12:40,230 --> 00:12:42,139
 Point eight times the
 price is forty-eight,
 
-265
-00:12:42,622 --> 00:12:44,281
+271
+00:12:42,159 --> 00:12:44,516
 so the price is sixty dollars.
 
-266
-00:12:44,301 --> 00:12:45,575
+272
+00:12:44,909 --> 00:12:47,266
 The answer is C.
 
-267
-00:12:45,595 --> 00:12:48,289
+273
+00:12:47,298 --> 00:12:50,028
 The trap is B, adding twenty
 percent of forty-eight.
 
-268
-00:12:48,309 --> 00:12:52,003
+274
+00:12:50,048 --> 00:12:53,492
 But the discount came
 off the original price,
 
-269
-00:12:52,023 --> 00:12:53,558
+275
+00:12:53,512 --> 00:12:54,725
 not the sale price.
 
-270
-00:12:53,626 --> 00:12:57,841
+276
+00:12:54,797 --> 00:12:58,833
 Formula fifteen: the mean is
 the sum divided by the count.
 
-271
-00:12:58,198 --> 00:13:03,580
+277
+00:12:59,333 --> 00:13:03,547
 The version the SAT really wants
 is total equals mean times count.
 
-272
-00:13:03,600 --> 00:13:04,473
+278
+00:13:03,657 --> 00:13:04,657
 Example.
 
-273
-00:13:04,493 --> 00:13:07,402
+279
+00:13:04,943 --> 00:13:07,566
 The mean of a student's five
 test scores is eighty-two.
 
-274
-00:13:07,422 --> 00:13:12,508
+280
+00:13:07,586 --> 00:13:12,636
 What score on a sixth test would make
 the mean of all six scores equal to
 
-275
-00:13:12,528 --> 00:13:13,488
+281
+00:13:12,656 --> 00:13:13,463
 eighty-four?
 
-276
-00:13:13,508 --> 00:13:14,972
+282
+00:13:13,483 --> 00:13:14,590
 Pause and try it.
 
-277
-00:13:18,203 --> 00:13:22,326
+283
+00:13:17,805 --> 00:13:21,141
 Five scores averaging eighty-two
 total four hundred ten.
 
-278
-00:13:22,346 --> 00:13:26,560
+284
+00:13:21,161 --> 00:13:24,178
 Six scores averaging eighty-four
 total five hundred four.
 
-279
-00:13:26,775 --> 00:13:28,702
+285
+00:13:24,198 --> 00:13:26,055
 The difference is ninety-four.
 
-280
-00:13:28,882 --> 00:13:31,182
+286
+00:13:27,448 --> 00:13:29,391
 Whenever values are added or removed,
 
-281
-00:13:31,202 --> 00:13:32,525
+287
+00:13:29,411 --> 00:13:30,625
 switch to totals.
 
-282
-00:13:32,545 --> 00:13:35,882
+288
+00:13:30,674 --> 00:13:33,923
 On test day, trigger words
 tell you which formula to use.
 
-283
-00:13:35,902 --> 00:13:38,204
+289
+00:13:34,173 --> 00:13:36,154
 Perpendicular: negative reciprocal.
 
-284
-00:13:38,224 --> 00:13:40,973
+290
+00:13:36,174 --> 00:13:39,281
 Exactly one solution: discriminant.
 
-285
-00:13:41,080 --> 00:13:44,847
+291
+00:13:39,924 --> 00:13:43,439
 Sum or product of the
 solutions: negative b over a,
 
-286
-00:13:44,867 --> 00:13:46,203
+292
+00:13:43,459 --> 00:13:44,710
 or c over a.
 
-287
-00:13:46,223 --> 00:13:48,617
+293
+00:13:45,067 --> 00:13:47,246
 Maximum or minimum: vertex.
 
-288
-00:13:48,649 --> 00:13:51,272
+294
+00:13:47,282 --> 00:13:50,512
 Center or radius: complete the square.
 
-289
-00:13:51,292 --> 00:13:54,272
+295
+00:13:50,532 --> 00:13:53,155
 Percent per year: one plus or minus r,
 
-290
-00:13:54,292 --> 00:13:55,292
+296
+00:13:53,175 --> 00:13:54,175
 to the t.
 
-291
-00:13:55,434 --> 00:13:58,022
+297
+00:13:54,495 --> 00:13:56,512
 A mean with a value added or removed:
 
-292
-00:13:58,042 --> 00:13:58,772
+298
+00:13:56,532 --> 00:13:57,532
 totals.
 
-293
-00:13:58,792 --> 00:14:01,531
+299
+00:13:57,602 --> 00:14:00,245
 And if it's on the reference
 sheet, just open the sheet.
 
-294
-00:14:01,551 --> 00:14:03,031
+300
+00:14:00,305 --> 00:14:02,928
 That's all fifteen on one screen.
 
-295
-00:14:03,051 --> 00:14:04,822
+301
+00:14:02,948 --> 00:14:04,591
 Pause here if you want a screenshot.
 
-296
-00:14:04,842 --> 00:14:08,036
+302
+00:14:04,659 --> 00:14:07,032
 Every example here was
 written for this video,
 
-297
-00:14:08,056 --> 00:14:10,465
+303
+00:14:07,052 --> 00:14:09,123
 in the style of the real test.
 
-298
-00:14:10,485 --> 00:14:15,071
+304
+00:14:09,481 --> 00:14:13,995
 For official practice, the free College
 Board Question Bank lets you filter math
 
-299
-00:14:15,091 --> 00:14:16,707
+305
+00:14:14,015 --> 00:14:15,409
 questions by skill.
 
-300
-00:14:16,727 --> 00:14:18,299
+306
+00:14:15,435 --> 00:14:17,220
 If this helped, subscribe.
 
-301
-00:14:18,549 --> 00:14:22,707
+307
+00:14:17,434 --> 00:14:21,399
 The next video covers all ten question
 types on the Reading and Writing section.
 
-302
-00:14:22,727 --> 00:14:23,727
+308
+00:14:21,542 --> 00:14:22,542
 Good luck.

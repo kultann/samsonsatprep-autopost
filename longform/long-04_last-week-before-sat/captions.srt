@@ -1,896 +1,895 @@
 1
-00:00:00,182 --> 00:00:03,770
-The last week before the SAT isn't
-the time to learn everything.
+00:00:00,182 --> 00:00:03,590
+There are four ways to waste
+the last week before the SAT.
 
 2
-00:00:03,790 --> 00:00:06,413
-It's the time to sharpen
-what you already know,
+00:00:03,610 --> 00:00:04,968
+Cramming new topics.
 
 3
-00:00:06,433 --> 00:00:10,841
-fix your most common mistakes, and make
-sure nothing goes wrong on test morning.
+00:00:05,540 --> 00:00:07,040
+Changing your sleep.
 
 4
-00:00:10,861 --> 00:00:15,032
-Here's a plan, day by day, from one
-week out to the moment you walk in.
+00:00:07,432 --> 00:00:10,147
+Taking another full test
+in the last two days.
 
 5
-00:00:15,052 --> 00:00:18,317
-The most common mistake
-this week is panic studying.
+00:00:10,790 --> 00:00:13,270
+And the fourth feels like real studying,
 
 6
-00:00:18,337 --> 00:00:20,960
-Students cram new topics, stay up late,
+00:00:13,290 --> 00:00:15,004
+which is why it's easy to miss.
 
 7
-00:00:20,980 --> 00:00:22,388
-and show up tired.
+00:00:15,062 --> 00:00:17,241
+The first three are easy to avoid.
 
 8
-00:00:22,408 --> 00:00:26,015
-That trades points you already have
-for points you probably won't get.
+00:00:17,490 --> 00:00:20,312
+The fourth is drilling without
+knowing why you missed.
 
 9
-00:00:26,087 --> 00:00:28,139
-So the rule for this week is simple.
+00:00:20,812 --> 00:00:24,277
+Day six is where you
+fix it, so stay for it.
 
 10
-00:00:28,159 --> 00:00:29,067
-Review.
+00:00:25,277 --> 00:00:29,670
+The rule all week: review, don't cram.
 
 11
-00:00:29,087 --> 00:00:30,105
-Don't cram.
+00:00:30,527 --> 00:00:35,062
+Here's the plan, day by day, from one
+week out to the moment you walk in.
 
 12
-00:00:30,125 --> 00:00:30,819
+00:00:35,098 --> 00:00:36,098
 Day seven.
 
 13
-00:00:30,839 --> 00:00:31,498
+00:00:37,597 --> 00:00:38,685
 One week out.
 
 14
-00:00:31,518 --> 00:00:34,105
+00:00:38,705 --> 00:00:40,935
 Take a full-length
 practice test in Bluebook,
 
 15
-00:00:34,125 --> 00:00:36,410
+00:00:40,955 --> 00:00:43,597
 the same app you'll use on test day.
 
 16
-00:00:36,660 --> 00:00:39,676
+00:00:43,633 --> 00:00:46,884
 The practice tests there are
 timed like the real thing,
 
 17
-00:00:39,696 --> 00:00:44,068
+00:00:47,169 --> 00:00:51,542
 and College Board recommends taking at
 least one with the timer on and breaks
 
 18
-00:00:44,088 --> 00:00:45,228
+00:00:51,562 --> 00:00:52,598
 like test day.
 
 19
-00:00:45,248 --> 00:00:46,549
+00:00:52,680 --> 00:00:54,859
 Make it feel like test day.
 
 20
-00:00:46,569 --> 00:00:47,478
+00:00:55,073 --> 00:00:56,696
 Start in the morning.
 
 21
-00:00:47,498 --> 00:00:49,514
+00:00:56,716 --> 00:00:58,966
 Sit at a desk, not on your bed.
 
 22
-00:00:49,534 --> 00:00:51,299
+00:00:59,216 --> 00:01:01,002
 Put your phone in another room.
 
 23
-00:00:51,319 --> 00:00:53,049
+00:01:01,215 --> 00:01:03,108
 Use real scratch paper.
 
 24
-00:00:53,069 --> 00:00:58,068
+00:01:03,287 --> 00:01:07,323
 And take only the ten-minute break
 between Reading and Writing and Math.
 
 25
-00:00:58,089 --> 00:01:01,033
+00:01:07,404 --> 00:01:10,599
 Don't stop to look things up,
 and don't pause the clock.
 
 26
-00:01:01,053 --> 00:01:02,748
+00:01:10,619 --> 00:01:12,706
 The point isn't just the score.
 
 27
-00:01:02,768 --> 00:01:05,891
+00:01:12,726 --> 00:01:15,705
 It's to find out what goes
 wrong under real timing,
 
 28
-00:01:05,911 --> 00:01:07,819
+00:01:15,725 --> 00:01:17,511
 so the rest of the week can fix it.
 
 29
-00:01:07,839 --> 00:01:11,661
+00:01:17,725 --> 00:01:21,475
 And starting today, wake up at the
 time you'll wake up on test day.
 
 30
-00:01:11,721 --> 00:01:12,808
+00:01:21,507 --> 00:01:22,507
 Day six.
 
 31
-00:01:12,828 --> 00:01:14,328
+00:01:23,078 --> 00:01:24,363
 Review the test.
 
 32
-00:01:14,684 --> 00:01:18,308
+00:01:25,614 --> 00:01:29,237
 After a Bluebook practice test,
 your scores show up in My Practice,
 
 33
-00:01:18,328 --> 00:01:21,685
+00:01:29,257 --> 00:01:32,077
 where you can review each
 question with its explanation.
 
 34
-00:01:21,792 --> 00:01:23,521
+00:01:32,328 --> 00:01:33,915
 Go through every question you missed,
 
 35
-00:01:23,541 --> 00:01:27,435
+00:01:33,935 --> 00:01:36,900
 and every question you guessed
 on, even if you got it right.
 
 36
-00:01:27,476 --> 00:01:30,905
+00:01:36,983 --> 00:01:40,804
 For each one, don't just read
 the explanation and move on.
 
 37
-00:01:31,084 --> 00:01:33,048
+00:01:41,054 --> 00:01:42,983
 Write down why you missed it.
 
 38
-00:01:33,191 --> 00:01:36,047
+00:01:43,197 --> 00:01:46,197
 Almost every miss fits one of four labels.
 
 39
-00:01:36,082 --> 00:01:37,455
+00:01:46,255 --> 00:01:48,148
 One, content.
 
 40
-00:01:37,475 --> 00:01:39,454
+00:01:48,862 --> 00:01:50,827
 You didn't know the rule or the formula.
 
 41
-00:01:39,474 --> 00:01:40,848
+00:01:51,434 --> 00:01:53,255
 Two, careless.
 
 42
-00:01:40,868 --> 00:01:44,526
+00:01:53,648 --> 00:01:57,255
 You knew it, but misread the
 question or made an arithmetic slip.
 
 43
-00:01:44,546 --> 00:01:46,026
+00:01:57,755 --> 00:01:59,791
 Three, time.
 
 44
-00:01:46,046 --> 00:01:47,954
+00:02:00,076 --> 00:02:02,148
 You rushed it or never got to it.
 
 45
-00:01:47,974 --> 00:01:49,348
+00:02:02,970 --> 00:02:04,720
 Four, trap.
 
 46
-00:01:49,368 --> 00:01:53,082
+00:02:05,041 --> 00:02:08,184
 You picked an answer that looked right
 but didn't answer what was asked.
 
 47
-00:01:53,141 --> 00:01:53,907
+00:02:08,243 --> 00:02:09,243
 Quick practice.
 
 48
-00:01:53,927 --> 00:01:55,192
+00:02:09,600 --> 00:02:10,920
 Here are three misses.
 
 49
-00:01:55,212 --> 00:01:56,570
+00:02:11,563 --> 00:02:12,993
 Label each one.
 
 50
-00:01:56,784 --> 00:02:00,569
+00:02:13,635 --> 00:02:17,492
 First, you solved for x, but the
 question asked for x plus two.
 
 51
-00:02:00,677 --> 00:02:04,533
+00:02:18,100 --> 00:02:22,170
 Second, you knew the comma rule,
 but ran out of time and guessed.
 
 52
-00:02:04,819 --> 00:02:09,177
+00:02:23,100 --> 00:02:27,028
 Third, you'd never learned how to get
 a circle's radius from its equation.
 
 53
-00:02:09,201 --> 00:02:10,451
+00:02:27,112 --> 00:02:28,505
 Pause and try it.
 
 54
-00:02:13,640 --> 00:02:15,532
+00:02:31,757 --> 00:02:33,293
 The first is a trap.
 
 55
-00:02:15,997 --> 00:02:18,961
+00:02:33,686 --> 00:02:36,666
 You did the math right and
 answered the wrong question.
 
 56
-00:02:19,354 --> 00:02:21,497
+00:02:36,686 --> 00:02:38,507
 The second is time.
 
 57
-00:02:21,604 --> 00:02:23,497
+00:02:38,971 --> 00:02:40,364
 The third is content.
 
 58
-00:02:23,674 --> 00:02:25,996
+00:02:41,042 --> 00:02:42,971
 And each one has a different fix.
 
 59
-00:02:26,353 --> 00:02:30,092
+00:02:43,971 --> 00:02:46,579
 Drilling circle problems wouldn't
 help the first two at all.
 
 60
-00:02:30,112 --> 00:02:31,684
+00:02:46,658 --> 00:02:48,086
 Now count the labels.
 
 61
-00:02:31,861 --> 00:02:33,914
+00:02:48,407 --> 00:02:50,228
 Content misses get drills.
 
 62
-00:02:33,934 --> 00:02:38,092
+00:02:50,265 --> 00:02:54,351
 Careless misses get a habit, like
 rereading what the question asks for before
 
 63
-00:02:38,112 --> 00:02:38,914
+00:02:54,371 --> 00:02:55,371
 you answer.
 
 64
-00:02:38,934 --> 00:02:41,091
+00:02:55,444 --> 00:02:57,444
 Time misses get pacing practice.
 
 65
-00:02:41,111 --> 00:02:43,807
+00:02:57,943 --> 00:03:01,551
 Trap misses mean slowing
 down on the last step.
 
 66
-00:02:43,827 --> 00:02:45,934
+00:03:01,729 --> 00:03:03,622
 Your counts decide the rest of the week.
 
 67
-00:02:45,992 --> 00:02:48,258
+00:03:03,680 --> 00:03:05,537
 Days five and four are for drills.
 
 68
-00:02:48,278 --> 00:02:51,187
+00:03:05,930 --> 00:03:08,251
 Pick the two skills where
 you lost the most points.
 
 69
-00:02:51,207 --> 00:02:55,365
+00:03:08,680 --> 00:03:12,051
 Then open the College Board's
 free SAT Suite Question Bank.
 
 70
-00:02:55,385 --> 00:02:57,972
+00:03:12,071 --> 00:03:13,945
 You can filter it by section, domain,
 
 71
-00:02:57,992 --> 00:02:59,936
+00:03:13,965 --> 00:03:15,480
 skill, and difficulty.
 
 72
-00:02:59,956 --> 00:03:03,901
+00:03:15,500 --> 00:03:18,445
 Start at medium, and move up to hard
 once most of the medium ones are going
 
 73
-00:03:03,921 --> 00:03:04,477
+00:03:18,465 --> 00:03:19,053
 right.
 
 74
-00:03:04,497 --> 00:03:07,440
+00:03:19,073 --> 00:03:21,838
 Do about fifteen to twenty
 questions per skill,
 
 75
-00:03:07,460 --> 00:03:08,227
+00:03:21,858 --> 00:03:22,966
 per day.
 
 76
-00:03:08,247 --> 00:03:10,655
+00:03:23,287 --> 00:03:25,731
 Start untimed, so you
 get the method right.
 
 77
-00:03:10,675 --> 00:03:13,048
+00:03:25,751 --> 00:03:28,787
 Then do a second set on a clock.
 
 78
-00:03:13,068 --> 00:03:16,834
+00:03:29,073 --> 00:03:32,481
 That's about seventy-one seconds a
 question for Reading and Writing,
 
 79
-00:03:16,854 --> 00:03:19,354
+00:03:32,501 --> 00:03:34,608
 and about ninety-five for math.
 
 80
-00:03:19,385 --> 00:03:22,350
+00:03:34,691 --> 00:03:37,334
 When you miss one, add it
 to your log with its label.
 
 81
-00:03:22,528 --> 00:03:25,794
+00:03:37,941 --> 00:03:41,084
 By day four, you should see
 fewer of the same mistake.
 
 82
-00:03:25,814 --> 00:03:28,293
+00:03:41,155 --> 00:03:44,027
 If you don't, that's the
 skill to keep drilling.
 
 83
-00:03:28,313 --> 00:03:29,956
+00:03:44,047 --> 00:03:45,762
 Don't switch to something new.
 
 84
-00:03:29,992 --> 00:03:31,543
+00:03:45,840 --> 00:03:47,625
 One more job in this window.
 
 85
-00:03:31,563 --> 00:03:35,865
+00:03:48,267 --> 00:03:52,034
 Exam setup opens in Bluebook one
 to five days before your test,
 
 86
-00:03:35,885 --> 00:03:37,829
+00:03:52,054 --> 00:03:54,590
 and you have to finish
 it by the day before.
 
 87
-00:03:37,849 --> 00:03:40,793
+00:03:54,625 --> 00:03:57,248
 Do it early, on the exact
 device you're bringing.
 
 88
-00:03:40,813 --> 00:03:43,161
+00:03:57,268 --> 00:03:59,590
 At the end, you get your admission ticket.
 
 89
-00:03:43,181 --> 00:03:45,624
+00:03:59,650 --> 00:04:02,006
 Print the ticket, or email it to yourself.
 
 90
-00:03:45,644 --> 00:03:48,431
+00:04:02,077 --> 00:04:04,471
 College Board says a
 printed ticket is preferred.
 
 91
-00:03:48,466 --> 00:03:49,661
+00:04:04,614 --> 00:04:05,665
 Then read it.
 
 92
-00:03:49,681 --> 00:03:52,125
+00:04:05,685 --> 00:04:07,879
 It has your test center
 and your arrival time,
 
 93
-00:03:52,145 --> 00:03:54,902
+00:04:07,899 --> 00:04:10,578
 and sometimes special
 instructions about your center.
 
 94
-00:03:54,922 --> 00:03:55,759
+00:04:10,627 --> 00:04:11,627
 Day three.
 
 95
-00:03:55,779 --> 00:03:59,187
+00:04:11,913 --> 00:04:14,734
 Keep drilling your weakest
 skill, and add a Desmos warm-up.
 
 96
-00:03:59,207 --> 00:04:02,937
+00:04:15,555 --> 00:04:18,413
 Bluebook has the Desmos
 graphing calculator built in.
 
 97
-00:04:02,957 --> 00:04:05,008
+00:04:18,591 --> 00:04:20,376
 The goal today is speed.
 
 98
-00:04:05,028 --> 00:04:09,057
+00:04:20,698 --> 00:04:23,590
 You want the basic moves to
 be automatic before test day.
 
 99
-00:04:09,077 --> 00:04:09,629
+00:04:23,648 --> 00:04:24,720
 Try this one.
 
 100
-00:04:09,649 --> 00:04:14,772
+00:04:25,541 --> 00:04:30,200
 What is the positive solution to the
 equation three x squared minus five x minus
 
 101
-00:04:14,792 --> 00:04:16,297
+00:04:30,220 --> 00:04:31,540
 two equals zero?
 
 102
-00:04:16,317 --> 00:04:17,567
+00:04:31,605 --> 00:04:32,998
 Pause and try it.
 
 103
-00:04:20,755 --> 00:04:25,771
+00:04:36,250 --> 00:04:40,373
 In Desmos, type y equals three x
 squared minus five x minus two.
 
 104
-00:04:25,791 --> 00:04:29,948
+00:04:40,393 --> 00:04:45,016
 Click the curve, and the points
 where it crosses the x axis appear.
 
 105
-00:04:29,968 --> 00:04:34,484
+00:04:45,036 --> 00:04:51,551
 One is negative one third, which Desmos
 shows as negative zero point three three
 
 106
-00:04:34,504 --> 00:04:35,128
+00:04:51,571 --> 00:04:52,730
 three.
 
 107
-00:04:35,148 --> 00:04:36,342
+00:04:52,750 --> 00:04:53,516
 The other is two.
 
 108
-00:04:36,362 --> 00:04:38,398
+00:04:53,536 --> 00:04:55,143
 So the positive solution is two.
 
 109
-00:04:38,418 --> 00:04:41,612
+00:04:55,181 --> 00:04:58,088
 By hand, it factors into three x plus one,
 
 110
-00:04:41,632 --> 00:04:43,505
+00:04:58,108 --> 00:04:59,931
 times x minus two.
 
 111
-00:04:43,525 --> 00:04:44,327
+00:05:00,573 --> 00:05:01,553
 Same answer.
 
 112
-00:04:44,347 --> 00:04:46,612
+00:05:01,573 --> 00:05:03,661
 Use whichever way is faster for you.
 
 113
-00:04:46,632 --> 00:04:49,810
+00:05:03,681 --> 00:05:06,788
 And practice with the calculator
 you'll use on test day.
 
 114
-00:04:49,918 --> 00:04:52,684
+00:05:07,001 --> 00:05:09,553
 Bluebook's test preview
 lets you try every tool,
 
 115
-00:04:52,704 --> 00:04:53,760
+00:05:09,573 --> 00:05:10,573
 untimed.
 
 116
-00:04:53,780 --> 00:04:55,689
+00:05:10,639 --> 00:05:12,833
 Also on day three, check your ID.
 
 117
-00:04:55,709 --> 00:05:00,153
+00:05:12,853 --> 00:05:15,726
 It has to be a physical photo
 ID, not a picture on your phone.
 
 118
-00:05:00,173 --> 00:05:01,402
+00:05:15,746 --> 00:05:16,976
 It can't be expired.
 
 119
-00:05:01,422 --> 00:05:04,653
+00:05:16,996 --> 00:05:20,083
 And the name has to match
 your admission ticket exactly.
 
 120
-00:05:04,673 --> 00:05:07,117
+00:05:20,103 --> 00:05:22,582
 If something's wrong,
 you want to find out now,
 
 121
-00:05:07,137 --> 00:05:08,173
+00:05:22,602 --> 00:05:23,674
 not at the door.
 
 122
-00:05:08,261 --> 00:05:09,062
+00:05:23,702 --> 00:05:24,702
 Day two.
 
 123
-00:05:09,082 --> 00:05:10,169
+00:05:24,988 --> 00:05:26,167
 Go lighter.
 
 124
-00:05:10,189 --> 00:05:12,705
+00:05:26,417 --> 00:05:28,397
 Reread your mistake log, top to bottom.
 
 125
-00:05:12,725 --> 00:05:15,241
+00:05:28,417 --> 00:05:30,611
 That log is the best study guide you have,
 
 126
-00:05:15,261 --> 00:05:17,368
+00:05:30,631 --> 00:05:32,631
 because it's built from your own mistakes.
 
 127
-00:05:17,432 --> 00:05:20,126
+00:05:32,669 --> 00:05:34,578
 Do a short mixed set,
 maybe twenty minutes,
 
 128
-00:05:20,146 --> 00:05:21,468
+00:05:34,598 --> 00:05:36,027
 just to stay sharp.
 
 129
-00:05:21,753 --> 00:05:25,376
+00:05:36,061 --> 00:05:38,435
 Then look over the math reference
 sheet so you know what's on it,
 
 130
-00:05:25,396 --> 00:05:26,610
+00:05:38,455 --> 00:05:39,598
 and what isn't.
 
 131
-00:05:26,682 --> 00:05:28,268
+00:05:39,847 --> 00:05:41,705
 Don't start any new topic.
 
 132
-00:05:28,288 --> 00:05:31,217
+00:05:41,811 --> 00:05:44,384
 If it's brand new to you now,
 it isn't worth the stress.
 
 133
-00:05:31,294 --> 00:05:32,381
+00:05:44,422 --> 00:05:45,636
 Then logistics.
 
 134
-00:05:32,401 --> 00:05:35,310
+00:05:46,136 --> 00:05:49,438
 Look up your test center and
 how long it takes to get there.
 
 135
-00:05:35,330 --> 00:05:39,096
+00:05:49,458 --> 00:05:52,723
 In the days before the test, College
 Board says to keep checking that your test
 
 136
-00:05:39,116 --> 00:05:41,274
+00:05:52,743 --> 00:05:54,493
 center hasn't changed or closed.
 
 137
-00:05:41,294 --> 00:05:43,596
+00:05:54,922 --> 00:05:57,115
 Check your test card on
 the Bluebook homepage,
 
 138
-00:05:43,616 --> 00:05:47,401
+00:05:57,135 --> 00:06:00,458
 your email, and College Board's
 test center closings page.
 
 139
-00:05:47,433 --> 00:05:50,949
+00:06:00,487 --> 00:06:04,380
 Before the night before, here's
 what not to do this week.
 
 140
-00:05:50,969 --> 00:05:52,663
+00:06:04,559 --> 00:06:06,166
 Don't cram new content.
 
 141
-00:05:52,683 --> 00:05:55,734
+00:06:06,809 --> 00:06:09,736
 And don't take another full
 practice test in the last two days.
 
 142
-00:05:55,754 --> 00:06:00,468
+00:06:10,416 --> 00:06:14,523
 It's tiring, and one off day can
 shake your confidence for no reason.
 
 143
-00:06:00,506 --> 00:06:01,557
+00:06:14,565 --> 00:06:15,688
 Don't change your sleep.
 
 144
-00:06:01,577 --> 00:06:04,379
+00:06:15,708 --> 00:06:18,366
 Keep the same bedtime and
 wake-up time all week.
 
 145
-00:06:04,399 --> 00:06:06,700
+00:06:18,386 --> 00:06:20,759
 A late night, or a big
 shift the night before,
 
 146
-00:06:06,720 --> 00:06:08,128
+00:06:20,779 --> 00:06:22,331
 just leaves you tired.
 
 147
-00:06:08,148 --> 00:06:09,593
+00:06:22,351 --> 00:06:24,136
 And don't switch calculators.
 
 148
-00:06:09,613 --> 00:06:12,915
+00:06:24,279 --> 00:06:28,188
 If you bring your own, College
 Board says to bring one you know.
 
 149
-00:06:12,935 --> 00:06:16,077
+00:06:28,208 --> 00:06:31,636
 Otherwise, use the built-in
 Desmos you've practiced with.
 
 150
-00:06:16,165 --> 00:06:17,915
+00:06:31,689 --> 00:06:33,597
 Day one, the night before.
 
 151
-00:06:18,415 --> 00:06:21,502
+00:06:33,617 --> 00:06:37,883
 First, if exam setup
 isn't done, do it now.
 
 152
-00:06:21,522 --> 00:06:22,843
+00:06:37,903 --> 00:06:39,617
 Today is the deadline.
 
 153
-00:06:22,879 --> 00:06:27,822
+00:06:39,653 --> 00:06:43,312
 Then open Bluebook on your device, so you
 know it starts up and is on the latest
 
 154
-00:06:27,842 --> 00:06:28,656
+00:06:43,332 --> 00:06:44,069
 version.
 
 155
-00:06:28,676 --> 00:06:29,870
+00:06:44,089 --> 00:06:45,411
 Now pack your bag.
 
 156
-00:06:29,890 --> 00:06:32,140
+00:06:45,838 --> 00:06:48,125
 Your testing device, fully charged.
 
 157
-00:06:32,497 --> 00:06:36,068
+00:06:48,625 --> 00:06:51,553
 College Board says it will need to
 stay on for three to four hours.
 
 158
-00:06:36,103 --> 00:06:38,640
+00:06:52,053 --> 00:06:54,231
 Your admission ticket, printed if you can.
 
 159
-00:06:38,747 --> 00:06:40,461
+00:06:54,696 --> 00:06:55,926
 Your physical photo ID.
 
 160
-00:06:40,533 --> 00:06:42,870
+00:06:55,946 --> 00:06:58,017
 Pencils or pens for scratch work.
 
 161
-00:06:42,890 --> 00:06:45,307
+00:06:58,303 --> 00:07:00,462
 Your College Board username and password.
 
 162
-00:06:45,327 --> 00:06:47,792
+00:07:00,482 --> 00:07:03,126
 And your calculator, if
 you're bringing your own.
 
 163
-00:06:47,812 --> 00:06:50,649
+00:07:03,146 --> 00:07:05,947
 Good to add: a charger
 or portable battery,
 
 164
-00:06:50,669 --> 00:06:53,292
+00:07:05,967 --> 00:07:08,182
 though College Board can't
 promise you an outlet.
 
 165
-00:06:53,312 --> 00:06:57,649
+00:07:08,789 --> 00:07:12,304
 A watch with no audible alarm, a
 drink and a snack for the break,
 
 166
-00:06:57,669 --> 00:06:59,613
+00:07:12,324 --> 00:07:14,466
 and a backup device if you have one.
 
 167
-00:06:59,633 --> 00:07:03,006
+00:07:14,824 --> 00:07:17,804
 Staff will collect your phone or have
 you store it away from your desk,
 
 168
-00:07:03,026 --> 00:07:04,685
+00:07:17,824 --> 00:07:19,789
 so don't count on it for anything.
 
 169
-00:07:04,705 --> 00:07:06,649
+00:07:19,884 --> 00:07:21,741
 Study for thirty minutes at most.
 
 170
-00:07:06,669 --> 00:07:08,685
+00:07:22,383 --> 00:07:25,027
 Reread your log, then stop.
 
 171
-00:07:08,705 --> 00:07:10,792
+00:07:25,420 --> 00:07:28,526
 Lay out your clothes, set two alarms,
 
 172
-00:07:10,812 --> 00:07:12,614
+00:07:28,705 --> 00:07:30,955
 and go to bed at your normal time.
 
 173
-00:07:12,634 --> 00:07:13,506
+00:07:31,205 --> 00:07:32,455
 You've done the work.
 
 174
-00:07:13,526 --> 00:07:15,871
+00:07:33,347 --> 00:07:35,277
 Tonight is about showing up rested.
 
 175
-00:07:15,891 --> 00:07:17,014
+00:07:35,345 --> 00:07:36,417
 Test morning.
 
 176
-00:07:17,034 --> 00:07:19,604
+00:07:36,738 --> 00:07:39,218
 Eat a normal breakfast,
 the kind you usually eat.
 
 177
-00:07:19,641 --> 00:07:21,514
+00:07:39,238 --> 00:07:41,361
 Check your bag one more time: ticket,
 
 178
-00:07:21,534 --> 00:07:23,264
+00:07:41,381 --> 00:07:43,147
 ID, charged device.
 
 179
-00:07:23,284 --> 00:07:25,676
+00:07:43,167 --> 00:07:45,595
 Then close and reopen Bluebook.
 
 180
-00:07:25,962 --> 00:07:29,192
+00:07:45,845 --> 00:07:49,254
 College Board says to do that on test
 day morning to check for last-minute
 
 181
-00:07:29,212 --> 00:07:32,055
+00:07:49,274 --> 00:07:51,738
 messages and updated
 test center information.
 
 182
-00:07:32,075 --> 00:07:34,610
+00:07:51,807 --> 00:07:54,286
 Check your admission ticket
 for your arrival time.
 
 183
-00:07:34,789 --> 00:07:37,555
+00:07:54,306 --> 00:07:56,394
 Test centers open at 7:45 in the morning,
 
 184
-00:07:37,575 --> 00:07:41,268
+00:07:56,414 --> 00:07:59,413
 and doors close at eight, unless
 your ticket says otherwise.
 
 185
-00:07:41,288 --> 00:07:43,983
+00:08:00,199 --> 00:08:02,323
 If you're borrowing a
 device from College Board,
 
 186
-00:07:44,003 --> 00:07:46,539
+00:08:02,343 --> 00:08:04,450
 arrive earlier, at 7:15.
 
 187
-00:07:46,592 --> 00:07:48,215
+00:08:04,485 --> 00:08:07,234
 On the way, don't study.
 
 188
-00:07:48,235 --> 00:07:52,500
+00:08:07,271 --> 00:08:11,679
 If you want a warm-up, do two or three
 easy questions you've already solved,
 
 189
-00:07:52,520 --> 00:07:54,071
+00:08:11,699 --> 00:08:12,822
 just to get your brain moving.
 
 190
-00:07:54,091 --> 00:07:56,074
+00:08:12,842 --> 00:08:15,699
 Nothing new, and nothing hard.
 
 191
-00:07:56,094 --> 00:07:57,503
+00:08:15,749 --> 00:08:17,106
 So here's the week.
 
 192
-00:07:57,523 --> 00:07:59,717
+00:08:17,678 --> 00:08:20,106
 Day seven, a full timed test.
 
 193
-00:07:59,737 --> 00:08:02,094
+00:08:20,678 --> 00:08:23,105
 Day six, label every miss.
 
 194
-00:08:02,166 --> 00:08:04,860
+00:08:23,606 --> 00:08:25,978
 Days five and four, drill
 your top two skills,
 
 195
-00:08:04,880 --> 00:08:06,646
+00:08:25,998 --> 00:08:27,499
 and finish exam setup.
 
 196
-00:08:06,666 --> 00:08:09,451
+00:08:27,963 --> 00:08:30,749
 Day three, Desmos and your ID.
 
 197
-00:08:09,486 --> 00:08:12,039
+00:08:30,999 --> 00:08:33,499
 Day two, light review and logistics.
 
 198
-00:08:12,059 --> 00:08:14,074
+00:08:33,749 --> 00:08:36,142
 Day one, pack and sleep.
 
 199
-00:08:14,094 --> 00:08:16,980
+00:08:36,570 --> 00:08:38,999
 Then test morning, on time and calm.
 
 200
-00:08:17,000 --> 00:08:20,429
+00:08:39,067 --> 00:08:42,352
 If your test isn't this week,
 save this video for when it is.
 
 201
-00:08:20,571 --> 00:08:26,821
+00:08:42,459 --> 00:08:47,175
 Next in this series: every SAT math
 formula that's not on the reference sheet.
 
 202
-00:08:26,929 --> 00:08:28,856
+00:08:47,567 --> 00:08:49,603
 If this helped, subscribe.
 
 203
-00:08:28,963 --> 00:08:29,963
+00:08:49,924 --> 00:08:50,924
 And good luck.

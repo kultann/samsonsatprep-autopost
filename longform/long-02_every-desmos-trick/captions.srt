@@ -1,906 +1,938 @@
 1
-00:00:00,182 --> 00:00:03,734
-Every SAT math question
-lets you use Desmos,
+00:00:00,182 --> 00:00:02,733
+There are eleven ways to
+use Desmos on the SAT,
 
 2
-00:00:03,754 --> 00:00:06,413
-the graphing calculator
-built right into the test.
+00:00:02,753 --> 00:00:05,020
+and most students only use one of them:
 
 3
-00:00:06,433 --> 00:00:09,233
-A lot of students only
-use it for arithmetic.
+00:00:05,040 --> 00:00:06,147
+arithmetic.
 
 4
-00:00:09,253 --> 00:00:11,790
-That leaves a lot of
-easy points on the table.
+00:00:06,397 --> 00:00:08,432
+Solve an equation by graphing it.
 
 5
-00:00:11,848 --> 00:00:16,328
-Here are eleven ways to use
-it on real SAT question types,
+00:00:08,574 --> 00:00:10,682
+Click an intersection to solve a system.
 
 6
-00:00:16,348 --> 00:00:18,848
-starting basic and getting more clever.
+00:00:10,896 --> 00:00:12,805
+Count crossings to count solutions.
 
 7
-00:00:19,026 --> 00:00:21,884
-Each one comes with a
-practice question you can try.
+00:00:12,825 --> 00:00:16,341
+And one of them checks an equivalent
+expressions question without any algebra at
 
 8
-00:00:21,929 --> 00:00:24,623
-And at the end, I'll show
-you when not to use Desmos,
+00:00:16,361 --> 00:00:16,947
+all.
 
 9
-00:00:24,643 --> 00:00:27,250
+00:00:16,967 --> 00:00:19,288
+The first few take seconds to learn.
+
+10
+00:00:19,395 --> 00:00:21,733
+The equivalent expressions
+trick is number nine,
+
+11
+00:00:21,753 --> 00:00:25,626
+so stay for it, because the right answer
+lands exactly on top of the original
+
+12
+00:00:25,646 --> 00:00:26,646
+graph.
+
+13
+00:00:26,896 --> 00:00:29,467
+Each trick comes with a
+practice question you can try.
+
+14
+00:00:29,527 --> 00:00:33,114
+And at the end, you'll see
+when not to use Desmos,
+
+15
+00:00:33,134 --> 00:00:35,813
 because sometimes it's slower
 than just doing the math.
 
-10
-00:00:27,302 --> 00:00:28,175
+16
+00:00:36,633 --> 00:00:38,349
+Eleven questions in all.
+
+17
+00:00:39,026 --> 00:00:41,526
+Keep score, and see if
+you can get all eleven.
+
+18
+00:00:41,572 --> 00:00:42,572
 Trick one.
 
-11
-00:00:28,195 --> 00:00:30,461
+19
+00:00:42,643 --> 00:00:45,465
 Solve any equation by graphing.
 
-12
-00:00:30,481 --> 00:00:35,568
+20
+00:00:45,679 --> 00:00:51,230
 Here's a question: What value of x
 satisfies three times x minus four,
 
-13
-00:00:35,588 --> 00:00:38,640
+21
+00:00:51,250 --> 00:00:54,215
 plus seven, equals two x plus nine?
 
-14
-00:00:38,660 --> 00:00:42,337
+22
+00:00:54,265 --> 00:00:56,943
 Pause and try it, with or without Desmos.
 
-15
-00:00:45,593 --> 00:00:51,073
+23
+00:01:00,158 --> 00:01:04,210
 In Desmos, type the left side as
 y equals three times x minus four,
 
-16
-00:00:51,093 --> 00:00:52,164
+24
+00:01:04,230 --> 00:01:05,230
 plus seven.
 
-17
-00:00:52,307 --> 00:00:56,180
+25
+00:01:05,658 --> 00:01:09,245
 Then type the right side as
 y equals two x plus nine.
 
-18
-00:00:56,200 --> 00:00:57,216
+26
+00:01:09,265 --> 00:01:10,300
 Two lines.
 
-19
-00:00:57,236 --> 00:00:59,449
+27
+00:01:10,550 --> 00:01:13,158
 The answer is wherever they cross.
 
-20
-00:00:59,879 --> 00:01:03,180
+28
+00:01:13,622 --> 00:01:16,567
 You'll need to zoom out to see it,
 because they cross pretty far from the
 
-21
-00:01:03,200 --> 00:01:03,836
+29
+00:01:16,587 --> 00:01:17,257
 middle.
 
-22
-00:01:03,856 --> 00:01:07,192
+30
+00:01:17,277 --> 00:01:20,364
 Click the intersection, and
 Desmos shows the point fourteen,
 
-23
-00:01:07,212 --> 00:01:08,086
+31
+00:01:20,384 --> 00:01:21,384
 thirty-seven.
 
-24
-00:01:08,106 --> 00:01:10,050
+32
+00:01:21,956 --> 00:01:23,849
 The x value is the answer.
 
-25
-00:01:10,070 --> 00:01:11,806
+33
+00:01:24,063 --> 00:01:25,670
 x equals fourteen.
 
-26
-00:01:11,826 --> 00:01:14,769
+34
+00:01:25,744 --> 00:01:28,616
 You can also type the whole
 equation exactly as written,
 
-27
-00:01:14,789 --> 00:01:18,163
+35
+00:01:28,636 --> 00:01:31,601
 and Desmos draws a vertical
 line at the solution.
 
-28
-00:01:18,183 --> 00:01:22,039
+36
+00:01:31,744 --> 00:01:35,672
 Either way, you never had to
 distribute or move a single term.
 
-29
-00:01:22,076 --> 00:01:23,076
+37
+00:01:35,725 --> 00:01:36,725
 Trick two.
 
-30
-00:01:23,219 --> 00:01:24,914
+38
+00:01:36,904 --> 00:01:38,403
 Systems of equations.
 
-31
-00:01:24,934 --> 00:01:27,735
+39
+00:01:39,117 --> 00:01:41,705
 If x and y is the solution to the system,
 
-32
-00:01:27,755 --> 00:01:32,684
+40
+00:01:41,725 --> 00:01:46,047
 two x plus three y equals
 twelve, and x minus y equals one,
 
-33
-00:01:32,755 --> 00:01:34,934
+41
+00:01:46,117 --> 00:01:47,867
 what is x plus y?
 
-34
-00:01:34,967 --> 00:01:36,253
+42
+00:01:47,924 --> 00:01:49,031
 Pause and try it.
 
-35
-00:01:39,458 --> 00:01:43,116
+43
+00:01:52,277 --> 00:01:55,706
 Type both equations into Desmos
 exactly as they're written.
 
-36
-00:01:43,136 --> 00:01:45,366
+44
+00:01:56,027 --> 00:01:58,063
 You don't need to solve for y first.
 
-37
-00:01:45,386 --> 00:01:48,205
+45
+00:01:58,813 --> 00:02:00,991
 Desmos handles that form just fine.
 
-38
-00:01:48,225 --> 00:01:51,276
+46
+00:02:01,043 --> 00:02:04,737
 Click where they cross: three, two.
 
-39
-00:01:51,296 --> 00:01:54,312
+47
+00:02:04,757 --> 00:02:07,059
 So x is three and y is two.
 
-40
-00:01:54,332 --> 00:01:55,669
+48
+00:02:07,079 --> 00:02:08,344
 But read the question again.
 
-41
-00:01:55,689 --> 00:01:57,418
+49
+00:02:08,364 --> 00:02:10,435
 It asks for x plus y.
 
-42
-00:01:57,438 --> 00:02:00,169
+50
+00:02:10,757 --> 00:02:13,328
 The answer is five, not three.
 
-43
-00:02:00,189 --> 00:02:01,455
+51
+00:02:13,363 --> 00:02:14,363
 Trick three.
 
-44
-00:02:01,475 --> 00:02:02,955
+52
+00:02:14,470 --> 00:02:15,899
 Counting solutions.
 
-45
-00:02:02,975 --> 00:02:06,082
+53
+00:02:16,720 --> 00:02:19,256
 How many solutions does this system have?
 
-46
-00:02:06,439 --> 00:02:09,668
+54
+00:02:19,292 --> 00:02:22,485
 y equals x squared minus four x plus one,
 
-47
-00:02:09,688 --> 00:02:12,761
+55
+00:02:22,505 --> 00:02:25,362
 and y equals negative two x plus one.
 
-48
-00:02:12,781 --> 00:02:14,067
+56
+00:02:25,436 --> 00:02:26,543
 Pause and try it.
 
-49
-00:02:17,271 --> 00:02:18,501
+57
+00:02:29,790 --> 00:02:30,627
 Graph both.
 
-50
-00:02:18,521 --> 00:02:21,466
+58
+00:02:30,647 --> 00:02:34,433
 Every place the graphs
 cross is one solution.
 
-51
-00:02:21,486 --> 00:02:24,716
+59
+00:02:35,433 --> 00:02:38,790
 Here, the line cuts through
 the parabola in two places.
 
-52
-00:02:24,736 --> 00:02:26,073
+60
+00:02:39,433 --> 00:02:40,933
 So there are two solutions.
 
-53
-00:02:26,093 --> 00:02:27,342
+61
+00:02:41,825 --> 00:02:44,218
 The answer is C.
 
-54
-00:02:27,368 --> 00:02:28,598
+62
+00:02:44,267 --> 00:02:45,767
 Same idea for lines.
 
-55
-00:02:28,618 --> 00:02:30,811
+63
+00:02:46,196 --> 00:02:49,319
 If two lines cross once, one solution.
 
-56
-00:02:30,831 --> 00:02:32,812
+64
+00:02:49,339 --> 00:02:51,675
 If they're parallel, no solution.
 
-57
-00:02:32,832 --> 00:02:34,918
+65
+00:02:51,695 --> 00:02:53,532
 If they land right on top of each other,
 
-58
-00:02:34,938 --> 00:02:36,224
+66
+00:02:53,552 --> 00:02:54,750
 infinitely many.
 
-59
-00:02:36,246 --> 00:02:37,298
+67
+00:02:54,770 --> 00:02:55,770
 Trick four.
 
-60
-00:02:37,318 --> 00:02:40,012
+68
+00:02:56,235 --> 00:02:58,572
 X-intercepts, also called zeros, roots,
 
-61
-00:02:40,032 --> 00:02:41,155
+69
+00:02:58,592 --> 00:02:59,663
 or solutions.
 
-62
-00:02:41,175 --> 00:02:45,691
+70
+00:03:00,128 --> 00:03:04,107
 What is the sum of the solutions to x
 squared minus seven x plus ten equals
 
-63
-00:02:45,711 --> 00:02:46,452
+71
+00:03:04,127 --> 00:03:04,891
 zero?
 
-64
-00:02:46,472 --> 00:02:47,758
+72
+00:03:04,911 --> 00:03:06,018
 Pause and try it.
 
-65
-00:02:50,963 --> 00:02:55,014
+73
+00:03:09,265 --> 00:03:12,565
 Graph y equals x squared
 minus seven x plus ten,
 
-66
-00:02:55,034 --> 00:02:56,820
+74
+00:03:12,585 --> 00:03:13,979
 and click the curve.
 
-67
-00:02:56,891 --> 00:02:59,586
+75
+00:03:14,979 --> 00:03:17,708
 Desmos marks where it crosses the x axis:
 
-68
-00:02:59,606 --> 00:03:01,157
+76
+00:03:17,728 --> 00:03:19,372
 two and five.
 
-69
-00:03:01,177 --> 00:03:03,661
+77
+00:03:19,443 --> 00:03:21,621
 Add them up, and the answer is seven.
 
-70
-00:03:03,681 --> 00:03:06,447
+78
+00:03:21,689 --> 00:03:23,598
 Whenever a question says zeros, roots,
 
-71
-00:03:06,467 --> 00:03:09,268
+79
+00:03:23,618 --> 00:03:25,633
 x-intercepts, or solutions of a quadratic,
 
-72
-00:03:09,288 --> 00:03:12,967
+80
+00:03:25,653 --> 00:03:28,975
 they all mean the same thing:
 where the graph hits the x axis.
 
-73
-00:03:13,101 --> 00:03:14,117
+81
+00:03:29,062 --> 00:03:30,185
 Trick five.
 
-74
-00:03:14,137 --> 00:03:16,137
+82
+00:03:30,205 --> 00:03:31,991
 Maximums and minimums.
 
-75
-00:03:16,280 --> 00:03:19,545
+83
+00:03:32,170 --> 00:03:35,471
 The height of a ball, in feet,
 t seconds after it's launched,
 
-76
-00:03:19,565 --> 00:03:25,010
+84
+00:03:35,491 --> 00:03:40,863
 is h of t equals negative sixteen t
 squared plus sixty-four t plus five.
 
-77
-00:03:25,030 --> 00:03:26,422
+85
+00:03:40,883 --> 00:03:42,312
 What's the maximum height?
 
-78
-00:03:26,473 --> 00:03:27,759
+86
+00:03:42,336 --> 00:03:43,443
 Pause and try it.
 
-79
-00:03:30,963 --> 00:03:35,142
+87
+00:03:46,690 --> 00:03:50,884
 Desmos graphs with x and y, so
 type it with x instead of t:
 
-80
-00:03:35,178 --> 00:03:40,479
+88
+00:03:50,904 --> 00:03:56,761
 y equals negative sixteen x squared
 plus sixty-four x plus five.
 
-81
-00:03:40,499 --> 00:03:42,729
+89
+00:03:57,761 --> 00:04:01,027
 Zoom out, because the graph goes way up.
 
-82
-00:03:42,749 --> 00:03:44,692
+90
+00:04:01,047 --> 00:04:02,726
 Then click the top of the curve.
 
-83
-00:03:44,712 --> 00:03:47,213
+91
+00:04:04,047 --> 00:04:05,654
 Desmos shows two, sixty-nine.
 
-84
-00:03:47,325 --> 00:03:48,467
+92
+00:04:06,455 --> 00:04:07,670
 Now be careful.
 
-85
-00:03:48,539 --> 00:03:50,768
+93
+00:04:08,670 --> 00:04:10,741
 Two is the time when the ball is highest.
 
-86
-00:03:50,788 --> 00:03:52,575
+94
+00:04:11,098 --> 00:04:12,777
 Sixty-nine is the height.
 
-87
-00:03:52,717 --> 00:03:56,396
+95
+00:04:13,597 --> 00:04:17,633
 The question asks for height,
 so the answer is sixty-nine.
 
-88
-00:03:56,479 --> 00:03:57,622
+96
+00:04:17,716 --> 00:04:18,625
 Trick six.
 
-89
-00:03:57,729 --> 00:03:59,015
+97
+00:04:18,645 --> 00:04:19,715
 Sliders.
 
-90
-00:03:59,337 --> 00:04:03,158
+98
+00:04:20,109 --> 00:04:22,966
 This one handles those questions
 with a mystery constant.
 
-91
-00:04:03,408 --> 00:04:06,674
+99
+00:04:23,359 --> 00:04:26,767
 In the system k x plus three y equals six,
 
-92
-00:04:06,694 --> 00:04:10,423
+100
+00:04:26,787 --> 00:04:29,966
 and two x plus y equals
 five, k is a constant.
 
-93
-00:04:10,443 --> 00:04:14,051
+101
+00:04:30,215 --> 00:04:33,288
 If the system has no solution, what is k?
 
-94
-00:04:14,113 --> 00:04:15,398
+102
+00:04:33,383 --> 00:04:34,491
 Pause and try it.
 
-95
-00:04:18,603 --> 00:04:21,139
+103
+00:04:37,737 --> 00:04:39,594
 Type both equations into Desmos.
 
-96
-00:04:21,353 --> 00:04:25,655
+104
+00:04:39,951 --> 00:04:44,380
 Because k isn't defined, Desmos
 offers to add a slider for it.
 
-97
-00:04:25,675 --> 00:04:26,353
+105
+00:04:44,809 --> 00:04:45,541
 Click it.
 
-98
-00:04:26,373 --> 00:04:29,174
+106
+00:04:45,561 --> 00:04:48,739
 No solution means the lines
 are parallel and never cross.
 
-99
-00:04:29,194 --> 00:04:32,480
+107
+00:04:49,024 --> 00:04:51,668
 So drag k until the lines are parallel.
 
-100
-00:04:32,516 --> 00:04:35,388
+108
+00:04:52,168 --> 00:04:54,612
 Tip: set the slider to
 move in steps of one,
 
-101
-00:04:35,408 --> 00:04:37,066
+109
+00:04:54,632 --> 00:04:56,454
 so it lands on whole numbers.
 
-102
-00:04:37,086 --> 00:04:39,944
+110
+00:04:56,525 --> 00:04:59,240
 The lines go parallel at k equals six.
 
-103
-00:04:40,003 --> 00:04:45,126
+111
+00:04:59,271 --> 00:05:05,021
 To double check, the slope of two x
 plus y equals five is negative two.
 
-104
-00:04:45,146 --> 00:04:50,768
+112
+00:05:05,485 --> 00:05:10,894
 The slope of k x plus three y
 equals six is negative k over three.
 
-105
-00:04:50,788 --> 00:04:53,468
+113
+00:05:10,914 --> 00:05:13,199
 Set them equal, and k is six.
 
-106
-00:04:54,111 --> 00:04:56,769
+114
+00:05:15,807 --> 00:05:18,072
 Sliders also work for questions like,
 
-107
-00:04:56,789 --> 00:05:02,182
+115
+00:05:18,092 --> 00:05:22,735
 for what value of c does this parabola
 touch the x axis exactly once?
 
-108
-00:05:02,205 --> 00:05:03,293
+116
+00:05:22,787 --> 00:05:23,787
 Trick seven.
 
-109
-00:05:03,313 --> 00:05:04,562
+117
+00:05:24,144 --> 00:05:25,323
 Inequalities.
 
-110
-00:05:04,633 --> 00:05:10,577
+118
+00:05:25,679 --> 00:05:31,016
 Which point is a solution to the system
 y is greater than two x minus three,
 
-111
-00:05:10,597 --> 00:05:14,598
+119
+00:05:31,036 --> 00:05:34,573
 and y is less than or equal
 to negative x plus six?
 
-112
-00:05:14,650 --> 00:05:15,936
+120
+00:05:34,616 --> 00:05:35,723
 Pause and try it.
 
-113
-00:05:19,140 --> 00:05:20,997
+121
+00:05:38,970 --> 00:05:40,649
 Type both inequalities.
 
-114
-00:05:21,355 --> 00:05:26,426
+122
+00:05:40,899 --> 00:05:45,649
 Desmos shades each one, and the solutions
 are wherever the shading overlaps.
 
-115
-00:05:26,497 --> 00:05:30,191
+123
+00:05:45,899 --> 00:05:49,434
 The dashed line means
 greater than, not equal to,
 
-116
-00:05:30,211 --> 00:05:32,250
+124
+00:05:49,470 --> 00:05:51,684
 so points on that line don't count.
 
-117
-00:05:32,270 --> 00:05:34,699
+125
+00:05:51,730 --> 00:05:53,873
 Now type the four points from the choices.
 
-118
-00:05:34,769 --> 00:05:38,000
+126
+00:05:54,373 --> 00:05:58,337
 Only one lands inside the overlap: one,
 
-119
-00:05:38,020 --> 00:05:38,643
+127
+00:05:58,587 --> 00:05:59,587
 two.
 
-120
-00:05:38,663 --> 00:05:40,208
+128
+00:05:59,730 --> 00:06:01,552
 The answer is C.
 
-121
-00:05:40,228 --> 00:05:41,371
+129
+00:06:01,621 --> 00:06:02,621
 Trick eight.
 
-122
-00:05:41,478 --> 00:05:42,548
+130
+00:06:03,014 --> 00:06:04,193
 Regression.
 
-123
-00:05:42,655 --> 00:05:45,851
+131
+00:06:04,693 --> 00:06:07,550
 This is the most underrated Desmos move.
 
-124
-00:05:45,871 --> 00:05:48,851
+132
+00:06:07,693 --> 00:06:10,672
 The table shows three points
 from a linear relationship:
 
-125
-00:05:48,871 --> 00:05:53,585
+133
+00:06:10,692 --> 00:06:15,477
 one and seven, three and
 thirteen, six and twenty-two.
 
-126
-00:05:53,728 --> 00:05:55,337
+134
+00:06:15,585 --> 00:06:17,157
 Which equation represents it?
 
-127
-00:05:55,357 --> 00:05:56,643
+135
+00:06:17,218 --> 00:06:18,325
 Pause and try it.
 
-128
-00:05:59,848 --> 00:06:03,025
+136
+00:06:21,572 --> 00:06:24,465
 In Desmos, add a table
 and type the points in.
 
-129
-00:06:03,168 --> 00:06:06,970
+137
+00:06:25,358 --> 00:06:29,194
 Then, on a new line, type y
 one, then the tilde symbol,
 
-130
-00:06:06,990 --> 00:06:10,418
+138
+00:06:29,214 --> 00:06:32,607
 the little squiggle, then m x one plus b.
 
-131
-00:06:10,955 --> 00:06:13,704
+139
+00:06:34,536 --> 00:06:37,143
 Desmos finds the line
 that fits the points.
 
-132
-00:06:13,727 --> 00:06:16,691
+140
+00:06:37,170 --> 00:06:40,419
 It gives m equals three and b equals four.
 
-133
-00:06:16,762 --> 00:06:19,493
+141
+00:06:40,597 --> 00:06:43,364
 So the answer is y
 equals three x plus four,
 
-134
-00:06:19,513 --> 00:06:20,528
+142
+00:06:43,384 --> 00:06:44,526
 choice A.
 
-135
-00:06:20,548 --> 00:06:24,243
+143
+00:06:44,848 --> 00:06:48,899
 Notice B and C both work for the
 first point but not the others.
 
-136
-00:06:24,263 --> 00:06:27,232
+144
+00:06:48,919 --> 00:06:51,670
 That's exactly the trap
 regression protects you from.
 
-137
-00:06:27,252 --> 00:06:32,982
+145
+00:06:51,752 --> 00:06:57,323
 For exponential tables, use y
 one tilde a times b to the x one.
 
-138
-00:06:33,002 --> 00:06:34,074
+146
+00:06:57,787 --> 00:06:58,787
 Same idea.
 
-139
-00:06:34,097 --> 00:06:34,863
+147
+00:06:58,885 --> 00:06:59,900
 Trick nine.
 
-140
-00:06:34,883 --> 00:06:36,327
+148
+00:06:59,920 --> 00:07:01,313
 Equivalent expressions.
 
-141
-00:06:36,347 --> 00:06:38,934
+149
+00:07:01,812 --> 00:07:04,492
 Which expression is
 equivalent to x plus three,
 
-142
-00:06:38,954 --> 00:06:41,811
+150
+00:07:04,563 --> 00:07:07,277
 squared, minus two times x plus three?
 
-143
-00:06:41,888 --> 00:06:43,173
+151
+00:07:07,315 --> 00:07:08,422
 Pause and try it.
 
-144
-00:06:46,378 --> 00:06:49,037
+152
+00:07:11,668 --> 00:07:13,989
 Graph the original expression as y equals.
 
-145
-00:06:49,057 --> 00:06:51,664
+153
+00:07:14,275 --> 00:07:16,704
 Then graph the choices one at a time.
 
-146
-00:06:51,735 --> 00:06:54,393
+154
+00:07:17,240 --> 00:07:19,863
 Equivalent expressions
 make the exact same graph,
 
-147
-00:06:54,413 --> 00:06:57,664
+155
+00:07:19,883 --> 00:07:22,740
 so the right answer will sit
 perfectly on top of the original.
 
-148
-00:06:57,690 --> 00:06:59,812
+156
+00:07:22,808 --> 00:07:24,844
 Choice A lands right on top.
 
-149
-00:06:59,832 --> 00:07:03,891
+157
+00:07:25,023 --> 00:07:28,558
 The answer is x squared
 plus four x plus three.
 
-150
-00:07:03,911 --> 00:07:04,911
+158
+00:07:28,612 --> 00:07:29,612
 Trick ten.
 
-151
-00:07:04,982 --> 00:07:06,089
+159
+00:07:30,255 --> 00:07:31,325
 Functions.
 
-152
-00:07:06,268 --> 00:07:09,962
+160
+00:07:32,075 --> 00:07:35,092
 If f of x equals two
 x squared minus three,
 
-153
-00:07:09,982 --> 00:07:15,374
+161
+00:07:35,112 --> 00:07:40,147
 and g of x equals x plus four,
 what is f of g of negative one?
 
-154
-00:07:15,432 --> 00:07:16,718
+162
+00:07:40,184 --> 00:07:41,291
 Pause and try it.
 
-155
-00:07:19,922 --> 00:07:23,315
+163
+00:07:44,537 --> 00:07:47,232
 Desmos understands function notation.
 
-156
-00:07:23,494 --> 00:07:27,652
+164
+00:07:47,252 --> 00:07:50,466
 Type f of x equals two
 x squared minus three.
 
-157
-00:07:27,672 --> 00:07:30,687
+165
+00:07:50,716 --> 00:07:53,216
 Type g of x equals x plus four.
 
-158
-00:07:30,707 --> 00:07:35,438
+166
+00:07:53,716 --> 00:07:58,195
 Then type f of g of negative
 one, and Desmos just tells you:
 
-159
-00:07:35,458 --> 00:07:36,357
+167
+00:07:58,215 --> 00:07:59,216
 fifteen.
 
-160
-00:07:36,377 --> 00:07:41,536
+168
+00:07:59,265 --> 00:08:04,888
 By hand, g of negative one is three,
 and f of three is eighteen minus three,
 
-161
-00:07:41,556 --> 00:07:42,948
+169
+00:08:04,908 --> 00:08:06,194
 which is fifteen.
 
-162
-00:07:43,163 --> 00:07:47,834
+170
+00:08:06,337 --> 00:08:10,443
 Same answer, but Desmos makes it
 nearly impossible to slip on the signs.
 
-163
-00:07:47,854 --> 00:07:48,854
+171
+00:08:10,470 --> 00:08:11,470
 Trick eleven.
 
-164
-00:07:48,961 --> 00:07:50,210
+172
+00:08:12,541 --> 00:08:13,612
 Statistics.
 
-165
-00:07:50,424 --> 00:07:53,977
+173
+00:08:14,113 --> 00:08:16,807
 For the data set four, eight, eight, ten,
 
-166
-00:07:53,997 --> 00:07:58,067
+174
+00:08:16,827 --> 00:08:20,792
 fifteen, twenty-one, what is
 the mean minus the median?
 
-167
-00:07:58,101 --> 00:07:59,386
+175
+00:08:20,857 --> 00:08:21,964
 Pause and try it.
 
-168
-00:08:02,591 --> 00:08:07,142
+176
+00:08:25,211 --> 00:08:29,247
 Type L equals, then the
 numbers inside square brackets.
 
-169
-00:08:07,162 --> 00:08:08,964
+177
+00:08:29,711 --> 00:08:31,247
 Now L is a list.
 
-170
-00:08:08,984 --> 00:08:13,937
+178
+00:08:31,925 --> 00:08:36,317
 Type mean of L minus median of
 L, and Desmos gives you two.
 
-171
-00:08:13,957 --> 00:08:17,135
+179
+00:08:36,360 --> 00:08:39,073
 The mean is eleven and the median is nine.
 
-172
-00:08:17,172 --> 00:08:20,723
+180
+00:08:40,717 --> 00:08:44,252
 Desmos also has functions for
 things like standard deviation,
 
-173
-00:08:20,743 --> 00:08:25,135
+181
+00:08:44,394 --> 00:08:48,359
 but on the SAT you'll usually just compare
 spreads instead of calculating them.
 
-174
-00:08:25,173 --> 00:08:27,938
+182
+00:08:48,430 --> 00:08:51,001
 Now, when shouldn't you use Desmos?
 
-175
-00:08:27,958 --> 00:08:29,938
+183
+00:08:51,322 --> 00:08:53,858
 First, word problems.
 
-176
-00:08:29,958 --> 00:08:31,565
+184
+00:08:54,430 --> 00:08:56,287
 Desmos can't read.
 
-177
-00:08:31,673 --> 00:08:34,010
+185
+00:08:56,536 --> 00:08:58,767
 You still have to turn the
 words into an equation,
 
-178
-00:08:34,030 --> 00:08:35,666
+186
+00:08:58,787 --> 00:09:00,429
 and that's usually the hard part.
 
-179
-00:08:35,686 --> 00:08:38,650
+187
+00:09:00,496 --> 00:09:03,568
 Second, quick arithmetic
 and one-step algebra.
 
-180
-00:08:38,757 --> 00:08:41,773
+188
+00:09:03,888 --> 00:09:06,210
 If you can do it in your
 head in five seconds,
 
-181
-00:08:41,793 --> 00:08:43,864
+189
+00:09:06,389 --> 00:09:08,031
 opening Desmos is slower.
 
-182
-00:08:43,899 --> 00:08:46,165
+190
+00:09:08,118 --> 00:09:10,296
 Third, watch the window.
 
-183
-00:08:46,185 --> 00:08:49,450
+191
+00:09:10,332 --> 00:09:12,705
 If you don't see an
 intersection or a vertex,
 
-184
-00:08:49,470 --> 00:08:51,862
+192
+00:09:12,725 --> 00:09:14,903
 zoom out before you decide it isn't there.
 
-185
-00:08:51,882 --> 00:08:53,346
+193
+00:09:14,936 --> 00:09:16,559
 And one bonus tip.
 
-186
-00:08:53,382 --> 00:08:56,898
+194
+00:09:16,579 --> 00:09:19,595
 If the answer choices have
 square roots or pi in them,
 
-187
-00:08:56,918 --> 00:09:00,362
+195
+00:09:19,615 --> 00:09:22,972
 type each choice into Desmos
 to turn it into a decimal,
 
-188
-00:09:00,382 --> 00:09:02,418
+196
+00:09:23,042 --> 00:09:24,793
 then compare it to your answer.
 
-189
-00:09:02,443 --> 00:09:03,137
+197
+00:09:24,845 --> 00:09:25,917
 Quick recap.
 
-190
-00:09:03,157 --> 00:09:05,029
+198
+00:09:26,453 --> 00:09:28,345
 Solve equations by graphing.
 
-191
-00:09:05,049 --> 00:09:06,923
+199
+00:09:28,774 --> 00:09:30,524
 Click intersections for systems.
 
-192
-00:09:06,943 --> 00:09:08,101
+200
+00:09:30,774 --> 00:09:31,988
 Count crossings.
 
-193
-00:09:08,121 --> 00:09:09,922
+201
+00:09:32,487 --> 00:09:34,237
 Click intercepts and vertices.
 
-194
-00:09:09,942 --> 00:09:12,173
+202
+00:09:34,737 --> 00:09:36,810
 Use sliders for mystery constants.
 
-195
-00:09:12,193 --> 00:09:14,280
+203
+00:09:37,345 --> 00:09:39,131
 Test points against inequalities.
 
-196
-00:09:14,300 --> 00:09:16,029
+204
+00:09:39,667 --> 00:09:41,560
 Run regressions on tables.
 
-197
-00:09:16,049 --> 00:09:18,441
+205
+00:09:42,203 --> 00:09:44,290
 Graph expressions to check
 if they're equivalent.
 
-198
-00:09:18,461 --> 00:09:19,834
+206
+00:09:44,310 --> 00:09:45,810
 Evaluate functions.
 
-199
-00:09:19,854 --> 00:09:22,460
+207
+00:09:46,166 --> 00:09:48,167
 And use lists for statistics.
 
-200
-00:09:22,480 --> 00:09:26,103
+208
+00:09:48,205 --> 00:09:51,721
 The best way to get fast is to practice
 with the same calculator you'll use on
 
-201
-00:09:26,123 --> 00:09:27,123
+209
+00:09:51,741 --> 00:09:52,721
 test day.
 
-202
-00:09:27,266 --> 00:09:29,477
+210
+00:09:52,741 --> 00:09:54,919
 Bluebook's practice
 tests have it built in.
 
-203
-00:09:29,497 --> 00:09:32,404
+211
+00:09:54,966 --> 00:09:57,517
 Every practice question here
 was written for this video,
 
-204
-00:09:32,424 --> 00:09:34,869
+212
+00:09:57,537 --> 00:09:59,252
 in the style of the real test.
 
-205
-00:09:34,889 --> 00:09:36,761
+213
+00:09:59,466 --> 00:10:01,395
 If this helped, subscribe.
 
-206
-00:09:36,781 --> 00:09:42,834
+214
+00:10:02,038 --> 00:10:06,375
 The next video is ten hard SAT math
 questions to try before the November seventh
 
-207
-00:09:42,854 --> 00:09:43,727
+215
+00:10:06,395 --> 00:10:07,268
 test.
 
-208
-00:09:43,747 --> 00:09:44,747
+216
+00:10:07,288 --> 00:10:08,288
 Good luck.

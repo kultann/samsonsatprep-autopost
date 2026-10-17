@@ -1,947 +1,951 @@
 1
-00:00:00,182 --> 00:00:03,305
-Systems of equations show up
-all over the SAT math section.
+00:00:00,182 --> 00:00:03,841
+There are only four ways to lose
+points on SAT systems questions.
 
 2
-00:00:03,325 --> 00:00:07,804
-Two equations, two unknowns,
-and a question about them.
+00:00:03,861 --> 00:00:05,591
+You solve for the wrong variable.
 
 3
-00:00:07,824 --> 00:00:10,947
-Most students can solve a basic system.
+00:00:05,611 --> 00:00:07,397
+You flip a sign when you substitute.
 
 4
-00:00:10,967 --> 00:00:13,074
-The points get lost somewhere else.
+00:00:07,432 --> 00:00:08,948
+You stop one step early.
 
 5
-00:00:13,146 --> 00:00:16,589
-They solve for x when the
-question asks for x plus y.
+00:00:08,968 --> 00:00:13,386
+And the fourth one looks completely
+right until you check one last number.
 
 6
-00:00:16,609 --> 00:00:21,090
-They spend two minutes on a
-system that one move would finish.
+00:00:13,406 --> 00:00:16,727
+The first three are quick to fix, and
+you'll have them down in a few minutes.
 
 7
-00:00:21,110 --> 00:00:25,340
-And they can't tell no solution from
-infinitely many without solving the whole
+00:00:17,191 --> 00:00:21,120
+The fourth is calling a system
+infinitely many when it has no solution.
 
 8
-00:00:25,360 --> 00:00:26,034
-thing.
+00:00:21,227 --> 00:00:22,779
+That's question five.
 
 9
-00:00:26,054 --> 00:00:29,784
-In this video, you'll learn both
-methods and when to use each,
+00:00:22,799 --> 00:00:26,655
+Stay for it, because the equations
+really do look like multiples.
 
 10
-00:00:29,804 --> 00:00:34,640
-the shortcut for x plus y questions,
-how to count solutions just by looking,
+00:00:26,747 --> 00:00:29,835
+The method is the same every
+time: circle what they ask for,
 
 11
-00:00:34,660 --> 00:00:38,874
-how to set up word problems,
-and how Desmos checks all of it.
+00:00:29,855 --> 00:00:32,033
+then read the coefficients
+before you solve.
 
 12
-00:00:38,947 --> 00:00:42,054
-Six practice questions,
-getting harder as we go.
+00:00:32,533 --> 00:00:35,513
+Six practice questions, each
+one harder than the last.
 
 13
-00:00:42,106 --> 00:00:44,836
-First, what a solution actually is.
+00:00:35,533 --> 00:00:38,390
+Keep score as you go, and
+see if you can get all six.
 
 14
-00:00:44,856 --> 00:00:47,978
+00:00:38,460 --> 00:00:41,531
+First, what a solution actually is.
+
+15
+00:00:42,495 --> 00:00:46,440
 A solution to a system
 is one pair of values,
 
-15
-00:00:47,998 --> 00:00:52,809
+16
+00:00:46,460 --> 00:00:50,960
 an x and a y, that makes both
 equations true at the same time.
 
-16
-00:00:52,829 --> 00:00:55,722
+17
+00:00:51,009 --> 00:00:53,916
 On a graph, each linear
 equation is a line.
 
-17
-00:00:55,828 --> 00:00:58,365
+18
+00:00:53,936 --> 00:00:56,009
 The solution is where the two lines cross.
 
-18
-00:00:58,507 --> 00:01:00,630
+19
+00:00:56,187 --> 00:00:58,524
 That's why Desmos is so useful here.
 
-19
-00:01:00,650 --> 00:01:03,166
+20
+00:00:58,544 --> 00:01:01,060
 Type both equations,
 click the intersection,
 
-20
-00:01:03,186 --> 00:01:04,239
+21
+00:01:01,080 --> 00:01:02,165
 and read the point.
 
-21
-00:01:04,259 --> 00:01:06,132
+22
+00:01:02,185 --> 00:01:04,220
 By hand, you have two tools.
 
-22
-00:01:06,152 --> 00:01:10,795
+23
+00:01:04,720 --> 00:01:09,435
 Substitution: solve one equation for
 a variable and plug it into the other.
 
-23
-00:01:10,866 --> 00:01:15,600
+24
+00:01:10,149 --> 00:01:14,720
 Elimination: add or subtract the
 equations so one variable cancels.
 
-24
-00:01:15,620 --> 00:01:16,799
+25
+00:01:14,817 --> 00:01:16,154
 Here's how to choose.
 
-25
-00:01:16,906 --> 00:01:19,350
+26
+00:01:16,174 --> 00:01:19,011
 If one equation already
 says y equals something,
 
-26
-00:01:19,370 --> 00:01:21,636
+27
+00:01:19,031 --> 00:01:21,389
 or x equals something, substitute.
 
-27
-00:01:21,656 --> 00:01:24,922
+28
+00:01:21,460 --> 00:01:24,940
 If a pair of coefficients
 already match or are opposites,
 
-28
-00:01:24,942 --> 00:01:25,707
+29
+00:01:24,960 --> 00:01:25,995
 eliminate.
 
-29
-00:01:25,727 --> 00:01:29,100
+30
+00:01:26,174 --> 00:01:29,047
 If neither is true, elimination
 is usually faster anyway.
 
-30
-00:01:29,120 --> 00:01:30,728
+31
+00:01:29,067 --> 00:01:30,853
 You just multiply first.
 
-31
-00:01:30,781 --> 00:01:34,868
+32
+00:01:30,897 --> 00:01:34,468
 On the SAT, systems questions
 come in four main types.
 
-32
-00:01:34,888 --> 00:01:38,225
+33
+00:01:34,862 --> 00:01:37,484
 Type one asks you to solve for x or y.
 
-33
-00:01:38,245 --> 00:01:41,748
+34
+00:01:37,504 --> 00:01:40,683
 Type two asks for a
 combination, like x plus y.
 
-34
-00:01:41,768 --> 00:01:44,175
+35
+00:01:40,703 --> 00:01:43,611
 Type three asks how many
 solutions there are,
 
-35
-00:01:44,195 --> 00:01:48,426
+36
+00:01:43,631 --> 00:01:47,789
 or for the value of a constant that
 makes a system have no solution or
 
-36
-00:01:48,446 --> 00:01:49,768
+37
+00:01:47,809 --> 00:01:49,024
 infinitely many.
 
-37
-00:01:49,982 --> 00:01:53,962
+38
+00:01:49,953 --> 00:01:54,167
 Type four is a word problem, where
 you build the system yourself.
 
-38
-00:01:53,982 --> 00:01:55,446
+39
+00:01:54,632 --> 00:01:55,882
 We'll do every type.
 
-39
-00:01:55,501 --> 00:01:56,644
+40
+00:01:55,958 --> 00:01:57,030
 Question one.
 
-40
-00:01:56,858 --> 00:02:00,017
+41
+00:01:57,780 --> 00:02:02,173
 In the system, y equals three x minus two,
 
-41
-00:02:00,037 --> 00:02:02,787
+42
+00:02:02,458 --> 00:02:06,423
 and two x plus y equals thirteen.
 
-42
-00:02:02,894 --> 00:02:05,481
+43
+00:02:06,743 --> 00:02:09,759
 If x, y is the solution to the system,
 
-43
-00:02:05,501 --> 00:02:07,500
+44
+00:02:09,779 --> 00:02:11,458
 what is the value of x?
 
-44
-00:02:07,530 --> 00:02:08,673
+45
+00:02:11,524 --> 00:02:12,631
 Pause and try it.
 
-45
-00:02:11,890 --> 00:02:14,549
+46
+00:02:15,846 --> 00:02:18,361
 The first equation already
 says y equals something.
 
-46
-00:02:14,569 --> 00:02:16,426
+47
+00:02:18,381 --> 00:02:19,989
 That's the signal to substitute.
 
-47
-00:02:16,461 --> 00:02:21,033
+48
+00:02:21,203 --> 00:02:24,197
 Replace y in the second
 equation with three x minus two.
 
-48
-00:02:21,061 --> 00:02:23,291
+49
+00:02:24,217 --> 00:02:26,911
 Now it's one equation with one variable.
 
-49
-00:02:23,311 --> 00:02:28,683
+50
+00:02:26,931 --> 00:02:32,395
 Two x plus three x is five x, so
 five x minus two equals thirteen.
 
-50
-00:02:28,703 --> 00:02:31,740
+51
+00:02:32,466 --> 00:02:36,287
 Add two, and five x equals fifteen.
 
-51
-00:02:31,775 --> 00:02:34,291
+52
+00:02:36,467 --> 00:02:39,018
 Divide by five, and x equals three.
 
-52
-00:02:34,311 --> 00:02:35,867
+53
+00:02:39,038 --> 00:02:40,288
 The answer is B.
 
-53
-00:02:35,887 --> 00:02:37,423
+54
+00:02:40,337 --> 00:02:41,730
 Look at the wrong choices.
 
-54
-00:02:37,530 --> 00:02:40,081
+55
+00:02:42,015 --> 00:02:44,138
 Fifteen is five x, one step too early.
 
-55
-00:02:40,101 --> 00:02:42,760
+56
+00:02:44,158 --> 00:02:46,138
 Seven is y, because three times three,
 
-56
-00:02:42,780 --> 00:02:44,473
+57
+00:02:46,158 --> 00:02:47,210
 minus two, is seven.
 
-57
-00:02:44,493 --> 00:02:48,546
+58
+00:02:47,230 --> 00:02:49,673
 And eleven fifths comes from
 flipping the sign on the two.
 
-58
-00:02:48,566 --> 00:02:51,954
+59
+00:02:49,693 --> 00:02:53,300
 Each one is a real number
 from a slightly wrong process.
 
-59
-00:02:51,974 --> 00:02:53,153
+60
+00:02:53,334 --> 00:02:54,334
 Question two.
 
-60
-00:02:53,295 --> 00:03:00,203
+61
+00:02:55,262 --> 00:03:01,226
 Three x plus two y equals seventeen,
 and five x minus two y equals seven.
 
-61
-00:03:00,223 --> 00:03:01,917
+62
+00:03:02,048 --> 00:03:03,798
 The solution is x, y.
 
-62
-00:03:01,937 --> 00:03:03,902
+63
+00:03:03,941 --> 00:03:05,834
 What is the value of y?
 
-63
-00:03:03,975 --> 00:03:05,118
+64
+00:03:05,885 --> 00:03:06,992
 Pause and try it.
 
-64
-00:03:08,335 --> 00:03:10,279
+65
+00:03:10,206 --> 00:03:12,527
 Neither equation is solved for a variable.
 
-65
-00:03:10,299 --> 00:03:13,744
+66
+00:03:12,885 --> 00:03:16,722
 But look at the y terms:
 plus two y and minus two y.
 
-66
-00:03:13,764 --> 00:03:14,851
+67
+00:03:16,742 --> 00:03:17,778
 They're opposites.
 
-67
-00:03:14,871 --> 00:03:17,563
+68
+00:03:18,312 --> 00:03:21,206
 Add the equations, and y disappears.
 
-68
-00:03:17,583 --> 00:03:20,011
+69
+00:03:21,253 --> 00:03:23,502
 Three x plus five x is eight x.
 
-69
-00:03:20,046 --> 00:03:22,511
+70
+00:03:23,646 --> 00:03:25,860
 Seventeen plus seven is twenty-four.
 
-70
-00:03:22,654 --> 00:03:26,189
+71
+00:03:25,968 --> 00:03:29,090
 So eight x equals twenty-four,
 and x equals three.
 
-71
-00:03:26,209 --> 00:03:28,208
+72
+00:03:29,110 --> 00:03:31,574
 But the question asks for y.
 
-72
-00:03:28,494 --> 00:03:30,816
+73
+00:03:31,681 --> 00:03:33,824
 Plug three back into the first equation.
 
-73
-00:03:31,030 --> 00:03:35,367
+74
+00:03:33,932 --> 00:03:37,447
 Nine plus two y equals
 seventeen, so two y equals eight,
 
-74
-00:03:35,387 --> 00:03:37,066
+75
+00:03:37,467 --> 00:03:38,769
 and y equals four.
 
-75
-00:03:37,422 --> 00:03:40,851
+76
+00:03:38,789 --> 00:03:42,182
 If you typed three, you answered
 a question they didn't ask.
 
-76
-00:03:40,896 --> 00:03:41,555
+77
+00:03:42,271 --> 00:03:43,378
 Question three.
 
-77
-00:03:41,575 --> 00:03:47,503
+78
+00:03:43,807 --> 00:03:49,307
 Five x plus two y equals thirty-one, and
 two x plus five y equals twenty-five.
 
-78
-00:03:47,575 --> 00:03:50,495
+79
+00:03:49,736 --> 00:03:51,914
 What is the value of x plus y?
 
-79
-00:03:50,515 --> 00:03:51,658
+80
+00:03:51,970 --> 00:03:53,077
 Pause and try it.
 
-80
-00:03:54,876 --> 00:03:56,962
+81
+00:03:56,291 --> 00:03:58,270
 When a question asks for a combination,
 
-81
-00:03:56,982 --> 00:03:59,927
+82
+00:03:58,290 --> 00:04:00,970
 don't rush to find x and y separately.
 
-82
-00:03:59,947 --> 00:04:01,284
+83
+00:04:01,077 --> 00:04:02,664
 Look at the coefficients first.
 
-83
-00:04:01,304 --> 00:04:04,819
+84
+00:04:02,684 --> 00:04:05,878
 They're flipped: five and
 two, then two and five.
 
-84
-00:04:04,839 --> 00:04:07,303
+85
+00:04:05,898 --> 00:04:08,362
 When that happens, add the equations.
 
-85
-00:04:07,359 --> 00:04:09,679
+86
+00:04:08,393 --> 00:04:10,678
 Five x plus two x is seven x.
 
-86
-00:04:09,786 --> 00:04:12,196
+87
+00:04:11,179 --> 00:04:13,587
 Two y plus five y is seven y.
 
-87
-00:04:12,216 --> 00:04:14,552
+88
+00:04:13,607 --> 00:04:15,766
 And thirty-one plus
 twenty-five is fifty-six.
 
-88
-00:04:14,572 --> 00:04:18,679
+89
+00:04:15,786 --> 00:04:19,750
 So seven x plus seven y equals fifty-six.
 
-89
-00:04:18,930 --> 00:04:23,109
+90
+00:04:20,213 --> 00:04:23,607
 Divide everything by seven,
 and x plus y equals eight.
 
-90
-00:04:23,644 --> 00:04:25,251
+91
+00:04:24,357 --> 00:04:26,286
 The answer is C.
 
-91
-00:04:25,289 --> 00:04:28,574
+92
+00:04:26,361 --> 00:04:28,861
 Fifty-six is the trap
 if you forget to divide.
 
-92
-00:04:28,610 --> 00:04:31,591
+93
+00:04:29,111 --> 00:04:31,162
 Two is what you get if you
 subtract the equations.
 
-93
-00:04:31,611 --> 00:04:33,574
+94
+00:04:31,182 --> 00:04:34,324
 That gives x minus y.
 
-94
-00:04:33,718 --> 00:04:35,733
+95
+00:04:34,432 --> 00:04:36,182
 Useful, but not what they asked.
 
-95
-00:04:35,753 --> 00:04:38,110
+96
+00:04:36,361 --> 00:04:38,646
 And five is x by itself.
 
-96
-00:04:38,188 --> 00:04:39,132
+97
+00:04:38,722 --> 00:04:39,901
 Question four.
 
-97
-00:04:39,152 --> 00:04:42,346
+98
+00:04:40,080 --> 00:04:42,988
 A school club sold one hundred
 twenty tickets to a play.
 
-98
-00:04:42,366 --> 00:04:44,775
+99
+00:04:43,008 --> 00:04:45,202
 Student tickets cost six dollars each,
 
-99
-00:04:44,795 --> 00:04:47,096
+100
+00:04:45,222 --> 00:04:47,401
 and adult tickets cost ten dollars each.
 
-100
-00:04:47,116 --> 00:04:50,239
+101
+00:04:47,544 --> 00:04:50,437
 The club collected a total of
 nine hundred forty dollars.
 
-101
-00:04:50,259 --> 00:04:52,652
+102
+00:04:50,686 --> 00:04:53,187
 How many adult tickets did the club sell?
 
-102
-00:04:52,693 --> 00:04:53,836
+103
+00:04:53,267 --> 00:04:54,374
 Pause and try it.
 
-103
-00:04:58,053 --> 00:05:00,089
+104
+00:04:58,589 --> 00:05:00,303
 Name the unknowns first.
 
-104
-00:05:00,303 --> 00:05:02,712
+105
+00:05:00,553 --> 00:05:02,589
 Let s be the number of student tickets,
 
-105
-00:05:02,732 --> 00:05:05,874
+106
+00:05:02,839 --> 00:05:05,196
 and a be the number of adult tickets.
 
-106
-00:05:06,482 --> 00:05:09,533
+107
+00:05:06,124 --> 00:05:09,016
 Word problems like this
 usually give you two totals:
 
-107
-00:05:09,553 --> 00:05:12,660
+108
+00:05:09,124 --> 00:05:11,909
 a total count and a total amount of money.
 
-108
-00:05:12,732 --> 00:05:15,143
+109
+00:05:12,480 --> 00:05:14,589
 Each total becomes one equation.
 
-109
-00:05:15,163 --> 00:05:18,592
+110
+00:05:14,627 --> 00:05:18,520
 The count equation is s plus
 a equals one hundred twenty.
 
-110
-00:05:18,627 --> 00:05:23,342
+111
+00:05:18,555 --> 00:05:22,698
 The money equation is six s plus
 ten a equals nine hundred forty.
 
-111
-00:05:24,091 --> 00:05:27,162
+112
+00:05:22,841 --> 00:05:25,555
 Each kind of ticket gets
 multiplied by its price.
 
-112
-00:05:27,244 --> 00:05:28,724
+113
+00:05:25,596 --> 00:05:27,167
 Solve the first one for s.
 
-113
-00:05:28,744 --> 00:05:31,387
+114
+00:05:27,595 --> 00:05:30,096
 s equals one hundred twenty minus a.
 
-114
-00:05:31,565 --> 00:05:36,010
+115
+00:05:30,381 --> 00:05:34,147
 Substitute: six times the quantity
 one hundred twenty minus a,
 
-115
-00:05:36,030 --> 00:05:38,938
+116
+00:05:34,167 --> 00:05:37,274
 plus ten a, equals nine hundred forty.
 
-116
-00:05:38,958 --> 00:05:46,673
+117
+00:05:37,416 --> 00:05:41,524
 That's seven hundred twenty plus
 four a equals nine hundred forty.
 
-117
-00:05:46,699 --> 00:05:51,536
+118
+00:05:41,569 --> 00:05:45,442
 So four a equals two hundred
 twenty, and a equals fifty-five.
 
-118
-00:05:51,556 --> 00:05:53,584
+119
+00:05:45,462 --> 00:05:48,633
 The answer is A.
 
-119
-00:05:53,604 --> 00:05:56,083
+120
+00:05:48,653 --> 00:05:50,703
 Sixty-five is the number
 of student tickets,
 
-120
-00:05:56,103 --> 00:05:59,032
+121
+00:05:50,723 --> 00:05:53,689
 the trap for solving
 for the wrong variable.
 
-121
-00:05:59,282 --> 00:06:03,888
+122
+00:05:54,153 --> 00:05:58,116
 In Desmos, let x be student
 tickets and y be adult tickets.
 
-122
-00:06:03,961 --> 00:06:07,261
+123
+00:05:58,759 --> 00:06:02,153
 Type both equations, zoom out,
 and click the intersection:
 
-123
-00:06:07,281 --> 00:06:09,175
+124
+00:06:02,473 --> 00:06:03,474
 sixty-five, fifty-five.
 
-124
-00:06:09,307 --> 00:06:10,751
+125
+00:06:04,112 --> 00:06:05,720
 Now type three.
 
-125
-00:06:10,771 --> 00:06:13,307
+126
+00:06:05,755 --> 00:06:08,220
 How many solutions does a system have?
 
-126
-00:06:13,521 --> 00:06:15,572
+127
+00:06:08,398 --> 00:06:10,470
 Two lines can only do three things.
 
-127
-00:06:15,592 --> 00:06:17,929
+128
+00:06:10,541 --> 00:06:12,914
 They cross once: one solution.
 
-128
-00:06:17,949 --> 00:06:19,965
+129
+00:06:12,934 --> 00:06:14,970
 They're parallel: no solution.
 
-129
-00:06:19,985 --> 00:06:22,249
+130
+00:06:15,005 --> 00:06:17,720
 Or they're the same line: infinitely many.
 
-130
-00:06:22,269 --> 00:06:24,499
+131
+00:06:17,807 --> 00:06:20,215
 You can tell which one without graphing.
 
-131
-00:06:24,519 --> 00:06:26,749
+132
+00:06:20,235 --> 00:06:22,485
 Write both equations in the same form,
 
-132
-00:06:26,769 --> 00:06:29,142
+133
+00:06:22,771 --> 00:06:24,858
 then compare the coefficients as ratios:
 
-133
-00:06:29,162 --> 00:06:32,482
+134
+00:06:24,878 --> 00:06:27,985
 x to x, y to y, and constant to constant.
 
-134
-00:06:32,568 --> 00:06:36,191
+135
+00:06:28,027 --> 00:06:32,170
 If the x and y ratios are
 different, there's one solution.
 
-135
-00:06:36,211 --> 00:06:40,031
+136
+00:06:32,527 --> 00:06:36,170
 If the x and y ratios match
 but the constants don't,
 
-136
-00:06:40,138 --> 00:06:43,175
+137
+00:06:36,384 --> 00:06:39,276
 the lines are parallel,
 so there's no solution.
 
-137
-00:06:43,389 --> 00:06:46,476
+138
+00:06:39,670 --> 00:06:43,043
 If all three ratios
 match, it's the same line,
 
-138
-00:06:46,496 --> 00:06:48,493
+139
+00:06:43,063 --> 00:06:44,670
 so there are infinitely many.
 
-139
-00:06:48,513 --> 00:06:49,671
+140
+00:06:44,698 --> 00:06:45,984
 Question five.
 
-140
-00:06:49,691 --> 00:06:52,477
+141
+00:06:46,234 --> 00:06:48,591
 How many solutions does this system have?
 
-141
-00:06:52,513 --> 00:06:58,763
+142
+00:06:49,127 --> 00:06:54,304
 Six x minus four y equals ten, and
 nine x minus six y equals twelve.
 
-142
-00:06:58,836 --> 00:06:59,979
+143
+00:06:54,357 --> 00:06:55,464
 Pause and try it.
 
-143
-00:07:03,197 --> 00:07:04,641
+144
+00:06:58,679 --> 00:06:59,929
 Compare the ratios.
 
-144
-00:07:04,661 --> 00:07:07,125
+145
+00:07:00,393 --> 00:07:02,215
 Six over nine is two thirds.
 
-145
-00:07:07,161 --> 00:07:10,141
+146
+00:07:02,322 --> 00:07:04,786
 Negative four over negative
 six is also two thirds.
 
-146
-00:07:10,161 --> 00:07:12,319
+147
+00:07:04,857 --> 00:07:06,750
 So the lines have the same slope.
 
-147
-00:07:12,339 --> 00:07:13,641
+148
+00:07:07,071 --> 00:07:08,357
 Now the constants.
 
-148
-00:07:13,661 --> 00:07:16,926
+149
+00:07:09,036 --> 00:07:11,837
 Ten over twelve is five
 sixths, and that doesn't match.
 
-149
-00:07:16,946 --> 00:07:18,427
+150
+00:07:11,857 --> 00:07:13,766
 Same slope, different lines.
 
-150
-00:07:18,447 --> 00:07:20,248
+151
+00:07:13,786 --> 00:07:16,143
 They're parallel, so there's no solution.
 
-151
-00:07:20,268 --> 00:07:21,804
+152
+00:07:16,215 --> 00:07:17,607
 The answer is A.
 
-152
-00:07:21,842 --> 00:07:23,322
+153
+00:07:17,646 --> 00:07:19,967
 The trap is infinitely many.
 
-153
-00:07:23,342 --> 00:07:27,393
+154
+00:07:20,718 --> 00:07:24,305
 If you only check the x and y terms,
 the equations look like multiples.
 
-154
-00:07:27,413 --> 00:07:29,071
+155
+00:07:24,325 --> 00:07:26,126
 Always check the constants too.
 
-155
-00:07:29,091 --> 00:07:31,429
+156
+00:07:26,146 --> 00:07:28,269
 And choice C is out from the start.
 
-156
-00:07:31,449 --> 00:07:34,628
+157
+00:07:28,289 --> 00:07:30,932
 Two different lines can
 never cross exactly twice.
 
-157
-00:07:34,693 --> 00:07:36,316
+158
+00:07:30,991 --> 00:07:33,740
 Question six, the hardest one.
 
-158
-00:07:36,336 --> 00:07:40,851
+159
+00:07:33,812 --> 00:07:38,634
 In the system, one half x
 plus two thirds y equals four,
 
-159
-00:07:40,871 --> 00:07:43,815
+160
+00:07:38,704 --> 00:07:42,026
 and k x plus eight y equals eleven.
 
-160
-00:07:43,835 --> 00:07:45,208
+161
+00:07:42,491 --> 00:07:43,669
 k is a constant.
 
-161
-00:07:45,228 --> 00:07:48,565
+162
+00:07:44,919 --> 00:07:48,134
 For what value of k does
 the system have no solution?
 
-162
-00:07:48,585 --> 00:07:49,636
+163
+00:07:48,198 --> 00:07:49,036
 Pause and try it.
 
-163
-00:07:49,656 --> 00:07:51,121
+164
+00:07:49,056 --> 00:07:51,627
 Take a little longer on this one.
 
-164
-00:07:55,366 --> 00:07:57,596
+165
+00:07:55,880 --> 00:07:58,129
 No solution means parallel lines.
 
-165
-00:07:57,616 --> 00:08:01,275
+166
+00:07:58,558 --> 00:08:01,181
 So the x and y coefficients
 have to be in the same ratio,
 
-166
-00:08:01,295 --> 00:08:03,311
+167
+00:08:01,201 --> 00:08:03,681
 but the constants can't be.
 
-167
-00:08:03,331 --> 00:08:06,131
+168
+00:08:03,701 --> 00:08:06,896
 The fractions make that
 hard to see, so clear them.
 
-168
-00:08:06,151 --> 00:08:08,544
+169
+00:08:06,916 --> 00:08:09,380
 Multiply the whole first
 equation by twelve.
 
-169
-00:08:08,574 --> 00:08:10,573
+170
+00:08:09,442 --> 00:08:11,370
 Twelve times one half is six.
 
-170
-00:08:10,753 --> 00:08:13,039
+171
+00:08:11,977 --> 00:08:14,263
 Twelve times two thirds is eight.
 
-171
-00:08:13,074 --> 00:08:15,289
+172
+00:08:14,799 --> 00:08:16,870
 Twelve times four is forty-eight.
 
-172
-00:08:15,360 --> 00:08:19,681
+173
+00:08:17,406 --> 00:08:21,584
 So the first equation becomes six
 x plus eight y equals forty-eight.
 
-173
-00:08:20,440 --> 00:08:22,598
+174
+00:08:21,733 --> 00:08:23,876
 Now both equations have eight y.
 
-174
-00:08:22,618 --> 00:08:26,027
+175
+00:08:24,091 --> 00:08:27,463
 For the lines to be parallel, the
 x coefficients have to match too,
 
-175
-00:08:26,047 --> 00:08:27,455
+176
+00:08:27,483 --> 00:08:28,948
 so k equals six.
 
-176
-00:08:27,475 --> 00:08:28,634
+177
+00:08:29,555 --> 00:08:30,841
 Check the constants.
 
-177
-00:08:28,654 --> 00:08:30,420
+178
+00:08:31,090 --> 00:08:32,963
 Forty-eight and eleven are different,
 
-178
-00:08:30,440 --> 00:08:31,884
+179
+00:08:32,983 --> 00:08:34,678
 so the lines never touch.
 
-179
-00:08:31,904 --> 00:08:33,583
+180
+00:08:34,698 --> 00:08:36,055
 The answer is six.
 
-180
-00:08:33,622 --> 00:08:34,765
+181
+00:08:36,104 --> 00:08:37,283
 Desmos shortcut.
 
-181
-00:08:35,051 --> 00:08:36,586
+182
+00:08:37,853 --> 00:08:39,353
 Type both equations.
 
-182
-00:08:36,801 --> 00:08:40,031
+183
+00:08:40,033 --> 00:08:43,440
 For the fractions, press the right
 arrow after each denominator,
 
-183
-00:08:40,051 --> 00:08:42,515
+184
+00:08:43,460 --> 00:08:45,997
 so x and y don't end up on the bottom.
 
-184
-00:08:42,693 --> 00:08:45,051
+185
+00:08:46,175 --> 00:08:48,460
 Desmos offers a slider for k.
 
-185
-00:08:45,086 --> 00:08:47,280
+186
+00:08:48,711 --> 00:08:50,620
 Drag it until the lines are parallel.
 
-186
-00:08:47,300 --> 00:08:49,532
+187
+00:08:50,640 --> 00:08:52,390
 That happens at k equals six.
 
-187
-00:08:49,552 --> 00:08:50,552
+188
+00:08:52,452 --> 00:08:53,452
 One more note.
 
-188
-00:08:50,624 --> 00:08:53,532
+189
+00:08:53,524 --> 00:08:56,182
 If the question had asked for
 infinitely many solutions,
 
-189
-00:08:53,552 --> 00:08:55,874
+190
+00:08:56,202 --> 00:08:58,754
 the constants would have to match too.
 
-190
-00:08:55,909 --> 00:09:01,124
+191
+00:08:58,774 --> 00:09:03,131
 The second equation would need to be
 six x plus eight y equals forty-eight.
 
-191
-00:09:01,195 --> 00:09:03,231
+192
+00:09:03,702 --> 00:09:05,666
 Same idea, one extra check.
 
-192
-00:09:03,284 --> 00:09:04,998
+193
+00:09:05,702 --> 00:09:07,202
 Here's the test-day method.
 
-193
-00:09:05,177 --> 00:09:08,657
+194
+00:09:07,345 --> 00:09:10,737
 Step one: circle what
 the question asks for.
 
-194
-00:09:08,677 --> 00:09:11,621
+195
+00:09:11,345 --> 00:09:13,559
 x, y, x plus y, or a constant.
 
-195
-00:09:11,641 --> 00:09:14,141
+196
+00:09:13,630 --> 00:09:15,880
 That sets your goal
 before you write anything.
 
-196
-00:09:14,208 --> 00:09:16,723
+197
+00:09:15,952 --> 00:09:18,417
 Step two: scan the coefficients.
 
-197
-00:09:16,743 --> 00:09:19,653
+198
+00:09:18,809 --> 00:09:21,524
 A variable already alone means substitute.
 
-198
-00:09:19,673 --> 00:09:22,831
+199
+00:09:21,845 --> 00:09:24,523
 Matching or opposite
 coefficients mean eliminate.
 
-199
-00:09:22,851 --> 00:09:25,831
+200
+00:09:24,809 --> 00:09:27,774
 Flipped coefficients
 mean add, then divide.
 
-200
-00:09:25,851 --> 00:09:29,735
+201
+00:09:27,881 --> 00:09:31,631
 And a question about the number
 of solutions means compare ratios.
 
-201
-00:09:29,755 --> 00:09:32,449
+202
+00:09:31,677 --> 00:09:34,263
 Step three: if it's messy,
 or you want a check,
 
-202
-00:09:32,469 --> 00:09:35,898
+203
+00:09:34,283 --> 00:09:37,498
 type both equations into Desmos
 and click the intersection.
 
-203
-00:09:36,148 --> 00:09:40,822
+204
+00:09:38,034 --> 00:09:43,140
 For word problems, write down what x and
 y stand for before you type anything.
 
-204
-00:09:40,842 --> 00:09:41,842
+205
+00:09:43,214 --> 00:09:44,286
 Quick recap.
 
-205
-00:09:42,128 --> 00:09:44,378
+206
+00:09:44,857 --> 00:09:47,107
 A solution is where the lines cross.
 
-206
-00:09:44,450 --> 00:09:47,358
+207
+00:09:47,429 --> 00:09:50,000
 Substitute when a
 variable is already alone.
 
-207
-00:09:47,378 --> 00:09:49,664
+208
+00:09:50,463 --> 00:09:52,749
 Eliminate when the coefficients line up.
 
-208
-00:09:49,700 --> 00:09:53,321
+209
+00:09:53,071 --> 00:09:56,551
 For x plus y, look for a
 combination before you solve.
 
-209
-00:09:53,341 --> 00:09:55,394
+210
+00:09:56,571 --> 00:09:59,159
 And to count solutions, compare ratios,
 
-210
-00:09:55,414 --> 00:09:56,807
+211
+00:09:59,179 --> 00:10:00,607
 including the constants.
 
-211
-00:09:56,851 --> 00:10:01,653
+212
+00:10:00,658 --> 00:10:04,479
 Every question here was written for this
 video in the style of the real test.
 
-212
-00:10:01,673 --> 00:10:05,759
+213
+00:10:04,622 --> 00:10:08,351
 For official practice, the College Board's
 free Question Bank lets you filter by
 
-213
-00:10:05,779 --> 00:10:09,637
+214
+00:10:08,371 --> 00:10:11,515
 skill, including systems
 of two linear equations.
 
-214
-00:10:09,658 --> 00:10:11,444
+215
+00:10:11,544 --> 00:10:13,579
 If this helped, subscribe.
 
-215
-00:10:11,908 --> 00:10:15,281
+216
+00:10:15,043 --> 00:10:18,559
 The next video is quadratics: the vertex,
 
-216
-00:10:15,301 --> 00:10:17,478
+217
+00:10:18,579 --> 00:10:20,508
 the roots, and the discriminant.

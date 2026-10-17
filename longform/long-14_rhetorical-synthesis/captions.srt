@@ -1,1133 +1,1145 @@
 1
-00:00:00,182 --> 00:00:05,127
-Some SAT questions hand you a list of
-bulleted notes and ask which sentence uses
+00:00:00,182 --> 00:00:04,361
+There are only four kinds of wrong
+answers on SAT notes questions.
 
 2
-00:00:05,147 --> 00:00:05,627
-them best.
+00:00:04,790 --> 00:00:07,040
+True, but off the goal.
 
 3
-00:00:05,647 --> 00:00:07,948
-They look like reading questions.
+00:00:07,254 --> 00:00:10,091
+The right kind of answer
+with the wrong detail.
 
 4
-00:00:07,968 --> 00:00:10,523
-They're really about one thing: the goal.
+00:00:10,111 --> 00:00:12,039
+One side of a comparison only.
 
 5
-00:00:10,543 --> 00:00:12,079
-Here's a common mistake.
+00:00:12,254 --> 00:00:14,448
+And the fourth one looks completely right,
 
 6
-00:00:12,150 --> 00:00:16,880
-Students read every note carefully, then
-pick the choice that sounds the most
+00:00:14,468 --> 00:00:16,290
+because it does part of the job.
 
 7
-00:00:16,900 --> 00:00:18,523
-complete or accurate.
+00:00:16,333 --> 00:00:20,170
+The first three are quick to spot,
+and you'll see each one in action.
 
 8
-00:00:18,543 --> 00:00:22,129
-But on these questions, almost
-every choice is accurate.
+00:00:20,190 --> 00:00:23,242
+The fourth is an answer that
+hits half of a two-part goal.
 
 9
-00:00:22,149 --> 00:00:24,650
-Only one does what the question asks.
+00:00:23,262 --> 00:00:25,526
+That's question six, the hardest one.
 
 10
-00:00:24,685 --> 00:00:27,915
-So in this video: the one habit
-that fixes these questions,
+00:00:25,546 --> 00:00:28,384
+Stay for it, because both
+halves have to be there.
 
 11
-00:00:27,935 --> 00:00:32,344
-which is reading the goal first, and
-six SAT-style questions covering common
+00:00:28,404 --> 00:00:32,082
+One habit fixes all four:
+read the goal first,
 
 12
-00:00:32,364 --> 00:00:33,115
-goals.
+00:00:32,118 --> 00:00:35,241
+then find the choice
+that does exactly that.
 
 13
-00:00:33,135 --> 00:00:35,937
+00:00:35,261 --> 00:00:38,226
+Six SAT-style questions, each
+one harder than the last.
+
+14
+00:00:38,618 --> 00:00:41,404
+Keep score as you go, and
+see if you can get all six.
+
+15
+00:00:41,447 --> 00:00:44,106
 These questions typically
 open with the same line.
 
-14
-00:00:35,957 --> 00:00:39,778
+16
+00:00:44,126 --> 00:00:47,340
 While researching a topic, a student
 has taken the following notes.
 
-15
-00:00:39,921 --> 00:00:42,151
+17
+00:00:47,840 --> 00:00:49,748
 Then comes a short list of bullet points,
 
-16
-00:00:42,171 --> 00:00:43,671
+18
+00:00:49,768 --> 00:00:51,305
 each one a fact.
 
-17
-00:00:43,702 --> 00:00:45,753
+19
+00:00:51,391 --> 00:00:53,426
 After the notes comes the question.
 
-18
-00:00:45,773 --> 00:00:48,452
+20
+00:00:53,676 --> 00:00:56,212
 The student wants to, and then a goal.
 
-19
-00:00:48,488 --> 00:00:50,452
+21
+00:00:56,998 --> 00:00:58,818
 Emphasize a similarity.
 
-20
-00:00:50,524 --> 00:00:52,932
+22
+00:00:59,212 --> 00:01:01,426
 Introduce a person to a new audience.
 
-21
-00:00:52,952 --> 00:00:55,299
+23
+00:01:01,605 --> 00:01:03,522
 Present a study and its findings.
 
-22
-00:00:55,319 --> 00:00:59,727
+24
+00:01:03,542 --> 00:01:07,772
 Then the same ending every time: which
 choice most effectively uses relevant
 
-23
-00:00:59,747 --> 00:01:03,098
+25
+00:01:07,792 --> 00:01:10,685
 information from the notes
 to accomplish this goal?
 
-24
-00:01:03,118 --> 00:01:04,526
+26
+00:01:10,717 --> 00:01:12,110
 Notice what's being tested.
 
-25
-00:01:04,546 --> 00:01:07,062
+27
+00:01:12,539 --> 00:01:14,539
 The notes are a pile of facts.
 
-26
-00:01:07,082 --> 00:01:10,490
+28
+00:01:14,932 --> 00:01:18,019
 The four choices are usually
 built from those same facts,
 
-27
-00:01:10,510 --> 00:01:12,276
+29
+00:01:18,039 --> 00:01:19,717
 so they're usually all true.
 
-28
-00:01:12,296 --> 00:01:15,240
+30
+00:01:20,432 --> 00:01:23,662
 The SAT isn't asking
 which sentence is true.
 
-29
-00:01:15,260 --> 00:01:17,618
+31
+00:01:23,682 --> 00:01:26,003
 It's asking which sentence does the job.
 
-30
-00:01:17,643 --> 00:01:18,643
+32
+00:01:26,057 --> 00:01:27,057
 Here's the method.
 
-31
-00:01:18,822 --> 00:01:22,965
+33
+00:01:27,307 --> 00:01:31,236
 Step one: skip down and read
 the goal before the notes.
 
-32
-00:01:23,036 --> 00:01:25,623
+34
+00:01:31,664 --> 00:01:34,414
 Underline the key words, like similarity,
 
-33
-00:01:25,643 --> 00:01:28,929
+35
+00:01:34,592 --> 00:01:38,056
 difference, unfamiliar
 audience, or findings.
 
-34
-00:01:29,014 --> 00:01:32,121
+36
+00:01:38,121 --> 00:01:41,299
 Step two: turn the goal into a checklist.
 
-35
-00:01:32,228 --> 00:01:36,350
+37
+00:01:41,835 --> 00:01:45,743
 Emphasize a similarity means the
 answer has to mention both things,
 
-36
-00:01:36,370 --> 00:01:38,014
+38
+00:01:45,763 --> 00:01:47,727
 and show what they share.
 
-37
-00:01:38,085 --> 00:01:40,300
+39
+00:01:48,050 --> 00:01:49,693
 One thing alone isn't enough.
 
-38
-00:01:40,350 --> 00:01:43,902
+40
+00:01:49,760 --> 00:01:52,902
 Step three: test each choice
 against that checklist.
 
-39
-00:01:43,922 --> 00:01:45,188
+41
+00:01:53,368 --> 00:01:54,490
 Not, is it true.
 
-40
-00:01:45,208 --> 00:01:46,580
+42
+00:01:54,510 --> 00:01:55,598
 Not, is it interesting.
 
-41
-00:01:46,600 --> 00:01:48,028
+43
+00:01:55,618 --> 00:01:56,760
 Does it do the goal?
 
-42
-00:01:48,279 --> 00:01:52,938
+44
+00:01:57,331 --> 00:02:01,598
 Step four: look back at the notes
 only if you need to check a detail.
 
-43
-00:01:52,958 --> 00:01:54,813
+45
+00:02:01,618 --> 00:02:03,081
 Most of the time, you won't.
 
-44
-00:01:54,833 --> 00:01:55,833
+46
+00:02:03,152 --> 00:02:04,152
 Let's try it.
 
-45
-00:01:55,904 --> 00:01:57,261
+47
+00:02:04,974 --> 00:02:06,116
 Goal first.
 
-46
-00:01:57,618 --> 00:02:02,618
+48
+00:02:06,224 --> 00:02:09,632
 The student wants to emphasize a
 similarity between bats and dolphins.
 
-47
-00:02:02,761 --> 00:02:04,868
+49
+00:02:09,652 --> 00:02:11,723
 Key word: similarity.
 
-48
-00:02:05,153 --> 00:02:09,225
+50
+00:02:11,795 --> 00:02:15,437
 So the answer has to mention both
 animals and something they share.
 
-49
-00:02:09,284 --> 00:02:10,463
+51
+00:02:15,497 --> 00:02:16,497
 Now the notes.
 
-50
-00:02:10,499 --> 00:02:13,871
+52
+00:02:17,246 --> 00:02:20,068
 Bats are the only mammals
 capable of true flight.
 
-51
-00:02:13,891 --> 00:02:17,621
+53
+00:02:20,425 --> 00:02:23,675
 Many bats hunt insects in
 the dark using echolocation:
 
-52
-00:02:17,641 --> 00:02:20,121
+54
+00:02:23,854 --> 00:02:26,211
 they make sounds and
 listen for the echoes.
 
-53
-00:02:20,141 --> 00:02:23,479
+55
+00:02:26,710 --> 00:02:29,854
 Dolphins are marine mammals
 that hunt fish and squid.
 
-54
-00:02:23,499 --> 00:02:26,862
+56
+00:02:30,354 --> 00:02:33,354
 Dolphins also locate
 prey using echolocation.
 
-55
-00:02:26,882 --> 00:02:31,132
+57
+00:02:33,390 --> 00:02:37,247
 Bats make high-pitched calls, while
 dolphins produce rapid clicks.
 
-56
-00:02:31,177 --> 00:02:32,463
+58
+00:02:37,345 --> 00:02:38,417
 Pause and try it.
 
-57
-00:02:36,658 --> 00:02:40,638
+59
+00:02:42,689 --> 00:02:46,669
 A says bats can truly fly, while
 dolphins are marine mammals.
 
-58
-00:02:40,658 --> 00:02:41,837
+60
+00:02:46,689 --> 00:02:47,689
 That's a difference.
 
-59
-00:02:41,908 --> 00:02:42,781
-Out.
-
-60
-00:02:42,801 --> 00:02:44,744
-B is only about dolphins.
-
 61
-00:02:44,764 --> 00:02:46,924
-A similarity needs both animals.
+00:02:48,368 --> 00:02:49,368
+Out.
 
 62
-00:02:46,944 --> 00:02:47,695
-Out.
+00:02:49,582 --> 00:02:51,368
+B is only about dolphins.
 
 63
-00:02:47,715 --> 00:02:52,338
+00:02:51,511 --> 00:02:53,832
+A similarity needs both animals.
+
+64
+00:02:54,581 --> 00:02:55,341
+Out.
+
+65
+00:02:55,361 --> 00:03:00,075
 D says bats make high-pitched calls,
 whereas dolphins produce rapid clicks.
 
-64
-00:02:52,358 --> 00:02:54,124
+66
+00:03:00,718 --> 00:03:02,234
 Whereas is a contrast word.
 
-65
-00:02:54,144 --> 00:02:55,393
+67
+00:03:02,254 --> 00:03:03,389
 That's a difference too.
 
-66
-00:02:55,426 --> 00:03:00,549
+68
+00:03:03,409 --> 00:03:07,158
 C says both bats and dolphins
 use echolocation to locate prey.
 
-67
-00:03:00,569 --> 00:03:02,727
+69
+00:03:07,623 --> 00:03:09,675
 Both animals, one shared trait.
 
-68
-00:03:02,747 --> 00:03:04,120
+70
+00:03:09,695 --> 00:03:11,229
 The answer is C.
 
-69
-00:03:04,140 --> 00:03:06,961
+71
+00:03:11,373 --> 00:03:13,996
 And notice: every choice was true.
 
-70
-00:03:07,212 --> 00:03:09,442
+72
+00:03:14,016 --> 00:03:15,959
 Accuracy didn't eliminate anything.
 
-71
-00:03:09,462 --> 00:03:10,450
+73
+00:03:15,979 --> 00:03:17,088
 The goal did.
 
-72
-00:03:10,470 --> 00:03:13,792
+74
+00:03:17,140 --> 00:03:20,569
 Before the next questions, here
 are goals that show up often.
 
-73
-00:03:13,898 --> 00:03:16,363
+75
+00:03:21,462 --> 00:03:23,712
 Compare or contrast two things.
 
-74
-00:03:16,542 --> 00:03:18,506
+76
+00:03:24,176 --> 00:03:26,069
 Emphasize a similarity.
 
-75
-00:03:18,719 --> 00:03:23,042
+77
+00:03:26,354 --> 00:03:30,175
 Introduce someone or something to an
 audience that's unfamiliar with it.
 
-76
-00:03:23,255 --> 00:03:26,470
+78
+00:03:30,211 --> 00:03:33,997
 Present a study, its
 method, or its findings.
 
-77
-00:03:26,506 --> 00:03:29,792
+79
+00:03:34,533 --> 00:03:38,130
 Explain an advantage,
 a cause, or a purpose.
 
-78
-00:03:29,819 --> 00:03:31,798
+80
+00:03:38,150 --> 00:03:40,007
 Each goal has its own checklist.
 
-79
-00:03:31,818 --> 00:03:34,585
+81
+00:03:40,578 --> 00:03:43,114
 Contrast needs both
 things and a difference.
 
-80
-00:03:34,605 --> 00:03:39,227
+82
+00:03:43,328 --> 00:03:47,150
 An unfamiliar audience needs an
 explanation of who or what something is.
 
-81
-00:03:39,247 --> 00:03:41,762
+83
+00:03:47,506 --> 00:03:50,273
 Findings means what the
 researchers discovered,
 
-82
-00:03:41,782 --> 00:03:43,355
+84
+00:03:50,293 --> 00:03:51,721
 not just what they did.
 
-83
-00:03:43,420 --> 00:03:44,507
+85
+00:03:51,779 --> 00:03:52,779
 Question two.
 
-84
-00:03:44,527 --> 00:03:46,027
+86
+00:03:53,814 --> 00:03:55,064
 Goal first.
 
-85
-00:03:46,277 --> 00:03:50,670
+87
+00:03:55,422 --> 00:03:59,422
 The student wants to emphasize a difference
 in where the two telescopes operate.
 
-86
-00:03:50,705 --> 00:03:54,345
+88
+00:03:59,492 --> 00:04:02,885
 Two key words here: difference, and where.
 
-87
-00:03:54,365 --> 00:03:55,365
+89
+00:04:02,972 --> 00:04:03,972
 The notes.
 
-88
-00:03:55,758 --> 00:03:59,131
+90
+00:04:05,686 --> 00:04:09,094
 The Hubble Space Telescope
 launched in nineteen ninety.
 
-89
-00:03:59,151 --> 00:04:02,631
+91
+00:04:09,114 --> 00:04:12,221
 It orbits Earth a few hundred
 miles above the surface.
 
-90
-00:04:02,651 --> 00:04:06,380
+92
+00:04:12,686 --> 00:04:16,006
 The James Webb Space Telescope
 launched in twenty twenty-one.
 
-91
-00:04:06,400 --> 00:04:09,936
+93
+00:04:16,792 --> 00:04:20,329
 It orbits the Sun about one
 million miles from Earth.
 
-92
-00:04:09,981 --> 00:04:13,711
+94
+00:04:20,373 --> 00:04:23,818
 Both telescopes were built through
 international partnerships that include NASA
 
-93
-00:04:13,731 --> 00:04:15,838
+95
+00:04:23,838 --> 00:04:25,552
 and the European Space Agency.
 
-94
-00:04:15,894 --> 00:04:17,179
+96
+00:04:25,625 --> 00:04:26,696
 Pause and try it.
 
-95
-00:04:21,375 --> 00:04:22,605
+97
+00:04:30,968 --> 00:04:32,540
 A is a similarity.
 
-96
-00:04:22,625 --> 00:04:23,354
+98
+00:04:33,147 --> 00:04:34,147
 Out.
 
-97
-00:04:23,374 --> 00:04:24,926
+99
+00:04:34,325 --> 00:04:36,290
 C only describes Webb.
 
-98
-00:04:24,946 --> 00:04:27,033
+100
+00:04:36,397 --> 00:04:38,519
 You can't show a difference
 with one telescope.
 
-99
-00:04:27,053 --> 00:04:27,955
+101
+00:04:38,539 --> 00:04:39,311
 Out.
 
-100
-00:04:27,975 --> 00:04:28,527
+102
+00:04:39,331 --> 00:04:40,883
 B is the trap.
 
-101
-00:04:28,547 --> 00:04:33,491
+103
+00:04:40,903 --> 00:04:45,510
 It is a difference: Hubble launched
 more than thirty years before Webb.
 
-102
-00:04:33,511 --> 00:04:36,347
+104
+00:04:45,653 --> 00:04:47,632
 But the goal said a difference in where,
 
-103
-00:04:36,367 --> 00:04:37,510
+105
+00:04:47,652 --> 00:04:48,652
 not when.
 
-104
-00:04:37,761 --> 00:04:40,214
+106
+00:04:49,403 --> 00:04:51,688
 Right type of answer, wrong detail.
 
-105
-00:04:40,234 --> 00:04:43,964
+107
+00:04:51,724 --> 00:04:55,060
 D puts Hubble orbiting Earth
 next to Webb orbiting the Sun,
 
-106
-00:04:43,984 --> 00:04:45,662
+108
+00:04:55,080 --> 00:04:56,740
 a million miles away.
 
-107
-00:04:45,841 --> 00:04:48,142
+109
+00:04:56,760 --> 00:04:59,330
 A difference, and it's about location.
 
-108
-00:04:48,162 --> 00:04:49,734
+110
+00:04:59,545 --> 00:05:01,330
 The answer is D.
 
-109
-00:04:49,781 --> 00:04:50,832
+111
+00:05:01,369 --> 00:05:02,726
 Question three.
 
-110
-00:04:50,852 --> 00:04:56,388
+112
+00:05:02,905 --> 00:05:06,905
 The student wants to introduce Zaha
 Hadid to an audience unfamiliar with her.
 
-111
-00:04:56,567 --> 00:04:59,618
+113
+00:05:07,333 --> 00:05:10,476
 That phrase, unfamiliar
 audience, is a signal.
 
-112
-00:04:59,638 --> 00:05:04,144
+114
+00:05:10,797 --> 00:05:14,332
 The reader has never heard of her, so
 the sentence has to tell them who she is.
 
-113
-00:05:04,164 --> 00:05:05,164
+115
+00:05:14,361 --> 00:05:15,361
 The notes.
 
-114
-00:05:05,485 --> 00:05:09,501
+116
+00:05:16,325 --> 00:05:19,877
 Zaha Hadid, who lived from
 nineteen fifty to twenty sixteen,
 
-115
-00:05:09,521 --> 00:05:11,857
+117
+00:05:19,897 --> 00:05:22,110
 was an Iraqi-born British architect.
 
-116
-00:05:11,877 --> 00:05:14,001
+118
+00:05:22,289 --> 00:05:24,055
 She was known for buildings with flowing,
 
-117
-00:05:14,021 --> 00:05:15,214
+119
+00:05:24,075 --> 00:05:25,361
 curved forms.
 
-118
-00:05:15,234 --> 00:05:18,822
+120
+00:05:25,431 --> 00:05:28,341
 In two thousand four, she became
 the first woman to win the Pritzker
 
-119
-00:05:18,842 --> 00:05:22,099
+121
+00:05:28,361 --> 00:05:31,430
 Architecture Prize, one of
 architecture's highest honors.
 
-120
-00:05:22,119 --> 00:05:26,405
+122
+00:05:31,450 --> 00:05:35,200
 She designed the London Aquatics Centre
 for the twenty twelve Olympic Games.
 
-121
-00:05:26,484 --> 00:05:27,770
+123
+00:05:35,248 --> 00:05:36,319
 Pause and try it.
 
-122
-00:05:31,965 --> 00:05:34,945
+124
+00:05:40,592 --> 00:05:43,235
 A says, Hadid designed the
 London Aquatics Centre.
 
-123
-00:05:34,965 --> 00:05:37,374
+125
+00:05:43,627 --> 00:05:45,465
 If you've never heard of her, you'd ask:
 
-124
-00:05:37,394 --> 00:05:37,767
+126
+00:05:45,485 --> 00:05:45,822
 who's Hadid?
 
-125
-00:05:37,787 --> 00:05:38,445
+127
+00:05:45,842 --> 00:05:48,071
 D has the same problem.
 
-126
-00:05:38,465 --> 00:05:41,823
+128
+00:05:48,091 --> 00:05:50,985
 It talks about Hadid's buildings
 but never says who she is.
 
-127
-00:05:42,105 --> 00:05:45,585
+129
+00:05:51,065 --> 00:05:54,044
 B is about the prize going to
 a woman for the first time,
 
-128
-00:05:45,605 --> 00:05:46,943
+130
+00:05:54,064 --> 00:05:55,529
 but it never names her.
 
-129
-00:05:46,963 --> 00:05:49,569
+131
+00:05:55,850 --> 00:05:58,065
 You can't introduce someone
 without naming them.
 
-130
-00:05:49,626 --> 00:05:53,891
+132
+00:05:58,144 --> 00:06:01,946
 C: Zaha Hadid, an Iraqi-born
 British architect known for flowing,
 
-131
-00:05:53,911 --> 00:05:58,141
+133
+00:06:01,966 --> 00:06:06,680
 curved buildings, was the first woman
 to win the Pritzker Architecture Prize.
 
-132
-00:05:58,161 --> 00:06:01,427
+134
+00:06:06,966 --> 00:06:10,466
 Full name, who she is,
 and why she matters.
 
-133
-00:06:01,447 --> 00:06:02,966
+135
+00:06:10,858 --> 00:06:12,716
 The answer is C.
 
-134
-00:06:02,986 --> 00:06:03,986
+136
+00:06:12,772 --> 00:06:13,807
 Quick tip.
 
-135
-00:06:04,343 --> 00:06:08,466
+137
+00:06:13,879 --> 00:06:18,073
 For an unfamiliar audience, look for
 a description right next to the name,
 
-136
-00:06:08,486 --> 00:06:10,322
+138
+00:06:18,093 --> 00:06:19,807
 usually set off by commas.
 
-137
-00:06:10,342 --> 00:06:13,215
+139
+00:06:20,307 --> 00:06:22,644
 If the goal said the
 audience already knew her,
 
-138
-00:06:13,235 --> 00:06:15,093
+140
+00:06:22,664 --> 00:06:24,379
 that description wouldn't be needed.
 
-139
-00:06:15,129 --> 00:06:16,237
+141
+00:06:24,451 --> 00:06:25,522
 Question four.
 
-140
-00:06:16,272 --> 00:06:19,772
+142
+00:06:26,022 --> 00:06:29,129
 The student wants to present
 the study and its findings.
 
-141
-00:06:19,879 --> 00:06:20,879
+143
+00:06:29,415 --> 00:06:30,415
 Two parts.
 
-142
-00:06:21,058 --> 00:06:23,737
+144
+00:06:30,594 --> 00:06:32,878
 The study means who did what.
 
-143
-00:06:24,022 --> 00:06:26,344
+145
+00:06:33,593 --> 00:06:36,022
 The findings mean what they discovered.
 
-144
-00:06:26,369 --> 00:06:27,369
+146
+00:06:36,086 --> 00:06:37,086
 The notes.
 
-145
-00:06:28,012 --> 00:06:32,206
+147
+00:06:38,585 --> 00:06:41,994
 Arctic terns are seabirds that breed
 in the far north and spend the northern
 
-146
-00:06:32,226 --> 00:06:34,369
+148
+00:06:42,014 --> 00:06:43,657
 winter in Antarctic waters.
 
-147
-00:06:34,404 --> 00:06:37,134
+149
+00:06:43,979 --> 00:06:46,601
 A research team attached
 tiny tracking devices,
 
-148
-00:06:37,154 --> 00:06:39,420
+150
+00:06:46,621 --> 00:06:49,049
 each weighing about one point four grams,
 
-149
-00:06:39,440 --> 00:06:42,787
+151
+00:06:49,121 --> 00:06:51,834
 to Arctic terns nesting
 in Greenland and Iceland.
 
-150
-00:06:42,807 --> 00:06:47,501
+152
+00:06:51,854 --> 00:06:55,568
 The researchers used the devices to
 follow the birds' yearly migration.
 
-151
-00:06:47,521 --> 00:06:51,608
+153
+00:06:56,389 --> 00:06:59,548
 They found that the terns traveled an
 average of about seventy thousand nine
 
-152
-00:06:51,628 --> 00:06:53,735
+154
+00:06:59,568 --> 00:07:01,103
 hundred kilometers in a year.
 
-153
-00:06:53,761 --> 00:06:55,046
+155
+00:07:01,135 --> 00:07:02,206
 Pause and try it.
 
-154
-00:06:59,242 --> 00:07:01,257
+156
+00:07:06,479 --> 00:07:08,316
 B is background about the bird.
 
-155
-00:07:01,277 --> 00:07:03,186
+157
+00:07:08,336 --> 00:07:10,156
 No study, no findings.
 
-156
-00:07:03,206 --> 00:07:06,222
+158
+00:07:10,407 --> 00:07:13,101
 C describes what the researchers did,
 
-157
-00:07:06,242 --> 00:07:09,008
+159
+00:07:13,121 --> 00:07:15,836
 the tracking devices,
 but not what they found.
 
-158
-00:07:09,028 --> 00:07:10,348
+160
+00:07:16,371 --> 00:07:17,585
 That's half the goal.
 
-159
-00:07:10,390 --> 00:07:12,656
+161
+00:07:17,644 --> 00:07:20,216
 D gives the finding, but drops the study.
 
-160
-00:07:12,676 --> 00:07:15,299
+162
+00:07:20,716 --> 00:07:23,053
 It reads like a general fact about terns,
 
-161
-00:07:15,319 --> 00:07:16,819
+163
+00:07:23,073 --> 00:07:24,573
 not a research result.
 
-162
-00:07:16,842 --> 00:07:18,358
+164
+00:07:24,604 --> 00:07:25,676
 A has both.
 
-163
-00:07:18,378 --> 00:07:22,501
+165
+00:07:26,069 --> 00:07:30,176
 Researchers used tracking devices
 on terns from Greenland and Iceland,
 
-164
-00:07:22,521 --> 00:07:26,679
+166
+00:07:30,211 --> 00:07:34,120
 and found the birds traveled about
 seventy thousand nine hundred kilometers a
 
-165
-00:07:26,699 --> 00:07:27,358
+167
+00:07:34,140 --> 00:07:35,140
 year.
 
-166
-00:07:27,378 --> 00:07:28,813
+168
+00:07:35,426 --> 00:07:37,604
 The answer is A.
 
-167
-00:07:28,833 --> 00:07:30,920
+169
+00:07:37,672 --> 00:07:39,851
 Let's name the traps you've seen so far.
 
-168
-00:07:30,940 --> 00:07:33,635
+170
+00:07:39,922 --> 00:07:42,708
 Trap one: true, but off goal.
 
-169
-00:07:33,655 --> 00:07:35,349
+171
+00:07:44,244 --> 00:07:45,294
 Every fact checks out.
 
-170
-00:07:35,369 --> 00:07:36,976
+172
+00:07:45,314 --> 00:07:46,815
 It just does a different job.
 
-171
-00:07:37,009 --> 00:07:39,739
+173
+00:07:46,884 --> 00:07:50,400
 Trap two: right type, wrong detail.
 
-172
-00:07:39,759 --> 00:07:42,346
+174
+00:07:50,420 --> 00:07:53,670
 A difference, but in
 when instead of where.
 
-173
-00:07:42,366 --> 00:07:44,615
+175
+00:07:53,813 --> 00:07:55,526
 Trap three: half the goal.
 
-174
-00:07:44,759 --> 00:07:48,103
+176
+00:07:55,777 --> 00:07:58,955
 The study without the findings,
 or the findings without the study.
 
-175
-00:07:48,123 --> 00:07:50,282
+177
+00:07:58,000 --> 00:08:01,571
 Trap four: one side only.
 
-176
-00:07:50,302 --> 00:07:53,659
+178
+00:08:02,142 --> 00:08:05,285
 If the goal involves two things,
 the answer has to mention both.
 
-177
-00:07:53,747 --> 00:07:55,032
+179
+00:08:05,392 --> 00:08:06,678
 Question five.
 
-178
-00:07:55,104 --> 00:08:00,532
+180
+00:08:07,035 --> 00:08:11,249
 The student wants to explain an advantage
 of LED bulbs over incandescent bulbs.
 
-179
-00:08:00,568 --> 00:08:05,669
+181
+00:08:11,714 --> 00:08:16,106
 Checklist: it has to be about LEDs, and
 it has to say what makes them better.
 
-180
-00:08:05,689 --> 00:08:06,598
+182
+00:08:16,191 --> 00:08:17,191
 The notes.
 
-181
-00:08:06,618 --> 00:08:11,812
+183
+00:08:17,656 --> 00:08:22,227
 Incandescent bulbs make light by heating
 a thin wire filament until it glows.
 
-182
-00:08:11,832 --> 00:08:16,848
+184
+00:08:22,656 --> 00:08:26,135
 About ninety percent of the energy an
 incandescent bulb uses is given off as
 
-183
-00:08:16,868 --> 00:08:17,669
+185
+00:08:26,155 --> 00:08:27,155
 heat.
 
-184
-00:08:17,689 --> 00:08:22,205
+186
+00:08:27,405 --> 00:08:31,564
 LED bulbs make light using tiny electronic
 components called light-emitting
 
-185
-00:08:22,225 --> 00:08:22,964
+187
+00:08:31,584 --> 00:08:32,359
 diodes.
 
-186
-00:08:22,984 --> 00:08:23,928
+188
+00:08:32,379 --> 00:08:33,252
 According to the U.S.
 
-187
-00:08:23,948 --> 00:08:28,964
+189
+00:08:33,272 --> 00:08:37,145
 Department of Energy, residential LED
 bulbs use at least seventy-five percent
 
-188
-00:08:28,984 --> 00:08:34,698
+190
+00:08:37,165 --> 00:08:41,950
 less energy than incandescent bulbs and
 can last up to twenty-five times longer.
 
-189
-00:08:34,727 --> 00:08:36,013
+191
+00:08:42,007 --> 00:08:43,078
 Pause and try it.
 
-190
-00:08:39,208 --> 00:08:41,938
+192
+00:08:46,351 --> 00:08:48,886
 A and B explain how each bulb works.
 
-191
-00:08:41,958 --> 00:08:45,402
+193
+00:08:48,994 --> 00:08:51,866
 True, but how something
 works isn't an advantage.
 
-192
-00:08:45,422 --> 00:08:46,867
+194
+00:08:51,886 --> 00:08:53,687
 C is closer.
 
-193
-00:08:46,887 --> 00:08:49,387
+195
+00:08:53,707 --> 00:08:56,136
 It's a weakness of incandescent bulbs.
 
-194
-00:08:49,637 --> 00:08:54,530
+196
+00:08:57,136 --> 00:09:01,565
 But it never mentions LEDs, so it
 can't explain an advantage of LEDs.
 
-195
-00:08:54,602 --> 00:08:59,404
+197
+00:09:01,624 --> 00:09:05,604
 D says LED bulbs use at least seventy-five
 percent less energy and can last up
 
-196
-00:08:59,424 --> 00:09:00,975
+198
+00:09:05,624 --> 00:09:07,445
 to twenty-five times longer.
 
-197
-00:09:00,995 --> 00:09:03,761
+199
+00:09:07,910 --> 00:09:10,588
 That's an advantage,
 stated directly about LEDs.
 
-198
-00:09:03,781 --> 00:09:05,600
+200
+00:09:10,803 --> 00:09:14,025
 The answer is D.
 
-199
-00:09:05,620 --> 00:09:07,692
+201
+00:09:14,045 --> 00:09:16,830
 Last one, and it's harder.
 
-200
-00:09:07,726 --> 00:09:12,636
+202
+00:09:17,544 --> 00:09:23,167
 The student wants to emphasize that the
 spacecraft that launched first was not
 
-201
-00:09:12,656 --> 00:09:15,171
+203
+00:09:23,187 --> 00:09:25,331
 the first to reach interstellar space.
 
-202
-00:09:15,191 --> 00:09:16,191
+204
+00:09:25,374 --> 00:09:26,374
 The notes.
 
-203
-00:09:16,441 --> 00:09:20,671
+205
+00:09:26,910 --> 00:09:30,176
 In nineteen seventy-seven,
 NASA launched two spacecraft,
 
-204
-00:09:20,691 --> 00:09:23,099
+206
+00:09:30,196 --> 00:09:32,374
 Voyager one and Voyager two.
 
-205
-00:09:23,119 --> 00:09:25,905
+207
+00:09:32,731 --> 00:09:35,410
 Voyager two launched on August twentieth.
 
-206
-00:09:26,118 --> 00:09:29,063
+208
+00:09:35,552 --> 00:09:37,819
 Voyager one launched sixteen days later,
 
-207
-00:09:29,083 --> 00:09:30,726
+209
+00:09:37,839 --> 00:09:39,196
 on September fifth.
 
-208
-00:09:30,833 --> 00:09:34,322
+210
+00:09:39,732 --> 00:09:42,649
 Voyager one reached interstellar
 space in twenty twelve.
 
-209
-00:09:34,342 --> 00:09:38,021
+211
+00:09:42,669 --> 00:09:45,649
 Voyager two reached interstellar
 space in twenty eighteen.
 
-210
-00:09:38,092 --> 00:09:42,401
+212
+00:09:45,669 --> 00:09:49,276
 Voyager two is the only spacecraft
 to have visited Uranus and Neptune.
 
-211
-00:09:42,421 --> 00:09:43,544
+213
+00:09:49,329 --> 00:09:50,472
 Pause and try it.
 
-212
-00:09:43,564 --> 00:09:45,098
+214
+00:09:51,115 --> 00:09:52,758
 Take a little longer on this one.
 
-213
-00:09:49,330 --> 00:09:50,524
+215
+00:09:56,973 --> 00:09:58,330
 Break the goal down.
 
-214
-00:09:50,544 --> 00:09:54,131
+216
+00:09:58,759 --> 00:10:02,203
 To show that the first to launch
 wasn't the first to arrive,
 
-215
-00:09:54,151 --> 00:09:57,738
+217
+00:10:02,223 --> 00:10:05,810
 the sentence needs two things:
 which one launched first,
 
-216
-00:09:57,758 --> 00:09:59,614
+218
+00:10:05,830 --> 00:10:07,366
 and which one arrived first.
 
-217
-00:09:59,650 --> 00:10:01,451
+219
+00:10:07,446 --> 00:10:09,625
 D is about Uranus and Neptune.
 
-218
-00:10:01,471 --> 00:10:04,630
+220
+00:10:10,445 --> 00:10:12,768
 Interesting, but off goal.
 
-219
-00:10:04,650 --> 00:10:07,023
+221
+00:10:12,839 --> 00:10:14,997
 C gives the launch order only.
 
-220
-00:10:07,043 --> 00:10:11,951
+222
+00:10:15,017 --> 00:10:19,141
 A gives the arrival order only: Voyager
 one got there six years before Voyager
 
-221
-00:10:11,971 --> 00:10:12,737
+223
+00:10:19,161 --> 00:10:19,604
 two.
 
-222
-00:10:12,757 --> 00:10:15,783
+224
+00:10:19,624 --> 00:10:22,589
 A is the tempting one, because
 it sounds like the main point.
 
-223
-00:10:15,803 --> 00:10:18,782
+225
+00:10:22,629 --> 00:10:25,824
 But A never says Voyager
 two launched first,
 
-224
-00:10:18,802 --> 00:10:20,390
+226
+00:10:25,844 --> 00:10:27,665
 so there's nothing surprising about it.
 
-225
-00:10:20,410 --> 00:10:22,731
+227
+00:10:27,808 --> 00:10:29,951
 Only B has both halves.
 
-226
-00:10:22,839 --> 00:10:26,676
+228
+00:10:30,522 --> 00:10:34,538
 Although Voyager two launched
 sixteen days before Voyager one,
 
-227
-00:10:26,696 --> 00:10:30,569
+229
+00:10:34,558 --> 00:10:38,058
 it reached interstellar space
 six years after its twin.
 
-228
-00:10:30,589 --> 00:10:32,196
+230
+00:10:38,594 --> 00:10:40,444
 The answer is B.
 
-229
-00:10:32,230 --> 00:10:34,460
+231
+00:10:40,464 --> 00:10:42,642
 Here's the whole method on one card.
 
-230
-00:10:34,480 --> 00:10:37,996
+232
+00:10:43,178 --> 00:10:47,464
 One: read the goal first
 and underline the key words.
 
-231
-00:10:38,016 --> 00:10:39,852
+233
+00:10:47,928 --> 00:10:50,141
 Two: turn it into a checklist.
 
-232
-00:10:39,872 --> 00:10:41,532
+234
+00:10:50,749 --> 00:10:52,428
 What has to be in the answer?
 
-233
-00:10:41,552 --> 00:10:42,174
+235
+00:10:52,678 --> 00:10:53,749
 Both things?
 
-234
-00:10:42,194 --> 00:10:42,995
+236
+00:10:53,785 --> 00:10:54,892
 A description?
 
-235
-00:10:43,015 --> 00:10:44,052
+237
+00:10:54,999 --> 00:10:56,178
 The findings?
 
-236
-00:10:44,145 --> 00:10:46,946
+238
+00:10:56,230 --> 00:10:59,102
 Three: test each choice
 against the checklist,
 
-237
-00:10:46,966 --> 00:10:48,609
+239
+00:10:59,122 --> 00:11:00,551
 not against the notes.
 
-238
-00:10:48,930 --> 00:10:52,180
+240
+00:11:01,301 --> 00:11:04,729
 Four: check the notes
 only to settle a detail.
 
-239
-00:10:52,359 --> 00:10:55,667
+241
+00:11:04,873 --> 00:11:08,300
 And if the goal has two parts,
 make sure the answer has both.
 
-240
-00:10:55,687 --> 00:10:56,667
+242
+00:11:08,355 --> 00:11:09,462
 One pacing note.
 
-241
-00:10:56,687 --> 00:11:00,382
+243
+00:11:09,998 --> 00:11:13,799
 You get about seventy-one seconds
 per question in Reading and Writing,
 
-242
-00:11:00,402 --> 00:11:01,473
+244
+00:11:13,819 --> 00:11:14,891
 on average.
 
-243
-00:11:01,616 --> 00:11:03,759
+245
+00:11:15,568 --> 00:11:17,747
 Because you aren't studying every note,
 
-244
-00:11:03,973 --> 00:11:06,632
+246
+00:11:18,069 --> 00:11:20,855
 a notes question can
 often take less than that,
 
-245
-00:11:06,652 --> 00:11:09,294
+247
+00:11:21,391 --> 00:11:23,813
 which buys time for harder questions.
 
-246
-00:11:09,336 --> 00:11:10,336
+248
+00:11:23,833 --> 00:11:24,833
 Recap.
 
-247
-00:11:10,621 --> 00:11:13,744
+249
+00:11:26,119 --> 00:11:28,920
 On notes questions, the
 choices are usually all true,
 
-248
-00:11:13,764 --> 00:11:15,244
+250
+00:11:28,940 --> 00:11:30,369
 so the goal decides.
 
-249
-00:11:15,264 --> 00:11:19,279
+251
+00:11:31,189 --> 00:11:34,741
 Read it first, make a checklist, and
 cross out anything that does a different
 
-250
-00:11:19,299 --> 00:11:20,907
+252
+00:11:34,761 --> 00:11:36,189
 job, even if it's accurate.
 
-251
-00:11:20,932 --> 00:11:24,591
+253
+00:11:36,278 --> 00:11:40,079
 For more practice, the College Board's
 free Question Bank lets you filter for
 
-252
-00:11:24,611 --> 00:11:28,004
+254
+00:11:40,099 --> 00:11:42,742
 rhetorical synthesis
 under Expression of Ideas.
 
-253
-00:11:28,053 --> 00:11:31,140
+255
+00:11:42,800 --> 00:11:45,887
 All the questions in this video
 were written for this video,
 
-254
-00:11:31,160 --> 00:11:33,303
+256
+00:11:45,907 --> 00:11:47,585
 in the style of the real test.
 
-255
-00:11:33,338 --> 00:11:35,338
+257
+00:11:47,942 --> 00:11:49,764
 If this helped, subscribe.
 
-256
-00:11:35,552 --> 00:11:39,103
+258
+00:11:51,300 --> 00:11:53,993
 The next video covers the other
 half of Expression of Ideas:
 
-257
-00:11:39,123 --> 00:11:40,231
+259
+00:11:54,013 --> 00:11:55,084
 transitions.

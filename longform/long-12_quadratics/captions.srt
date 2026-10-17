@@ -1,1052 +1,1060 @@
 1
-00:00:00,182 --> 00:00:02,769
-Quadratics are a core
-part of Advanced Math,
+00:00:00,182 --> 00:00:03,183
+There are only four ways to
+lose points on SAT quadratics.
 
 2
-00:00:02,789 --> 00:00:07,376
-which is about thirty-five
-percent of the SAT math section.
+00:00:03,825 --> 00:00:06,861
+You read the solutions off the
+factors with the wrong sign.
 
 3
-00:00:07,396 --> 00:00:11,325
-And most quadratic questions
-come down to one idea.
+00:00:07,289 --> 00:00:09,825
+You pick a form that
+hides what they asked for.
 
 4
-00:00:11,361 --> 00:00:14,020
-The same parabola can be
-written three different ways,
+00:00:10,003 --> 00:00:12,733
+You give the x of the vertex
+when they asked for the maximum.
 
 5
-00:00:14,040 --> 00:00:16,468
-and each way shows you
-something different.
+00:00:12,753 --> 00:00:15,182
+And the fourth one looks completely right,
 
 6
-00:00:16,555 --> 00:00:19,427
-Students lose points by
-fighting with the wrong form,
+00:00:15,397 --> 00:00:17,182
+which is why it's so hard to catch.
 
 7
-00:00:19,447 --> 00:00:21,499
-or by answering with the wrong number.
+00:00:17,216 --> 00:00:19,037
+The first three are quick to fix.
 
 8
-00:00:21,519 --> 00:00:23,519
-The time instead of the height.
+00:00:19,430 --> 00:00:25,160
+The fourth is forgetting the a when
+you use the sum and product of the
 
 9
-00:00:23,661 --> 00:00:27,891
-The x coordinate of the vertex when
-the question asked for the maximum.
+00:00:25,180 --> 00:00:26,180
+solutions.
 
 10
-00:00:27,911 --> 00:00:31,875
-In this video: the three forms
-and what each one reveals,
+00:00:26,323 --> 00:00:28,644
+That's question six, the hardest one.
 
 11
-00:00:31,911 --> 00:00:35,284
-factoring, the quadratic
-formula, the discriminant,
+00:00:28,965 --> 00:00:34,287
+Stay for it, because the fractions
+you get look like real answers.
 
 12
-00:00:35,304 --> 00:00:40,339
-max and min word problems, and the
-sum and product of the solutions.
+00:00:34,321 --> 00:00:38,178
+One idea runs through
+all of it: one parabola,
 
 13
-00:00:40,590 --> 00:00:44,018
-Six practice questions, from easy to hard.
+00:00:38,499 --> 00:00:42,321
+three forms, and each form
+shows you something different.
 
 14
-00:00:44,096 --> 00:00:46,539
-Here's one parabola, written three ways.
+00:00:42,964 --> 00:00:46,285
+Six practice questions, each
+one harder than the last.
 
 15
-00:00:46,559 --> 00:00:52,132
+00:00:46,392 --> 00:00:49,285
+Keep score as you go, and
+see if you can get all six.
+
+16
+00:00:49,317 --> 00:00:51,637
+Here's one parabola, written three ways.
+
+17
+00:00:52,138 --> 00:00:57,280
 Standard form: y equals x
 squared minus six x plus eight.
 
-16
-00:00:52,739 --> 00:00:57,362
+18
+00:00:57,923 --> 00:01:02,031
 Factored form: y equals x
 minus two, times x minus four.
 
-17
-00:00:57,382 --> 00:01:00,933
+19
+00:01:02,674 --> 00:01:05,333
 Vertex form: y equals
 x minus three, squared,
 
-18
-00:01:00,953 --> 00:01:01,933
+20
+00:01:05,353 --> 00:01:06,368
 minus one.
 
-19
-00:01:01,953 --> 00:01:03,739
+21
+00:01:06,388 --> 00:01:08,210
 All three make the same graph.
 
-20
-00:01:03,803 --> 00:01:05,604
+22
+00:01:08,287 --> 00:01:10,715
 Standard form shows the y intercept.
 
-21
-00:01:05,624 --> 00:01:09,497
+23
+00:01:10,857 --> 00:01:15,394
 It's the constant at the end, so this
 parabola crosses the y axis at eight.
 
-22
-00:01:09,517 --> 00:01:11,997
+24
+00:01:16,000 --> 00:01:18,230
 The leading coefficient
 shows the direction.
 
-23
-00:01:12,017 --> 00:01:13,247
+25
+00:01:18,250 --> 00:01:19,480
 Positive opens up.
 
-24
-00:01:13,267 --> 00:01:14,980
+26
+00:01:19,500 --> 00:01:21,001
 Negative opens down.
 
-25
-00:01:15,021 --> 00:01:17,643
+27
+00:01:21,048 --> 00:01:22,992
 Factored form shows the x intercepts,
 
-26
-00:01:17,663 --> 00:01:21,199
+28
+00:01:23,012 --> 00:01:25,548
 also called the zeros,
 roots, or solutions.
 
-27
-00:01:21,271 --> 00:01:23,949
+29
+00:01:26,012 --> 00:01:27,976
 Set each factor equal to zero.
 
-28
-00:01:24,091 --> 00:01:29,215
+30
+00:01:28,404 --> 00:01:32,405
 x minus two gives two, and
 x minus four gives four.
 
-29
-00:01:29,235 --> 00:01:30,413
+31
+00:01:32,976 --> 00:01:34,119
 Watch the sign.
 
-30
-00:01:30,592 --> 00:01:34,592
+32
+00:01:34,191 --> 00:01:37,476
 The factor says minus two,
 but the root is positive two.
 
-31
-00:01:34,614 --> 00:01:36,665
+33
+00:01:37,537 --> 00:01:39,966
 Vertex form shows the vertex.
 
-32
-00:01:36,685 --> 00:01:40,416
+34
+00:01:40,893 --> 00:01:44,910
 x minus three, squared, minus
 one puts the vertex at three,
 
-33
-00:01:40,436 --> 00:01:41,451
+35
+00:01:44,930 --> 00:01:46,287
 negative one.
 
-34
-00:01:41,471 --> 00:01:45,201
+36
+00:01:46,822 --> 00:01:51,073
 The x part flips sign again, but
 the constant at the end doesn't.
 
-35
-00:01:45,221 --> 00:01:49,257
+37
+00:01:51,573 --> 00:01:56,144
 Since this parabola opens up,
 negative one is its minimum value.
 
-36
-00:01:49,282 --> 00:01:51,104
+38
+00:01:56,194 --> 00:01:58,051
 Two more facts connect the forms.
 
-37
-00:01:51,211 --> 00:01:56,461
+39
+00:01:58,193 --> 00:02:01,959
 From standard form, the x coordinate
 of the vertex is negative b over two a.
 
-38
-00:01:56,531 --> 00:01:59,226
+40
+00:02:01,979 --> 00:02:05,530
 Here, that's six over two, which is three.
 
-39
-00:01:59,246 --> 00:02:03,191
+41
+00:02:05,550 --> 00:02:08,958
 And the vertex always sits exactly
 halfway between the two roots.
 
-40
-00:02:03,211 --> 00:02:05,461
+42
+00:02:08,978 --> 00:02:11,015
 Halfway between two and four is three.
 
-41
-00:02:05,528 --> 00:02:09,350
+43
+00:02:11,059 --> 00:02:14,916
 The SAT tests quadratics
 in a few predictable ways.
 
-42
-00:02:09,385 --> 00:02:10,778
+44
+00:02:15,273 --> 00:02:16,773
 Solve the equation.
 
-43
-00:02:10,814 --> 00:02:12,686
+45
+00:02:17,131 --> 00:02:19,523
 Pick the form that shows a feature.
 
-44
-00:02:12,706 --> 00:02:14,865
+46
+00:02:19,702 --> 00:02:22,131
 Decide how many solutions there are.
 
-45
-00:02:14,885 --> 00:02:18,007
+47
+00:02:22,309 --> 00:02:25,539
 Find a maximum or minimum
 in a word problem.
 
-46
-00:02:18,027 --> 00:02:21,180
+48
+00:02:25,559 --> 00:02:28,631
 And use the sum or
 product of the solutions.
 
-47
-00:02:21,200 --> 00:02:25,236
+49
+00:02:28,694 --> 00:02:32,066
 The key on every one: before
 you calculate anything,
 
-48
-00:02:25,271 --> 00:02:29,057
+50
+00:02:32,086 --> 00:02:35,837
 ask which form, or which formula,
 gives you the answer for free.
 
-49
-00:02:29,129 --> 00:02:30,002
+51
+00:02:35,864 --> 00:02:36,864
 Question one.
 
-50
-00:02:30,022 --> 00:02:34,859
+52
+00:02:37,042 --> 00:02:40,808
 What are the solutions to the equation
 x squared minus two x minus fifteen
 
-51
-00:02:34,879 --> 00:02:35,914
+53
+00:02:40,828 --> 00:02:41,767
 equals zero?
 
-52
-00:02:35,936 --> 00:02:37,578
+54
+00:02:41,787 --> 00:02:42,894
 Pause and try it.
 
-53
-00:02:40,809 --> 00:02:45,325
+55
+00:02:46,103 --> 00:02:50,476
 To factor, find two numbers that
 multiply to negative fifteen and add to
 
-54
-00:02:45,345 --> 00:02:46,631
+56
+00:02:50,496 --> 00:02:51,603
 negative two.
 
-55
-00:02:46,702 --> 00:02:48,988
+57
+00:02:52,210 --> 00:02:54,175
 Negative five and three work.
 
-56
-00:02:49,023 --> 00:02:51,952
+58
+00:02:54,675 --> 00:02:57,869
 Negative five times three
 is negative fifteen,
 
-57
-00:02:51,988 --> 00:02:55,059
+59
+00:02:57,889 --> 00:03:00,496
 and negative five plus
 three is negative two.
 
-58
-00:02:55,110 --> 00:02:57,696
+60
+00:03:00,555 --> 00:03:03,250
 So the equation becomes x minus five,
 
-59
-00:02:57,716 --> 00:03:00,947
+61
+00:03:03,270 --> 00:03:06,520
 times x plus three, equals zero.
 
-60
-00:03:00,967 --> 00:03:02,660
+62
+00:03:07,055 --> 00:03:08,607
 Set each factor to zero.
 
-61
-00:03:02,680 --> 00:03:06,160
+63
+00:03:08,627 --> 00:03:11,357
 x equals five, or x equals negative three.
 
-62
-00:03:06,180 --> 00:03:07,788
+64
+00:03:11,377 --> 00:03:12,805
 The answer is B.
 
-63
-00:03:07,817 --> 00:03:09,546
+65
+00:03:12,860 --> 00:03:14,646
 A is the sign trap.
 
-64
-00:03:09,566 --> 00:03:13,047
+66
+00:03:15,110 --> 00:03:18,162
 Negative five and three are
 the numbers inside the factors,
 
-65
-00:03:13,067 --> 00:03:14,424
+67
+00:03:18,182 --> 00:03:19,503
 not the solutions.
 
-66
-00:03:14,531 --> 00:03:16,745
+68
+00:03:20,074 --> 00:03:22,967
 If you're ever unsure, plug one back in.
 
-67
-00:03:16,853 --> 00:03:20,083
+69
+00:03:23,645 --> 00:03:27,912
 Negative five gives twenty-five
 plus ten minus fifteen,
 
-68
-00:03:20,103 --> 00:03:22,017
+70
+00:03:27,932 --> 00:03:29,753
 which is twenty, not zero.
 
-69
-00:03:22,037 --> 00:03:23,251
+71
+00:03:29,793 --> 00:03:30,829
 Question two.
 
-70
-00:03:23,429 --> 00:03:29,481
+72
+00:03:31,150 --> 00:03:35,166
 The function f is defined by f of x
 equals x squared plus four x minus
 
-71
-00:03:29,501 --> 00:03:30,501
+73
+00:03:35,186 --> 00:03:36,186
 twenty-one.
 
-72
-00:03:30,679 --> 00:03:34,981
+74
+00:03:36,543 --> 00:03:40,486
 Which of the following equivalent forms
 of f of x displays the minimum value of
 
-73
-00:03:35,001 --> 00:03:37,429
+75
+00:03:40,506 --> 00:03:42,471
 f as a constant or coefficient?
 
-74
-00:03:37,506 --> 00:03:39,148
+76
+00:03:42,559 --> 00:03:43,666
 Pause and try it.
 
-75
-00:03:42,379 --> 00:03:45,538
+77
+00:03:46,876 --> 00:03:49,876
 Minimum value means the y
 coordinate of the vertex.
 
-76
-00:03:45,558 --> 00:03:48,252
+78
+00:03:50,232 --> 00:03:53,213
 The form that shows the
 vertex is vertex form:
 
-77
-00:03:48,272 --> 00:03:51,109
+79
+00:03:53,233 --> 00:03:55,820
 something squared, plus
 or minus a constant,
 
-78
-00:03:51,129 --> 00:03:52,573
+80
+00:03:55,840 --> 00:03:57,483
 with nothing else attached.
 
-79
-00:03:52,593 --> 00:03:53,430
+81
+00:03:58,018 --> 00:03:59,018
 That's C.
 
-80
-00:03:53,450 --> 00:03:56,108
+82
+00:03:59,661 --> 00:04:02,642
 x plus two, squared, minus twenty-five.
 
-81
-00:03:56,128 --> 00:03:59,129
+83
+00:04:02,662 --> 00:04:05,483
 The minimum value is negative twenty-five.
 
-82
-00:03:59,245 --> 00:04:01,795
+84
+00:04:06,197 --> 00:04:08,640
 A is factored form, so it shows the zeros,
 
-83
-00:04:01,815 --> 00:04:03,638
+85
+00:04:08,660 --> 00:04:10,161
 three and negative seven.
 
-84
-00:04:04,031 --> 00:04:06,923
+86
+00:04:10,447 --> 00:04:12,927
 B shows the y intercept,
 negative twenty-one.
 
-85
-00:04:07,173 --> 00:04:08,546
+87
+00:04:12,947 --> 00:04:13,604
 And D is the trap.
 
-86
-00:04:08,566 --> 00:04:15,118
+88
+00:04:13,624 --> 00:04:21,391
 It has a squared term, but the extra ten
 times the quantity x minus three means
 
-87
-00:04:15,138 --> 00:04:16,813
+89
+00:04:21,411 --> 00:04:22,804
 it isn't vertex form.
 
-88
-00:04:16,833 --> 00:04:21,706
+90
+00:04:22,855 --> 00:04:27,085
 To double check in Desmos, graph y
 equals x squared plus four x minus
 
-89
-00:04:21,726 --> 00:04:25,242
+91
+00:04:27,105 --> 00:04:31,283
 twenty-one, zoom out, and
 click the bottom of the curve.
 
-90
-00:04:25,262 --> 00:04:27,904
+92
+00:04:31,427 --> 00:04:34,033
 It shows negative two,
 negative twenty-five.
 
-91
-00:04:28,038 --> 00:04:30,411
+93
+00:04:34,094 --> 00:04:36,502
 When a quadratic won't factor nicely,
 
-92
-00:04:30,431 --> 00:04:32,232
+94
+00:04:36,522 --> 00:04:38,094
 use the quadratic formula.
 
-93
-00:04:32,252 --> 00:04:39,339
+95
+00:04:38,987 --> 00:04:44,074
 x equals negative b, plus or minus the
 square root of b squared minus four a c,
 
-94
-00:04:39,359 --> 00:04:41,052
+96
+00:04:44,094 --> 00:04:45,272
 all over two a.
 
-95
-00:04:41,072 --> 00:04:41,873
+97
+00:04:45,766 --> 00:04:47,051
 Question three.
 
-96
-00:04:41,893 --> 00:04:47,179
+98
+00:04:47,444 --> 00:04:51,337
 What are the solutions to two x squared
 minus six x plus three equals zero?
 
-97
-00:04:47,215 --> 00:04:48,858
+99
+00:04:51,359 --> 00:04:52,466
 Pause and try it.
 
-98
-00:04:53,088 --> 00:04:58,247
+100
+00:04:56,675 --> 00:05:01,640
 Here a is two, b is negative
 six, and c is three.
 
-99
-00:04:58,267 --> 00:05:00,231
+101
+00:05:02,068 --> 00:05:03,925
 Start with the part under the square root.
 
-100
-00:05:00,445 --> 00:05:04,426
+102
+00:05:04,211 --> 00:05:07,120
 b squared minus four a c is
 thirty-six minus twenty-four,
 
-101
-00:05:04,446 --> 00:05:05,553
+103
+00:05:07,140 --> 00:05:08,210
 which is twelve.
 
-102
-00:05:05,670 --> 00:05:09,650
+104
+00:05:08,257 --> 00:05:11,665
 So x equals six, plus or minus
 the square root of twelve,
 
-103
-00:05:09,670 --> 00:05:10,650
+105
+00:05:11,685 --> 00:05:12,737
 all over four.
 
-104
-00:05:10,670 --> 00:05:13,543
+106
+00:05:12,757 --> 00:05:15,486
 The square root of
 twelve is two root three.
 
-105
-00:05:13,563 --> 00:05:18,079
+107
+00:05:15,506 --> 00:05:19,307
 Divide every term by two, and you
 get three plus or minus root three,
 
-106
-00:05:18,099 --> 00:05:19,293
+108
+00:05:19,327 --> 00:05:20,380
 all over two.
 
-107
-00:05:19,313 --> 00:05:20,799
+109
+00:05:20,400 --> 00:05:21,685
 The answer is B.
 
-108
-00:05:20,819 --> 00:05:25,406
+110
+00:05:21,762 --> 00:05:25,992
 C is what you get if you
 divide by two instead of two a.
 
-109
-00:05:25,426 --> 00:05:28,727
+111
+00:05:26,012 --> 00:05:29,190
 D comes from adding four a
 c instead of subtracting it.
 
-110
-00:05:28,747 --> 00:05:31,726
+112
+00:05:29,655 --> 00:05:32,655
 And A uses b instead of negative b.
 
-111
-00:05:31,746 --> 00:05:34,569
+113
+00:05:33,155 --> 00:05:35,869
 Here, negative b is positive six.
 
-112
-00:05:34,593 --> 00:05:35,930
+114
+00:05:35,933 --> 00:05:37,326
 Desmos check.
 
-113
-00:05:35,950 --> 00:05:39,680
+115
+00:05:37,647 --> 00:05:41,020
 Graph y equals two x squared
 minus six x plus three,
 
-114
-00:05:39,700 --> 00:05:41,466
+116
+00:05:41,040 --> 00:05:42,861
 and click the x intercepts.
 
-115
-00:05:41,486 --> 00:05:46,894
+117
+00:05:43,289 --> 00:05:47,897
 You get about zero point six three
 four and two point three six six.
 
-116
-00:05:46,914 --> 00:05:50,466
+118
+00:05:48,147 --> 00:05:50,627
 Then type three plus
 root three, all over two,
 
-117
-00:05:50,486 --> 00:05:52,057
+119
+00:05:50,647 --> 00:05:52,111
 on its own line.
 
-118
-00:05:52,521 --> 00:05:55,394
+120
+00:05:52,826 --> 00:05:55,127
 Desmos shows two point three six six.
 
-119
-00:05:55,414 --> 00:05:56,479
+121
+00:05:55,147 --> 00:05:56,237
 It matches.
 
-120
-00:05:56,499 --> 00:05:59,978
+122
+00:05:56,257 --> 00:05:59,094
 The part under the square
 root, b squared minus four a c,
 
-121
-00:05:59,998 --> 00:06:01,300
+123
+00:05:59,114 --> 00:06:00,523
 is called the discriminant.
 
-122
-00:06:01,320 --> 00:06:04,907
+124
+00:06:00,543 --> 00:06:04,059
 It tells you how many real
 solutions there are without solving.
 
-123
-00:06:04,927 --> 00:06:06,693
+125
+00:06:04,079 --> 00:06:05,416
 Positive means two.
 
-124
-00:06:06,713 --> 00:06:08,729
+126
+00:06:05,436 --> 00:06:07,201
 Zero means exactly one.
 
-125
-00:06:08,749 --> 00:06:10,446
+127
+00:06:07,221 --> 00:06:08,613
 Negative means none.
 
-126
-00:06:10,466 --> 00:06:14,553
+128
+00:06:08,653 --> 00:06:13,403
 On a graph, that's how many times
 the parabola meets the x axis.
 
-127
-00:06:14,573 --> 00:06:17,802
+129
+00:06:13,546 --> 00:06:16,526
 It crosses twice, touches
 once at the vertex,
 
-128
-00:06:17,822 --> 00:06:19,235
+130
+00:06:16,546 --> 00:06:17,843
 or never reaches it.
 
-129
-00:06:19,255 --> 00:06:20,398
+131
+00:06:17,863 --> 00:06:19,149
 Question four.
 
-130
-00:06:20,505 --> 00:06:24,842
+132
+00:06:19,327 --> 00:06:23,486
 In the equation nine x squared
 minus twelve x plus c equals zero,
 
-131
-00:06:24,862 --> 00:06:26,148
+133
+00:06:23,506 --> 00:06:24,863
 c is a constant.
 
-132
-00:06:26,326 --> 00:06:29,592
+134
+00:06:24,899 --> 00:06:27,629
 If the equation has
 exactly one real solution,
 
-133
-00:06:29,612 --> 00:06:31,434
+135
+00:06:27,649 --> 00:06:29,149
 what is the value of c?
 
-134
-00:06:31,517 --> 00:06:33,159
+136
+00:06:29,247 --> 00:06:30,354
 Pause and try it.
 
-135
-00:06:36,390 --> 00:06:40,212
+137
+00:06:33,564 --> 00:06:37,170
 Exactly one solution means
 the discriminant equals zero.
 
-136
-00:06:40,390 --> 00:06:42,549
+138
+00:06:38,064 --> 00:06:40,079
 b squared is negative twelve squared,
 
-137
-00:06:42,569 --> 00:06:43,869
+139
+00:06:40,099 --> 00:06:41,186
 which is one hundred forty-four.
 
-138
-00:06:43,889 --> 00:06:49,477
+140
+00:06:41,206 --> 00:06:47,671
 Four a c is four times nine
 times c, or thirty-six c.
 
-139
-00:06:49,497 --> 00:06:53,727
+141
+00:06:48,349 --> 00:06:51,651
 So one hundred forty-four
 minus thirty-six c equals zero,
 
-140
-00:06:53,747 --> 00:06:55,447
+142
+00:06:51,671 --> 00:06:53,135
 and c equals four.
 
-141
-00:06:55,467 --> 00:06:56,304
+143
+00:06:53,192 --> 00:06:54,192
 Check it.
 
-142
-00:06:56,324 --> 00:07:00,768
+144
+00:06:54,263 --> 00:06:58,636
 Nine x squared minus twelve x
 plus four is three x minus two,
 
-143
-00:07:00,788 --> 00:07:03,823
+145
+00:06:58,656 --> 00:07:01,442
 squared, a perfect
 square with one solution.
 
-144
-00:07:04,038 --> 00:07:09,375
+146
+00:07:01,692 --> 00:07:06,585
 In Desmos, graph y equals nine
 x squared minus twelve x plus c,
 
-145
-00:07:09,395 --> 00:07:14,277
+147
+00:07:06,835 --> 00:07:11,192
 add a slider for c, and drag until
 the parabola just touches the x axis.
 
-146
-00:07:14,297 --> 00:07:16,617
+148
+00:07:11,219 --> 00:07:12,969
 That happens at c equals four.
 
-147
-00:07:16,665 --> 00:07:18,109
+149
+00:07:13,016 --> 00:07:14,337
 Question five.
 
-148
-00:07:18,129 --> 00:07:21,787
+150
+00:07:14,765 --> 00:07:18,802
 A company models its daily
 profit P, in dollars,
 
-149
-00:07:21,807 --> 00:07:26,716
+151
+00:07:18,944 --> 00:07:22,924
 from selling a product at a price of p
 dollars with the function P of p equals
 
-150
-00:07:26,736 --> 00:07:30,179
+152
+00:07:22,944 --> 00:07:25,852
 negative five p squared,
 plus two hundred p,
 
-151
-00:07:30,199 --> 00:07:32,055
+153
+00:07:25,872 --> 00:07:27,335
 minus one thousand two hundred.
 
-152
-00:07:32,075 --> 00:07:35,412
+154
+00:07:27,355 --> 00:07:30,691
 According to the model, what
 is the maximum daily profit,
 
-153
-00:07:35,432 --> 00:07:36,526
+155
+00:07:30,711 --> 00:07:31,784
 in dollars?
 
-154
-00:07:36,546 --> 00:07:38,189
+156
+00:07:31,829 --> 00:07:32,936
 Pause and try it.
 
-155
-00:07:42,419 --> 00:07:46,542
+157
+00:07:37,146 --> 00:07:40,733
 The leading coefficient is negative,
 so the parabola opens down,
 
-156
-00:07:46,562 --> 00:07:48,828
+158
+00:07:40,753 --> 00:07:42,753
 and the vertex is the maximum.
 
-157
-00:07:48,848 --> 00:07:53,184
+159
+00:07:43,217 --> 00:07:47,539
 The p coordinate of the vertex
 is negative b over two a.
 
-158
-00:07:53,204 --> 00:07:55,757
+160
+00:07:48,288 --> 00:07:51,054
 That's negative two
 hundred over negative ten,
 
-159
-00:07:55,777 --> 00:07:56,899
+161
+00:07:51,074 --> 00:07:52,289
 which is twenty.
 
-160
-00:07:56,919 --> 00:07:59,101
+162
+00:07:52,610 --> 00:07:54,425
 Twenty dollars is the best price.
 
-161
-00:07:59,121 --> 00:08:00,550
+163
+00:07:54,445 --> 00:07:57,353
 But they asked for the profit.
 
-162
-00:08:00,800 --> 00:08:02,085
+164
+00:07:57,373 --> 00:07:58,373
 Plug in twenty.
 
-163
-00:08:02,300 --> 00:08:06,207
+165
+00:07:58,552 --> 00:08:01,445
 Negative five times four hundred
 is negative two thousand.
 
-164
-00:08:06,227 --> 00:08:09,477
+166
+00:08:02,516 --> 00:08:04,730
 Two hundred times twenty is four thousand.
 
-165
-00:08:09,513 --> 00:08:11,708
+167
+00:08:05,623 --> 00:08:07,888
 Negative two thousand, plus four thousand,
 
-166
-00:08:11,728 --> 00:08:14,672
+168
+00:08:07,908 --> 00:08:10,659
 minus one thousand two
 hundred, is eight hundred.
 
-167
-00:08:14,692 --> 00:08:16,264
+169
+00:08:11,231 --> 00:08:13,909
 The answer is B.
 
-168
-00:08:16,310 --> 00:08:17,361
+170
+00:08:13,978 --> 00:08:15,621
 Twenty is the trap.
 
-169
-00:08:17,381 --> 00:08:19,452
+171
+00:08:15,764 --> 00:08:17,548
 It's the price, not the profit.
 
-170
-00:08:19,524 --> 00:08:22,540
+172
+00:08:18,264 --> 00:08:21,014
 Two thousand eight hundred
 drops the squared term.
 
-171
-00:08:22,560 --> 00:08:25,214
+173
+00:08:21,585 --> 00:08:24,191
 Four thousand eight hundred
 gets its sign wrong.
 
-172
-00:08:25,234 --> 00:08:28,270
+174
+00:08:24,268 --> 00:08:27,482
 In Desmos, type it with x instead of p,
 
-173
-00:08:28,342 --> 00:08:30,679
+175
+00:08:27,768 --> 00:08:30,376
 zoom out, and click the top of the curve.
 
-174
-00:08:30,699 --> 00:08:33,270
+176
+00:08:30,554 --> 00:08:32,947
 Desmos shows twenty, eight hundred.
 
-175
-00:08:33,483 --> 00:08:35,139
+177
+00:08:33,339 --> 00:08:35,375
 The second number is the profit.
 
-176
-00:08:35,159 --> 00:08:36,032
+178
+00:08:35,456 --> 00:08:36,742
 Last concept.
 
-177
-00:08:36,052 --> 00:08:39,996
+179
+00:08:37,171 --> 00:08:41,151
 For any quadratic, a x
 squared plus b x plus c,
 
-178
-00:08:40,016 --> 00:08:42,245
+180
+00:08:41,171 --> 00:08:43,849
 the solutions add up to negative b over a,
 
-179
-00:08:42,265 --> 00:08:44,960
+181
+00:08:44,063 --> 00:08:46,135
 and they multiply to c over a.
 
-180
-00:08:44,980 --> 00:08:47,766
+182
+00:08:47,277 --> 00:08:49,635
 You don't have to find
 the solutions to use this.
 
-181
-00:08:47,829 --> 00:08:48,737
+183
+00:08:49,703 --> 00:08:50,846
 Quick example.
 
-182
-00:08:48,757 --> 00:08:52,987
+184
+00:08:51,096 --> 00:08:55,167
 x squared minus seven x plus
 ten has solutions two and five.
 
-183
-00:08:53,007 --> 00:08:55,522
+185
+00:08:55,203 --> 00:08:57,917
 They add to seven, which
 is negative b over a.
 
-184
-00:08:55,542 --> 00:08:59,164
+186
+00:08:58,489 --> 00:09:01,346
 And they multiply to
 ten, which is c over a.
 
-185
-00:08:59,184 --> 00:09:01,220
+187
+00:09:01,398 --> 00:09:03,898
 Question six, the hardest one.
 
-186
-00:09:01,290 --> 00:09:06,377
+188
+00:09:04,648 --> 00:09:08,520
 The solutions to the equation three x
 squared plus b x plus c equals zero,
 
-187
-00:09:06,397 --> 00:09:10,898
+189
+00:09:08,540 --> 00:09:12,220
 where b and c are constants, are
 four and negative two thirds.
 
-188
-00:09:10,970 --> 00:09:13,541
+190
+00:09:12,469 --> 00:09:14,398
 What is the value of b plus c?
 
-189
-00:09:13,565 --> 00:09:14,581
+191
+00:09:14,485 --> 00:09:15,628
 Pause and try it.
 
-190
-00:09:14,601 --> 00:09:16,101
+192
+00:09:15,843 --> 00:09:17,521
 Take a little longer on this one.
 
-191
-00:09:20,337 --> 00:09:21,444
+193
+00:09:21,802 --> 00:09:22,944
 Start with the sum.
 
-192
-00:09:21,552 --> 00:09:23,960
+194
+00:09:23,551 --> 00:09:26,659
 Four plus negative two
 thirds is ten thirds.
 
-193
-00:09:23,980 --> 00:09:27,853
+195
+00:09:26,873 --> 00:09:30,515
 The sum is negative b
 over a, and a is three.
 
-194
-00:09:27,873 --> 00:09:30,638
+196
+00:09:30,872 --> 00:09:33,924
 So negative b over
 three equals ten thirds,
 
-195
-00:09:30,658 --> 00:09:32,659
+197
+00:09:33,944 --> 00:09:35,766
 and b equals negative ten.
 
-196
-00:09:32,686 --> 00:09:33,487
+198
+00:09:35,818 --> 00:09:36,818
 Now the product.
 
-197
-00:09:33,507 --> 00:09:37,436
+199
+00:09:37,246 --> 00:09:40,353
 Four times negative two thirds
 is negative eight thirds.
 
-198
-00:09:37,507 --> 00:09:42,309
+200
+00:09:41,032 --> 00:09:46,762
 The product is c over a, so c over
 three equals negative eight thirds,
 
-199
-00:09:42,329 --> 00:09:44,523
+201
+00:09:46,782 --> 00:09:49,032
 and c equals negative eight.
 
-200
-00:09:44,543 --> 00:09:48,594
+202
+00:09:49,460 --> 00:09:53,369
 So b plus c is negative
 ten plus negative eight,
 
-201
-00:09:48,614 --> 00:09:50,363
+203
+00:09:53,389 --> 00:09:54,853
 which is negative eighteen.
 
-202
-00:09:50,383 --> 00:09:52,577
+204
+00:09:54,907 --> 00:09:56,993
 You can confirm it with factored form.
 
-203
-00:09:52,597 --> 00:09:56,041
+205
+00:09:57,013 --> 00:10:00,050
 A solution of four means
 a factor of x minus four.
 
-204
-00:09:56,061 --> 00:10:01,240
+206
+00:10:00,157 --> 00:10:03,814
 A solution of negative two thirds
 means a factor of three x plus two.
 
-205
-00:10:01,310 --> 00:10:06,490
+207
+00:10:03,834 --> 00:10:08,763
 Multiply them, and you get three
 x squared minus ten x minus eight.
 
-206
-00:10:06,633 --> 00:10:08,419
+208
+00:10:09,050 --> 00:10:11,085
 Same b, same c.
 
-207
-00:10:08,450 --> 00:10:10,128
+209
+00:10:11,109 --> 00:10:13,145
 The trap is forgetting the a.
 
-208
-00:10:10,378 --> 00:10:15,144
+210
+00:10:14,859 --> 00:10:19,822
 If you treat the sum as just
 negative b and the product as just c,
 
-209
-00:10:15,164 --> 00:10:18,450
+211
+00:10:19,895 --> 00:10:23,787
 you get fractions for b and
 c, and the wrong answer.
 
-210
-00:10:18,525 --> 00:10:20,219
+212
+00:10:23,836 --> 00:10:25,550
 Here's the test-day checklist.
 
-211
-00:10:20,239 --> 00:10:23,541
+213
+00:10:25,835 --> 00:10:29,995
 First, read exactly what
 they want: the solutions,
 
-212
-00:10:23,561 --> 00:10:26,218
+214
+00:10:30,015 --> 00:10:33,066
 the vertex, a maximum or minimum value,
 
-213
-00:10:26,238 --> 00:10:29,204
+215
+00:10:33,086 --> 00:10:35,764
 the number of solutions,
 or a sum or product.
 
-214
-00:10:29,347 --> 00:10:31,488
+216
+00:10:36,086 --> 00:10:37,835
 Then reach for the matching tool.
 
-215
-00:10:31,508 --> 00:10:37,258
+217
+00:10:37,934 --> 00:10:42,577
 Solutions: factor if it's quick,
 otherwise use the formula or Desmos.
 
-216
-00:10:37,436 --> 00:10:41,864
+218
+00:10:43,005 --> 00:10:46,343
 Vertex, max, or min:
 negative b over two a,
 
-217
-00:10:42,079 --> 00:10:45,258
+219
+00:10:46,363 --> 00:10:49,255
 vertex form, or click the
 top or bottom of the graph.
 
-218
-00:10:46,008 --> 00:10:48,793
+220
+00:10:49,863 --> 00:10:52,220
 Number of solutions: the discriminant.
 
-219
-00:10:49,115 --> 00:10:54,579
+221
+00:10:52,541 --> 00:10:56,327
 Sum or product: negative
 b over a, and c over a.
 
-220
-00:10:54,601 --> 00:10:57,530
+222
+00:10:56,408 --> 00:10:59,730
 And before you lock in an
 answer, reread the question.
 
-221
-00:10:58,315 --> 00:11:00,458
+223
+00:11:00,480 --> 00:11:02,551
 A vertex has two numbers.
 
-222
-00:11:00,565 --> 00:11:02,851
+224
+00:11:02,980 --> 00:11:05,551
 Make sure you're giving
 the one they asked for.
 
-223
-00:11:02,885 --> 00:11:03,615
+225
+00:11:05,634 --> 00:11:06,634
 Recap.
 
-224
-00:11:03,635 --> 00:11:06,455
+226
+00:11:06,991 --> 00:11:09,348
 Standard form shows the y intercept.
 
-225
-00:11:06,528 --> 00:11:09,686
+227
+00:11:09,777 --> 00:11:12,599
 Factored form shows the
 roots, with the signs flipped.
 
-226
-00:11:09,706 --> 00:11:13,114
+228
+00:11:13,241 --> 00:11:16,241
 Vertex form shows the
 vertex, and the max or min.
 
-227
-00:11:13,134 --> 00:11:15,186
+229
+00:11:17,563 --> 00:11:19,292
 The discriminant counts solutions.
 
-228
-00:11:15,206 --> 00:11:20,691
+230
+00:11:19,312 --> 00:11:23,634
 And the solutions add to negative
 b over a and multiply to c over a.
 
-229
-00:11:20,711 --> 00:11:25,226
+231
+00:11:23,691 --> 00:11:27,599
 Every question in this video was written
 for this video in the style of the real
 
-230
-00:11:25,246 --> 00:11:26,048
+232
+00:11:27,619 --> 00:11:28,619
 test.
 
-231
-00:11:26,068 --> 00:11:30,262
+233
+00:11:28,869 --> 00:11:32,849
 For official practice, the College Board's
 free Question Bank lets you filter by
 
-232
-00:11:30,282 --> 00:11:32,911
+234
+00:11:32,869 --> 00:11:35,476
 domain, skill, and difficulty.
 
-233
-00:11:32,931 --> 00:11:34,681
+235
+00:11:35,552 --> 00:11:37,267
 If this helped, subscribe.
 
-234
-00:11:34,895 --> 00:11:37,590
+236
+00:11:37,838 --> 00:11:40,854
 Next up is linear functions
 and word problems,
 
-235
-00:11:37,610 --> 00:11:41,074
+237
+00:11:40,874 --> 00:11:43,980
 including how to read what
 the slope actually means.

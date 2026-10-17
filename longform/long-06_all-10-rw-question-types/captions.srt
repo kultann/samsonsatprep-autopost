@@ -1,1467 +1,1479 @@
 1
-00:00:00,182 --> 00:00:05,734
-Every question in SAT Reading and
-Writing tests one of ten official skills.
+00:00:00,182 --> 00:00:03,877
+Every SAT Reading and Writing
+question tests one of just ten skills.
 
 2
-00:00:05,754 --> 00:00:08,377
-If you can name the skill
-in the first few seconds,
+00:00:03,897 --> 00:00:06,432
+And each skill has its own trap.
 
 3
-00:00:08,397 --> 00:00:10,197
-you already know what the question wants,
+00:00:06,468 --> 00:00:08,448
+A common word with a second meaning.
 
 4
-00:00:10,217 --> 00:00:11,754
-and how to attack it.
+00:00:08,468 --> 00:00:11,111
+A true detail that isn't the main idea.
 
 5
-00:00:11,789 --> 00:00:15,967
-The most common mistake is reading
-every question the same way.
+00:00:11,540 --> 00:00:13,896
+A plural noun right before the blank.
 
 6
-00:00:16,467 --> 00:00:20,396
-A vocabulary question and a data
-question need different moves.
+00:00:14,040 --> 00:00:16,520
+And the sneakiest one
+looks completely right,
 
 7
-00:00:20,574 --> 00:00:24,090
-So for each type: how
-to spot it, the method,
+00:00:16,540 --> 00:00:18,433
+because it reads the data correctly.
 
 8
-00:00:24,110 --> 00:00:28,341
+00:00:18,467 --> 00:00:21,323
+That's the data question, skill five b,
+
+9
+00:00:21,574 --> 00:00:25,753
+so stay for it, because every
+wrong choice is accurate.
+
+10
+00:00:26,288 --> 00:00:30,038
+For each skill: how to
+spot it, the method,
+
+11
+00:00:30,324 --> 00:00:35,110
 one SAT-style question
 to try, and the trap.
 
-9
-00:00:28,361 --> 00:00:30,111
-A quick note on the count.
-
-10
-00:00:30,147 --> 00:00:32,091
+12
+00:00:35,164 --> 00:00:37,072
 Command of Evidence comes in two formats,
 
-11
-00:00:32,111 --> 00:00:35,091
+13
+00:00:37,092 --> 00:00:40,501
 text and data, but
 officially it's one skill.
 
-12
-00:00:35,111 --> 00:00:38,039
+14
+00:00:40,521 --> 00:00:43,342
 So, ten skills and eleven
 practice questions.
 
-13
-00:00:38,082 --> 00:00:40,689
+15
+00:00:43,556 --> 00:00:46,012
+Keep score, and see if
+you can get all eleven.
+
+16
+00:00:46,032 --> 00:00:48,104
 The ten skills sit in four domains.
 
-14
-00:00:40,760 --> 00:00:44,455
+17
+00:00:48,567 --> 00:00:51,711
 Craft and Structure is about
 twenty-eight percent of the section.
 
-15
-00:00:44,475 --> 00:00:47,474
+18
+00:00:51,961 --> 00:00:54,425
 Information and Ideas is about twenty-six.
 
-16
-00:00:47,653 --> 00:00:49,847
+19
+00:00:54,996 --> 00:00:57,334
 Standard English Conventions,
 the grammar questions,
 
-17
-00:00:49,867 --> 00:00:51,188
+20
+00:00:57,354 --> 00:00:58,496
 is about twenty-six.
 
-18
-00:00:51,296 --> 00:00:53,832
+21
+00:00:58,531 --> 00:01:00,711
 And Expression of Ideas is about twenty.
 
-19
-00:00:53,877 --> 00:00:57,857
+22
+00:01:00,753 --> 00:01:06,396
 On the real test, questions that test
 similar skills are grouped together,
 
-20
-00:00:57,877 --> 00:00:59,841
+23
+00:01:06,682 --> 00:01:08,502
 from easiest to hardest.
 
-21
-00:00:59,948 --> 00:01:03,626
+24
+00:01:09,288 --> 00:01:13,075
 So once you spot a type, you'll
 often see a few in a row.
 
-22
-00:01:03,649 --> 00:01:06,057
+25
+00:01:13,115 --> 00:01:15,971
 Skill one: Words in Context.
 
-23
-00:01:06,077 --> 00:01:10,165
+26
+00:01:16,722 --> 00:01:20,631
 There's a blank in the text, and the
 question asks for the most logical and
 
-24
-00:01:10,185 --> 00:01:12,343
+27
+00:01:20,651 --> 00:01:22,401
 precise word or phrase.
 
-25
-00:01:12,363 --> 00:01:16,898
+28
+00:01:22,901 --> 00:01:26,544
 A second version asks what a word
 in the text most nearly means.
 
-26
-00:01:16,986 --> 00:01:21,573
+29
+00:01:26,601 --> 00:01:31,010
 The method: cover the choices, find the
 clue that tells you what the blank must
 
-27
-00:01:21,593 --> 00:01:24,359
+30
+00:01:31,030 --> 00:01:33,815
 mean, and predict your own simple word.
 
-28
-00:01:24,379 --> 00:01:25,879
+31
+00:01:33,850 --> 00:01:34,762
 Then match it.
 
-29
-00:01:25,923 --> 00:01:26,923
+32
+00:01:34,782 --> 00:01:35,782
 Try this one.
 
-30
-00:01:27,566 --> 00:01:30,296
+33
+00:01:38,996 --> 00:01:41,817
 Although the bridge is
 more than a century old,
 
-31
-00:01:30,316 --> 00:01:35,314
+34
+00:01:41,853 --> 00:01:46,610
 the engineers who inspected it last
 year judged it blank its steel supports
 
-32
-00:01:35,334 --> 00:01:39,369
+35
+00:01:46,630 --> 00:01:50,130
 showed little corrosion, and
 its foundations had not shifted.
 
-33
-00:01:39,389 --> 00:01:40,425
+36
+00:01:50,182 --> 00:01:51,289
 Pause and try it.
 
-34
-00:01:43,640 --> 00:01:44,870
+37
+00:01:54,540 --> 00:01:55,861
 There are two clues.
 
-35
-00:01:44,890 --> 00:01:48,155
+38
+00:01:56,183 --> 00:01:59,647
 Although sets up a
 contrast: the bridge is old,
 
-36
-00:01:48,175 --> 00:01:50,405
+39
+00:01:59,897 --> 00:02:02,325
 but something unexpected is true.
 
-37
-00:01:50,425 --> 00:01:54,067
+40
+00:02:02,754 --> 00:02:05,397
 And the colon says what
 follows explains the blank:
 
-38
-00:01:54,247 --> 00:01:57,154
+41
+00:02:05,790 --> 00:02:08,361
 little corrosion, solid foundations.
 
-39
-00:01:57,174 --> 00:01:59,048
+42
+00:02:08,754 --> 00:02:10,325
 So the bridge is in good shape.
 
-40
-00:01:59,068 --> 00:02:01,104
+43
+00:02:11,611 --> 00:02:13,433
 My prediction: solid.
 
-41
-00:02:01,179 --> 00:02:04,087
+44
+00:02:13,498 --> 00:02:16,512
 Sound can mean exactly
 that: in good condition,
 
-42
-00:02:04,107 --> 00:02:04,909
+45
+00:02:16,532 --> 00:02:17,533
 solid.
 
-43
-00:02:04,929 --> 00:02:06,501
+46
+00:02:17,748 --> 00:02:19,069
 The answer is B.
 
-44
-00:02:06,536 --> 00:02:10,357
+47
+00:02:19,462 --> 00:02:23,283
 Fragile is the opposite,
 and nothing supports ornate.
 
-45
-00:02:10,644 --> 00:02:15,945
+48
+00:02:23,962 --> 00:02:27,835
 Obsolete plays on century old, but
 the evidence is about condition,
 
-46
-00:02:15,965 --> 00:02:17,269
+49
+00:02:27,855 --> 00:02:29,319
 not being out of date.
 
-47
-00:02:17,289 --> 00:02:18,539
+50
+00:02:29,355 --> 00:02:30,533
 Here's the trap.
 
-48
-00:02:18,646 --> 00:02:21,860
+51
+00:02:30,712 --> 00:02:33,962
 If you only know sound as
 a noise, you'll skip it.
 
-49
-00:02:22,003 --> 00:02:25,610
+52
+00:02:34,748 --> 00:02:37,569
 The SAT likes common words
 with second meanings.
 
-50
-00:02:25,789 --> 00:02:29,054
+53
+00:02:37,747 --> 00:02:40,355
 If a familiar word seems odd in the blank,
 
-51
-00:02:29,074 --> 00:02:30,538
+54
+00:02:40,568 --> 00:02:41,855
 check its other meanings.
 
-52
-00:02:30,574 --> 00:02:33,376
+55
+00:02:41,926 --> 00:02:44,675
 Skill two: Text Structure and Purpose.
 
-53
-00:02:33,396 --> 00:02:36,412
+56
+00:02:45,855 --> 00:02:48,228
 These ask why the author wrote the text,
 
-54
-00:02:36,432 --> 00:02:38,519
+57
+00:02:48,248 --> 00:02:50,390
 or what one part of it is doing.
 
-55
-00:02:38,539 --> 00:02:41,411
+58
+00:02:50,426 --> 00:02:53,048
 Look for main purpose, overall structure,
 
-56
-00:02:41,431 --> 00:02:44,074
+59
+00:02:53,068 --> 00:02:55,212
 or the function of the
 underlined sentence.
 
-57
-00:02:44,119 --> 00:02:48,671
+60
+00:02:55,271 --> 00:02:59,680
 The method: describe what the
 author is doing in your own words,
 
-58
-00:02:48,691 --> 00:02:50,298
+61
+00:02:59,700 --> 00:03:00,751
 starting with a verb.
 
-59
-00:02:50,334 --> 00:02:51,511
+62
+00:03:00,771 --> 00:03:01,858
 Explains.
 
-60
-00:02:51,761 --> 00:02:52,798
+63
+00:03:01,878 --> 00:03:02,715
 Argues.
 
-61
-00:02:52,834 --> 00:02:53,991
+64
+00:03:02,735 --> 00:03:03,608
 Describes.
 
-62
-00:02:54,011 --> 00:02:55,119
+65
+00:03:03,628 --> 00:03:04,700
 Compares.
 
-63
-00:02:55,333 --> 00:02:57,787
+66
+00:03:05,377 --> 00:03:07,771
 The right answer's verb has to match.
 
-64
-00:02:57,807 --> 00:02:58,807
+67
+00:03:07,828 --> 00:03:08,828
 Try it.
 
-65
-00:02:58,985 --> 00:03:02,858
+68
+00:03:09,400 --> 00:03:12,987
 For seventy-six years after
 its discovery in 1930,
 
-66
-00:03:02,878 --> 00:03:06,485
+69
+00:03:13,007 --> 00:03:16,844
 Pluto was considered the ninth
 planet in our solar system.
 
-67
-00:03:06,592 --> 00:03:11,393
+70
+00:03:16,864 --> 00:03:21,272
 In 2006, however, the International
 Astronomical Union adopted a
 
-68
-00:03:11,413 --> 00:03:15,164
+71
+00:03:21,292 --> 00:03:25,007
 formal definition of a planet
 that included a new requirement.
 
-69
-00:03:15,229 --> 00:03:19,658
+72
+00:03:25,082 --> 00:03:28,831
 A planet must have cleared the neighborhood
 around its orbit of other objects.
 
-70
-00:03:19,908 --> 00:03:24,531
+73
+00:03:29,154 --> 00:03:33,062
 Because Pluto shares its orbital zone
 with many other icy bodies in the Kuiper
 
-71
-00:03:24,551 --> 00:03:28,086
+74
+00:03:33,082 --> 00:03:36,225
 Belt, it was reclassified
 as a dwarf planet.
 
-72
-00:03:28,228 --> 00:03:31,586
+75
+00:03:36,725 --> 00:03:39,582
 Which choice best states the
 main purpose of the text?
 
-73
-00:03:31,619 --> 00:03:32,655
+76
+00:03:39,682 --> 00:03:40,789
 Pause and try it.
 
-74
-00:03:35,870 --> 00:03:41,263
+77
+00:03:44,039 --> 00:03:49,575
 In my own words: the text explains why
 Pluto stopped being called a planet.
 
-75
-00:03:41,299 --> 00:03:45,493
+78
+00:03:50,182 --> 00:03:56,038
 The verb is explains, and the topic
 is a change in classification.
 
-76
-00:03:45,513 --> 00:03:46,836
+79
+00:03:56,325 --> 00:03:57,575
 That's choice A.
 
-77
-00:03:46,856 --> 00:03:49,157
+80
+00:03:57,609 --> 00:03:59,966
 B has the right topic but the wrong verb:
 
-78
-00:03:49,177 --> 00:03:51,264
+81
+00:04:00,037 --> 00:04:01,966
 the text never argues anything.
 
-79
-00:03:51,284 --> 00:03:53,800
+82
+00:04:02,716 --> 00:04:05,181
 C grabs a detail mentioned in passing,
 
-80
-00:03:53,820 --> 00:03:55,121
+83
+00:04:05,288 --> 00:04:06,609
 the discovery year.
 
-81
-00:03:55,141 --> 00:03:58,141
+84
+00:04:07,252 --> 00:04:10,681
 And D is about size, which never comes up.
 
-82
-00:03:58,204 --> 00:04:02,561
+85
+00:04:10,749 --> 00:04:14,606
 Skill three: Cross-Text Connections,
 the only type with two texts.
 
-83
-00:04:02,883 --> 00:04:06,898
+86
+00:04:15,070 --> 00:04:17,835
 The question usually starts
 with based on the texts,
 
-84
-00:04:06,918 --> 00:04:10,346
+87
+00:04:17,855 --> 00:04:20,784
 and asks how one author
 would respond to the other.
 
-85
-00:04:10,379 --> 00:04:13,894
+88
+00:04:20,874 --> 00:04:24,104
 The method: sum up each text in one line,
 
-86
-00:04:13,914 --> 00:04:15,843
+89
+00:04:24,124 --> 00:04:25,946
 then name the relationship.
 
-87
-00:04:15,986 --> 00:04:19,537
+90
+00:04:26,231 --> 00:04:29,659
 Agree, disagree, or partly
 agree and add something.
 
-88
-00:04:19,557 --> 00:04:20,983
+91
+00:04:29,731 --> 00:04:31,053
 Watch for that last one.
 
-89
-00:04:21,003 --> 00:04:22,039
+92
+00:04:31,074 --> 00:04:32,110
 Text one.
 
-90
-00:04:22,860 --> 00:04:27,519
+93
+00:04:33,288 --> 00:04:36,375
 Many scientists attribute the mass
 extinction that ended the age of the
 
-91
-00:04:27,539 --> 00:04:31,054
+94
+00:04:36,395 --> 00:04:39,089
 dinosaurs, about sixty-six
 million years ago,
 
-92
-00:04:31,074 --> 00:04:33,019
+95
+00:04:39,109 --> 00:04:40,822
 to an asteroid impact.
 
-93
-00:04:33,039 --> 00:04:38,304
+96
+00:04:40,842 --> 00:04:45,250
 The asteroid, which left the Chicxulub
 crater in what is now Mexico,
 
-94
-00:04:38,324 --> 00:04:42,303
+97
+00:04:45,270 --> 00:04:48,679
 threw enough dust and debris into
 the atmosphere to block sunlight,
 
-95
-00:04:42,323 --> 00:04:44,431
+98
+00:04:48,699 --> 00:04:50,556
 causing food chains to collapse.
 
-96
-00:04:44,532 --> 00:04:45,746
+99
+00:04:50,681 --> 00:04:51,716
 Text two.
 
-97
-00:04:45,960 --> 00:04:48,369
+100
+00:04:52,538 --> 00:04:54,696
 Some geologists point to the Deccan Traps,
 
-98
-00:04:48,389 --> 00:04:52,405
+101
+00:04:54,716 --> 00:04:58,088
 a region in India where enormous
 volcanic eruptions occurred over the same
 
-99
-00:04:52,425 --> 00:04:53,289
+102
+00:04:58,108 --> 00:04:58,830
 period.
 
-100
-00:04:53,309 --> 00:04:57,610
+103
+00:04:58,850 --> 00:05:02,866
 These geologists argue that gases
 released by the eruptions altered Earth's
 
-101
-00:04:57,630 --> 00:05:00,039
+104
+00:05:02,886 --> 00:05:05,565
 climate and put ecosystems under stress,
 
-102
-00:05:00,059 --> 00:05:03,725
+105
+00:05:05,921 --> 00:05:09,242
 so the asteroid struck a world
 that was already vulnerable.
 
-103
-00:05:03,745 --> 00:05:08,689
+106
+00:05:09,300 --> 00:05:13,423
 Based on the texts, how would the geologists
 in Text two most likely respond to
 
-104
-00:05:08,709 --> 00:05:10,745
+107
+00:05:13,443 --> 00:05:15,121
 the explanation in Text one?
 
-105
-00:05:10,798 --> 00:05:11,834
+108
+00:05:15,142 --> 00:05:16,250
 Pause and try it.
 
-106
-00:05:16,049 --> 00:05:17,207
+109
+00:05:20,500 --> 00:05:21,821
 One line each.
 
-107
-00:05:17,227 --> 00:05:19,585
+110
+00:05:21,928 --> 00:05:24,980
 Text one: the asteroid did it.
 
-108
-00:05:19,692 --> 00:05:23,314
+111
+00:05:24,000 --> 00:05:29,213
 Text two: the asteroid hit a world
 already weakened by volcanoes.
 
-109
-00:05:23,334 --> 00:05:25,672
+112
+00:05:29,427 --> 00:05:31,373
 So Text two doesn't deny the impact.
 
-110
-00:05:25,692 --> 00:05:27,493
+113
+00:05:31,393 --> 00:05:32,821
 It adds a second cause.
 
-111
-00:05:27,513 --> 00:05:31,085
+114
+00:05:33,427 --> 00:05:37,500
 The answer is C: the
 explanation is incomplete.
 
-112
-00:05:31,166 --> 00:05:32,324
+115
+00:05:37,546 --> 00:05:38,831
 The trap is A.
 
-113
-00:05:32,344 --> 00:05:37,110
+116
+00:05:39,474 --> 00:05:44,688
 Text two says the asteroid struck, so
 these geologists don't reject the impact.
 
-114
-00:05:37,130 --> 00:05:41,717
+117
+00:05:44,902 --> 00:05:49,759
 B goes too far the other way, and the
 crater's size in D isn't in either text.
 
-115
-00:05:41,737 --> 00:05:44,879
+118
+00:05:49,796 --> 00:05:53,224
 On cross-text questions,
 watch for the extreme answer.
 
-116
-00:05:44,913 --> 00:05:47,785
+119
+00:05:53,257 --> 00:05:56,293
 Next domain: Information and Ideas.
 
-117
-00:05:47,805 --> 00:05:50,699
+120
+00:05:56,614 --> 00:05:59,293
 Skill four is Central Ideas and Details.
 
-118
-00:05:50,735 --> 00:05:55,269
+121
+00:05:59,543 --> 00:06:03,685
 The question asks for the main idea, or
 for what's true according to the text.
 
-119
-00:05:55,289 --> 00:05:57,912
+122
+00:06:03,793 --> 00:06:06,901
 The method: before you
 look at the choices,
 
-120
-00:05:57,932 --> 00:06:00,627
+123
+00:06:07,008 --> 00:06:10,043
 sum up the whole text in one sentence.
 
-121
-00:06:00,647 --> 00:06:05,111
+124
+00:06:10,579 --> 00:06:15,543
 The main idea often comes right
 after a word like yet or however.
 
-122
-00:06:05,152 --> 00:06:09,418
+125
+00:06:15,598 --> 00:06:20,185
 Each fall, monarch butterflies from eastern
 North America fly thousands of miles
 
-123
-00:06:09,438 --> 00:06:12,488
+126
+00:06:20,205 --> 00:06:23,026
 to forests in central
 Mexico to spend the winter.
 
-124
-00:06:12,508 --> 00:06:15,811
+127
+00:06:23,384 --> 00:06:26,633
 Yet no single butterfly
 makes the full round trip.
 
-125
-00:06:15,831 --> 00:06:20,366
+128
+00:06:26,811 --> 00:06:31,277
 The monarchs that leave Mexico in spring
 lay eggs on the way north and die.
 
-126
-00:06:20,409 --> 00:06:22,782
+129
+00:06:31,347 --> 00:06:33,970
 Several more generations,
 each living a few weeks,
 
-127
-00:06:22,802 --> 00:06:24,425
+130
+00:06:33,990 --> 00:06:35,827
 carry the population north.
 
-128
-00:06:24,445 --> 00:06:26,996
+131
+00:06:35,847 --> 00:06:38,256
 Then a final generation, which
 can live up to eight months,
 
-129
-00:06:27,016 --> 00:06:28,389
+132
+00:06:38,276 --> 00:06:39,454
 flies south.
 
-130
-00:06:28,409 --> 00:06:31,658
+133
+00:06:39,990 --> 00:06:42,739
 Which choice best states
 the main idea of the text?
 
-131
-00:06:31,683 --> 00:06:32,719
+134
+00:06:42,777 --> 00:06:43,884
 Pause and try it.
 
-132
-00:06:35,934 --> 00:06:39,735
+135
+00:06:47,135 --> 00:06:50,686
 My summary: the round trip
 takes several generations,
 
-133
-00:06:39,755 --> 00:06:41,628
+136
+00:06:50,706 --> 00:06:51,936
 not one butterfly.
 
-134
-00:06:41,648 --> 00:06:42,684
+137
+00:06:51,956 --> 00:06:52,925
 That's D.
 
-135
-00:06:42,860 --> 00:06:45,590
+138
+00:06:52,945 --> 00:06:55,817
 B and C are the traps,
 because both are true.
 
-136
-00:06:45,610 --> 00:06:50,110
+139
+00:06:55,837 --> 00:06:59,603
 The text does say some monarchs live up
 to eight months and winter in Mexico.
 
-137
-00:06:50,395 --> 00:06:53,555
+140
+00:06:59,623 --> 00:07:02,622
 But each is one detail, not
 the point of the whole text.
 
-138
-00:06:53,575 --> 00:06:55,845
+141
+00:07:02,765 --> 00:07:04,695
 And A isn't in the text at all.
 
-139
-00:06:55,865 --> 00:06:59,972
+142
+00:07:04,734 --> 00:07:08,483
 Skill five is Command of Evidence,
 starting with the textual format.
 
-140
-00:07:00,079 --> 00:07:03,415
+143
+00:07:08,841 --> 00:07:11,927
 You get a claim, and the
 question asks which finding,
 
-141
-00:07:03,435 --> 00:07:05,488
+144
+00:07:11,947 --> 00:07:14,070
 if true, would most strongly support it,
 
-142
-00:07:05,508 --> 00:07:07,293
+145
+00:07:14,090 --> 00:07:15,448
 or sometimes weaken it.
 
-143
-00:07:07,329 --> 00:07:11,695
+146
+00:07:15,984 --> 00:07:19,662
 With literature, it asks which
 quotation best illustrates the claim.
 
-144
-00:07:11,715 --> 00:07:15,715
+147
+00:07:19,753 --> 00:07:23,610
 The method: find the exact
 claim and break it into parts.
 
-145
-00:07:15,929 --> 00:07:18,001
+148
+00:07:23,967 --> 00:07:25,931
 The right answer connects all of them.
 
-146
-00:07:18,038 --> 00:07:22,911
+149
+00:07:25,956 --> 00:07:30,079
 In some bird species, individuals living
 in cities sing at a higher pitch than
 
-147
-00:07:22,931 --> 00:07:25,660
+150
+00:07:30,099 --> 00:07:32,277
 members of the same
 species living in forests.
 
-148
-00:07:25,680 --> 00:07:30,232
+151
+00:07:32,670 --> 00:07:36,615
 Some biologists hypothesize that this
 difference is a response to traffic noise,
 
-149
-00:07:30,252 --> 00:07:32,090
+152
+00:07:36,635 --> 00:07:38,277
 which is mostly low-pitched.
 
-150
-00:07:32,110 --> 00:07:36,607
+153
+00:07:38,635 --> 00:07:42,563
 Higher-pitched songs may be easier for
 other birds to hear over the noise.
 
-151
-00:07:36,627 --> 00:07:41,890
+154
+00:07:42,643 --> 00:07:46,858
 Which finding, if true, would most strongly
 support the biologists' hypothesis?
 
-152
-00:07:41,910 --> 00:07:42,946
+155
+00:07:46,933 --> 00:07:48,040
 Pause and try it.
 
-153
-00:07:47,160 --> 00:07:50,139
+156
+00:07:52,290 --> 00:07:54,985
 The hypothesis has two
 parts: traffic noise,
 
-154
-00:07:50,159 --> 00:07:51,498
+157
+00:07:55,005 --> 00:07:56,485
 and higher pitch.
 
-155
-00:07:51,518 --> 00:07:52,926
+158
+00:07:56,505 --> 00:07:57,913
 B connects them.
 
-156
-00:07:52,946 --> 00:07:57,426
+159
+00:07:57,933 --> 00:08:01,806
 Even inside one city, birds sing higher
 where traffic is heavy than where it's
 
-157
-00:07:57,446 --> 00:07:58,211
+160
+00:08:01,826 --> 00:08:02,826
 quiet.
 
-158
-00:07:58,231 --> 00:08:00,033
+161
+00:08:02,898 --> 00:08:04,647
 That points straight at the noise.
 
-159
-00:08:00,053 --> 00:08:01,660
+162
+00:08:04,826 --> 00:08:07,076
 The answer is B.
 
-160
-00:08:01,728 --> 00:08:05,387
+163
+00:08:07,119 --> 00:08:10,170
 A is about how often they sing, not pitch.
 
-161
-00:08:05,407 --> 00:08:08,764
+164
+00:08:10,190 --> 00:08:13,297
 C is about traffic, with
 nothing about songs.
 
-162
-00:08:08,799 --> 00:08:10,850
+165
+00:08:13,547 --> 00:08:15,583
 D compares them to other species.
 
-163
-00:08:10,870 --> 00:08:13,646
+166
+00:08:15,833 --> 00:08:18,225
 Each one matches half the claim at most.
 
-164
-00:08:13,666 --> 00:08:16,487
+167
+00:08:18,294 --> 00:08:22,080
 Same skill, second format: quantitative.
 
-165
-00:08:16,594 --> 00:08:21,074
+168
+00:08:22,508 --> 00:08:27,310
 Now there's a table or a graph, and
 the question asks which choice most
 
-166
-00:08:21,094 --> 00:08:24,738
+169
+00:08:27,330 --> 00:08:30,436
 effectively uses data from
 it to complete the text.
 
-167
-00:08:24,759 --> 00:08:28,131
+170
+00:08:30,521 --> 00:08:34,557
 The method: read the text
 first and find the claim.
 
-168
-00:08:28,151 --> 00:08:31,132
+171
+00:08:34,807 --> 00:08:36,950
 Then check each choice twice.
 
-169
-00:08:31,152 --> 00:08:32,222
+172
+00:08:37,057 --> 00:08:38,057
 Is it accurate?
 
-170
-00:08:32,438 --> 00:08:34,188
+173
+00:08:38,163 --> 00:08:39,770
 And does it support that claim?
 
-171
-00:08:34,219 --> 00:08:36,769
+174
+00:08:39,840 --> 00:08:41,855
 A team of ecologists hypothesized that,
 
-172
-00:08:36,789 --> 00:08:41,592
+175
+00:08:41,875 --> 00:08:46,356
 in a city park, plant species native to
 the region attract more bee visits than
 
-173
-00:08:41,612 --> 00:08:43,163
+176
+00:08:46,376 --> 00:08:48,055
 nonnative species do.
 
-174
-00:08:43,183 --> 00:08:47,126
+177
+00:08:48,626 --> 00:08:51,876
 They recorded the average bee
 visits per hour to four species.
 
-175
-00:08:47,146 --> 00:08:50,511
+178
+00:08:52,733 --> 00:08:55,811
 The data support the hypothesis blank.
 
-176
-00:08:50,531 --> 00:08:52,781
+179
+00:08:55,831 --> 00:08:57,938
 The numbers here are made up for practice.
 
-177
-00:08:52,827 --> 00:08:53,862
+180
+00:08:57,986 --> 00:08:59,093
 Pause and try it.
 
-178
-00:08:58,077 --> 00:09:01,378
+181
+00:09:03,343 --> 00:09:06,485
 The claim compares native
 plants to nonnative plants.
 
-179
-00:09:01,398 --> 00:09:04,379
+182
+00:09:06,879 --> 00:09:09,593
 So the right answer has to
 compare across those two groups.
 
-180
-00:09:04,399 --> 00:09:05,771
+183
+00:09:09,950 --> 00:09:11,343
 Only A does.
 
-181
-00:09:05,791 --> 00:09:08,950
+184
+00:09:12,093 --> 00:09:14,966
 Both native species, at
 twenty-four and nineteen,
 
-182
-00:09:08,970 --> 00:09:12,184
+185
+00:09:14,986 --> 00:09:18,129
 beat both nonnative
 species, at eleven and six.
 
-183
-00:09:12,269 --> 00:09:14,983
+186
+00:09:18,182 --> 00:09:20,304
 Every other choice reads
 the table correctly,
 
-184
-00:09:15,161 --> 00:09:16,627
+187
+00:09:20,324 --> 00:09:21,467
 and that's the trap.
 
-185
-00:09:16,805 --> 00:09:19,035
+188
+00:09:21,538 --> 00:09:23,448
 B compares two native plants.
 
-186
-00:09:19,055 --> 00:09:21,391
+189
+00:09:23,468 --> 00:09:25,396
 C compares two nonnative plants.
 
-187
-00:09:21,411 --> 00:09:23,269
+190
+00:09:25,503 --> 00:09:27,019
 D gives one number.
 
-188
-00:09:23,411 --> 00:09:25,983
+191
+00:09:27,039 --> 00:09:29,039
 All accurate, none on the claim.
 
-189
-00:09:26,009 --> 00:09:28,258
+192
+00:09:29,083 --> 00:09:31,367
 Skill six: Inferences.
 
-190
-00:09:28,401 --> 00:09:32,953
+193
+00:09:32,690 --> 00:09:36,705
 The text ends with a blank, and the
 question asks which choice most logically
 
-191
-00:09:32,973 --> 00:09:34,489
+194
+00:09:36,725 --> 00:09:37,939
 completes the text.
 
-192
-00:09:34,509 --> 00:09:37,549
+195
+00:09:38,333 --> 00:09:41,510
 The blank is a whole idea,
 usually a conclusion.
 
-193
-00:09:37,569 --> 00:09:39,854
+196
+00:09:41,537 --> 00:09:43,696
 The method: treat it like a chain.
 
-194
-00:09:39,891 --> 00:09:41,712
+197
+00:09:43,716 --> 00:09:46,251
 Each fact is a link.
 
-195
-00:09:42,034 --> 00:09:44,157
+198
+00:09:46,823 --> 00:09:48,873
 Pick the conclusion that
 follows from the links,
 
-196
-00:09:44,177 --> 00:09:45,891
+199
+00:09:48,893 --> 00:09:50,430
 with nothing extra added.
 
-197
-00:09:45,930 --> 00:09:49,838
+200
+00:09:50,477 --> 00:09:54,564
 Sea urchins feed on kelp, and when
 their populations grow unchecked,
 
-198
-00:09:49,858 --> 00:09:53,409
+201
+00:09:54,584 --> 00:09:58,083
 they can strip large
 areas of kelp forest bare.
 
-199
-00:09:53,429 --> 00:09:55,695
+202
+00:09:59,012 --> 00:10:01,406
 Sea otters eat sea urchins.
 
-200
-00:09:55,715 --> 00:09:58,980
+203
+00:10:02,691 --> 00:10:05,529
 During the fur trade of the
 eighteenth and nineteenth centuries,
 
-201
-00:09:59,000 --> 00:10:03,124
+204
+00:10:05,549 --> 00:10:09,707
 hunters drove sea otters to near extinction
 across much of their range in the
 
-202
-00:10:03,144 --> 00:10:04,026
+205
+00:10:09,727 --> 00:10:10,689
 North Pacific.
 
-203
-00:10:04,046 --> 00:10:07,903
+206
+00:10:10,709 --> 00:10:14,334
 Taken together, these
 facts suggest that blank.
 
-204
-00:10:07,965 --> 00:10:09,001
+207
+00:10:14,389 --> 00:10:15,496
 Pause and try it.
 
-205
-00:10:13,216 --> 00:10:14,430
+208
+00:10:19,747 --> 00:10:20,782
 Build the chain.
 
-206
-00:10:14,859 --> 00:10:16,716
+209
+00:10:21,389 --> 00:10:22,924
 Otters eat urchins.
 
-207
-00:10:16,752 --> 00:10:19,339
+210
+00:10:22,961 --> 00:10:25,119
 So fewer otters means more urchins.
 
-208
-00:10:19,359 --> 00:10:21,787
+211
+00:10:25,139 --> 00:10:27,174
 And more urchins means less kelp.
 
-209
-00:10:21,859 --> 00:10:26,482
+212
+00:10:27,532 --> 00:10:31,904
 The conclusion: kelp forests likely
 declined where otters were hunted out.
 
-210
-00:10:26,502 --> 00:10:27,609
+213
+00:10:31,924 --> 00:10:32,921
 That's C.
 
-211
-00:10:27,645 --> 00:10:32,324
+214
+00:10:32,941 --> 00:10:37,263
 B runs the chain backward: losing
 otters raises urchin numbers.
 
-212
-00:10:32,538 --> 00:10:36,732
+215
+00:10:37,727 --> 00:10:41,691
 A and D might sound reasonable, but
 nothing in the text supports them.
 
-213
-00:10:36,752 --> 00:10:38,375
+216
+00:10:41,869 --> 00:10:43,421
 Reasonable isn't enough.
 
-214
-00:10:38,395 --> 00:10:39,677
+217
+00:10:43,441 --> 00:10:44,763
 It has to follow.
 
-215
-00:10:39,697 --> 00:10:42,320
+218
+00:10:44,831 --> 00:10:48,045
 Now Standard English
 Conventions, the grammar domain.
 
-216
-00:10:42,340 --> 00:10:44,356
+219
+00:10:48,581 --> 00:10:50,438
 Skill seven is Boundaries.
 
-217
-00:10:44,376 --> 00:10:49,070
+220
+00:10:50,938 --> 00:10:55,168
 The question asks which choice conforms
 to the conventions of Standard English,
 
-218
-00:10:49,090 --> 00:10:52,197
+221
+00:10:55,188 --> 00:10:57,652
 and the choices differ
 only in punctuation.
 
-219
-00:10:52,238 --> 00:10:55,167
+222
+00:10:57,686 --> 00:11:00,364
 The method: find the complete sentences.
 
-220
-00:10:55,702 --> 00:10:59,666
+223
+00:11:00,794 --> 00:11:03,865
 A semicolon or a period
 needs one on both sides.
 
-221
-00:10:59,917 --> 00:11:04,324
+224
+00:11:04,079 --> 00:11:08,095
 A clause that starts with a word like
 when or because can't stand alone,
 
-222
-00:11:04,344 --> 00:11:05,627
+225
+00:11:08,115 --> 00:11:09,385
 so it takes a comma.
 
-223
-00:11:05,647 --> 00:11:09,734
+226
+00:11:09,405 --> 00:11:12,992
 The Eiffel Tower was built as
 the centerpiece of the 1889
 
-224
-00:11:09,754 --> 00:11:15,932
+227
+00:11:13,012 --> 00:11:18,119
 World's Fair in Paris, and many artists
 of the day criticized it as an eyesore.
 
-225
-00:11:16,039 --> 00:11:21,466
+228
+00:11:18,476 --> 00:11:23,162
 When the tower was completed
 in 1889 blank was the tallest
 
-226
-00:11:21,486 --> 00:11:26,772
+229
+00:11:23,182 --> 00:11:27,432
 structure ever built by humans,
 a title it held until 1930.
 
-227
-00:11:26,795 --> 00:11:27,831
+230
+00:11:27,463 --> 00:11:28,571
 Pause and try it.
 
-228
-00:11:31,045 --> 00:11:34,938
+231
+00:11:31,821 --> 00:11:35,498
 When the tower was completed
 in 1889 can't stand alone.
 
-229
-00:11:34,974 --> 00:11:38,990
+232
+00:11:35,785 --> 00:11:39,086
 So A's semicolon and B's
 period leave a fragment,
 
-230
-00:11:39,010 --> 00:11:43,311
+233
+00:11:39,106 --> 00:11:42,964
 and a single dash, like a colon,
 needs a complete sentence before it.
 
-231
-00:11:43,331 --> 00:11:44,883
+234
+00:11:43,392 --> 00:11:44,713
 That leaves the comma.
 
-232
-00:11:44,903 --> 00:11:46,438
+235
+00:11:44,891 --> 00:11:46,749
 The answer is D.
 
-233
-00:11:46,467 --> 00:11:48,233
+236
+00:11:46,792 --> 00:11:48,685
 B is the trap.
 
-234
-00:11:48,253 --> 00:11:51,967
+237
+00:11:49,149 --> 00:11:52,542
 The period looks clean,
 but the first piece,
 
-235
-00:11:52,038 --> 00:11:54,696
+238
+00:11:52,935 --> 00:11:55,685
 When the tower was completed in 1889,
 
-236
-00:11:54,716 --> 00:11:56,288
+239
+00:11:55,863 --> 00:11:57,042
 isn't a sentence.
 
-237
-00:11:56,753 --> 00:12:00,860
+240
+00:11:58,863 --> 00:12:02,435
 For every punctuation rule, see
 the grammar video on this channel.
 
-238
-00:12:00,880 --> 00:12:04,273
+241
+00:12:02,493 --> 00:12:06,029
 Skill eight: Form, Structure, and Sense.
 
-239
-00:12:04,344 --> 00:12:07,146
+242
+00:12:06,279 --> 00:12:08,688
 It has the same question
 stem as Boundaries,
 
-240
-00:12:07,166 --> 00:12:10,110
+243
+00:12:08,708 --> 00:12:11,295
 but now the choices are
 different forms of a word:
 
-241
-00:12:10,130 --> 00:12:12,880
+244
+00:12:11,315 --> 00:12:13,671
 verb forms, pronouns, or possessives.
 
-242
-00:12:12,950 --> 00:12:17,037
+245
+00:12:13,729 --> 00:12:20,086
 The method: when the verb
 changes, find the real subject.
 
-243
-00:12:17,057 --> 00:12:20,537
+246
+00:12:21,050 --> 00:12:25,601
 The SAT hides it, sometimes
 far from the verb,
 
-244
-00:12:20,557 --> 00:12:21,915
+247
+00:12:25,621 --> 00:12:27,049
 sometimes after it.
 
-245
-00:12:21,938 --> 00:12:28,346
+248
+00:12:27,089 --> 00:12:33,748
 Among the oldest known attempts to map
 the whole world blank the Babylonian Map
 
-246
-00:12:28,366 --> 00:12:32,811
+249
+00:12:33,768 --> 00:12:37,962
 of the World, a clay tablet more than
 two thousand five hundred years old that
 
-247
-00:12:32,831 --> 00:12:37,098
+250
+00:12:37,982 --> 00:12:41,196
 shows Mesopotamia surrounded
 by a ring-shaped ocean.
 
-248
-00:12:37,118 --> 00:12:38,154
+251
+00:12:41,244 --> 00:12:42,351
 Pause and try it.
 
-249
-00:12:41,369 --> 00:12:44,420
+252
+00:12:45,601 --> 00:12:48,743
 Ask: what is among the oldest attempts?
 
-250
-00:12:44,440 --> 00:12:46,527
+253
+00:12:49,566 --> 00:12:51,189
 The Babylonian Map of the World.
 
-251
-00:12:46,547 --> 00:12:48,742
+254
+00:12:51,209 --> 00:12:53,350
 That's the subject, and it's one map.
 
-252
-00:12:48,762 --> 00:12:53,098
+255
+00:12:54,136 --> 00:12:58,601
 Unflip the sentence: the map is
 among the oldest known attempts.
 
-253
-00:12:53,118 --> 00:12:55,579
+256
+00:12:59,316 --> 00:13:02,744
 The answer is A, is.
 
-254
-00:12:55,599 --> 00:12:58,436
+257
+00:13:02,767 --> 00:13:06,139
 The trap is the word attempts,
 right before the blank.
 
-255
-00:12:58,456 --> 00:13:00,686
+258
+00:13:06,159 --> 00:13:08,303
 It's plural, so are sounds right.
 
-256
-00:13:00,706 --> 00:13:05,257
+259
+00:13:08,839 --> 00:13:13,409
 But attempts is inside the
 phrase, among the oldest attempts.
 
-257
-00:13:05,277 --> 00:13:06,634
+260
+00:13:14,052 --> 00:13:15,558
 It isn't the subject.
 
-258
-00:13:06,690 --> 00:13:08,939
+261
+00:13:15,578 --> 00:13:17,808
 Last domain: Expression of Ideas.
 
-259
-00:13:09,225 --> 00:13:12,940
+262
+00:13:17,828 --> 00:13:23,686
 Skill nine is Rhetorical
 Synthesis, the notes questions.
 
-260
-00:13:13,154 --> 00:13:15,313
+263
+00:13:24,150 --> 00:13:25,879
 You get a student's notes and a goal,
 
-261
-00:13:15,333 --> 00:13:19,956
+264
+00:13:25,899 --> 00:13:29,737
 then the question: which choice most
 effectively uses relevant information from
 
-262
-00:13:19,976 --> 00:13:22,309
+265
+00:13:29,757 --> 00:13:31,828
 the notes to accomplish this goal?
 
-263
-00:13:22,329 --> 00:13:27,201
+266
+00:13:31,898 --> 00:13:36,648
 The method: read the goal first and
 underline exactly what it asks for.
 
-264
-00:13:27,221 --> 00:13:30,451
+267
+00:13:36,826 --> 00:13:40,005
 The notes are all true, so
 accuracy isn't the issue.
 
-265
-00:13:30,471 --> 00:13:31,703
+268
+00:13:40,040 --> 00:13:41,147
 The goal is.
 
-266
-00:13:31,723 --> 00:13:32,759
+269
+00:13:41,214 --> 00:13:42,214
 Here are the notes.
 
-267
-00:13:33,580 --> 00:13:38,009
+270
+00:13:42,857 --> 00:13:46,357
 African elephants live in parts
 of Africa south of the Sahara.
 
-268
-00:13:38,045 --> 00:13:43,794
+271
+00:13:46,607 --> 00:13:51,356
 Their ears are large and fan-shaped,
 and both males and females grow tusks.
 
-269
-00:13:43,866 --> 00:13:48,275
+272
+00:13:52,035 --> 00:13:55,750
 Asian elephants live in parts of
 southern and southeastern Asia.
 
-270
-00:13:48,295 --> 00:13:52,256
+273
+00:13:56,142 --> 00:13:59,571
 Their ears are smaller, and
 only some males grow tusks.
 
-271
-00:13:52,276 --> 00:13:57,434
+274
+00:13:59,611 --> 00:14:03,182
 The student wants to emphasize a
 difference in which elephants grow tusks.
 
-272
-00:13:57,454 --> 00:14:02,327
+275
+00:14:04,218 --> 00:14:07,840
 Which choice most effectively uses
 relevant information from the notes to
 
-273
-00:14:02,347 --> 00:14:03,847
+276
+00:14:07,860 --> 00:14:09,111
 accomplish this goal?
 
-274
-00:14:03,870 --> 00:14:04,906
+277
+00:14:09,185 --> 00:14:10,293
 Pause and try it.
 
-275
-00:14:09,120 --> 00:14:12,620
+278
+00:14:14,543 --> 00:14:17,579
 Key words: difference, and tusks.
 
-276
-00:14:12,906 --> 00:14:18,136
+279
+00:14:17,899 --> 00:14:22,344
 B and D give real differences, but in
 ears and in where the elephants live.
 
-277
-00:14:18,156 --> 00:14:21,100
+280
+00:14:22,364 --> 00:14:24,579
 A describes only one species.
 
-278
-00:14:21,120 --> 00:14:24,065
+281
+00:14:24,614 --> 00:14:27,221
 Only C contrasts who grows tusks.
 
-279
-00:14:24,085 --> 00:14:25,620
+282
+00:14:27,293 --> 00:14:28,756
 The answer is C.
 
-280
-00:14:25,648 --> 00:14:28,790
+283
+00:14:28,803 --> 00:14:30,925
 That's the trap on almost
 every notes question:
 
-281
-00:14:28,827 --> 00:14:32,128
+284
+00:14:30,945 --> 00:14:33,462
 a choice that's accurate,
 and even does a similar job,
 
-282
-00:14:32,148 --> 00:14:35,251
+285
+00:14:33,482 --> 00:14:35,732
 just not the exact job the goal asks for.
 
-283
-00:14:35,271 --> 00:14:37,179
+286
+00:14:35,784 --> 00:14:37,927
 Skill ten: Transitions.
 
-284
-00:14:37,199 --> 00:14:39,501
+287
+00:14:38,354 --> 00:14:40,569
 The blank sits at the start of a sentence,
 
-285
-00:14:39,521 --> 00:14:42,644
+288
+00:14:40,855 --> 00:14:43,962
 the choices are words like
 however and therefore,
 
-286
-00:14:42,664 --> 00:14:45,807
+289
+00:14:44,033 --> 00:14:47,033
 and the question asks for
 the most logical transition.
 
-287
-00:14:45,830 --> 00:14:50,703
+290
+00:14:47,087 --> 00:14:52,765
 The method: cover the choices, read the
 sentences on both sides of the blank,
 
-288
-00:14:50,723 --> 00:14:54,239
+291
+00:14:52,873 --> 00:14:57,443
 and name the relationship:
 contrast, cause and effect,
 
-289
-00:14:54,259 --> 00:14:56,009
+292
+00:14:57,943 --> 00:14:59,730
 example, or addition.
 
-290
-00:14:56,222 --> 00:14:59,187
+293
+00:15:00,444 --> 00:15:02,801
 Then find the word that does that job.
 
-291
-00:14:59,260 --> 00:15:02,668
+294
+00:15:02,867 --> 00:15:06,116
 The Dead Sea is almost ten
 times as salty as the ocean,
 
-292
-00:15:02,688 --> 00:15:07,632
+295
+00:15:06,223 --> 00:15:10,759
 and all that dissolved salt makes its
 water much denser than ordinary seawater.
 
-293
-00:15:07,652 --> 00:15:11,545
+296
+00:15:11,081 --> 00:15:14,435
 Blank swimmers float on its
 surface with almost no effort.
 
-294
-00:15:11,615 --> 00:15:12,651
+297
+00:15:14,455 --> 00:15:15,562
 Pause and try it.
 
-295
-00:15:15,866 --> 00:15:20,330
+298
+00:15:18,812 --> 00:15:22,883
 Sentence one: the water is
 extremely salty and dense.
 
-296
-00:15:20,652 --> 00:15:23,846
+299
+00:15:23,419 --> 00:15:26,185
 Sentence two: swimmers float easily.
 
-297
-00:15:23,866 --> 00:15:26,116
+300
+00:15:26,205 --> 00:15:27,883
 The first causes the second.
 
-298
-00:15:26,223 --> 00:15:27,809
+301
+00:15:28,455 --> 00:15:29,775
 That's cause and effect.
 
-299
-00:15:27,829 --> 00:15:30,152
+302
+00:15:30,097 --> 00:15:32,597
 The answer is B, as a result.
 
-300
-00:15:30,208 --> 00:15:34,402
+303
+00:15:32,671 --> 00:15:36,759
 However would need a contrast, but easy
 floating is exactly what dense water
 
-301
-00:15:34,422 --> 00:15:35,402
+304
+00:15:36,779 --> 00:15:37,223
 should cause.
 
-302
-00:15:35,422 --> 00:15:38,294
+305
+00:15:37,243 --> 00:15:41,901
 Similarly needs a second, similar case,
 
-303
-00:15:38,314 --> 00:15:40,580
+306
+00:15:41,921 --> 00:15:44,636
 and instead needs something to replace.
 
-304
-00:15:40,600 --> 00:15:43,886
+307
+00:15:45,313 --> 00:15:48,064
 The trap is choosing
 from one sentence alone.
 
-305
-00:15:43,922 --> 00:15:45,029
+308
+00:15:48,600 --> 00:15:49,543
 Read both.
 
-306
-00:15:45,078 --> 00:15:45,986
+309
+00:15:49,563 --> 00:15:50,706
 That's all ten.
 
-307
-00:15:46,006 --> 00:15:50,129
+310
+00:15:51,312 --> 00:15:55,900
 Here's how to use them on test day, when
 you have about seventy-one seconds per
 
-308
-00:15:50,149 --> 00:15:51,792
+311
+00:15:55,920 --> 00:15:57,420
 question on average.
 
-309
-00:15:51,856 --> 00:15:54,193
+312
+00:15:57,480 --> 00:16:00,532
 Step one: read the question
 before the passage,
 
-310
-00:15:54,213 --> 00:15:55,658
+313
+00:16:00,552 --> 00:16:01,980
 and name the type.
 
-311
-00:15:55,678 --> 00:15:57,390
+314
+00:16:02,337 --> 00:16:04,123
 The stem tells you the job.
 
-312
-00:15:57,410 --> 00:16:00,604
+315
+00:16:04,187 --> 00:16:07,365
 Step two: read the passage for that job.
 
-313
-00:16:00,624 --> 00:16:03,303
+316
+00:16:07,402 --> 00:16:09,937
 The relationship, the claim, or the goal.
 
-314
-00:16:03,333 --> 00:16:06,618
+317
+00:16:10,024 --> 00:16:13,524
 Step three: predict before
 you look at the choices.
 
-315
-00:16:06,725 --> 00:16:10,099
+318
+00:16:14,381 --> 00:16:17,110
 Step four: eliminate only with a reason,
 
-316
-00:16:10,119 --> 00:16:12,741
+319
+00:16:17,130 --> 00:16:20,218
 like wrong verb, too
 narrow, not supported,
 
-317
-00:16:12,761 --> 00:16:14,048
+320
+00:16:20,238 --> 00:16:21,558
 or wrong job.
 
-318
-00:16:14,073 --> 00:16:17,268
+321
+00:16:21,619 --> 00:16:24,170
 Here are all ten on one
 screen, grouped by domain,
 
-319
-00:16:17,288 --> 00:16:18,946
+322
+00:16:24,190 --> 00:16:25,798
 with the trap for each.
 
-320
-00:16:18,966 --> 00:16:20,784
+323
+00:16:26,084 --> 00:16:27,637
 Pause if you want a screenshot.
 
-321
-00:16:20,804 --> 00:16:24,891
+324
+00:16:27,657 --> 00:16:31,637
 For practice on any single type, the
 College Board's free Question Bank lets you
 
-322
-00:16:24,911 --> 00:16:27,590
+325
+00:16:31,657 --> 00:16:34,121
 filter by skill and difficulty.
 
-323
-00:16:27,733 --> 00:16:30,320
+326
+00:16:34,478 --> 00:16:36,708
 Every question here was
 written for this video,
 
-324
-00:16:30,340 --> 00:16:32,590
+327
+00:16:36,728 --> 00:16:38,550
 in the style of the real test.
 
-325
-00:16:32,622 --> 00:16:34,316
+328
+00:16:38,662 --> 00:16:40,376
 If this helped, subscribe.
 
-326
-00:16:34,336 --> 00:16:39,387
+329
+00:16:40,661 --> 00:16:44,749
 Next up: ten hard Reading and Writing
 questions to try before the December 5
 
-327
-00:16:39,407 --> 00:16:40,407
+330
+00:16:44,769 --> 00:16:45,769
 SAT.
 
-328
-00:16:40,550 --> 00:16:41,550
+331
+00:16:45,911 --> 00:16:46,911
 Good luck.
