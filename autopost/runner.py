@@ -2,7 +2,8 @@
 
 Each post lives in posts/<id>/ with a post.json and its media.
 - carousel / image: JPEG slides -> Instagram + TikTok (photo mode)
-- short: one vertical MP4 -> Instagram Reels, TikTok video, YouTube Shorts
+- short: one vertical MP4 -> Instagram Reels, TikTok video, YouTube Shorts, and (repo variable FB_PAGE)
+  the same Reel on the Facebook Page once it's on Instagram
 A post is due when publish_at <= now and it isn't recorded in state/posted.json
 for that platform yet. Run this on a schedule (GitHub Actions does it hourly).
 TikTok is skipped while config.TIKTOK_ENABLED is off (the default since 2026-10-13): TikTok is posted
@@ -23,7 +24,7 @@ from pathlib import Path
 
 import requests
 
-from . import config, instagram, longform, related, tiktok, youtube, ytpace
+from . import config, facebook, instagram, longform, related, tiktok, youtube, ytpace
 
 IG_MAX_HASHTAGS = 5
 AUTO_TYPES = {"carousel", "image", "short"}  # reels/stories stay manual (trending audio)
@@ -357,13 +358,108 @@ def notify_music(p, media_id):
         print(f"WARN music reminder for {p['id']} failed: {e}")
 
 
+FB_KEY = "_facebook"   # state: {"since": when FB_PAGE=1 began, "test": {post, id, at}, "tries": {post id: failures}}
+FB_ON = ("1", "true", "yes", "on")
+
+
+def fb_candidates(posts, state):
+    """Reels already live on Instagram that aren't on the Facebook Page yet, newest Instagram post first."""
+    out = []
+    for p in posts:
+        rec = state.get(p.get("id"), {})
+        ig = rec.get("instagram") if isinstance(rec, dict) else None
+        if p.get("type") != "short" or "facebook" in rec or not isinstance(ig, dict) or not ig.get("at") \
+                or ig.get("id") == "dry-run":
+            continue
+        out.append((datetime.fromisoformat(ig["at"]), p))
+    return [p for _, p in sorted(out, key=lambda x: x[0], reverse=True)]
+
+
+def fb_waiting(p, state):
+    """True while FB_PAGE=1 still owes this reel a Facebook post (so its MP4 isn't pruned yet)."""
+    meta = state.get(FB_KEY, {})
+    rec = state.get(p.get("id"), {})
+    if config.FB_PAGE not in FB_ON or "since" not in meta or "facebook" in rec or p.get("type") != "short":
+        return False
+    ig = rec.get("instagram")
+    return isinstance(ig, dict) and bool(ig.get("at")) and ig["at"] >= meta["since"] \
+        and meta.get("tries", {}).get(p["id"], 0) < config.FB_MAX_TRIES
+
+
+def facebook_pass(posts, state, now):
+    """Post Instagram Reels to the Facebook Page as Reels (same caption). Runs after Instagram/YouTube and can never
+    hold them up: a failure is logged and retried on the next run; what's posted is recorded so nothing doubles."""
+    mode = config.FB_PAGE
+    if mode in ("0", "", "off", "false", "no"):
+        return
+    if mode not in FB_ON and mode != "test":
+        print(f"WARN FB_PAGE={mode!r} isn't 0, test or 1; doing nothing")
+        return
+    if not facebook.ready():
+        print("FAILED facebook: FB_PAGE is on but the FB_PAGE_ID / FB_PAGE_TOKEN secrets aren't set")
+        return
+    meta = state.setdefault(FB_KEY, {})
+    cands = fb_candidates(posts, state)
+    if mode == "test":
+        if meta.get("test"):
+            t = meta["test"]
+            print(f"FACEBOOK test already done: {t['post']} -> Page reel {t['id']} ({facebook.reel_url(t['id'])}). "
+                  "Set FB_PAGE=1 to post every reel.")
+            return
+        cands = cands[:1]          # the newest reel on Instagram, once
+    else:
+        if "since" not in meta:            # no backfill: only reels that reach Instagram from now on
+            meta["since"] = now.isoformat(timespec="seconds")
+            print(f"FACEBOOK on: every reel posted to Instagram from {meta['since']} also goes to the Page")
+            if not config.DRY_RUN:
+                save_state(state)
+        since = meta["since"]
+        cands = [p for p in reversed(cands) if state[p["id"]]["instagram"]["at"] >= since]
+    if not cands:
+        return
+    try:
+        if not config.DRY_RUN:
+            facebook.verify_page()          # a Page token for this Page, or nothing is posted
+    except Exception as e:
+        print(f"FAILED facebook: {facebook._scrub(e)}")
+        return
+    tries = meta.setdefault("tries", {})
+    done = 0
+    for p in cands:
+        if done >= config.FB_MAX_PER_RUN:
+            print(f"LATER {p['id']} -> facebook: max {config.FB_MAX_PER_RUN} per run")
+            continue
+        n = tries.get(p["id"], 0)
+        if n >= config.FB_MAX_TRIES:
+            print(f"GIVEUP {p['id']} -> facebook after {n} failed tries (delete its _facebook.tries entry to retry)")
+            continue
+        try:
+            with local_video(p) as path:
+                vid = facebook.publish_reel(path, ig_caption(p))
+            at = posted_time(now).isoformat(timespec="seconds")
+            state[p["id"]]["facebook"] = {"id": vid, "at": at}
+            tries.pop(p["id"], None)
+            done += 1
+            print(f"POSTED {p['id']} -> facebook ({vid}) {facebook.reel_url(vid)}")
+            if mode == "test":
+                meta["test"] = {"post": p["id"], "id": vid, "at": at}
+                print("FACEBOOK test done. Check the Page, then set FB_PAGE=1 to post every reel.")
+        except Exception as e:     # never stop the run for Facebook
+            tries[p["id"]] = n + 1
+            print(f"FAILED {p['id']} -> facebook (try {n + 1}/{config.FB_MAX_TRIES}, retrying next run): "
+                  f"{facebook._scrub(e)}")
+        if not config.DRY_RUN:
+            save_state(state)
+
+
 def prune_videos(posts, state, now):
     """Delete a short's MP4 once every platform has had it for PRUNE_VIDEOS_AFTER_HOURS."""
     if config.PRUNE_VIDEOS_AFTER_HOURS <= 0 or config.DRY_RUN:
         return []
     removed = []
     for p in posts:
-        if p.get("type") != "short" or not p.get("video") or p.get("_media") or not fully_posted(p, state):
+        if p.get("type") != "short" or not p.get("video") or p.get("_media") or not fully_posted(p, state) \
+                or fb_waiting(p, state):
             continue  # media-repo shorts are pruned by that repo's own workflow
         path = p["_dir"] / p["video"]
         if not path.exists():
@@ -472,6 +568,7 @@ def run(now=None):
             shorts_posted += 1
         if not config.DRY_RUN:
             save_state(state)
+    facebook_pass(posts, state, now)   # after Instagram/YouTube, never in their way (repo variable FB_PAGE)
     # long-form YouTube videos (longform/<id>/), off until the repo variable YT_LONGFORM=1
     failures += longform.run(now, state, tok, lambda s: None if config.DRY_RUN else save_state(s), cool=cool)
     if not config.DRY_RUN and json.dumps(cool, sort_keys=True) != cool_before:

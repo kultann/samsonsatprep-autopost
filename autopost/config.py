@@ -73,6 +73,19 @@ TIKTOK_PHOTO_MODE = os.environ.get("TIKTOK_PHOTO_MODE", "") or "direct"
 # Let TikTok pick a random sound for direct photo posts? Off (Samson, 2026-10-05: the picks can be anything).
 TIKTOK_AUTO_MUSIC = (os.environ.get("TIKTOK_AUTO_MUSIC", "") or "0") == "1"
 
+# Facebook Page Reels (Samson, 2026-10-17): every Reel that goes to Instagram also goes to the "Samsonsatprep" Page
+# as a Reel, with the same caption. Only a Page access token is used, so nothing can reach the personal profile.
+# Repo variable FB_PAGE: 0 = off (default), test = post one reel once and log it, 1 = every reel posted to Instagram
+# from then on. Secrets FB_PAGE_ID / FB_PAGE_TOKEN. See SETUP.md section 9.
+FB_PAGE = (os.environ.get("FB_PAGE", "") or "0").strip().lower()
+FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
+FB_PAGE_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
+FB_API_VERSION = os.environ.get("FB_API_VERSION", "") or "v26.0"
+FB_GRAPH = f"https://graph.facebook.com/{FB_API_VERSION}"
+FB_RUPLOAD = f"https://rupload.facebook.com/video-upload/{FB_API_VERSION}"
+FB_MAX_PER_RUN = int(os.environ.get("FB_MAX_PER_RUN", "") or 2)   # Meta allows 30 API-published Reels per 24 h
+FB_MAX_TRIES = int(os.environ.get("FB_MAX_TRIES", "") or 6)       # then give up on that reel and say so
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")

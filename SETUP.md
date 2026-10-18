@@ -1,6 +1,6 @@
 # Setup: auto-posting for @samsonsatprep
 
-What this does: every hour, a free GitHub Actions job checks `posts/` and publishes anything whose `publish_at` time has passed: carousels and images to Instagram and TikTok, and short videos (`"type": "short"`) to Instagram Reels, TikTok and YouTube Shorts. Posts marked `reel` or `story` are skipped so you can post them by hand with trending audio.
+What this does: every hour, a free GitHub Actions job checks `posts/` and publishes anything whose `publish_at` time has passed: carousels and images to Instagram and TikTok, and short videos (`"type": "short"`) to Instagram Reels, TikTok and YouTube Shorts.  With the repo variable `FB_PAGE` on (section 9), every Reel also goes to the Facebook Page. Posts marked `reel` or `story` are skipped so you can post them by hand with trending audio.
 
 About 45–60 minutes, one time. Do the steps in order.
 
@@ -157,6 +157,67 @@ The bot uploads each long video from `longform/<id>/` (post.json + thumbnail + c
 - **Captions:** off by default (YouTube makes automatic ones). Uploading the `.srt` files needs the `youtube.force-ssl` scope: add it to `SCOPES` in `tools/youtube_auth.py` and to the Google Auth Platform data access list, log in again, update `YT_REFRESH_TOKEN`, then set the variable `YT_CAPTIONS` = `1`.
 - **YouTube pacing (Shorts + long videos together):** at least 45 minutes between any two YouTube uploads (`YT_MIN_GAP_MINUTES`), at most 10 in any 24 hours (`YT_MAX_PER_DAY`), and a `quotaExceeded` / `uploadLimitExceeded` error pauses YouTube for 12 hours (`YT_COOLDOWN_HOURS`; `rateLimitExceeded` pauses 1 hour). Held-back uploads just go out on a later run (log: `LATER`).
 - The results go in `state/posted.json` under each `long-...` id (`youtube`: video id, upload time, publish time).
+
+## 9. Reels on the Facebook Page (15 min)
+
+Every Reel the bot posts to Instagram can also go to the **Samsonsatprep** Facebook Page as a Reel, with the same caption.
+It uses only the Page's own access token, so nothing can ever post to your personal Facebook. Don't turn on the
+Accounts Center auto-share: it only offers the personal profile.
+
+Your Instagram token can't do this. It's an "Instagram Login" token, which only works on graph.instagram.com. The Page
+needs its own token from Facebook Login, with `pages_show_list`, `pages_read_engagement` and `pages_manage_posts`.
+Because you're an admin of the app, these work for your own Page without App Review.
+
+**A. Add the Page permissions to your Meta app**
+1. Go to **developers.facebook.com** → **My Apps** → open the app the bot already uses.
+2. In the left menu, click **Use cases** → **Add use case**. Pick **Manage everything on your Page** → **Add**.
+   (If it's already listed, skip this.)
+3. Next to that use case, click **Customize**. Make sure **pages_show_list**, **pages_read_engagement** and
+   **pages_manage_posts** are listed. Click **Add** next to any that aren't.
+4. Still in the dashboard, open **App settings → Basic**. Note the **App ID**, then click **Show** next to **App secret**.
+   You'll need both in step C. Don't paste them anywhere public.
+
+**B. Get a short-lived user token**
+1. Open **developers.facebook.com/tools/explorer** (Graph API Explorer).
+2. On the right: under **Meta App**, pick your app. Under **User or Page**, pick **User Token**.
+3. Under **Permissions**, add **pages_show_list**, **pages_read_engagement** and **pages_manage_posts**.
+4. Click **Generate Access Token**. A Facebook window opens.
+   - Continue as yourself.
+   - When it asks which Pages, choose **only Samsonsatprep**.
+   - Allow the permissions.
+5. Copy the token from the **Access Token** box.
+
+**C. Turn it into a Page token that doesn't expire**
+1. In the Explorer, set the method to **GET** and paste this into the query box, filling in your three values:
+   `oauth/access_token?grant_type=fb_exchange_token&client_id=APP_ID&client_secret=APP_SECRET&fb_exchange_token=SHORT_TOKEN`
+   Click **Submit**. The `access_token` in the result is your long-lived user token (it lasts about 60 days).
+2. Paste that long-lived token into the **Access Token** box. Then run **GET** with the query `me/accounts`.
+3. Find **Samsonsatprep** in the result and copy two values from it:
+   - its **id**: this is your **Page ID**;
+   - its **access_token**: this is your **Page token**.
+4. Check the Page token: paste it into **developers.facebook.com/tools/debug/accesstoken** and click **Debug**. You want:
+   - **Type: Page**;
+   - **Expires: Never**;
+   - the three `pages_` permissions listed under Scopes.
+
+**D. Save them in GitHub (website, so the token never sits in your terminal history)**
+1. Go to **github.com/kultann/samsonsatprep-autopost** → **Settings** → **Secrets and variables** → **Actions**.
+2. On the **Secrets** tab, click **New repository secret** twice:
+   - `FB_PAGE_ID` = the Page id;
+   - `FB_PAGE_TOKEN` = the Page access_token.
+3. On the **Variables** tab, click **New repository variable**: `FB_PAGE` = `test`.
+4. Optional check: **Actions** → **check-connections** → **Run workflow**.
+   The log should show `OK   Facebook Page token -> Samsonsatprep (<id>), FB_PAGE=test`.
+
+**E. Test, then switch on**
+- `FB_PAGE=test`: the next hourly run posts the newest Reel that's already on Instagram to the Page, once.
+  The log shows `POSTED <post id> -> facebook (<video id>) https://www.facebook.com/reel/<video id>`.
+  On the Page, it appears under **Reels**.
+- If it looks right, change `FB_PAGE` to `1`. From then on, every Reel that goes to Instagram also goes to the Page.
+  Reels posted before that aren't backfilled.
+- If a Facebook post fails, the run carries on. The log says `FAILED … retrying next run`, and the bot gives up on that
+  reel after 6 tries. Instagram and YouTube are never held up by it.
+- `FB_PAGE=0` turns it off.
 
 ## Day to day
 

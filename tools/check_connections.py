@@ -53,6 +53,19 @@ else:
         report("Instagram publish permission", "error" not in lim,
                lim.get("error", {}).get("message", f"used today: {lim.get('data', [{}])[0].get('quota_usage', '?')}"))
 
+# 2b. Facebook Page Reels (repo variable FB_PAGE; the token must be the Page's own token, never a person's)
+fb_mode = (os.environ.get("FB_PAGE", "") or "0").strip().lower()
+if not (os.environ.get("FB_PAGE_ID") and os.environ.get("FB_PAGE_TOKEN")):
+    print(f"SKIP Facebook Page -> FB_PAGE_ID / FB_PAGE_TOKEN not set (FB_PAGE={fb_mode})")
+else:
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    from autopost import facebook
+    try:
+        me = facebook.verify_page()
+        report("Facebook Page token", True, f"{me.get('name')} ({me.get('id')}), FB_PAGE={fb_mode}")
+    except Exception as e:
+        report("Facebook Page token", False, facebook._scrub(e))
+
 # 3. TikTok (skipped while the bot doesn't post to TikTok: TIKTOK_ENABLED unset/0, the default since 2026-10-13)
 key, sec, rt = (os.environ.get(k) for k in ("TIKTOK_CLIENT_KEY", "TIKTOK_CLIENT_SECRET", "TIKTOK_REFRESH_TOKEN"))
 if (os.environ.get("TIKTOK_ENABLED", "") or "0").strip().lower() not in ("1", "true", "yes", "on"):
