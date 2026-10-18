@@ -12,6 +12,7 @@ from pathlib import Path
 from unittest import mock
 
 PAGE_TOKEN = "EAAPAGESECRET123"
+EXCHANGED = "EAAEXCHANGEDPAGE456"
 SHORT = {
     "id": "2026-10-13_desmos-systems", "publish_at": "2026-10-13T17:00:00-05:00", "type": "short",
     "video": "video.mp4", "platforms": ["instagram", "youtube"],
@@ -32,15 +33,30 @@ class Resp:
 
 class FakeFB:
     """graph.facebook.com + rupload.facebook.com"""
-    def __init__(self, me_id="999", fail_upload=0, publish_error=None):
+    def __init__(self, me_id="999", fail_upload=0, publish_error=None, system_user=False):
         self.calls, self.me_id, self.fail_upload, self.publish_error = [], me_id, fail_upload, publish_error
+        self.system_user = system_user
 
     def request(self, method, url, timeout=None, data=None, params=None, headers=None):
         self.calls.append((method, url, data if not isinstance(data, bytes) else len(data), params, headers))
-        assert PAGE_TOKEN not in url, "token must never be in a URL"
-        assert headers and headers.get("Authorization") == f"OAuth {PAGE_TOKEN}"
+        assert PAGE_TOKEN not in url and EXCHANGED not in url, "tokens must never be in a URL"
+        auth = headers.get("Authorization") if headers else None
+        if self.system_user:      # the secret is a system user token; only /me and the exchange may use it
+            if auth == f"OAuth {PAGE_TOKEN}":
+                if url.endswith("/me"):
+                    return Resp({"id": "555", "name": "autopost"})
+                if url.endswith("/999") and "access_token" in (params or {}).get("fields", ""):
+                    return Resp({"id": "999", "name": "Samsonsatprep", "access_token": EXCHANGED})
+                raise AssertionError(f"system user token used for {url}")
+            assert auth == f"OAuth {EXCHANGED}"
+            if url.endswith("/me"):
+                return Resp({"id": "999", "name": "Samsonsatprep"})
+        else:
+            assert auth == f"OAuth {PAGE_TOKEN}"
         if url.endswith("/me"):
             return Resp({"id": self.me_id, "name": "Samsonsatprep" if self.me_id == "999" else "Samson Watson"})
+        if url.endswith("/999") and self.me_id != "999":   # a person without access to the Page
+            return Resp({"error": {"message": "(#10) Permission denied"}}, status=400)
         if url.endswith("/999/video_reels") and data.get("upload_phase") == "start":
             return Resp({"video_id": "FBVID", "upload_url": "https://rupload.facebook.com/video-upload/FBVID"})
         if "rupload.facebook.com" in url:
@@ -144,13 +160,22 @@ class FacebookTest(unittest.TestCase):
         r.run(now=self.now)
         self.assertNotIn("facebook", self.state()[SHORT["id"]])
 
-    def test_refuses_a_personal_token(self):
-        fake = FakeFB(me_id="111")                           # /me is a person, not the Page
+    def test_system_user_token_is_exchanged_for_the_page_token(self):
+        fake = FakeFB(system_user=True)
         r = self.runner("test", fake)
         with mock.patch("builtins.print") as pr:
             r.run(now=self.now)
         out = " ".join(str(c.args[0]) for c in pr.call_args_list)
-        self.assertIn("not Page 999", out)
+        self.assertNotIn(PAGE_TOKEN, out); self.assertNotIn(EXCHANGED, out)
+        self.assertEqual(self.state()[SHORT["id"]]["facebook"]["id"], "FBVID")
+
+    def test_refuses_a_personal_token(self):
+        fake = FakeFB(me_id="111")                           # /me is a person with no access to the Page
+        r = self.runner("test", fake)
+        with mock.patch("builtins.print") as pr:
+            r.run(now=self.now)
+        out = " ".join(str(c.args[0]) for c in pr.call_args_list)
+        self.assertIn("can't get Page 999's token", out)
         self.assertFalse([c for c in fake.calls if "video_reels" in c[1]])
         self.assertNotIn("facebook", self.state()[SHORT["id"]])
 

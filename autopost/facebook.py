@@ -5,9 +5,11 @@ Flow (developers.facebook.com/docs/video-api/guides/reels-publishing, Graph API 
   2. POST rupload.facebook.com/video-upload/{v}/{video_id}  (the MP4 bytes; headers offset=0, file_size)
   3. POST graph.facebook.com/{page-id}/video_reels  upload_phase=finish, video_state=PUBLISHED, description
   4. GET  graph.facebook.com/{video_id}?fields=status until publishing is complete (or an error shows up)
-Auth is a Page access token (secret FB_PAGE_TOKEN, from /me/accounts with pages_show_list, pages_read_engagement and
-pages_manage_posts). It always travels in the Authorization header, never in a URL, and error messages are scrubbed,
-so it can't end up in the Actions log.
+Auth (secret FB_PAGE_TOKEN): either the Page's own access token, or a non-expiring System User token from the
+_kultann business portfolio (System user "autopost", with the Page assigned and pages_show_list, pages_read_engagement,
+pages_manage_posts). A System User token is swapped at runtime for the Page token (GET /{page-id}?fields=access_token),
+so every post is made as the Page and nothing can reach a personal profile. Tokens only travel in the Authorization
+header, never in a URL, and error messages are scrubbed, so they can't end up in the Actions log.
 """
 import time
 
@@ -20,13 +22,19 @@ class FacebookError(RuntimeError):
     pass
 
 
+_page_token = None      # the Page token in use for this run (set by verify_page)
+
+
 def _scrub(text):
-    tok = config.FB_PAGE_TOKEN
-    return str(text).replace(tok, "***") if tok else str(text)
+    text = str(text)
+    for tok in (config.FB_PAGE_TOKEN, _page_token):
+        if tok:
+            text = text.replace(tok, "***")
+    return text
 
 
-def _headers(extra=None):
-    h = {"Authorization": f"OAuth {config.FB_PAGE_TOKEN}"}
+def _headers(extra=None, token=None):
+    h = {"Authorization": f"OAuth {token or _page_token or config.FB_PAGE_TOKEN}"}
     h.update(extra or {})
     return h
 
@@ -53,11 +61,28 @@ def page_name():
 
 
 def verify_page():
-    """The token must be the Page's own token: /me has to be the Page itself, never a person. Raises otherwise."""
-    me = _call("GET", f"{config.FB_GRAPH}/me", params={"fields": "id,name"}, headers=_headers())
+    """Settle on a token that *is* the Page: /me with it has to be the Page itself. A System User token is exchanged
+    for the Page's token first. Raises if neither works, so nothing is ever posted as anyone but the Page."""
+    global _page_token
+    secret = config.FB_PAGE_TOKEN
+    me = _call("GET", f"{config.FB_GRAPH}/me", params={"fields": "id,name"}, headers=_headers(token=secret))
+    if str(me.get("id")) == config.FB_PAGE_ID:
+        _page_token = secret
+        return me
+    try:   # a System User (or user) token: ask for the Page's own token
+        pg = _call("GET", f"{config.FB_GRAPH}/{config.FB_PAGE_ID}", params={"fields": "id,name,access_token"},
+                   headers=_headers(token=secret))
+    except FacebookError as e:
+        raise FacebookError(f"FB_PAGE_TOKEN ({me.get('name')!r}) can't get Page {config.FB_PAGE_ID}'s token: {e}") from None
+    tok = pg.get("access_token")
+    if not tok:
+        raise FacebookError(f"FB_PAGE_TOKEN ({me.get('name')!r}) has no access to Page {config.FB_PAGE_ID}: "
+                            "assign the Page to the system user (Content) and include pages_show_list")
+    _page_token = tok
+    me = _call("GET", f"{config.FB_GRAPH}/me", params={"fields": "id,name"}, headers=_headers(token=tok))
     if str(me.get("id")) != config.FB_PAGE_ID:
-        raise FacebookError(f"FB_PAGE_TOKEN belongs to {me.get('name')!r} ({me.get('id')}), not Page {config.FB_PAGE_ID}: "
-                            "use the Page access token from /me/accounts")
+        _page_token = None
+        raise FacebookError(f"the exchanged token is {me.get('name')!r} ({me.get('id')}), not Page {config.FB_PAGE_ID}")
     return me
 
 
