@@ -1,0 +1,30 @@
+# Read-only: ask the YouTube API (as the channel) for a video's privacy and processing status.
+# Actions -> yt-status -> Run workflow -> video id(s). Red if any video isn't public. Changes nothing.
+name: yt-status
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_ids:
+        description: "YouTube video id(s), space separated"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Video status
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          VIDEO_IDS: ${{ inputs.video_ids }}
+        run: python tools/yt_status.py $VIDEO_IDS
