@@ -2303,6 +2303,12 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-10-31_1300_rw24": {
+    "instagram": {
+      "on": "2026-10-31T18:00:33+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "_facebook": {
     "since": "2026-10-18T01:45:34+00:00",
     "test": {
