@@ -2357,5 +2357,16 @@
     "publish_at": "2026-10-13T17:23:56+00:00",
     "status": "private",
     "thumbnail": true
+  },
+  "long-03_10-hard-sat-math-nov7": {
+    "youtube": {
+      "at": "2026-10-31T22:00:57+00:00",
+      "captions": "off",
+      "id": "X8cbzZ6-ze0",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-01T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
   }
 }
