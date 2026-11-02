@@ -2397,6 +2397,22 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-02_1930_T3-004": {
+    "instagram": {
+      "at": "2026-11-02T22:01:31+00:00",
+      "id": "17917391499533970"
+    },
+    "youtube": {
+      "at": "2026-11-02T22:01:34+00:00",
+      "id": "4BPt_wwpqiw"
+    }
+  },
+  "2026-11-02_lesson04": {
+    "instagram": {
+      "on": "2026-11-02T22:00:50+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
@@ -2444,7 +2460,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2026-11-02_1930_T3-004": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -2473,6 +2491,17 @@
       "id": "X8cbzZ6-ze0",
       "privacy": "scheduled",
       "publish_at": "2026-11-01T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-04_last-week-before-sat": {
+    "youtube": {
+      "at": "2026-11-02T22:02:10+00:00",
+      "captions": "off",
+      "id": "2UvqBl1bK28",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-03T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
