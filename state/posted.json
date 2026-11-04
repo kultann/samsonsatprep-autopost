@@ -2471,6 +2471,17 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-04_1930_T3-005": {
+    "instagram": {
+      "at": "2026-11-04T22:01:18+00:00",
+      "id": "18178363174446443"
+    },
+    "youtube": {
+      "at": "2026-11-04T22:01:36+00:00",
+      "id": "kAkCf2P_iZo",
+      "related": "long-04_last-week-before-sat"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
@@ -2568,7 +2579,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2026-11-04_1930_T3-005": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -2589,6 +2602,17 @@
     "publish_at": "2026-10-13T17:23:56+00:00",
     "status": "private",
     "thumbnail": true
+  },
+  "long-01_every-sat-grammar-rule": {
+    "youtube": {
+      "at": "2026-11-04T22:02:05+00:00",
+      "captions": "off",
+      "id": "H1-Gd6tI8iA",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-05T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
   },
   "long-03_10-hard-sat-math-nov7": {
     "youtube": {
