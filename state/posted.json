@@ -2492,6 +2492,12 @@
       "related": "long-04_last-week-before-sat"
     }
   },
+  "2026-11-04_2100_v003": {
+    "instagram": {
+      "on": "2026-11-05T03:00:45+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
