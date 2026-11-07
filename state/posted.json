@@ -2603,6 +2603,17 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-07_1930_T3-009": {
+    "instagram": {
+      "at": "2026-11-07T22:01:32+00:00",
+      "id": "18386535292225710"
+    },
+    "youtube": {
+      "at": "2026-11-07T22:01:33+00:00",
+      "id": "lVM-0hqWQR8",
+      "related": "long-04_last-week-before-sat"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
@@ -2750,7 +2761,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2026-11-07_1930_T3-009": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -2779,6 +2792,17 @@
       "id": "H1-Gd6tI8iA",
       "privacy": "scheduled",
       "publish_at": "2026-11-05T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-02_every-desmos-trick": {
+    "youtube": {
+      "at": "2026-11-07T22:01:49+00:00",
+      "captions": "off",
+      "id": "VyLn3C5w9Nk",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-08T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
