@@ -2687,6 +2687,12 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-09_lesson05": {
+    "instagram": {
+      "on": "2026-11-09T22:00:39+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
@@ -2817,6 +2823,12 @@
       "id": "18118436813583916"
     }
   },
+  "2027-03-13_0730_N14-023": {
+    "instagram": {
+      "at": "2026-11-09T22:01:26+00:00",
+      "id": "18009471083812709"
+    }
+  },
   "2027-03-19_2130_N01-019": {
     "facebook": {
       "at": "2026-11-05T01:32:18+00:00",
@@ -2874,7 +2886,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2027-03-13_0730_N14-023": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -2936,6 +2950,17 @@
       "id": "2UvqBl1bK28",
       "privacy": "scheduled",
       "publish_at": "2026-11-03T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-05_formulas-not-on-reference-sheet": {
+    "youtube": {
+      "at": "2026-11-09T22:01:57+00:00",
+      "captions": "off",
+      "id": "wDEgOh8aXiw",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-10T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
