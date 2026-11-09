@@ -2663,6 +2663,12 @@
       "related": "long-04_last-week-before-sat"
     }
   },
+  "2026-11-08_2100_v007": {
+    "instagram": {
+      "on": "2026-11-09T03:00:36+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-08_poll": {
     "instagram": {
       "on": "2026-11-08T22:00:39+00:00",
