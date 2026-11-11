@@ -2747,6 +2747,12 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-11_reading05": {
+    "instagram": {
+      "on": "2026-11-11T22:00:53+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-13_1230_C4-007": {
     "facebook": {
       "at": "2026-11-01T22:01:48+00:00",
@@ -2957,6 +2963,12 @@
       "id": "17997002067028253"
     }
   },
+  "2027-04-09_0930_N08-008": {
+    "instagram": {
+      "at": "2026-11-11T22:01:37+00:00",
+      "id": "18120352576956036"
+    }
+  },
   "2027-04-14_2130_N03-011": {
     "facebook": {
       "at": "2026-11-09T01:31:46+00:00",
@@ -2994,7 +3006,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2027-04-09_0930_N08-008": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -3067,6 +3081,17 @@
       "id": "wDEgOh8aXiw",
       "privacy": "scheduled",
       "publish_at": "2026-11-10T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-06_all-10-rw-question-types": {
+    "youtube": {
+      "at": "2026-11-11T22:02:01+00:00",
+      "captions": "off",
+      "id": "PXe3KHPGwDk",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-12T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
