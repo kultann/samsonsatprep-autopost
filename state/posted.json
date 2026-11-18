@@ -3027,6 +3027,12 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-18_reading06": {
+    "instagram": {
+      "on": "2026-11-18T22:00:38+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-20_1700_M7-001": {
     "facebook": {
       "at": "2026-11-06T01:46:29+00:00",
@@ -3165,6 +3171,16 @@
     "instagram": {
       "at": "2026-11-02T01:31:34+00:00",
       "id": "18181657276450752"
+    }
+  },
+  "2027-01-18_0730_C3-002": {
+    "facebook": {
+      "at": "2026-11-18T22:01:52+00:00",
+      "id": "1455820330002573"
+    },
+    "instagram": {
+      "at": "2026-11-18T22:01:19+00:00",
+      "id": "18143813857622519"
     }
   },
   "2027-01-18_2130_D1-005": {
@@ -3520,6 +3536,17 @@
       "id": "wWCQ0CzqS8U",
       "privacy": "scheduled",
       "publish_at": "2026-11-17T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-11_systems-of-equations": {
+    "youtube": {
+      "at": "2026-11-18T22:02:16+00:00",
+      "captions": "off",
+      "id": "dI3G2SzeOWM",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-19T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
