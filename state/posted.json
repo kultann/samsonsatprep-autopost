@@ -3162,6 +3162,18 @@
       "skipped": "daily feed cap"
     }
   },
+  "2026-11-21_1500_T3-012": {
+    "instagram": {
+      "at": "2026-11-21T22:02:32+00:00",
+      "id": "18108527258340832"
+    }
+  },
+  "2026-11-21_points": {
+    "instagram": {
+      "on": "2026-11-21T22:00:42+00:00",
+      "skipped": "daily feed cap"
+    }
+  },
   "2026-11-25_1930_M5-010": {
     "facebook": {
       "at": "2026-11-09T13:46:48+00:00",
@@ -3579,7 +3591,9 @@
       "id": "1106482728420916",
       "post": "2026-10-25_1700_M3-007"
     },
-    "tries": {}
+    "tries": {
+      "2026-11-21_1500_T3-012": 1
+    }
   },
   "_longform_test": {
     "at": "2026-10-13T19:09:05+00:00",
@@ -3663,6 +3677,17 @@
       "id": "PXe3KHPGwDk",
       "privacy": "scheduled",
       "publish_at": "2026-11-12T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-07_10-hard-rw-dec5": {
+    "youtube": {
+      "at": "2026-11-21T22:02:54+00:00",
+      "captions": "off",
+      "id": "DvsC3VZQ2sg",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-22T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
