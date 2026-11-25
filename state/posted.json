@@ -3231,6 +3231,16 @@
       "id": "18118680632018249"
     }
   },
+  "2026-11-22_0930_M1-003": {
+    "facebook": {
+      "at": "2026-11-25T22:03:00+00:00",
+      "id": "1769164790840258"
+    },
+    "instagram": {
+      "at": "2026-11-25T22:02:24+00:00",
+      "id": "17901979929398005"
+    }
+  },
   "2026-11-22_1200_g227": {
     "instagram": {
       "on": "2026-11-22T18:00:35+00:00",
@@ -3931,6 +3941,17 @@
       "id": "U9rendFmkIc",
       "privacy": "scheduled",
       "publish_at": "2026-11-24T16:00:00-06:00",
+      "status": "private",
+      "thumbnail": true
+    }
+  },
+  "long-13_linear-functions-word-problems": {
+    "youtube": {
+      "at": "2026-11-25T22:03:11+00:00",
+      "captions": "off",
+      "id": "IO43of2BIZ0",
+      "privacy": "scheduled",
+      "publish_at": "2026-11-26T16:00:00-06:00",
       "status": "private",
       "thumbnail": true
     }
