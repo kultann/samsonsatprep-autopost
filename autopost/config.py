@@ -14,10 +14,11 @@ IG_GRAPH = f"https://graph.instagram.com/{IG_API_VERSION}"
 # Trending audio on Reels (Samson, 2026-11-27). Meta's Audio API only works through Facebook Login,
 # so Reels are published via graph.facebook.com with a non-expiring Page token (secret IG_FB_TOKEN)
 # and a licensed track from GET /ig_audio laid under the video. If anything about the audio path fails,
-# the reel still goes out the old way (Instagram Login, no added audio). Repo variable IG_AUDIO=0 turns it off.
+# the reel still goes out the old way (Instagram Login, no added audio). OFF by default: Samson (Nov 27) wants
+# added audio on photo/carousel posts only, never on reels (reels already have the voiceover). IG_AUDIO=1 turns it on.
 IG_FB_TOKEN = os.environ.get("IG_FB_TOKEN", "").strip()
 IG_FB_USER_ID = os.environ.get("IG_FB_USER_ID", "").strip() or "17841477166962654"  # @samsonsatprep
-IG_AUDIO = (os.environ.get("IG_AUDIO", "") or "1").strip().lower() in ("1", "true", "yes", "on")
+IG_AUDIO = (os.environ.get("IG_AUDIO", "") or "0").strip().lower() in ("1", "true", "yes", "on")
 IG_AUDIO_VOLUME = int(os.environ.get("IG_AUDIO_VOLUME", "") or 25)   # 0-100, music under the voice
 IG_VIDEO_VOLUME = int(os.environ.get("IG_VIDEO_VOLUME", "") or 100)  # 0-100, our voiceover
 
