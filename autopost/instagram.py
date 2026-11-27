@@ -106,6 +106,15 @@ def publish_reel(video_url, caption, cover_url=None, thumb_offset_ms=None, share
     return _post(f"{config.IG_USER_ID}/media_publish", creation_id=container)["id"]
 
 
+def comment(media_id, message):
+    """Comment on one of our own posts as the account. Needs the instagram_business_manage_comments
+    permission on the token. Returns the comment id."""
+    if config.DRY_RUN:
+        print(f"[dry-run] IG would comment on {media_id}: {message}")
+        return "dry-run"
+    return _post(f"{media_id}/comments", message=message)["id"]
+
+
 def refresh_token():
     """Exchange the current long-lived token (60 days) for a fresh one."""
     r = requests.get(

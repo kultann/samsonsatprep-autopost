@@ -358,6 +358,44 @@ def notify_music(p, media_id):
         print(f"WARN music reminder for {p['id']} failed: {e}")
 
 
+FIRST_COMMENTS = [
+    "What did you get? Drop your answer below 👇",
+    "Which choice did you pick first? Be honest 👇",
+    "Did you fall for the trap? Comment your answer 👇",
+    "Got it in under 30 seconds? Comment your answer 👇",
+    "What would you have picked? Tell me below 👇",
+]
+FIRST_COMMENTS_TIP = [
+    "Did you know this one? Tell me below 👇",
+    "What SAT topic should I cover next? 👇",
+    "Save this for test day. What's your target score? 👇",
+]
+
+
+def first_comment_text(p):
+    """The post's own first_comment, else one of a few rotating questions (picked by post id, so it's stable)."""
+    if p.get("first_comment"):
+        return p["first_comment"]
+    text = " ".join(str(p.get(k) or "") for k in ("caption", "ig_caption")).lower()
+    pool = FIRST_COMMENTS if ("answer" in text or "?" in text) else FIRST_COMMENTS_TIP
+    return pool[sum(map(ord, p["id"])) % len(pool)]
+
+
+def first_comment(p, platform, media_id, rec):
+    """Comment once on a just-posted Reel. Saves the result in rec; never raises."""
+    if not config.FIRST_COMMENT or p["type"] != "short" or not media_id or media_id == "dry-run":
+        return
+    try:
+        msg = first_comment_text(p)
+        cid = (instagram.comment if platform == "instagram" else facebook.comment)(media_id, msg)
+        rec["first_comment"] = cid
+        print(f"COMMENTED {p['id']} -> {platform}: {msg}")
+    except Exception as e:     # a missing comment must never fail a run
+        err = facebook._scrub(e) if platform == "facebook" else str(e)
+        rec["first_comment_error"] = err[:300]
+        print(f"WARN first comment {p['id']} -> {platform} failed: {err}")
+
+
 FB_KEY = "_facebook"   # state: {"since": when FB_PAGE=1 began, "test": {post, id, at}, "tries": {post id: failures}}
 FB_ON = ("1", "true", "yes", "on")
 
@@ -438,6 +476,7 @@ def facebook_pass(posts, state, now):
                 vid = facebook.publish_reel(path, ig_caption(p))
             at = posted_time(now).isoformat(timespec="seconds")
             state[p["id"]]["facebook"] = {"id": vid, "at": at}
+            first_comment(p, "facebook", vid, state[p["id"]]["facebook"])
             tries.pop(p["id"], None)
             done += 1
             print(f"POSTED {p['id']} -> facebook ({vid}) {facebook.reel_url(vid)}")
@@ -549,6 +588,8 @@ def run(now=None):
                     last_ig = now  # one Instagram post per run; the gap is measured from here
                 if ig_feed:
                     notify_music(p, media_id)
+                if platform == "instagram":
+                    first_comment(p, "instagram", media_id, state[p["id"]][platform])
             except Exception as e:  # keep going with the other posts
                 print(f"FAILED {p['id']} -> {platform}: {e}")
                 reason = next((needle for plat, needle, _ in cooldown_rules()

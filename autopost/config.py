@@ -86,6 +86,11 @@ FB_RUPLOAD = f"https://rupload.facebook.com/video-upload/{FB_API_VERSION}"
 FB_MAX_PER_RUN = int(os.environ.get("FB_MAX_PER_RUN", "") or 2)   # Meta allows 30 API-published Reels per 24 h
 FB_MAX_TRIES = int(os.environ.get("FB_MAX_TRIES", "") or 6)       # then give up on that reel and say so
 
+# First comment: right after a Reel goes live on Instagram / the Facebook Page, the account comments
+# a question on it (autopost/runner.py first_comment). Repo variable FIRST_COMMENT=0 turns it off.
+# The APIs can't pin comments: pin by hand in the app if you want it on top.
+FIRST_COMMENT = (os.environ.get("FIRST_COMMENT", "") or "1").strip().lower() in ("1", "true", "yes", "on")
+
 # Behaviour
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 POSTS_DIR = os.environ.get("POSTS_DIR", "posts")

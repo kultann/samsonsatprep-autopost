@@ -129,3 +129,12 @@ def publish_reel(path, caption, wait_s=300):
         time.sleep(10)
     print(f"WARN facebook video {vid}: still processing after {wait_s}s (published request accepted)")
     return vid
+
+
+def comment(object_id, message):
+    """Comment on one of the Page's own reels as the Page (needs pages_manage_engagement). Returns the id."""
+    if config.DRY_RUN:
+        print(f"[dry-run] FB would comment on {object_id}: {message}")
+        return "dry-run"
+    return _call("POST", f"{config.FB_GRAPH}/{object_id}/comments", data={"message": message},
+                 headers=_headers()).get("id")
