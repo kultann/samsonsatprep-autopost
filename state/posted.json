@@ -3613,6 +3613,18 @@
       "id": "18093168356245071"
     }
   },
+  "2027-01-23_1930_M3-020": {
+    "facebook": {
+      "at": "2026-11-27T13:46:45+00:00",
+      "first_comment_error": "POST https://graph.facebook.com/v26.0/1128493316633177/comments -> 403: {'error': {'message': '(#200) The permission(s) pages_read_user_content,pages_manage_engagement are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'co",
+      "id": "1128493316633177"
+    },
+    "instagram": {
+      "at": "2026-11-27T13:46:10+00:00",
+      "first_comment": "18095289536232790",
+      "id": "18141940435633807"
+    }
+  },
   "2027-01-25_1930_R2-022": {
     "facebook": {
       "at": "2026-11-17T22:02:12+00:00",
