@@ -10,6 +10,8 @@ Images must be JPEGs at a public HTTPS URL. Reels need the MP4 at a public HTTPS
 URL too (Instagram Login apps can't use resumable upload), so shorts are served
 from GitHub Pages like the slides.
 """
+import hashlib
+import json
 import time
 import requests
 
@@ -86,11 +88,45 @@ def publish(image_urls, caption):
     return _post(f"{uid}/media_publish", creation_id=container)["id"]
 
 
-def publish_reel(video_url, caption, cover_url=None, thumb_offset_ms=None, share_to_feed=True):
-    """Publish a Reel from a public MP4 URL. Returns the new media id."""
-    if config.DRY_RUN:
-        print(f"[dry-run] IG would publish reel {video_url}")
-        return "dry-run"
+def _fb(method, path, **params):
+    """Instagram Graph call through Facebook Login (needed for the Audio API)."""
+    params["access_token"] = config.IG_FB_TOKEN
+    url = f"{config.FB_GRAPH}/{path}"
+    r = requests.post(url, data=params, timeout=60) if method == "POST" else requests.get(url, params=params, timeout=60)
+    data = r.json() if r.content else {}
+    if r.status_code >= 400 or "error" in data:
+        raise InstagramError(f"{method} fb:{path} failed: {data or r.text}")
+    return data
+
+
+def trending_audio():
+    """Licensed tracks Instagram currently suggests for this account (Sound Collection music)."""
+    data = _fb("GET", "ig_audio", ig_user_id=config.IG_FB_USER_ID, audio_type="music")
+    return data.get("audio", [])
+
+
+def pick_audio(seed, min_ms=20000):
+    """Pick one track, stable for a given post id so retries reuse the same sound."""
+    tracks = [t for t in trending_audio() if t.get("audio_id") and (t.get("duration_in_ms") or 0) >= min_ms]
+    if not tracks:
+        return None
+    tracks = tracks[:15]
+    i = int(hashlib.sha1(str(seed).encode()).hexdigest(), 16) % len(tracks)
+    return tracks[i]
+
+
+def _wait_ready_fb(container_id, tries=60, delay=10):
+    for _ in range(tries):
+        status = _fb("GET", container_id, fields="status_code").get("status_code")
+        if status == "FINISHED":
+            return
+        if status in ("ERROR", "EXPIRED"):
+            raise InstagramError(f"container {container_id} status {status}")
+        time.sleep(delay)
+    raise InstagramError(f"container {container_id} not ready after {tries * delay}s")
+
+
+def _reel_params(video_url, caption, cover_url, thumb_offset_ms, share_to_feed):
     params = {
         "media_type": "REELS",
         "video_url": video_url,
@@ -101,6 +137,48 @@ def publish_reel(video_url, caption, cover_url=None, thumb_offset_ms=None, share
         params["cover_url"] = cover_url
     elif thumb_offset_ms is not None:
         params["thumb_offset"] = str(int(thumb_offset_ms))
+    return params
+
+
+def publish_reel_with_audio(video_url, caption, seed, cover_url=None, thumb_offset_ms=None, share_to_feed=True):
+    """Publish through Facebook Login with a trending track under the video.
+    Returns (media id, track dict)."""
+    track = pick_audio(seed)
+    if not track:
+        raise InstagramError("no trending audio returned")
+    params = _reel_params(video_url, caption, cover_url, thumb_offset_ms, share_to_feed)
+    params["audio_configuration"] = json.dumps({
+        "audio_id": str(track["audio_id"]),
+        "audio_volume": config.IG_AUDIO_VOLUME,
+        "video_volume": config.IG_VIDEO_VOLUME,
+    })
+    uid = config.IG_FB_USER_ID
+    container = _fb("POST", f"{uid}/media", **params)["id"]
+    _wait_ready_fb(container)
+    return _fb("POST", f"{uid}/media_publish", creation_id=container)["id"], track
+
+
+def publish_reel(video_url, caption, cover_url=None, thumb_offset_ms=None, share_to_feed=True, seed=None, info=None):
+    """Publish a Reel from a public MP4 URL. Returns the new media id.
+    With IG_FB_TOKEN set, a trending licensed track is added (see config.IG_AUDIO); on any error there
+    it falls back to the plain Instagram Login upload. `info` (a dict) gets audio details written into it."""
+    if config.DRY_RUN:
+        print(f"[dry-run] IG would publish reel {video_url}")
+        return "dry-run"
+    if config.IG_AUDIO and config.IG_FB_TOKEN:
+        try:
+            mid, track = publish_reel_with_audio(video_url, caption, seed or video_url, cover_url,
+                                                 thumb_offset_ms, share_to_feed)
+            print(f"IG audio: {track.get('title')} - {track.get('display_artist')} ({track['audio_id']})")
+            if info is not None:
+                info["audio"] = {"id": str(track["audio_id"]), "title": track.get("title"),
+                                 "artist": track.get("display_artist")}
+            return mid
+        except (InstagramError, requests.RequestException, ValueError, KeyError) as e:
+            print(f"IG audio path failed, posting without added audio: {e}")
+            if info is not None:
+                info["audio_error"] = str(e)[:300]
+    params = _reel_params(video_url, caption, cover_url, thumb_offset_ms, share_to_feed)
     container = _post(f"{config.IG_USER_ID}/media", **params)["id"]
     _wait_ready(container, tries=60, delay=10)  # video processing can take a few minutes
     return _post(f"{config.IG_USER_ID}/media_publish", creation_id=container)["id"]

@@ -314,7 +314,7 @@ def post_one(p, platform, tok):
             cover = public_url(p, p["cover"]) if p.get("cover") else None
             return instagram.publish_reel(url, ig_caption(p), cover_url=cover,
                                           thumb_offset_ms=p.get("cover_time_ms"),
-                                          share_to_feed=p.get("share_to_feed", True))
+                                          share_to_feed=p.get("share_to_feed", True), seed=p["id"])
         return instagram.publish(public_urls(p), ig_caption(p))
     if platform == "tiktok":
         if short:
