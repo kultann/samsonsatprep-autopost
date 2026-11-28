@@ -3757,6 +3757,18 @@
       "id": "18118436813583916"
     }
   },
+  "2027-02-20_2130_M5-040": {
+    "facebook": {
+      "at": "2026-11-28T01:32:59+00:00",
+      "first_comment_error": "POST https://graph.facebook.com/v26.0/994833719902186/comments -> 403: {'error': {'message': '(#200) The permission(s) pages_read_user_content,pages_manage_engagement are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'cod",
+      "id": "994833719902186"
+    },
+    "instagram": {
+      "at": "2026-11-28T01:32:15+00:00",
+      "first_comment": "18092137463284909",
+      "id": "18361414489270877"
+    }
+  },
   "2027-03-02_0730_N06-030": {
     "facebook": {
       "at": "2026-11-16T13:47:03+00:00",
